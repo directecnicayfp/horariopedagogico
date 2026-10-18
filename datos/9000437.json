@@ -178,8 +178,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "FISICA - QUIMICA TIT. CARRIZO MARTA",
+          "materia": "FISICA - QUIMICA",
           "docentes": [
+           "TIT. CARRIZO MARTA",
            "CORONEL, JESUS ALFREDO (SUP)"
           ],
           "plazas": [
