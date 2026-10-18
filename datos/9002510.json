@@ -1,0 +1,585 @@
+{
+ "id": "9002510",
+ "escuela": "ESCUELA AGROTÉCNICA TRANCAS",
+ "cue": "9002510",
+ "pin": "1234",
+ "cursos": [
+  {
+   "hoja": "1°AÑO",
+   "curso": "1º AÑO",
+   "division": "",
+   "ciclo": "2025",
+   "resolucion": "Nº 106/5 Med",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "13:20 A 14:00 hs",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "GEOGRAFIA",
+          "docentes": [
+           "STEFANIA NAIR GARCIA"
+          ],
+          "plazas": [
+           "N° 395475"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "14:00 A 14:40 hs",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "DIBUJO TECNICO",
+          "docentes": [
+           "LUCIANA ROLDAN"
+          ],
+          "plazas": [
+           "N° 395474"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "FISICO QUIMICA",
+          "docentes": [
+           "LUCAS VISUARA"
+          ],
+          "plazas": [
+           "N° 395473"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "GEOGRAFIA",
+          "docentes": [
+           "STEFANIA NAIR GARCIA"
+          ],
+          "plazas": [
+           "N° 395475"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "NANCY G. GONZALEZ"
+          ],
+          "plazas": [
+           "N° 395478"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "MERCEDE MAMANI"
+          ],
+          "plazas": [
+           "N° 395477"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "14:40 A 15:20 hs",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "DIBUJO TECNICO",
+          "docentes": [
+           "LUCIANA ROLDAN"
+          ],
+          "plazas": [
+           "N° 395474"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "FISICO QUIMICA",
+          "docentes": [
+           "LUCAS VISUARA"
+          ],
+          "plazas": [
+           "N° 395473"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMATICAS",
+          "docentes": [
+           "CARINA E. ARROYO"
+          ],
+          "plazas": [
+           "N° 395479"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "NANCY G. GONZALEZ"
+          ],
+          "plazas": [
+           "N° 395478"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "MERCEDE MAMANI"
+          ],
+          "plazas": [
+           "N° 395477"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "15:30 A 16:10 hs",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "NANCY G. GONZALEZ"
+          ],
+          "plazas": [
+           "N° 395478"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "FISICO QUIMICA",
+          "docentes": [
+           "LUCAS VISUARA"
+          ],
+          "plazas": [
+           "N° 395473"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMATICAS",
+          "docentes": [
+           "CARINA E. ARROYO"
+          ],
+          "plazas": [
+           "N° 395479"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "NANCY G. GONZALEZ"
+          ],
+          "plazas": [
+           "N° 395478"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "MERCEDE MAMANI"
+          ],
+          "plazas": [
+           "N° 395477"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "16:10 A 16:50 hs",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "NANCY G. GONZALEZ"
+          ],
+          "plazas": [
+           "N° 395478"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "BIOLOGIA",
+          "docentes": [
+           "LUCAS VISUARA"
+          ],
+          "plazas": [
+           "N° 395471"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMATICAS",
+          "docentes": [
+           "CARINA E. ARROYO"
+          ],
+          "plazas": [
+           "N° 395479"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "TECNOLOGIA",
+          "docentes": [
+           "MABEL HERRERA"
+          ],
+          "plazas": [
+           "N° 395470"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "SILVIA BRAVO"
+          ],
+          "plazas": [
+           "N° 395476"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "17:00 A 17:40 hs",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MATEMATICAS",
+          "docentes": [
+           "CARINA E. ARROYO"
+          ],
+          "plazas": [
+           "N° 395479"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "BIOLOGIA",
+          "docentes": [
+           "LUCAS VISUARA"
+          ],
+          "plazas": [
+           "N° 395471"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "DIBUJO TECNICO",
+          "docentes": [
+           "LUCIANA ROLDAN"
+          ],
+          "plazas": [
+           "N° 395474"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "TECNOLOGIA",
+          "docentes": [
+           "MABEL HERRERA"
+          ],
+          "plazas": [
+           "N° 395470"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "SILVIA BRAVO"
+          ],
+          "plazas": [
+           "N° 395476"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "17:40 A 18:20 hs",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MATEMATICAS",
+          "docentes": [
+           "CARINA E. ARROYO"
+          ],
+          "plazas": [
+           "N° 395479"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "BIOLOGIA",
+          "docentes": [
+           "LUCAS VISUARA"
+          ],
+          "plazas": [
+           "N° 395471"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "DIBUJO TECNICO",
+          "docentes": [
+           "LUCIANA ROLDAN"
+          ],
+          "plazas": [
+           "N° 395474"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "TECNOLOGIA",
+          "docentes": [
+           "MABEL HERRERA"
+          ],
+          "plazas": [
+           "N° 395470"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "SILVIA BRAVO"
+          ],
+          "plazas": [
+           "N° 395476"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "08:20 A 10:00 hs",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "HUERTA FAMILIAR",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "GRANJA FAMILIAR I",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "HUERTA FAMILIAR",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "TALLER INFORMATICA I",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "TALLER RURAL",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "GRANJA FAMILIAR I",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "TALLER RURAL",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "TALLER INFORMATICA I",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "10:20 A 12:20 hs",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "RICARDO MORAN",
+          "docentes": [
+           "MATERIA"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "HERNAN SOSA",
+          "docentes": [
+           "MATERIA"
+          ],
+          "plazas": []
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "RICARDO MORAN",
+          "docentes": [
+           "MATERIA"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "GUSTAVO DURANDO",
+          "docentes": [
+           "MATERIA"
+          ],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LUIS ARREGUEZ",
+          "docentes": [
+           "MATERIA"
+          ],
+          "plazas": [
+           "N°395480"
+          ]
+         },
+         {
+          "materia": "HERNAN SOSA",
+          "docentes": [
+           "MATERIA"
+          ],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LUIS ARREGUEZ",
+          "docentes": [
+           "MATERIA"
+          ],
+          "plazas": [
+           "N°395480"
+          ]
+         },
+         {
+          "materia": "GUSTAVO DURANDO",
+          "docentes": [
+           "MATERIA"
+          ],
+          "plazas": []
+         }
+        ],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "10:20 A 12:20 hs",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "EDUCACION FISICA",
+          "docentes": [
+           "LEONARDO TOLEDO"
+          ],
+          "plazas": [
+           "N°395472"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,7918 @@
+{
+ "id": "9001774",
+ "escuela": "ESCUELA TÉCNICA Nº 4 JUAN XXIII",
+ "cue": "9001774",
+ "pin": "1234",
+ "cursos": [
+  {
+   "hoja": "1°AÑO 1° DIVISIÓN",
+   "curso": "1°",
+   "division": "1°",
+   "ciclo": "BÁSICO",
+   "resolucion": "467/5 (MEd)",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "7.30 8.10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "COSTILLA, HÉCTOR E."
+          ],
+          "plazas": [
+           "N°133834"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "FÍSICO QUÍMICA",
+          "docentes": [
+           "AGÜERO, CÉSAR R."
+          ],
+          "plazas": [
+           "N°141337"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "ROVARINI, MARÍA L."
+          ],
+          "plazas": [
+           "N°139683"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DE HARO, EVA C."
+          ],
+          "plazas": [
+           "N°176766"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "CAMUÑA, SILVIA"
+          ],
+          "plazas": [
+           "N°179868"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "8.10 8.50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "COSTILLA, HÉCTOR E."
+          ],
+          "plazas": [
+           "N°133834"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "FÍSICO QUÍMICA",
+          "docentes": [
+           "AGÜERO, CÉSAR R."
+          ],
+          "plazas": [
+           "N°141337"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "ROVARINI, MARÍA L."
+          ],
+          "plazas": [
+           "N°139683"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DE HARO, EVA C."
+          ],
+          "plazas": [
+           "N°176766"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "CAMUÑA, SILVIA"
+          ],
+          "plazas": [
+           "N°179868"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "9.00 9.40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DE HARO, EVA C."
+          ],
+          "plazas": [
+           "N°176766"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "ARRABAL, CECILIA C."
+          ],
+          "plazas": [
+           "N°208398"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "ROMANO, MARÍA E."
+          ],
+          "plazas": [
+           "N°208399"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "ARRABAL, CECILIA C."
+          ],
+          "plazas": [
+           "N°208398"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "DIBUTO TÉCNICO",
+          "docentes": [
+           "AGÜERO, CÉSAR R."
+          ],
+          "plazas": [
+           "N°176754"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "9.40 10.20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DE HARO, EVA C."
+          ],
+          "plazas": [
+           "N°176766"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "ARRABAL, CECILIA C."
+          ],
+          "plazas": [
+           "N°208398"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "CAMUÑA, SILVIA"
+          ],
+          "plazas": [
+           "N°179868"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "ROVARINI, MARÍA L."
+          ],
+          "plazas": [
+           "N°176888"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "DIBUTO TÉCNICO",
+          "docentes": [
+           "AGÜERO, CÉSAR R."
+          ],
+          "plazas": [
+           "N°230795"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "10.30 11.10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "DIBUTO TÉCNICO",
+          "docentes": [
+           "AGÜERO, CÉSAR R."
+          ],
+          "plazas": [
+           "N°176754"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DE HARO, EVA C."
+          ],
+          "plazas": [
+           "N°176766"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "CAMUÑA, SILVIA"
+          ],
+          "plazas": [
+           "N°179868"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "ROMANO, MARÍA E."
+          ],
+          "plazas": [
+           "N°208399"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "FÍSICO QUÍMICA",
+          "docentes": [
+           "AGÜERO, CÉSAR R."
+          ],
+          "plazas": [
+           "N°230791"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11.10 11.50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "DIBUTO TÉCNICO",
+          "docentes": [
+           "AGÜERO, CÉSAR R."
+          ],
+          "plazas": [
+           "N°176754"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "TECNOLOGÍA",
+          "docentes": [
+           "CUEVAS, GUSTAVO D. S."
+          ],
+          "plazas": [
+           "N°125167"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "CAMUÑA, SILVIA"
+          ],
+          "plazas": [
+           "N°179868"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "ROMANO, MARÍA E."
+          ],
+          "plazas": [
+           "N°208399"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "TECNOLOGÍA",
+          "docentes": [
+           "CUEVAS, GUSTAVO D. S."
+          ],
+          "plazas": [
+           "N°125167"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11.50 12.30",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "TECNOLOGÍA",
+          "docentes": [
+           "CUEVAS, GUSTAVO D. S."
+          ],
+          "plazas": [
+           "N°125167"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "14.00 14.40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "AJUSTE",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HOJALATERÍA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "AJUSTE",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HOJALATERÍA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "14.40 15.20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "15.20 16.00",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MEZÓN, MARCO A.",
+          "docentes": [],
+          "plazas": [
+           "N°176851"
+          ]
+         },
+         {
+          "materia": "COLLANTE, EVANGELINA G.",
+          "docentes": [],
+          "plazas": [
+           "N°215791"
+          ]
+         },
+         {
+          "materia": "CAMPOS, RODRIGO S.",
+          "docentes": [],
+          "plazas": [
+           "N°154667"
+          ]
+         },
+         {
+          "materia": "ARREGUEZ, LUIS A.",
+          "docentes": [],
+          "plazas": [
+           "N°209165"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MEZÓN, MARCO A.",
+          "docentes": [],
+          "plazas": [
+           "N°176851"
+          ]
+         },
+         {
+          "materia": "COLLANTE, EVANGELINA G.",
+          "docentes": [],
+          "plazas": [
+           "N°215791"
+          ]
+         },
+         {
+          "materia": "CAMPOS, RODRIGO S.",
+          "docentes": [],
+          "plazas": [
+           "N°154667"
+          ]
+         },
+         {
+          "materia": "ARREGUEZ, LUIS A.",
+          "docentes": [],
+          "plazas": [
+           "N°209165"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "16.20 17.00",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "AJUSTE",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HOJALATERÍA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "AJUSTE",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HOJALATERÍA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17.00 17.40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17.40 18.20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MEZÓN, MARCO A.",
+          "docentes": [],
+          "plazas": [
+           "N°176851"
+          ]
+         },
+         {
+          "materia": "COLLANTE, EVANGELINA G.",
+          "docentes": [],
+          "plazas": [
+           "N°215791"
+          ]
+         },
+         {
+          "materia": "CAMPOS, RODRIGO S.",
+          "docentes": [],
+          "plazas": [
+           "N°154667"
+          ]
+         },
+         {
+          "materia": "ARREGUEZ, LUIS A.",
+          "docentes": [],
+          "plazas": [
+           "N°209165"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MEZÓN, MARCO A.",
+          "docentes": [],
+          "plazas": [
+           "N°176851"
+          ]
+         },
+         {
+          "materia": "COLLANTE, EVANGELINA G.",
+          "docentes": [],
+          "plazas": [
+           "N°215791"
+          ]
+         },
+         {
+          "materia": "CAMPOS, RODRIGO S.",
+          "docentes": [],
+          "plazas": [
+           "N°154667"
+          ]
+         },
+         {
+          "materia": "ARREGUEZ, LUIS A.",
+          "docentes": [],
+          "plazas": [
+           "N°209165"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "16.10 16.50",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "ANDRADA, LUIS F."
+          ],
+          "plazas": [
+           "N°176857"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17.00 17.40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "ANDRADA, LUIS F."
+          ],
+          "plazas": [
+           "N°272938"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17.40 18.20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "ANDRADA, LUIS F."
+          ],
+          "plazas": [
+           "N°272938"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "1°AÑO 2° DIVISIÓN",
+   "curso": "1°",
+   "division": "2°",
+   "ciclo": "BÁSICO",
+   "resolucion": "467/5 (MEd)",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "7.30 8.10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "YANICELLI, SARA L."
+          ],
+          "plazas": [
+           "N°215715"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "YANICELLI, SARA L."
+          ],
+          "plazas": [
+           "N°215715"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "MIGUELES, ALEJANDRO L."
+          ],
+          "plazas": [
+           "N°215718"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "MIGUELES, ALEJANDRO L."
+          ],
+          "plazas": [
+           "N°215718"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "SORIA, CARLOS M."
+          ],
+          "plazas": [
+           "N°215733"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "8.10 8.50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "YANICELLI, SARA L."
+          ],
+          "plazas": [
+           "N°215715"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "YANICELLI, SARA L."
+          ],
+          "plazas": [
+           "N°215715"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "QUIROGA, ELIANA A."
+          ],
+          "plazas": [
+           "N°215724"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "MIGUELES, ALEJANDRO L."
+          ],
+          "plazas": [
+           "N°215718"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "SORIA, CARLOS M."
+          ],
+          "plazas": [
+           "N°215733"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "9.00 9.40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "YANICELLI, SARA L."
+          ],
+          "plazas": [
+           "N°215715"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "ALDERETE, PAMELA"
+          ],
+          "plazas": [
+           "N°215736"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "FÍSICO QUÍMICA",
+          "docentes": [
+           "ROMANO, OLGA E."
+          ],
+          "plazas": [
+           "N°215730"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "ROMANO, OLGA E."
+          ],
+          "plazas": [
+           "N°215727"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "ALDERETE, PAMELA"
+          ],
+          "plazas": [
+           "N°215736"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "9.40 10.20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "SORIA, CARLOS M."
+          ],
+          "plazas": [
+           "N°215733"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "ALDERETE, PAMELA"
+          ],
+          "plazas": [
+           "N°215736"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "FÍSICO QUÍMICA",
+          "docentes": [
+           "ROMANO, OLGA E."
+          ],
+          "plazas": [
+           "N°215730"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "ROMANO, OLGA E."
+          ],
+          "plazas": [
+           "N°215727"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "ALDERETE, PAMELA"
+          ],
+          "plazas": [
+           "N°215736"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "10.30 11.10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "SORIA, CARLOS M."
+          ],
+          "plazas": [
+           "N°215733"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "ALDERETE, PAMELA"
+          ],
+          "plazas": [
+           "N°215736"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "JUÁREZ, JORGE A."
+          ],
+          "plazas": [
+           "N°215721"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "QUIROGA, ELIANA A."
+          ],
+          "plazas": [
+           "N°215724"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "FÍSICO QUÍMICA",
+          "docentes": [
+           "ROMANO, OLGA E."
+          ],
+          "plazas": [
+           "N°215730"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11.10 11.50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "TECNOLOGÍA",
+          "docentes": [
+           "MARTÍNEZ, HÉCTOR R."
+          ],
+          "plazas": [
+           "N°125168"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "TECNOLOGÍA",
+          "docentes": [
+           "MARTÍNEZ, HÉCTOR R."
+          ],
+          "plazas": [
+           "N°125168"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "JUÁREZ, JORGE A."
+          ],
+          "plazas": [
+           "N°215721"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "QUIROGA, ELIANA A."
+          ],
+          "plazas": [
+           "N°215724"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "ROMANO, OLGA E."
+          ],
+          "plazas": [
+           "N°215727"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11.50 12.30",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "TECNOLOGÍA",
+          "docentes": [
+           "MARTÍNEZ, HÉCTOR R."
+          ],
+          "plazas": [
+           "N°125168"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "14.00 14.40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "AJUSTE",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HOJALATERÍA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "AJUSTE",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HOJALATERÍA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "14.40 15.20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "15.20 16.00",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MEZÓN, MARCO A.",
+          "docentes": [],
+          "plazas": [
+           "N°176851"
+          ]
+         },
+         {
+          "materia": "COLLANTE, EVANGELINA G.",
+          "docentes": [],
+          "plazas": [
+           "N°215791"
+          ]
+         },
+         {
+          "materia": "CAMPOS, RODRIGO S.",
+          "docentes": [],
+          "plazas": [
+           "N°154667"
+          ]
+         },
+         {
+          "materia": "ARREGUEZ, LUIS A.",
+          "docentes": [],
+          "plazas": [
+           "N°209165"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MEZÓN, MARCO A.",
+          "docentes": [],
+          "plazas": [
+           "N°176851"
+          ]
+         },
+         {
+          "materia": "COLLANTE, EVANGELINA G.",
+          "docentes": [],
+          "plazas": [
+           "N°215791"
+          ]
+         },
+         {
+          "materia": "CAMPOS, RODRIGO S.",
+          "docentes": [],
+          "plazas": [
+           "N°154667"
+          ]
+         },
+         {
+          "materia": "ARREGUEZ, LUIS A.",
+          "docentes": [],
+          "plazas": [
+           "N°209165"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "16.20 17.00",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "AJUSTE",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HOJALATERÍA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "AJUSTE",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HOJALATERÍA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17.00 17.40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17.40 18.20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MEZÓN, MARCO A.",
+          "docentes": [],
+          "plazas": [
+           "N°176851"
+          ]
+         },
+         {
+          "materia": "COLLANTE, EVANGELINA G.",
+          "docentes": [],
+          "plazas": [
+           "N°215791"
+          ]
+         },
+         {
+          "materia": "CAMPOS, RODRIGO S.",
+          "docentes": [],
+          "plazas": [
+           "N°154667"
+          ]
+         },
+         {
+          "materia": "ARREGUEZ, LUIS A.",
+          "docentes": [],
+          "plazas": [
+           "N°209165"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MEZÓN, MARCO A.",
+          "docentes": [],
+          "plazas": [
+           "N°176851"
+          ]
+         },
+         {
+          "materia": "COLLANTE, EVANGELINA G.",
+          "docentes": [],
+          "plazas": [
+           "N°215791"
+          ]
+         },
+         {
+          "materia": "CAMPOS, RODRIGO S.",
+          "docentes": [],
+          "plazas": [
+           "N°154667"
+          ]
+         },
+         {
+          "materia": "ARREGUEZ, LUIS A.",
+          "docentes": [],
+          "plazas": [
+           "N°209165"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "14.00 14.40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "ARGÜELLO, MARÍA B."
+          ],
+          "plazas": [
+           "N°215738"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "14.40 15.20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "ARGÜELLO, MARÍA B."
+          ],
+          "plazas": [
+           "N°215738"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "15.30 16.10",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "ARGÜELLO, MARÍA B."
+          ],
+          "plazas": [
+           "N°215738"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "1°AÑO 3° DIVISIÓN",
+   "curso": "1°",
+   "division": "3°",
+   "ciclo": "BÁSICO",
+   "resolucion": "467/5 (MEd)",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "14.00 14.40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "SARAVIA HERRERA, H. D."
+          ],
+          "plazas": [
+           "N°215734"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DIVARVARO QUIROGA, N."
+          ],
+          "plazas": [
+           "N°216101"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DIVARVARO QUIROGA, N."
+          ],
+          "plazas": [
+           "N°216102"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FÍSICO QUÍMICA",
+          "docentes": [
+           "ROMANO, OLGA E."
+          ],
+          "plazas": [
+           "N°215731"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "TECNOLOGÍA",
+          "docentes": [
+           "SIGONA, JUAN P."
+          ],
+          "plazas": [
+           "N°215787"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "14.40 15.20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "SARAVIA HERRERA, H. D."
+          ],
+          "plazas": [
+           "N°215734"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DIVARVARO QUIROGA, N."
+          ],
+          "plazas": [
+           "N°216101"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DIVARVARO QUIROGA, N."
+          ],
+          "plazas": [
+           "N°216102"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FÍSICO QUÍMICA",
+          "docentes": [
+           "ROMANO, OLGA E."
+          ],
+          "plazas": [
+           "N°215731"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "TECNOLOGÍA",
+          "docentes": [
+           "SIGONA, JUAN P."
+          ],
+          "plazas": [
+           "N°215787"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "15.30 16.10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "SARAVIA HERRERA, H. D."
+          ],
+          "plazas": [
+           "N°215734"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DIVARVARO QUIROGA, N."
+          ],
+          "plazas": [
+           "N°216101"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "MORENO, VALERIA C."
+          ],
+          "plazas": [
+           "N°215717"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FÍSICO QUÍMICA",
+          "docentes": [
+           "ROMANO, OLGA E."
+          ],
+          "plazas": [
+           "N°215731"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "SARAVIA HERRERA, H. D."
+          ],
+          "plazas": [
+           "N°208437"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "16.10 16.50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "DE MINGO, SEBASTIÁN"
+          ],
+          "plazas": [
+           "N°215719"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "MORENO, VALERIA C."
+          ],
+          "plazas": [
+           "N°215717"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "MORENO, VALERIA C."
+          ],
+          "plazas": [
+           "N°215717"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "ROMANO, OLGA E."
+          ],
+          "plazas": [
+           "N°272945"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "CAJAL, GABRIELA S."
+          ],
+          "plazas": [
+           "N°215734"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "17.00 17.40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "DE MINGO, SEBASTIÁN"
+          ],
+          "plazas": [
+           "N°215719"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "MORENO, VALERIA C."
+          ],
+          "plazas": [
+           "N°215717"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "COSTILLA, HÉCTOR E."
+          ],
+          "plazas": [
+           "N°215722"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "ROMANO, OLGA E."
+          ],
+          "plazas": [
+           "N°275728"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "CAJAL, GABRIELA S."
+          ],
+          "plazas": [
+           "N°208437"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "17.40 18.20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "DE MINGO, SEBASTIÁN"
+          ],
+          "plazas": [
+           "N°215719"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "MORENO, VALERIA C."
+          ],
+          "plazas": [
+           "N°215717"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "COSTILLA, HÉCTOR E."
+          ],
+          "plazas": [
+           "N°215722"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "ROMANO, OLGA E."
+          ],
+          "plazas": [
+           "N°275728"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "CAJAL, GABRIELA S."
+          ],
+          "plazas": [
+           "N°208437"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "18.20 19.00",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "TECNOLOGÍA",
+          "docentes": [
+           "SIGONA, JUAN P."
+          ],
+          "plazas": [
+           "N°215787"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "14.00 14.40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "AJUSTE",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HOJALATERÍA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "AJUSTE",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HOJALATERÍA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "AJUSTE",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HOJALATERÍA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "AJUSTE",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HOJALATERÍA",
+          "docentes": [],
+          "plazas": []
+         }
+        ]
+       }
+      },
+      {
+       "hora": "14.40 15.20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "15.20 16.00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "16.20 17.00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "AJUSTE",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HOJALATERÍA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "AJUSTE",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HOJALATERÍA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "AJUSTE",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HOJALATERÍA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "AJUSTE",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HOJALATERÍA",
+          "docentes": [],
+          "plazas": []
+         }
+        ]
+       }
+      },
+      {
+       "hora": "17.00 17.40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17.40 18.20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°215790"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "7.30 8.10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "AMAYA, SERGIO E."
+          ],
+          "plazas": [
+           "N°215739"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "8.10 8.50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "AMAYA, SERGIO E."
+          ],
+          "plazas": [
+           "N°215739"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "9.00 9.40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "AMAYA, SERGIO E."
+          ],
+          "plazas": [
+           "N°215739"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "2°AÑO 1° DIVISIÓN",
+   "curso": "2°",
+   "division": "1°",
+   "ciclo": "BÁSICO",
+   "resolucion": "467/5 (MEd)",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "7.30 8.10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DE HARO, EVA C."
+          ],
+          "plazas": [
+           "N°176767"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "ARRABAL, CECILIA C."
+          ],
+          "plazas": [
+           "N°178099"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "ROMANO, OLGA E."
+          ],
+          "plazas": [
+           "N°215729"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "ROBLES, ANA M."
+          ],
+          "plazas": [
+           "N°208415"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "ROMANO, OLGA E."
+          ],
+          "plazas": [
+           "N°215729"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "8.10 8.50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DE HARO, EVA C."
+          ],
+          "plazas": [
+           "N°176767"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "ARRABAL, CECILIA C."
+          ],
+          "plazas": [
+           "N°178099"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "ROMANO, OLGA E."
+          ],
+          "plazas": [
+           "N°215729"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "ROBLES, ANA M."
+          ],
+          "plazas": [
+           "N°208415"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "ROMANO, OLGA E."
+          ],
+          "plazas": [
+           "N°235839"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "9.00 9.40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "AGÜERO, CÉSAR R."
+          ],
+          "plazas": [
+           "N°192429"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DE HARO, EVA C."
+          ],
+          "plazas": [
+           "N°176767"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "ROVARINI, MARÍA L."
+          ],
+          "plazas": [
+           "N°139684"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "ROVARINI, MARÍA L."
+          ],
+          "plazas": [
+           "N°139684"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "MORENO, VALERIA C."
+          ],
+          "plazas": [
+           "N°179869"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "9.40 10.20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "AGÜERO, CÉSAR R."
+          ],
+          "plazas": [
+           "N°192429"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DE HARO, EVA C."
+          ],
+          "plazas": [
+           "N°176767"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "ROVARINI, MARÍA L."
+          ],
+          "plazas": [
+           "N°139684"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DE HARO, EVA C."
+          ],
+          "plazas": [
+           "N°176767"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "MORENO, VALERIA C."
+          ],
+          "plazas": [
+           "N°179869"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "10.30 11.10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "EDUCACIÓN ÉTICA Y CIUDADANA",
+          "docentes": [
+           "MONTES, NOEMÍ DEL V."
+          ],
+          "plazas": [
+           "N°176759"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "MORENO, VALERIA C."
+          ],
+          "plazas": [
+           "N°179869"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "ROMANO, OLGA E."
+          ],
+          "plazas": [
+           "N°176854"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "AGÜERO, CÉSAR R."
+          ],
+          "plazas": [
+           "N°192429"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "MARTÍNEZ, CLARA A."
+          ],
+          "plazas": [
+           "N°214580"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11.10 11.50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "EDUCACIÓN ÉTICA Y CIUDADANA",
+          "docentes": [
+           "MONTES, NOEMÍ DEL V."
+          ],
+          "plazas": [
+           "N°176759"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "MORENO, VALERIA C."
+          ],
+          "plazas": [
+           "N°179869"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "ROMANO, OLGA E."
+          ],
+          "plazas": [
+           "N°176854"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "AGÜERO, CÉSAR R."
+          ],
+          "plazas": [
+           "N°230796"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "MARTÍNEZ, CLARA A."
+          ],
+          "plazas": [
+           "N°214580"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11.50 12.30",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "ARRABAL, CECILIA C."
+          ],
+          "plazas": [
+           "N°178099"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "MORENO, VALERIA C."
+          ],
+          "plazas": [
+           "N°179869"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "ROMANO, OLGA E."
+          ],
+          "plazas": [
+           "N°176854"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "14.00 14.40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HERRERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "INFORMÁTICA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HERRERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "INFORMÁTICA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "14.40 15.20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "15.20 16.00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "COLLANTE, EVANGELINA G.",
+          "docentes": [],
+          "plazas": [
+           "N°215791"
+          ]
+         },
+         {
+          "materia": "MEZÓN, MARCO A.",
+          "docentes": [],
+          "plazas": [
+           "N°176851"
+          ]
+         },
+         {
+          "materia": "ARREGUEZ, LUIS A.",
+          "docentes": [],
+          "plazas": [
+           "N°209165"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°142439"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "COLLANTE, EVANGELINA G.",
+          "docentes": [],
+          "plazas": [
+           "N°215791"
+          ]
+         },
+         {
+          "materia": "MEZÓN, MARCO A.",
+          "docentes": [],
+          "plazas": [
+           "N°176851"
+          ]
+         },
+         {
+          "materia": "ARREGUEZ, LUIS A.",
+          "docentes": [],
+          "plazas": [
+           "N°209165"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°142439"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "16.20 17.00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HERRERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "INFORMÁTICA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HERRERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "INFORMÁTICA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17.00 17.40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17.40 18.20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "COLLANTE, EVANGELINA G.",
+          "docentes": [],
+          "plazas": [
+           "N°215791"
+          ]
+         },
+         {
+          "materia": "MEZÓN, MARCO A.",
+          "docentes": [],
+          "plazas": [
+           "N°176851"
+          ]
+         },
+         {
+          "materia": "ARREGUEZ, LUIS A.",
+          "docentes": [],
+          "plazas": [
+           "N°209165"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°142439"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "COLLANTE, EVANGELINA G.",
+          "docentes": [],
+          "plazas": [
+           "N°215791"
+          ]
+         },
+         {
+          "materia": "MEZÓN, MARCO A.",
+          "docentes": [],
+          "plazas": [
+           "N°176851"
+          ]
+         },
+         {
+          "materia": "ARREGUEZ, LUIS A.",
+          "docentes": [],
+          "plazas": [
+           "N°209165"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°142439"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "14.00 14.40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "AMAYA, SERGIO E."
+          ],
+          "plazas": [
+           "N°176859"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "14.40 15.20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "AMAYA, SERGIO E."
+          ],
+          "plazas": [
+           "N°176859"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "15.30 16.10",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "AMAYA, SERGIO E."
+          ],
+          "plazas": [
+           "N°176859"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "2°AÑO 2° DIVISIÓN",
+   "curso": "2°",
+   "division": "2°",
+   "ciclo": "BÁSICO",
+   "resolucion": "467/5 (MEd)",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "7.30 8.10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "MIGUELES, ALEJANDRO L."
+          ],
+          "plazas": [
+           "N°221929"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "COSTILLA, HÉCTOR E."
+          ],
+          "plazas": [
+           "N°221930"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "YANICELLI, SARA L."
+          ],
+          "plazas": [
+           "N°221928"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "ROSSELL, ANDREA V."
+          ],
+          "plazas": [
+           "N°221931"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "GONZÁLEZ, SANDRA A."
+          ],
+          "plazas": [
+           "N°221935"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "8.10 8.50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "MIGUELES, ALEJANDRO L."
+          ],
+          "plazas": [
+           "N°221929"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "COSTILLA, HÉCTOR E."
+          ],
+          "plazas": [
+           "N°221930"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "YANICELLI, SARA L."
+          ],
+          "plazas": [
+           "N°221928"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "ROSSELL, ANDREA V."
+          ],
+          "plazas": [
+           "N°221931"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "GONZÁLEZ, SANDRA A."
+          ],
+          "plazas": [
+           "N°221935"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "9.00 9.40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "SÁNCHEZ, MONICA C."
+          ],
+          "plazas": [
+           "N°221934"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "YANICELLI, SARA L."
+          ],
+          "plazas": [
+           "N°221928"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "YANICELLI, SARA L."
+          ],
+          "plazas": [
+           "N°221928"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "MIGUELES, ALEJANDRO L."
+          ],
+          "plazas": [
+           "N°221929"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GUTIÉRREZ, ALBERTO M."
+          ],
+          "plazas": [
+           "N°221936"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "9.40 10.20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "SÁNCHEZ, MONICA C."
+          ],
+          "plazas": [
+           "N°221934"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "YANICELLI, SARA L."
+          ],
+          "plazas": [
+           "N°221928"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "ROSSELL, ANDREA V."
+          ],
+          "plazas": [
+           "N°221931"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "GONZÁLEZ, SANDRA A."
+          ],
+          "plazas": [
+           "N°221935"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GUTIÉRREZ, ALBERTO M."
+          ],
+          "plazas": [
+           "N°221936"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "10.30 11.10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "SÁNCHEZ, MONICA C."
+          ],
+          "plazas": [
+           "N°221934"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "SARAVIA HERRERA, DARIO"
+          ],
+          "plazas": [
+           "N°221938"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "EDUCACIÓN ÉTICA Y CIUDADANA",
+          "docentes": [
+           "ROSSELL, ANDREA V."
+          ],
+          "plazas": [
+           "N°221933"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "ODOVICH, OSVALDO R."
+          ],
+          "plazas": [
+           "N°221937"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "SÁNCHEZ, MONICA C."
+          ],
+          "plazas": [
+           "N°221934"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11.10 11.50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GUTIÉRREZ, ALBERTO M."
+          ],
+          "plazas": [
+           "N°221936"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "SARAVIA HERRERA, DARIO"
+          ],
+          "plazas": [
+           "N°221938"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "EDUCACIÓN ÉTICA Y CIUDADANA",
+          "docentes": [
+           "ROSSELL, ANDREA V."
+          ],
+          "plazas": [
+           "N°221933"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "ODOVICH, OSVALDO R."
+          ],
+          "plazas": [
+           "N°221937"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "SÁNCHEZ, MONICA C."
+          ],
+          "plazas": [
+           "N°221934"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11.50 12.30",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GUTIÉRREZ, ALBERTO M."
+          ],
+          "plazas": [
+           "N°221936"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "SARAVIA HERRERA, DARIO"
+          ],
+          "plazas": [
+           "N°221938"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "SARAVIA HERRERA, DARIO"
+          ],
+          "plazas": [
+           "N°221938"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "14.00 14.40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HERRERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "INFORMÁTICA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HERRERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "INFORMÁTICA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "14.40 15.20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "15.20 16.00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "COLLANTE, EVANGELINA G.",
+          "docentes": [],
+          "plazas": [
+           "N°215791"
+          ]
+         },
+         {
+          "materia": "MEZÓN, MARCO A.",
+          "docentes": [],
+          "plazas": [
+           "N°176851"
+          ]
+         },
+         {
+          "materia": "ARREGUEZ, LUIS A.",
+          "docentes": [],
+          "plazas": [
+           "N°209165"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°142439"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "COLLANTE, EVANGELINA G.",
+          "docentes": [],
+          "plazas": [
+           "N°215791"
+          ]
+         },
+         {
+          "materia": "MEZÓN, MARCO A.",
+          "docentes": [],
+          "plazas": [
+           "N°176851"
+          ]
+         },
+         {
+          "materia": "ARREGUEZ, LUIS A.",
+          "docentes": [],
+          "plazas": [
+           "N°209165"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°142439"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "16.20 17.00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HERRERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "INFORMÁTICA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HERRERÍA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "INFORMÁTICA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17.00 17.40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17.40 18.20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "COLLANTE, EVANGELINA G.",
+          "docentes": [],
+          "plazas": [
+           "N°215791"
+          ]
+         },
+         {
+          "materia": "MEZÓN, MARCO A.",
+          "docentes": [],
+          "plazas": [
+           "N°176851"
+          ]
+         },
+         {
+          "materia": "ARREGUEZ, LUIS A.",
+          "docentes": [],
+          "plazas": [
+           "N°209165"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°142439"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "COLLANTE, EVANGELINA G.",
+          "docentes": [],
+          "plazas": [
+           "N°215791"
+          ]
+         },
+         {
+          "materia": "MEZÓN, MARCO A.",
+          "docentes": [],
+          "plazas": [
+           "N°176851"
+          ]
+         },
+         {
+          "materia": "ARREGUEZ, LUIS A.",
+          "docentes": [],
+          "plazas": [
+           "N°209165"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°142439"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "16.10 16.50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "ANDRADA, LUIS F."
+          ],
+          "plazas": [
+           "N°221932"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17.00 17.40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "ANDRADA, LUIS F."
+          ],
+          "plazas": [
+           "N°221932"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17.40 18.20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "ANDRADA, LUIS F."
+          ],
+          "plazas": [
+           "N°221932"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "3° AÑO 1° DIVISIÓN",
+   "curso": "3°",
+   "division": "1°",
+   "ciclo": "BÁSICO",
+   "resolucion": "467/5 (MEd)",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "7.30 8.10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "ROVARINI, MARÍA L."
+          ],
+          "plazas": [
+           "N°139685"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DE HARO, EVA C."
+          ],
+          "plazas": [
+           "N°237740"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "SÁNCHEZ, MALVINA S."
+          ],
+          "plazas": [
+           "N°208420"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "ROVARINI, MARÍA L."
+          ],
+          "plazas": [
+           "N°139685"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GUTIÉRREZ, ALBERTO M."
+          ],
+          "plazas": [
+           "N°214581"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "8.10 8.50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "ROVARINI, MARÍA L."
+          ],
+          "plazas": [
+           "N°139685"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DE HARO, EVA C."
+          ],
+          "plazas": [
+           "N°237740"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "SÁNCHEZ, MALVINA S."
+          ],
+          "plazas": [
+           "N°208420"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "AGÜERO, CÉSAR R."
+          ],
+          "plazas": [
+           "N°176755"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GUTIÉRREZ, ALBERTO M."
+          ],
+          "plazas": [
+           "N°214581"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "9.00 9.40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "GONZÁLEZ, VANINA V."
+          ],
+          "plazas": [
+           "N°208419"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "MORENO, VALERIA C."
+          ],
+          "plazas": [
+           "N°230705"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "MARTÍNEZ, CLARA A."
+          ],
+          "plazas": [
+           "N°214582"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "AGÜERO, CÉSAR R."
+          ],
+          "plazas": [
+           "N°176755"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "MARTÍNEZ, CLARA A."
+          ],
+          "plazas": [
+           "N°214582"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "9.40 10.20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "GONZÁLEZ, VANINA V."
+          ],
+          "plazas": [
+           "N°208419"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "MORENO, VALERIA C."
+          ],
+          "plazas": [
+           "N°230705"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GUTIÉRREZ, ALBERTO M."
+          ],
+          "plazas": [
+           "N°214581"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "AGÜERO, CÉSAR R."
+          ],
+          "plazas": [
+           "N°176755"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "MARTÍNEZ, CLARA A."
+          ],
+          "plazas": [
+           "N°214582"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "10.30 11.10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DE HARO, EVA C."
+          ],
+          "plazas": [
+           "N°237740"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "EDUCACIÓN ÉTICA Y CIUDADANA",
+          "docentes": [
+           "MONTES, NOEMÍ DEL V."
+          ],
+          "plazas": [
+           "N°176760"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GUTIÉRREZ, ALBERTO M."
+          ],
+          "plazas": [
+           "N°214581"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "ROMANO, OLGA E."
+          ],
+          "plazas": [
+           "N°235838"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "MORENO, VALERIA C."
+          ],
+          "plazas": [
+           "N°230705"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11.10 11.50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DE HARO, EVA C."
+          ],
+          "plazas": [
+           "N°237740"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "EDUCACIÓN ÉTICA Y CIUDADANA",
+          "docentes": [
+           "MONTES, NOEMÍ DEL V."
+          ],
+          "plazas": [
+           "N°176760"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GUTIÉRREZ, ALBERTO M."
+          ],
+          "plazas": [
+           "N°214581"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "ROMANO, OLGA E."
+          ],
+          "plazas": [
+           "N°235838"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "MORENO, VALERIA C."
+          ],
+          "plazas": [
+           "N°230705"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11.50 12.30",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "GONZÁLEZ, VANINA V."
+          ],
+          "plazas": [
+           "N°211307"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "AGÜERO, CÉSAR R."
+          ],
+          "plazas": [
+           "N°230797"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "SÁNCHEZ, MALVINA S."
+          ],
+          "plazas": [
+           "N°208420"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "14.00 14.40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ELECTRÓNICA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "INFORMÁTICA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRÓNICA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "INFORMÁTICA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "ELECTRÓNICA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "INFORMÁTICA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRÓNICA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "INFORMÁTICA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HARDWARE",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HARDWARE",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HARDWARE",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HARDWARE",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "14.40 15.20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "15.20 16.00",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°142439"
+          ]
+         },
+         {
+          "materia": "ROMANO, GRACIELA I.",
+          "docentes": [],
+          "plazas": [
+           "N°215789"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°142439"
+          ]
+         },
+         {
+          "materia": "ROMANO, GRACIELA I.",
+          "docentes": [],
+          "plazas": [
+           "N°215789"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°142439"
+          ]
+         },
+         {
+          "materia": "ROMANO, GRACIELA I.",
+          "docentes": [],
+          "plazas": [
+           "N°215789"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°142439"
+          ]
+         },
+         {
+          "materia": "ROMANO, GRACIELA I.",
+          "docentes": [],
+          "plazas": [
+           "N°215789"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "CAMPOS, RODRIGO S.",
+          "docentes": [],
+          "plazas": [
+           "N°154667"
+          ]
+         },
+         {
+          "materia": "ROMANO, GRACIELA I.",
+          "docentes": [],
+          "plazas": [
+           "N°215789"
+          ]
+         },
+         {
+          "materia": "CAMPOS, RODRIGO S.",
+          "docentes": [],
+          "plazas": [
+           "N°154667"
+          ]
+         },
+         {
+          "materia": "ROMANO, GRACIELA I.",
+          "docentes": [],
+          "plazas": [
+           "N°215789"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "CAMPOS, RODRIGO S.",
+          "docentes": [],
+          "plazas": [
+           "N°154667"
+          ]
+         },
+         {
+          "materia": "ROMANO, GRACIELA I.",
+          "docentes": [],
+          "plazas": [
+           "N°215789"
+          ]
+         },
+         {
+          "materia": "CAMPOS, RODRIGO S.",
+          "docentes": [],
+          "plazas": [
+           "N°154667"
+          ]
+         },
+         {
+          "materia": "ROMANO, GRACIELA I.",
+          "docentes": [],
+          "plazas": [
+           "N°215789"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "16.20 17.00",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ELECTRÓNICA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "INFORMÁTICA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRÓNICA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "INFORMÁTICA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "ELECTRÓNICA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "INFORMÁTICA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRÓNICA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "INFORMÁTICA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HARDWARE",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HARDWARE",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HARDWARE",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HARDWARE",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17.00 17.40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17.40 18.20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°142439"
+          ]
+         },
+         {
+          "materia": "ROMANO, GRACIELA I.",
+          "docentes": [],
+          "plazas": [
+           "N°215789"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°142439"
+          ]
+         },
+         {
+          "materia": "ROMANO, GRACIELA I.",
+          "docentes": [],
+          "plazas": [
+           "N°215789"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°142439"
+          ]
+         },
+         {
+          "materia": "ROMANO, GRACIELA I.",
+          "docentes": [],
+          "plazas": [
+           "N°215789"
+          ]
+         },
+         {
+          "materia": "PÉREZ, ISIDRO A.",
+          "docentes": [],
+          "plazas": [
+           "N°142439"
+          ]
+         },
+         {
+          "materia": "ROMANO, GRACIELA I.",
+          "docentes": [],
+          "plazas": [
+           "N°215789"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "CAMPOS, RODRIGO S.",
+          "docentes": [],
+          "plazas": [
+           "N°154667"
+          ]
+         },
+         {
+          "materia": "ROMANO, GRACIELA I.",
+          "docentes": [],
+          "plazas": [
+           "N°215789"
+          ]
+         },
+         {
+          "materia": "CAMPOS, RODRIGO S.",
+          "docentes": [],
+          "plazas": [
+           "N°154667"
+          ]
+         },
+         {
+          "materia": "ROMANO, GRACIELA I.",
+          "docentes": [],
+          "plazas": [
+           "N°215789"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "CAMPOS, RODRIGO S.",
+          "docentes": [],
+          "plazas": [
+           "N°154667"
+          ]
+         },
+         {
+          "materia": "ROMANO, GRACIELA I.",
+          "docentes": [],
+          "plazas": [
+           "N°215789"
+          ]
+         },
+         {
+          "materia": "CAMPOS, RODRIGO S.",
+          "docentes": [],
+          "plazas": [
+           "N°154667"
+          ]
+         },
+         {
+          "materia": "ROMANO, GRACIELA I.",
+          "docentes": [],
+          "plazas": [
+           "N°215789"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "16.10 16.50",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "AMAYA, SERGIO E."
+          ],
+          "plazas": [
+           "N°176863"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "17.00 17.40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "AMAYA, SERGIO E."
+          ],
+          "plazas": [
+           "N°176863"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "17.40 18.20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "AMAYA, SERGIO E."
+          ],
+          "plazas": [
+           "N°176863"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "4° AÑO 1° DIVISIÓN",
+   "curso": "4°",
+   "division": "1°",
+   "ciclo": "SUPERIOR",
+   "resolucion": "467/5 (MEd)",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "7.30 8.10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ELECTRÓNICA I",
+          "docentes": [
+           "ZELAYA, MARIO A."
+          ],
+          "plazas": [
+           "N°231111"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GUTIÉRREZ, ALBERTO M."
+          ],
+          "plazas": [
+           "N°197292"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "MARTÍNEZ, CLARA A."
+          ],
+          "plazas": [
+           "N°226965"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "ARÍAS, LUCÍA R."
+          ],
+          "plazas": [
+           "N°276401"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "ARÍAS, LUCÍA R."
+          ],
+          "plazas": [
+           "N°276401"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "8.10 8.50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ELECTRÓNICA I",
+          "docentes": [
+           "ZELAYA, MARIO A."
+          ],
+          "plazas": [
+           "N°231111"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GUTIÉRREZ, ALBERTO M."
+          ],
+          "plazas": [
+           "N°197292"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "MARTÍNEZ, CLARA A."
+          ],
+          "plazas": [
+           "N°226965"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "ARÍAS, LUCÍA R."
+          ],
+          "plazas": [
+           "N°276401"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "ARÍAS, LUCÍA R."
+          ],
+          "plazas": [
+           "N°276401"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "9.00 9.40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GUTIÉRREZ, ALBERTO M."
+          ],
+          "plazas": [
+           "N°197292"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GUTIÉRREZ, ALBERTO M."
+          ],
+          "plazas": [
+           "N°197292"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "SÁNCHEZ, MALVINA S."
+          ],
+          "plazas": [
+           "N°189020"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "ELECTRÓNICA I",
+          "docentes": [
+           "ZELAYA, MARIO A."
+          ],
+          "plazas": [
+           "N°231111"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "SALINAS, JORGELINA F."
+          ],
+          "plazas": [
+           "N°147295"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "9.40 10.20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GUTIÉRREZ, ALBERTO M."
+          ],
+          "plazas": [
+           "N°197292"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "MARTÍNEZ, CLARA A."
+          ],
+          "plazas": [
+           "N°226965"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "SÁNCHEZ, MALVINA S."
+          ],
+          "plazas": [
+           "N°189020"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "SÁNCHEZ, MALVINA S."
+          ],
+          "plazas": [
+           "N°189020"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "SALINAS, JORGELINA F."
+          ],
+          "plazas": [
+           "N°147295"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "10.30 11.10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "ROVARINI, MARÍA L."
+          ],
+          "plazas": [
+           "N°208429"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "MARTÍNEZ, CLARA A."
+          ],
+          "plazas": [
+           "N°226965"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
+          "docentes": [
+           "AGÜERO, CÉSAR R."
+          ],
+          "plazas": [
+           "N°176893"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "ROVARINI, MARÍA L."
+          ],
+          "plazas": [
+           "N°208429"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "SALINAS, JORGELINA F."
+          ],
+          "plazas": [
+           "N°147295"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11.10 11.50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "ROVARINI, MARÍA L."
+          ],
+          "plazas": [
+           "N°208429"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "INTRODUCCIÓN A LA PROGRAMACIÓN",
+          "docentes": [
+           "TESEYRA, GABRIELA S."
+          ],
+          "plazas": [
+           "N°207303"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
+          "docentes": [
+           "AGÜERO, CÉSAR R."
+          ],
+          "plazas": [
+           "N°176890"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "INTRODUCCIÓN A LA PROGRAMACIÓN",
+          "docentes": [
+           "TESEYRA, GABRIELA S."
+          ],
+          "plazas": [
+           "N°207303"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
+          "docentes": [
+           "AGÜERO, CÉSAR R."
+          ],
+          "plazas": [
+           "N°230792"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11.50 12.30",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "INTRODUCCIÓN A LA PROGRAMACIÓN",
+          "docentes": [
+           "TESEYRA, GABRIELA S."
+          ],
+          "plazas": [
+           "N°207303"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "INTRODUCCIÓN A LA PROGRAMACIÓN",
+          "docentes": [
+           "TESEYRA, GABRIELA S."
+          ],
+          "plazas": [
+           "N°207303"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
+          "docentes": [
+           "AGÜERO, CÉSAR R."
+          ],
+          "plazas": [
+           "N°208465"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "14.00 14.40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "INSTALACIÓN BÁSICA",
+          "docentes": [
+           "DE COMPUTADORAS"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "INSTALACIÓN Y",
+          "docentes": [
+           "CONFIGURACIÓN DE",
+           "SOFTWARE Y",
+           "SISTEMA OPERATIVO"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "ASISTENCIA SOBRE",
+          "docentes": [
+           "UTILITARIOS"
+          ],
+          "plazas": []
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "INSTALACIÓN BÁSICA",
+          "docentes": [
+           "DE COMPUTADORAS"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "INSTALACIÓN Y",
+          "docentes": [
+           "CONFIGURACIÓN DE",
+           "SOFTWARE Y",
+           "SISTEMA OPERATIVO"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "ASISTENCIA SOBRE",
+          "docentes": [
+           "UTILITARIOS"
+          ],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "14.40 15.20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "15.20 16.00",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "AGÜERO, CÉSAR R.",
+          "docentes": [],
+          "plazas": [
+           "N°345256"
+          ]
+         },
+         {
+          "materia": "TESEYRA, GABRIELA S.",
+          "docentes": [],
+          "plazas": [
+           "N°213046"
+          ]
+         },
+         {
+          "materia": "SELIS, RITA M.",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "AGÜERO, CÉSAR R.",
+          "docentes": [],
+          "plazas": [
+           "N°345256"
+          ]
+         },
+         {
+          "materia": "TESEYRA, GABRIELA S.",
+          "docentes": [],
+          "plazas": [
+           "N°213046"
+          ]
+         },
+         {
+          "materia": "SELIS, RITA M.",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "16.20 17.00",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "INSTALACIÓN BÁSICA",
+          "docentes": [
+           "DE COMPUTADORAS"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "INSTALACIÓN Y",
+          "docentes": [
+           "CONFIGURACIÓN DE",
+           "SOFTWARE Y",
+           "SISTEMA OPERATIVO"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "ASISTENCIA SOBRE",
+          "docentes": [
+           "UTILITARIOS"
+          ],
+          "plazas": []
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "INSTALACIÓN BÁSICA",
+          "docentes": [
+           "DE COMPUTADORAS"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "INSTALACIÓN Y",
+          "docentes": [
+           "CONFIGURACIÓN DE",
+           "SOFTWARE Y",
+           "SISTEMA OPERATIVO"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "ASISTENCIA SOBRE",
+          "docentes": [
+           "UTILITARIOS"
+          ],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17.00 17.40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17.40 18.20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "AGÜERO, CÉSAR R.",
+          "docentes": [],
+          "plazas": [
+           "N°345256"
+          ]
+         },
+         {
+          "materia": "TESEYRA, GABRIELA S.",
+          "docentes": [],
+          "plazas": [
+           "N°213046"
+          ]
+         },
+         {
+          "materia": "SELIS, RITA M.",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "AGÜERO, CÉSAR R.",
+          "docentes": [],
+          "plazas": [
+           "N°345256"
+          ]
+         },
+         {
+          "materia": "TESEYRA, GABRIELA S.",
+          "docentes": [],
+          "plazas": [
+           "N°213046"
+          ]
+         },
+         {
+          "materia": "SELIS, RITA M.",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "14.00 14.40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "ANDRADA, LUIS F."
+          ],
+          "plazas": [
+           "N°208430"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "14.40 15.20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "ANDRADA, LUIS F."
+          ],
+          "plazas": [
+           "N°208430"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "15.30 16.10",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "ANDRADA, LUIS F."
+          ],
+          "plazas": [
+           "N°208430"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "5° AÑO 1° DIVISIÓN",
+   "curso": "5°",
+   "division": "1°",
+   "ciclo": "SUPERIOR",
+   "resolucion": "467/5 (MEd)",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "7.30 8.10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MATEMÁTICA APLICADA I",
+          "docentes": [
+           "DE HARO, MARÍA V."
+          ],
+          "plazas": [
+           "N°208434"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "MARTÍNEZ, CLARA A."
+          ],
+          "plazas": [
+           "N°224198"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GUTIÉRREZ, ALBERTO M."
+          ],
+          "plazas": [
+           "N°224197"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "PROBABILIDAD Y ESTADÍSTICA I",
+          "docentes": [
+           "ALDERETE, PAMELA"
+          ],
+          "plazas": [
+           "N°231001"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "ROVARINI, MARÍA L."
+          ],
+          "plazas": [
+           "N°208436"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "8.10 8.50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MATEMÁTICA APLICADA I",
+          "docentes": [
+           "DE HARO, MARÍA V."
+          ],
+          "plazas": [
+           "N°208434"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "MARTÍNEZ, CLARA A."
+          ],
+          "plazas": [
+           "N°224198"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GUTIÉRREZ, ALBERTO M."
+          ],
+          "plazas": [
+           "N°224197"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "PROBABILIDAD Y ESTADÍSTICA I",
+          "docentes": [
+           "ALDERETE, PAMELA"
+          ],
+          "plazas": [
+           "N°231001"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "ROVARINI, MARÍA L."
+          ],
+          "plazas": [
+           "N°208436"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "9.00 9.40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "TECNOLOGÍA DE LOS MATERIALES",
+          "docentes": [
+           "PÉREZ, ISIDRO A."
+          ],
+          "plazas": [
+           "N°230974"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "MARTÍNEZ, CLARA A."
+          ],
+          "plazas": [
+           "N°224198"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMÁTICA APLICADA I",
+          "docentes": [
+           "DE HARO, MARÍA V."
+          ],
+          "plazas": [
+           "N°208434"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "ROBLES, ANA M."
+          ],
+          "plazas": [
+           "N°178831"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "PROGRAMACIÓN I",
+          "docentes": [
+           "TERI, ROQUE D."
+          ],
+          "plazas": [
+           "N°231112"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "9.40 10.20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "TECNOLOGÍA DE LOS MATERIALES",
+          "docentes": [
+           "PÉREZ, ISIDRO A."
+          ],
+          "plazas": [
+           "N°230974"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GUTIÉRREZ, ALBERTO M."
+          ],
+          "plazas": [
+           "N°224197"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMÁTICA APLICADA I",
+          "docentes": [
+           "DE HARO, MARÍA V."
+          ],
+          "plazas": [
+           "N°208434"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "ROBLES, ANA M."
+          ],
+          "plazas": [
+           "N°178831"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "PROGRAMACIÓN I",
+          "docentes": [
+           "TERI, ROQUE D."
+          ],
+          "plazas": [
+           "N°231112"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "10.30 11.10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "YANICELLI, SARA L."
+          ],
+          "plazas": [
+           "N°208433"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "YANICELLI, SARA L."
+          ],
+          "plazas": [
+           "N°208433"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "PROGRAMACIÓN I",
+          "docentes": [
+           "TERI, ROQUE D."
+          ],
+          "plazas": [
+           "N°231112"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "ROBLES, ANA M."
+          ],
+          "plazas": [
+           "N°178831"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GUTIÉRREZ, ALBERTO M."
+          ],
+          "plazas": [
+           "N°224197"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11.10 11.50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "YANICELLI, SARA L."
+          ],
+          "plazas": [
+           "N°208433"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "PROGRAMACIÓN I",
+          "docentes": [
+           "TERI, ROQUE D."
+          ],
+          "plazas": [
+           "N°231002"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "PROGRAMACIÓN I",
+          "docentes": [
+           "TERI, ROQUE D."
+          ],
+          "plazas": [
+           "N°231112"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "ROVARINI, MARÍA L."
+          ],
+          "plazas": [
+           "N°208436"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GUTIÉRREZ, ALBERTO M."
+          ],
+          "plazas": [
+           "N°224197"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11.50 12.30",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "PROGRAMACIÓN I",
+          "docentes": [
+           "TERI, ROQUE D."
+          ],
+          "plazas": [
+           "N°231002"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "PROBABILIDAD Y ESTADÍSTICA I",
+          "docentes": [
+           "ALDERETE, PAMELA"
+          ],
+          "plazas": [
+           "N°231001"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "TECNOLOGÍA DE LOS MATERIALES",
+          "docentes": [
+           "PÉREZ, ISIDRO A."
+          ],
+          "plazas": [
+           "N°230974"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "14.00 14.40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "MANTENIMIENTO Y",
+          "docentes": [
+           "REPARACIÓN DE DATOS"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "APRECIACIÓN DE",
+          "docentes": [
+           "SISTEMAS DE",
+           "INFORMACIÓN TÍPICOS"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "ADAPTACIÓN Y",
+          "docentes": [
+           "COMPLEMENTACIÓN DE",
+           "PROGRAMAS"
+          ],
+          "plazas": []
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MANTENIMIENTO Y",
+          "docentes": [
+           "REPARACIÓN DE DATOS"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "APRECIACIÓN DE",
+          "docentes": [
+           "SISTEMAS DE",
+           "INFORMACIÓN TÍPICOS"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "ADAPTACIÓN Y",
+          "docentes": [
+           "COMPLEMENTACIÓN DE",
+           "PROGRAMAS"
+          ],
+          "plazas": []
+         }
+        ]
+       }
+      },
+      {
+       "hora": "14.40 15.20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "15.20 16.00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "TESEYRA, GABRIELA S.",
+          "docentes": [],
+          "plazas": [
+           "N°345255"
+          ]
+         },
+         {
+          "materia": "AGÜERO, CÉSAR R.",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "SELIS, RITA M.",
+          "docentes": [],
+          "plazas": [
+           "N°209164"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "TESEYRA, GABRIELA S.",
+          "docentes": [],
+          "plazas": [
+           "N°345255"
+          ]
+         },
+         {
+          "materia": "AGÜERO, CÉSAR R.",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "SELIS, RITA M.",
+          "docentes": [],
+          "plazas": [
+           "N°209164"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "16.20 17.00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "MANTENIMIENTO Y",
+          "docentes": [
+           "REPARACIÓN DE DATOS"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "APRECIACIÓN DE",
+          "docentes": [
+           "SISTEMAS DE",
+           "INFORMACIÓN TÍPICOS"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "ADAPTACIÓN Y",
+          "docentes": [
+           "COMPLEMENTACIÓN DE",
+           "PROGRAMAS"
+          ],
+          "plazas": []
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MANTENIMIENTO Y",
+          "docentes": [
+           "REPARACIÓN DE DATOS"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "APRECIACIÓN DE",
+          "docentes": [
+           "SISTEMAS DE",
+           "INFORMACIÓN TÍPICOS"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "ADAPTACIÓN Y",
+          "docentes": [
+           "COMPLEMENTACIÓN DE",
+           "PROGRAMAS"
+          ],
+          "plazas": []
+         }
+        ]
+       }
+      },
+      {
+       "hora": "17.00 17.40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17.40 18.20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "TESEYRA, GABRIELA S.",
+          "docentes": [],
+          "plazas": [
+           "N°345255"
+          ]
+         },
+         {
+          "materia": "AGÜERO, CÉSAR R.",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "SELIS, RITA M.",
+          "docentes": [],
+          "plazas": [
+           "N°209164"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "TESEYRA, GABRIELA S.",
+          "docentes": [],
+          "plazas": [
+           "N°345255"
+          ]
+         },
+         {
+          "materia": "AGÜERO, CÉSAR R.",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "SELIS, RITA M.",
+          "docentes": [],
+          "plazas": [
+           "N°209164"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "16.10 16.50",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "ANDRADA, LUIS F."
+          ],
+          "plazas": [
+           "N°207477"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17.00 17.40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "ANDRADA, LUIS F."
+          ],
+          "plazas": [
+           "N°207477"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17.40 18.20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "ANDRADA, LUIS F."
+          ],
+          "plazas": [
+           "N°207477"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "6° AÑO 1° DIVISIÓN",
+   "curso": "6°",
+   "division": "1°",
+   "ciclo": "SUPERIOR",
+   "resolucion": "467/5 (MEd)",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "7.30 8.10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "LEDESMA, SONIA R."
+          ],
+          "plazas": [
+           "N°213045"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "ECONOMÍA",
+          "docentes": [
+           "SINGH, MARÍA C."
+          ],
+          "plazas": [
+           "N°230724"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "RELACIONES HUMANAS",
+          "docentes": [
+           "GONZÁLEZ, SANDRA A."
+          ],
+          "plazas": [
+           "N°230723"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "DISEÑO GRÁFICO",
+          "docentes": [
+           "SORIA, CARLOS M."
+          ],
+          "plazas": [
+           "N°209687"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "PROBABILIDAD Y ESTADÍSTICA II",
+          "docentes": [
+           "LOZANO, MARÍA V."
+          ],
+          "plazas": [
+           "N°230975"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "8.10 8.50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "LEDESMA, SONIA R."
+          ],
+          "plazas": [
+           "N°213045"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "ECONOMÍA",
+          "docentes": [
+           "SINGH, MARÍA C."
+          ],
+          "plazas": [
+           "N°230724"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "RELACIONES HUMANAS",
+          "docentes": [
+           "GONZÁLEZ, SANDRA A."
+          ],
+          "plazas": [
+           "N°230725"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "ROVARINI, MARÍA L."
+          ],
+          "plazas": [
+           "N°213043"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "PROBABILIDAD Y ESTADÍSTICA II",
+          "docentes": [
+           "LOZANO, MARÍA V."
+          ],
+          "plazas": [
+           "N°230975"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "9.00 9.40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "LEDESMA, SONIA R."
+          ],
+          "plazas": [
+           "N°213045"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MANTENIMIENTO DE HARDWARE MONOUSUARIO",
+          "docentes": [
+           "TERI, ROQUE D."
+          ],
+          "plazas": [
+           "N°208773"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MARCO JURÍDICO DE LOS PROCESOS PRODUCTIVOS",
+          "docentes": [
+           "SINGH, MARÍA C."
+          ],
+          "plazas": [
+           "N°230722"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMÁTICA APLICADA II",
+          "docentes": [
+           "ALDERETE, PAMELA"
+          ],
+          "plazas": [
+           "N°276400"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "ROVARINI, MARÍA L."
+          ],
+          "plazas": [
+           "N°213043"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "9.40 10.20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "PROCESOS PRODUCTIVOS",
+          "docentes": [
+           "TERI, ROQUE D."
+          ],
+          "plazas": [
+           "N°231118"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MANTENIMIENTO DE HARDWARE MONOUSUARIO",
+          "docentes": [
+           "TERI, ROQUE D."
+          ],
+          "plazas": [
+           "N°208773"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MARCO JURÍDICO DE LOS PROCESOS PRODUCTIVOS",
+          "docentes": [
+           "SINGH, MARÍA C."
+          ],
+          "plazas": [
+           "N°230722"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMÁTICA APLICADA II",
+          "docentes": [
+           "ALDERETE, PAMELA"
+          ],
+          "plazas": [
+           "N°276400"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "ROVARINI, MARÍA L."
+          ],
+          "plazas": [
+           "N°213043"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "10.30 11.10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "PROCESOS PRODUCTIVOS",
+          "docentes": [
+           "TERI, ROQUE D."
+          ],
+          "plazas": [
+           "N°231118"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "PROCESOS PRODUCTIVOS",
+          "docentes": [
+           "TERI, ROQUE D."
+          ],
+          "plazas": [
+           "N°231118"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMÁTICA APLICADA II",
+          "docentes": [
+           "ALDERETE, PAMELA"
+          ],
+          "plazas": [
+           "N°276400"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MANTENIMIENTO DE HARDWARE MONOUSUARIO",
+          "docentes": [
+           "TERI, ROQUE D."
+          ],
+          "plazas": [
+           "N°208773"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "DISEÑO GRÁFICO",
+          "docentes": [
+           "SORIA, CARLOS M."
+          ],
+          "plazas": [
+           "N°209687"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11.10 11.50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "TECNOLOGÍA DE CONTROL",
+          "docentes": [
+           "DE HARO, MARÍA V."
+          ],
+          "plazas": [
+           "N°231119"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "TECNOLOGÍA DE CONTROL",
+          "docentes": [
+           "DE HARO, MARÍA V."
+          ],
+          "plazas": [
+           "N°231119"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMÁTICA APLICADA II",
+          "docentes": [
+           "ALDERETE, PAMELA"
+          ],
+          "plazas": [
+           "N°276400"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MANTENIMIENTO DE HARDWARE MONOUSUARIO",
+          "docentes": [
+           "TERI, ROQUE D."
+          ],
+          "plazas": [
+           "N°208773"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "DISEÑO GRÁFICO",
+          "docentes": [
+           "SORIA, CARLOS M."
+          ],
+          "plazas": [
+           "N°209687"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11.50 12.30",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "TECNOLOGÍA DE CONTROL",
+          "docentes": [
+           "DE HARO, MARÍA V."
+          ],
+          "plazas": [
+           "N°231119"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "TECNOLOGÍA DE CONTROL",
+          "docentes": [
+           "DE HARO, MARÍA V."
+          ],
+          "plazas": [
+           "N°231119"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "PROCESOS PRODUCTIVOS",
+          "docentes": [
+           "TERI, ROQUE D."
+          ],
+          "plazas": [
+           "N°231118"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "14.00 14.40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "PROGRAMACIÓN II",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ASISTENCIA SOBRE",
+          "docentes": [
+           "APLICACIONES",
+           "ESPECÍFICAS"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "CONEXIÓN Y",
+          "docentes": [
+           "ADMINISTRACIÓN DE",
+           "REDES LOCALES"
+          ],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "PROGRAMACIÓN II",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ASISTENCIA SOBRE",
+          "docentes": [
+           "APLICACIONES",
+           "ESPECÍFICAS"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "CONEXIÓN Y",
+          "docentes": [
+           "ADMINISTRACIÓN DE",
+           "REDES LOCALES"
+          ],
+          "plazas": []
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "14.40 15.20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "15.20 16.00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "SORUCO, PABLO J.",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "TERI, ROQUE D.",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ALBO, SANTIAGO D.",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "SORUCO, PABLO J.",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "TERI, ROQUE D.",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ALBO, SANTIAGO D.",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "16.20 17.00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "PROGRAMACIÓN II",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ASISTENCIA SOBRE",
+          "docentes": [
+           "APLICACIONES",
+           "ESPECÍFICAS"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "CONEXIÓN Y",
+          "docentes": [
+           "ADMINISTRACIÓN DE",
+           "REDES LOCALES"
+          ],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "PROGRAMACIÓN II",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ASISTENCIA SOBRE",
+          "docentes": [
+           "APLICACIONES",
+           "ESPECÍFICAS"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "CONEXIÓN Y",
+          "docentes": [
+           "ADMINISTRACIÓN DE",
+           "REDES LOCALES"
+          ],
+          "plazas": []
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17.00 17.40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17.40 18.20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "SORUCO, PABLO J.",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "TERI, ROQUE D.",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ALBO, SANTIAGO D.",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "SORUCO, PABLO J.",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "TERI, ROQUE D.",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ALBO, SANTIAGO D.",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "14.00 14.40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "ANDRADA, LUIS F."
+          ],
+          "plazas": [
+           "N°213391"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "14.40 15.20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "ANDRADA, LUIS F."
+          ],
+          "plazas": [
+           "N°213391"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "15.30 16.10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "ANDRADA, LUIS F."
+          ],
+          "plazas": [
+           "N°213391"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "7° AÑO 1° DIVISIÓN",
+   "curso": "7°",
+   "division": "1°",
+   "ciclo": "SUPERIOR",
+   "resolucion": "467/5 (MEd)",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "7.30 8.10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "PROYECTO TECNOLÓGICO",
+          "docentes": [
+           "TERI, ROQUE D."
+          ],
+          "plazas": [
+           "N°234605"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "COMUNICACIÓN",
+          "docentes": [
+           "MONTES, NOEMÍ DEL V."
+          ],
+          "plazas": [
+           "N°234603"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "PROYECTO TECNOLÓGICO",
+          "docentes": [
+           "TERI, ROQUE D."
+          ],
+          "plazas": [
+           "N°234605"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "SIMULACIÓN",
+          "docentes": [
+           "TERI, ROQUE D."
+          ],
+          "plazas": [
+           "N°234606"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "DISEÑO WEB",
+          "docentes": [
+           "TERI, ROQUE D."
+          ],
+          "plazas": [
+           "N°234604"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "8.10 8.50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "PROYECTO TECNOLÓGICO",
+          "docentes": [
+           "TERI, ROQUE D."
+          ],
+          "plazas": [
+           "N°234605"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "COMUNICACIÓN",
+          "docentes": [
+           "MONTES, NOEMÍ DEL V."
+          ],
+          "plazas": [
+           "N°234603"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "PROYECTO TECNOLÓGICO",
+          "docentes": [
+           "TERI, ROQUE D."
+          ],
+          "plazas": [
+           "N°234605"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "SIMULACIÓN",
+          "docentes": [
+           "TERI, ROQUE D."
+          ],
+          "plazas": [
+           "N°234606"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "VERA, CARLOS D."
+          ],
+          "plazas": [
+           "N°215720"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "9.00 9.40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "VERA, CARLOS D."
+          ],
+          "plazas": [
+           "N°215720"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "TECNOLOGÍA DE GESTIÓN",
+          "docentes": [
+           "SINGH, MARÍA C."
+          ],
+          "plazas": [
+           "N°213039"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "SIMULACIÓN",
+          "docentes": [
+           "TERI, ROQUE D."
+          ],
+          "plazas": [
+           "N°234606"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "DISEÑO WEB",
+          "docentes": [
+           "TERI, ROQUE D."
+          ],
+          "plazas": [
+           "N°234604"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMÁTICA APLICADA III",
+          "docentes": [
+           "SÁNCHEZ, MÓNICA C."
+          ],
+          "plazas": [
+           "N°237745"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "9.40 10.20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "VERA, CARLOS D."
+          ],
+          "plazas": [
+           "N°215720"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "TECNOLOGÍA DE GESTIÓN",
+          "docentes": [
+           "SINGH, MARÍA C."
+          ],
+          "plazas": [
+           "N°213039"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "SIMULACIÓN",
+          "docentes": [
+           "TERI, ROQUE D."
+          ],
+          "plazas": [
+           "N°234606"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "DISEÑO WEB",
+          "docentes": [
+           "TERI, ROQUE D."
+          ],
+          "plazas": [
+           "N°234604"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMÁTICA APLICADA III",
+          "docentes": [
+           "SÁNCHEZ, MÓNICA C."
+          ],
+          "plazas": [
+           "N°237745"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "10.30 11.10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "SEGURIDAD INFORMÁTICA",
+          "docentes": [
+           "SORUCO, PABLO J."
+          ],
+          "plazas": [
+           "N°231098"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MANTENIMIENTO DE SOFTWARE",
+          "docentes": [
+           "ALBO, SANTIAGO D."
+          ],
+          "plazas": [
+           "N°209714"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "TECNOLOGÍA DE GESTIÓN",
+          "docentes": [
+           "SINGH, MARÍA C."
+          ],
+          "plazas": [
+           "N°213039"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMÁTICA APLICADA III",
+          "docentes": [
+           "SÁNCHEZ, MÓNICA C."
+          ],
+          "plazas": [
+           "N°237745"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MANTENIMIENTO DE SOFTWARE",
+          "docentes": [
+           "ALBO, SANTIAGO D."
+          ],
+          "plazas": [
+           "N°209714"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11.10 11.50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "SEGURIDAD INFORMÁTICA",
+          "docentes": [
+           "SORUCO, PABLO J."
+          ],
+          "plazas": [
+           "N°231098"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MANTENIMIENTO DE SOFTWARE",
+          "docentes": [
+           "ALBO, SANTIAGO D."
+          ],
+          "plazas": [
+           "N°209714"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "INFORMÁTICA EDUCATIVA",
+          "docentes": [
+           "RACEDO, SERGIO D."
+          ],
+          "plazas": [
+           "N°237746"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "INFORMÁTICA EDUCATIVA",
+          "docentes": [
+           "RACEDO, SERGIO D."
+          ],
+          "plazas": [
+           "N°231099"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "SEGURIDAD INFORMÁTICA",
+          "docentes": [
+           "SORUCO, PABLO J."
+          ],
+          "plazas": [
+           "N°231098"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11.50 12.30",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "COMUNICACIÓN",
+          "docentes": [
+           "MONTES, NOEMÍ DEL V."
+          ],
+          "plazas": [
+           "N°234603"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "INFORMÁTICA EDUCATIVA",
+          "docentes": [
+           "RACEDO, SERGIO D."
+          ],
+          "plazas": [
+           "N°237746"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "SEGURIDAD INFORMÁTICA",
+          "docentes": [
+           "SORUCO, PABLO J."
+          ],
+          "plazas": [
+           "N°231098"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "14.00 14.40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ADAPTACIÓN EN EL",
+          "docentes": [
+           "AMBIENTE DE TRABAJO"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "AUTOGESTIÓN EN EL",
+          "docentes": [
+           "MUNDO ECONÓMICO"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "APLICACIONES DE",
+          "docentes": [
+           "REDES INFORMÁTICAS"
+          ],
+          "plazas": []
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "ADAPTACIÓN EN EL",
+          "docentes": [
+           "AMBIENTE DE TRABAJO"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "AUTOGESTIÓN EN EL",
+          "docentes": [
+           "MUNDO ECONÓMICO"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "APLICACIONES DE",
+          "docentes": [
+           "REDES INFORMÁTICAS"
+          ],
+          "plazas": []
+         }
+        ]
+       }
+      },
+      {
+       "hora": "14.40 15.20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "15.20 16.00",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "TERI, ROQUE D.",
+          "docentes": [],
+          "plazas": [
+           "N°234607"
+          ]
+         },
+         {
+          "materia": "SORUCO, PABLO J.",
+          "docentes": [],
+          "plazas": [
+           "N°226960"
+          ]
+         },
+         {
+          "materia": "ALBO, SANTIAGO D.",
+          "docentes": [],
+          "plazas": [
+           "N°345257"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "TERI, ROQUE D.",
+          "docentes": [],
+          "plazas": [
+           "N°234607"
+          ]
+         },
+         {
+          "materia": "SORUCO, PABLO J.",
+          "docentes": [],
+          "plazas": [
+           "N°226960"
+          ]
+         },
+         {
+          "materia": "ALBO, SANTIAGO D.",
+          "docentes": [],
+          "plazas": [
+           "N°345257"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "16.20 17.00",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ADAPTACIÓN EN EL",
+          "docentes": [
+           "AMBIENTE DE TRABAJO"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "AUTOGESTIÓN EN EL",
+          "docentes": [
+           "MUNDO ECONÓMICO"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "APLICACIONES DE",
+          "docentes": [
+           "REDES INFORMÁTICAS"
+          ],
+          "plazas": []
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "ADAPTACIÓN EN EL",
+          "docentes": [
+           "AMBIENTE DE TRABAJO"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "AUTOGESTIÓN EN EL",
+          "docentes": [
+           "MUNDO ECONÓMICO"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "APLICACIONES DE",
+          "docentes": [
+           "REDES INFORMÁTICAS"
+          ],
+          "plazas": []
+         }
+        ]
+       }
+      },
+      {
+       "hora": "17.00 17.40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17.40 18.20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "TERI, ROQUE D.",
+          "docentes": [],
+          "plazas": [
+           "N°234607"
+          ]
+         },
+         {
+          "materia": "SORUCO, PABLO J.",
+          "docentes": [],
+          "plazas": [
+           "N°226960"
+          ]
+         },
+         {
+          "materia": "ALBO, SANTIAGO D.",
+          "docentes": [],
+          "plazas": [
+           "N°345257"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "TERI, ROQUE D.",
+          "docentes": [],
+          "plazas": [
+           "N°234607"
+          ]
+         },
+         {
+          "materia": "SORUCO, PABLO J.",
+          "docentes": [],
+          "plazas": [
+           "N°226960"
+          ]
+         },
+         {
+          "materia": "ALBO, SANTIAGO D.",
+          "docentes": [],
+          "plazas": [
+           "N°345257"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "16.10 16.50",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "AMAYA, SERGIO E."
+          ],
+          "plazas": [
+           "N°215740"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17.00 17.40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "AMAYA, SERGIO E."
+          ],
+          "plazas": [
+           "N°215740"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17.40 18.20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "AMAYA, SERGIO E."
+          ],
+          "plazas": [
+           "N°215740"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
