@@ -6537,26 +6537,6 @@
         ],
         "VIERNES": []
        }
-      },
-      {
-       "hora": "11:30 A 12:10",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "METALURGIA Y TECNOLOGIA MECANICA",
-          "docentes": [
-           "SALAZAR, GUSTAVO RUBEN"
-          ],
-          "plazas": [
-           "N°127799"
-          ]
-         }
-        ],
-        "VIERNES": []
-       }
       }
      ]
     }
