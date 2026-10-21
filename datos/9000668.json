@@ -9333,27 +9333,6 @@
         ],
         "VIERNES": []
        }
-      },
-      {
-       "hora": "9:20 A 10:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "COMUNICACIÓN",
-          "docentes": [
-           "GOMEZ CONTRERAS, MARIA ANGELICA",
-           "OCARANZA, LAURA GUADALUPE"
-          ],
-          "plazas": [
-           "N°128012"
-          ]
-         }
-        ],
-        "VIERNES": []
-       }
       }
      ]
     }
