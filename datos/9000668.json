@@ -8982,7 +8982,20 @@
       },
       {
        "hora": "13:20 A 14:00 HS.",
-       "celdas": {}
+       "celdas": {
+        "MARTES": [
+         {
+          "materia": "COMUNICACIÓN",
+          "docentes": [
+           "GOMEZ CONTRERAS, MARIA ANGELICA",
+           "OCARANZA, LAURA GUADALUPE"
+          ],
+          "plazas": [
+           "N°128012"
+          ]
+         }
+        ]
+       }
       }
      ]
     },
