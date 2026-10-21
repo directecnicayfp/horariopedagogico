@@ -251,8 +251,9 @@ function render(){const E=S(),c=E.cursos[ci];view(false);document.body.classList
  $('#info').innerHTML=[c.curso,c.division&&'División '+c.division,c.ciclo&&'Ciclo '+c.ciclo,c.resolucion&&'Res. '+c.resolucion].filter(Boolean).map(esc).join('<span class="mx-1.5 text-slate-300">|</span>');
  const ob=$('#obs');ob.innerHTML=c.observaciones?`<svg class="mt-px h-4 w-4 shrink-0 text-rose-500" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><path d="M12 8v5M12 16h.01"/></svg><span><b>Observaciones:</b> ${esc(c.observaciones)}</span>`:'';
  ob.classList.toggle('hidden',!c.observaciones);ob.classList.toggle('flex',!!c.observaciones);
- $('#L').innerHTML=c.tablas.slice(0,1).map((t,i)=>tabla(t,i)).join('');
- $('#R').innerHTML=c.tablas.slice(1).map((t,i)=>tabla(t,i+1)).join('');fit()}
+ const vis=c.tablas.map((t,i)=>[t,i]).filter(([t])=>adm||t.filas.length);   /* tablas sin filas: solo visibles en Admin */
+ $('#L').innerHTML=vis.slice(0,1).map(([t,i])=>tabla(t,i)).join('');
+ $('#R').innerHTML=vis.slice(1).map(([t,i])=>tabla(t,i)).join('');fit()}
 const msgBox=(m,spin)=>`<div class="grid h-full place-items-center"><p class="flex items-center gap-2 rounded-xl bg-white px-5 py-4 text-sm text-slate-600 shadow-sm ring-1 ring-slate-200">${spin?ICON.spin:''}${m}</p></div>`;
 const overflow=root=>[...root.querySelectorAll('.tt-w')].some(x=>x.scrollHeight>x.clientHeight+1||x.scrollWidth>x.clientWidth+1)
  ||[...root.querySelectorAll('.e b,.e i,.e u')].some(x=>x.scrollWidth>x.clientWidth+1);
@@ -263,8 +264,9 @@ addEventListener('resize',fit);
 
 /* ======================= PDF / impresión: hoja A4 apaisada ======================= */
 const LOGO=()=>document.querySelector('#home header img').src;
-function sheetHTML(E,c,k){const qq=q;q='';
- const L=c.tablas.slice(0,k).map((t,i)=>tabla(t,i)).join(''),R=c.tablas.slice(k).map((t,i)=>tabla(t,i+k)).join('');q=qq;
+const visibles=c=>c.tablas.map((t,i)=>[t,i]).filter(([t])=>t.filas.length);
+function sheetHTML(E,c,k){const qq=q;q='';const v=visibles(c);
+ const L=v.slice(0,k).map(([t,i])=>tabla(t,i)).join(''),R=v.slice(k).map(([t,i])=>tabla(t,i)).join('');q=qq;
  const meta=[['Curso',c.curso],['División',c.division],['Ciclo',c.ciclo],['Resolución',c.resolucion]].filter(x=>x[1]);
  return `<div class="ps-head"><img class="ps-logo" src="${LOGO()}" alt="">
   <div class="ps-title"><p class="ps-kick">Horario pedagógico</p><h1>${esc(E.escuela)}</h1><p class="ps-sub">${[E.cue&&'CUE '+esc(E.cue),esc(c.hoja)].filter(Boolean).join(' · ')}</p></div>
@@ -276,7 +278,7 @@ function sheetHTML(E,c,k){const qq=q;q='';
 /* Prueba repartir las tablas entre las dos columnas (y una sola columna) y se queda con la que deja la letra más grande */
 function buildSheet(){const E=sid&&S(),c=E&&E.cursos[ci],sh=$('#sheet');
  if(!c){sh.innerHTML='';document.body.classList.remove('has-sheet');return null}
- const n=c.tablas.length,opts=[];for(let k=1;k<n;k++)opts.push(k);opts.push(n);
+ const n=Math.max(1,visibles(c).length),opts=[];for(let k=1;k<n;k++)opts.push(k);opts.push(n);
  const fitNow=()=>{const body=sh.querySelector('.ps-body');let fs=13;for(;fs>4.5;fs-=.25){body.style.fontSize=fs+'px';if(!overflow(sh))break}return fs};
  let best=null;
  for(const k of opts){sh.innerHTML=sheetHTML(E,c,k);const fs=fitNow();if(!best||fs>best.fs+.01)best={k,fs};if(fs>=13)break}
