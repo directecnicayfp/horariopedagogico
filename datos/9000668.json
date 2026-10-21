@@ -9291,50 +9291,7 @@
       "JUEVES",
       "VIERNES"
      ],
-     "filas": [
-      {
-       "hora": "7:50 A 8:30",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "COMUNICACIÓN",
-          "docentes": [
-           "GOMEZ CONTRERAS, MARIA ANGELICA",
-           "OCARANZA, LAURA GUADALUPE"
-          ],
-          "plazas": [
-           "N°128012"
-          ]
-         }
-        ],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "8:30 A 9:10",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "COMUNICACIÓN",
-          "docentes": [
-           "GOMEZ CONTRERAS, MARIA ANGELICA",
-           "OCARANZA, LAURA GUADALUPE"
-          ],
-          "plazas": [
-           "N°128012"
-          ]
-         }
-        ],
-        "VIERNES": []
-       }
-      }
-     ]
+     "filas": []
     }
    ]
   },
