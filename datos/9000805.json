@@ -2468,626 +2468,6 @@
    ]
   },
   {
-   "hoja": "1°109 TM",
-   "curso": "1°",
-   "division": "109",
-   "ciclo": "BASICO",
-   "resolucion": "510/5",
-   "observaciones": "",
-   "tablas": [
-    {
-     "titulo": "Horario de clases",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "07:30 a 08:10",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "DIBUJO TECNICO",
-          "docentes": [
-           "AGÜERO LUIS NESTOR"
-          ],
-          "plazas": [
-           "N°366465"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "ALVARES SILVIA ROSANA"
-          ],
-          "plazas": [
-           "N°180989"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "DIBUJO TECNICO",
-          "docentes": [
-           "AGÜERO LUIS NESTOR"
-          ],
-          "plazas": [
-           "N°12395"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "BIOLOGIA",
-          "docentes": [
-           "BRAVO MARIANA NOELIA"
-          ],
-          "plazas": [
-           "N°232045"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "BEJARANO GLADYS MARISEL"
-          ],
-          "plazas": [
-           "N°26259"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "08:10 a 08:50",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "DIBUJO TECNICO",
-          "docentes": [
-           "AGÜERO LUIS NESTOR"
-          ],
-          "plazas": [
-           "N° 12395"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "ALVAREZ SILVIA ROSANA"
-          ],
-          "plazas": [
-           "N°180989"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "DIBUJO TECNICO",
-          "docentes": [
-           "AGÜERO LUIS NESTOR"
-          ],
-          "plazas": [
-           "N°12395"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "BIOLOGIA",
-          "docentes": [
-           "BRAVO MARIANA NOELIA"
-          ],
-          "plazas": [
-           "N°232045"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "BEJARANO GLADYS MARISEL"
-          ],
-          "plazas": [
-           "N°26259"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "09:00 a 09:40",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "PEREYRA ACUÑA ANA LIA"
-          ],
-          "plazas": [
-           "N°270167"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "ALVAREZ SILVIA ROSANA"
-          ],
-          "plazas": [
-           "N°180989"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "LUNA GONZALEZ CECILIA MARIA"
-          ],
-          "plazas": [
-           "N° 288842"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "BIOLOGIA",
-          "docentes": [
-           "BRAVO MARIANA NOELIA"
-          ],
-          "plazas": [
-           "N°232045"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "BEJARANO GLADYS MARICEL"
-          ],
-          "plazas": [
-           "N°26259"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "09:40 a 10:20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "PEREYRA ACUÑA ANA LIA"
-          ],
-          "plazas": [
-           "N°270167"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "LUNA GONZALEZ CECILIA MARIA"
-          ],
-          "plazas": [
-           "N°288842"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "LUNA GONZALEZ CECILIA MARIA"
-          ],
-          "plazas": [
-           "N°288842"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "FISICO-QUIMICA",
-          "docentes": [
-           "BRAVO MARIANA NOELIA"
-          ],
-          "plazas": [
-           "N°230067"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "FISICO-QUIMICA",
-          "docentes": [
-           "BRAVO MARIANA NOELIA"
-          ],
-          "plazas": [
-           "N°230067"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "10:30 a 11:10",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "GEOGRAFIA",
-          "docentes": [
-           "RICCI MARCOS JOSE"
-          ],
-          "plazas": [
-           "N°268075"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "TECNOLOGIA",
-          "docentes": [
-           "AGÜERO LUIS NESTOR"
-          ],
-          "plazas": [
-           "N°41696"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "ALVAREZ SILVIA ROSANA"
-          ],
-          "plazas": [
-           "N°180989"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "FISICO-QUIMICA",
-          "docentes": [
-           "BRAVO MARIANA NOELIA"
-          ],
-          "plazas": [
-           "N°230067"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "TECNOLOGIA",
-          "docentes": [
-           "AGÜERO LUIS NESTOR"
-          ],
-          "plazas": [
-           "N°41696"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "11:10 a 11:50",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "GEOGRAFIA",
-          "docentes": [
-           "RICCI MARCOS JOSE"
-          ],
-          "plazas": [
-           "N°268075"
-          ]
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "ALVAREZ SILVIA ROSANA",
-           "N180989"
-          ],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "BEJARANO GLADYS MARISEL"
-          ],
-          "plazas": [
-           "N°26259"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "TECNOLOGIA",
-          "docentes": [
-           "AGÜERO LUIS NESTOR"
-          ],
-          "plazas": [
-           "N°41696"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "11:50 a 12:30",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "PEREYRA ACUÑA ANA LIA"
-          ],
-          "plazas": [
-           "N°270167"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "BEJARANO GLADYS MARISEL"
-          ],
-          "plazas": [
-           "N°26259"
-          ]
-         }
-        ],
-        "VIERNES": []
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Taller Tecnológico",
-     "tipo": "taller",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "14:30 A 16:20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "AJUSTE",
-          "docentes": [
-           "CORDOBA ZELARAYAN CARLOS /CORBALAN DAVID"
-          ],
-          "plazas": [
-           "N°179775 /12527"
-          ]
-         },
-         {
-          "materia": "HOJALATERIA",
-          "docentes": [
-           "RODRIGUEZ JOSE / GRAMAJO MAURO"
-          ],
-          "plazas": [
-           "N°45335 / 13231"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "CARPINTERIA",
-          "docentes": [
-           "RODRIGUEZ PAOLA / GUTIERREZ DANIEL"
-          ],
-          "plazas": [
-           "N°113805 / 123933"
-          ]
-         },
-         {
-          "materia": "ELECTRICIDAD",
-          "docentes": [
-           "SOSA GONZALO"
-          ],
-          "plazas": [
-           "N°11010"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "AJUSTE",
-          "docentes": [
-           "CORDOBA ZELARAYAN CARLOS / CORBALAN DAVID"
-          ],
-          "plazas": [
-           "N°179775 / 12527"
-          ]
-         },
-         {
-          "materia": "ELECTRICIDAD",
-          "docentes": [
-           "SOSA GONZALO"
-          ],
-          "plazas": [
-           "N°11010"
-          ]
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "CARPINTERIA",
-          "docentes": [
-           "RODRIGUEZ PAOLA / GUTIERREZ DANIEL"
-          ],
-          "plazas": [
-           "N°113805 / 123933"
-          ]
-         },
-         {
-          "materia": "HOJALATERIA",
-          "docentes": [
-           "RODRIGUEZ JOSE / GRAMAJO MAURO"
-          ],
-          "plazas": [
-           "N°179775 /12527"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "16:30 A 18:40",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "AJUSTE",
-          "docentes": [
-           "CORDOBA ZELARAYAN CARLOS /CORBALAN DAVID"
-          ],
-          "plazas": [
-           "N°179775 / 12527"
-          ]
-         },
-         {
-          "materia": "HOJALATERIA",
-          "docentes": [
-           "RODRIGUEZ JOSE / GRAMAJO MAURO"
-          ],
-          "plazas": [
-           "N°45335 / 13231"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "CARPINTERIA",
-          "docentes": [
-           "RODRIGUEZ PAOLA / GUTIERREZ DANIEL"
-          ],
-          "plazas": [
-           "N°113805 / 123933"
-          ]
-         },
-         {
-          "materia": "ELECTRICIDAD",
-          "docentes": [
-           "SOSA GONZALO"
-          ],
-          "plazas": [
-           "N°11010"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "AJUSTE",
-          "docentes": [
-           "CORDOBA ZELARAYAN CARLOS/ CORBALAN DAVID"
-          ],
-          "plazas": [
-           "N°179775 / 12527"
-          ]
-         },
-         {
-          "materia": "ELECTRICIDAD",
-          "docentes": [
-           "SOSA GONZALO"
-          ],
-          "plazas": [
-           "N°11010"
-          ]
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "CARPINTERIA",
-          "docentes": [
-           "RODRIGUEZ PAOLA / GUTIERREZ DANIEL"
-          ],
-          "plazas": [
-           "N°113805 / 123933"
-          ]
-         },
-         {
-          "materia": "HOJALATERIA",
-          "docentes": [
-           "RODRIGUEZ JOSE / GRAMAJO MAURO"
-          ],
-          "plazas": [
-           "N°179775 /12527"
-          ]
-         }
-        ]
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Educación Física",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "14:00 A 16:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "EDUCACION FISICA",
-          "docentes": [
-           "GRAY JORGE AUGUSTO"
-          ],
-          "plazas": [
-           "N°193828"
-          ]
-         }
-        ],
-        "VIERNES": []
-       }
-      }
-     ]
-    }
-   ]
-  },
-  {
    "hoja": "1°105TT",
    "curso": "1°",
    "division": "105",
@@ -5548,6 +4928,626 @@
         "MARTES": [],
         "MIERCOLES": [],
         "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "1°109 TM",
+   "curso": "1°",
+   "division": "109",
+   "ciclo": "BASICO",
+   "resolucion": "510/5",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "07:30 a 08:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "DIBUJO TECNICO",
+          "docentes": [
+           "AGÜERO LUIS NESTOR"
+          ],
+          "plazas": [
+           "N°366465"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "ALVARES SILVIA ROSANA"
+          ],
+          "plazas": [
+           "N°180989"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "DIBUJO TECNICO",
+          "docentes": [
+           "AGÜERO LUIS NESTOR"
+          ],
+          "plazas": [
+           "N°12395"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "BIOLOGIA",
+          "docentes": [
+           "BRAVO MARIANA NOELIA"
+          ],
+          "plazas": [
+           "N°232045"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "BEJARANO GLADYS MARISEL"
+          ],
+          "plazas": [
+           "N°26259"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "08:10 a 08:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "DIBUJO TECNICO",
+          "docentes": [
+           "AGÜERO LUIS NESTOR"
+          ],
+          "plazas": [
+           "N° 12395"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "ALVAREZ SILVIA ROSANA"
+          ],
+          "plazas": [
+           "N°180989"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "DIBUJO TECNICO",
+          "docentes": [
+           "AGÜERO LUIS NESTOR"
+          ],
+          "plazas": [
+           "N°12395"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "BIOLOGIA",
+          "docentes": [
+           "BRAVO MARIANA NOELIA"
+          ],
+          "plazas": [
+           "N°232045"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "BEJARANO GLADYS MARISEL"
+          ],
+          "plazas": [
+           "N°26259"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "09:00 a 09:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "PEREYRA ACUÑA ANA LIA"
+          ],
+          "plazas": [
+           "N°270167"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "ALVAREZ SILVIA ROSANA"
+          ],
+          "plazas": [
+           "N°180989"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "LUNA GONZALEZ CECILIA MARIA"
+          ],
+          "plazas": [
+           "N° 288842"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "BIOLOGIA",
+          "docentes": [
+           "BRAVO MARIANA NOELIA"
+          ],
+          "plazas": [
+           "N°232045"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "BEJARANO GLADYS MARICEL"
+          ],
+          "plazas": [
+           "N°26259"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "09:40 a 10:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "PEREYRA ACUÑA ANA LIA"
+          ],
+          "plazas": [
+           "N°270167"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "LUNA GONZALEZ CECILIA MARIA"
+          ],
+          "plazas": [
+           "N°288842"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "LUNA GONZALEZ CECILIA MARIA"
+          ],
+          "plazas": [
+           "N°288842"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FISICO-QUIMICA",
+          "docentes": [
+           "BRAVO MARIANA NOELIA"
+          ],
+          "plazas": [
+           "N°230067"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "FISICO-QUIMICA",
+          "docentes": [
+           "BRAVO MARIANA NOELIA"
+          ],
+          "plazas": [
+           "N°230067"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "10:30 a 11:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "GEOGRAFIA",
+          "docentes": [
+           "RICCI MARCOS JOSE"
+          ],
+          "plazas": [
+           "N°268075"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "TECNOLOGIA",
+          "docentes": [
+           "AGÜERO LUIS NESTOR"
+          ],
+          "plazas": [
+           "N°41696"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "ALVAREZ SILVIA ROSANA"
+          ],
+          "plazas": [
+           "N°180989"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FISICO-QUIMICA",
+          "docentes": [
+           "BRAVO MARIANA NOELIA"
+          ],
+          "plazas": [
+           "N°230067"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "TECNOLOGIA",
+          "docentes": [
+           "AGÜERO LUIS NESTOR"
+          ],
+          "plazas": [
+           "N°41696"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11:10 a 11:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "GEOGRAFIA",
+          "docentes": [
+           "RICCI MARCOS JOSE"
+          ],
+          "plazas": [
+           "N°268075"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "ALVAREZ SILVIA ROSANA",
+           "N180989"
+          ],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "BEJARANO GLADYS MARISEL"
+          ],
+          "plazas": [
+           "N°26259"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "TECNOLOGIA",
+          "docentes": [
+           "AGÜERO LUIS NESTOR"
+          ],
+          "plazas": [
+           "N°41696"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11:50 a 12:30",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "PEREYRA ACUÑA ANA LIA"
+          ],
+          "plazas": [
+           "N°270167"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "BEJARANO GLADYS MARISEL"
+          ],
+          "plazas": [
+           "N°26259"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "14:30 A 16:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "AJUSTE",
+          "docentes": [
+           "CORDOBA ZELARAYAN CARLOS /CORBALAN DAVID"
+          ],
+          "plazas": [
+           "N°179775 /12527"
+          ]
+         },
+         {
+          "materia": "HOJALATERIA",
+          "docentes": [
+           "RODRIGUEZ JOSE / GRAMAJO MAURO"
+          ],
+          "plazas": [
+           "N°45335 / 13231"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "CARPINTERIA",
+          "docentes": [
+           "RODRIGUEZ PAOLA / GUTIERREZ DANIEL"
+          ],
+          "plazas": [
+           "N°113805 / 123933"
+          ]
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "SOSA GONZALO"
+          ],
+          "plazas": [
+           "N°11010"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "AJUSTE",
+          "docentes": [
+           "CORDOBA ZELARAYAN CARLOS / CORBALAN DAVID"
+          ],
+          "plazas": [
+           "N°179775 / 12527"
+          ]
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "SOSA GONZALO"
+          ],
+          "plazas": [
+           "N°11010"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "CARPINTERIA",
+          "docentes": [
+           "RODRIGUEZ PAOLA / GUTIERREZ DANIEL"
+          ],
+          "plazas": [
+           "N°113805 / 123933"
+          ]
+         },
+         {
+          "materia": "HOJALATERIA",
+          "docentes": [
+           "RODRIGUEZ JOSE / GRAMAJO MAURO"
+          ],
+          "plazas": [
+           "N°179775 /12527"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "16:30 A 18:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "AJUSTE",
+          "docentes": [
+           "CORDOBA ZELARAYAN CARLOS /CORBALAN DAVID"
+          ],
+          "plazas": [
+           "N°179775 / 12527"
+          ]
+         },
+         {
+          "materia": "HOJALATERIA",
+          "docentes": [
+           "RODRIGUEZ JOSE / GRAMAJO MAURO"
+          ],
+          "plazas": [
+           "N°45335 / 13231"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "CARPINTERIA",
+          "docentes": [
+           "RODRIGUEZ PAOLA / GUTIERREZ DANIEL"
+          ],
+          "plazas": [
+           "N°113805 / 123933"
+          ]
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "SOSA GONZALO"
+          ],
+          "plazas": [
+           "N°11010"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "AJUSTE",
+          "docentes": [
+           "CORDOBA ZELARAYAN CARLOS/ CORBALAN DAVID"
+          ],
+          "plazas": [
+           "N°179775 / 12527"
+          ]
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "SOSA GONZALO"
+          ],
+          "plazas": [
+           "N°11010"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "CARPINTERIA",
+          "docentes": [
+           "RODRIGUEZ PAOLA / GUTIERREZ DANIEL"
+          ],
+          "plazas": [
+           "N°113805 / 123933"
+          ]
+         },
+         {
+          "materia": "HOJALATERIA",
+          "docentes": [
+           "RODRIGUEZ JOSE / GRAMAJO MAURO"
+          ],
+          "plazas": [
+           "N°179775 /12527"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "14:00 A 16:00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "EDUCACION FISICA",
+          "docentes": [
+           "GRAY JORGE AUGUSTO"
+          ],
+          "plazas": [
+           "N°193828"
+          ]
+         }
+        ],
         "VIERNES": []
        }
       }
@@ -11732,424 +11732,6 @@
    ]
   },
   {
-   "hoja": "3°TT",
-   "curso": "2",
-   "division": "204",
-   "ciclo": "BASICO",
-   "resolucion": "510/5",
-   "observaciones": "HISTORIA, PROF. SIMON ROMINA SUPLENTE DE LA PROF. MEDINA ROSA (JUBILADA)",
-   "tablas": [
-    {
-     "titulo": "Horario de clases",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "07:30 A 08:10",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "EDUCACION ETICA Y CIUDADANA",
-          "docentes": [
-           "PEREYRA ACUÑA ANA LIA"
-          ],
-          "plazas": [
-           "N°15263"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "BARRENECHEA VERONICA MABEL"
-          ],
-          "plazas": [
-           "N°289631"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "SANTILLAN MARCO DIEGO"
-          ],
-          "plazas": [
-           "N°294500"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "DIBUJO TECNICO",
-          "docentes": [
-           "SANTILLAN MARCOS DIEGO"
-          ],
-          "plazas": [
-           "N°291151"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "CAMPOS DANIEL ALBERTO"
-          ],
-          "plazas": [
-           "N°134247"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "08:10 A 08:50",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "EDUCACION ETICA Y CIUDADANA",
-          "docentes": [
-           "PEREYRA ACUÑA ANA LIA"
-          ],
-          "plazas": [
-           "N°15263"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "BARRENECHA VERONICA MABEL"
-          ],
-          "plazas": [
-           "N°289631"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "SANTILLAN MARCOS DIEGO"
-          ],
-          "plazas": [
-           "N°294500"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "DIBUJO TECNICO",
-          "docentes": [
-           "SANTILLAN MARCOS DIEGO"
-          ],
-          "plazas": [
-           "N°291151"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "CAMPOS DANIEL ALBERTO"
-          ],
-          "plazas": [
-           "N°134247"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "09:00 A 09:40",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "FISICA",
-          "docentes": [
-           "RODRIGUEZ ANA MARIA"
-          ],
-          "plazas": [
-           "N°308136"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "SANTILLAN MARCOS DIEGO",
-           "N294500"
-          ],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "BARRENECHA VERONICA MABEL"
-          ],
-          "plazas": [
-           "N°289631"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "QUIMICA",
-          "docentes": [
-           "FUENSALIDA SOFIA JOSEFINA"
-          ],
-          "plazas": [
-           "N°216606"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "CAMPOS DANIEL ALBERTO"
-          ],
-          "plazas": [
-           "N°134247"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "09:40 A 10:20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "FISICA",
-          "docentes": [
-           "RODRIGUEZ ANA MARIA"
-          ],
-          "plazas": [
-           "N°308136"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "SANTILLAN MARCOS DIEGO"
-          ],
-          "plazas": [
-           "N°294500"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "BARRENECHEA VERONICA MABEL"
-          ],
-          "plazas": [
-           "N°289631"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "QUIMICA",
-          "docentes": [
-           "FUENSALIDA SOFIA JOSEFINA"
-          ],
-          "plazas": [
-           "N°216606"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "SIMON ROMINA"
-          ],
-          "plazas": [
-           "N°288582"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "10:30 A 11:10",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "BIOLOGIA",
-          "docentes": [
-           "CAMPOS MARTA VANESA"
-          ],
-          "plazas": [
-           "N°268074"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "SANTILLAN MARCOS DIEGO"
-          ],
-          "plazas": [
-           "N°294500"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "BARRENECHA VERONICA MABEL"
-          ],
-          "plazas": [
-           "N°289631"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "BIOLOGIA",
-          "docentes": [
-           "CAMPOS MARTA VANESA",
-           "N268074"
-          ],
-          "plazas": []
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "GEOGRAFIA",
-          "docentes": [
-           "DE ANGELIS HUGO ENRIQUE"
-          ],
-          "plazas": [
-           "N°9640"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "11:10 A 11:50",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "BIOLOGIA",
-          "docentes": [
-           "CAMPOS MARTA VANESA"
-          ],
-          "plazas": [
-           "N°268074"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "FISICA",
-          "docentes": [
-           "RODRIGUEZ ANA MARIA",
-           "N294500"
-          ],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "DIBUJO TECNICO",
-          "docentes": [
-           "SANTILLAN MARCOS DIEGO"
-          ],
-          "plazas": [
-           "N°291151"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "SIMON ROMINA ELIZABETH"
-          ],
-          "plazas": [
-           "N°15263"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "GEOGRAFIA",
-          "docentes": [
-           "DE ANGELIS HUGO ENRIQUE"
-          ],
-          "plazas": [
-           "N°9640"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "11:50 A 12:30",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "FISICA",
-          "docentes": [
-           "RODRIGUEZ ANA MARIA"
-          ],
-          "plazas": [
-           "N°308136"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "DIBUJO TECNICO",
-          "docentes": [
-           "SANTILLAN MARCOS DIEGO"
-          ],
-          "plazas": [
-           "N°291151"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [],
-          "plazas": [
-           "N°15263"
-          ]
-         }
-        ],
-        "VIERNES": []
-       }
-      }
-     ]
-    }
-   ]
-  },
-  {
    "hoja": "2° AÑO 215 TN",
    "curso": "2",
    "division": "215",
@@ -12669,6 +12251,424 @@
           ]
          }
         ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "3°TT",
+   "curso": "2",
+   "division": "204",
+   "ciclo": "BASICO",
+   "resolucion": "510/5",
+   "observaciones": "HISTORIA, PROF. SIMON ROMINA SUPLENTE DE LA PROF. MEDINA ROSA (JUBILADA)",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "07:30 A 08:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "EDUCACION ETICA Y CIUDADANA",
+          "docentes": [
+           "PEREYRA ACUÑA ANA LIA"
+          ],
+          "plazas": [
+           "N°15263"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "BARRENECHEA VERONICA MABEL"
+          ],
+          "plazas": [
+           "N°289631"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "SANTILLAN MARCO DIEGO"
+          ],
+          "plazas": [
+           "N°294500"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "DIBUJO TECNICO",
+          "docentes": [
+           "SANTILLAN MARCOS DIEGO"
+          ],
+          "plazas": [
+           "N°291151"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "CAMPOS DANIEL ALBERTO"
+          ],
+          "plazas": [
+           "N°134247"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "08:10 A 08:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "EDUCACION ETICA Y CIUDADANA",
+          "docentes": [
+           "PEREYRA ACUÑA ANA LIA"
+          ],
+          "plazas": [
+           "N°15263"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "BARRENECHA VERONICA MABEL"
+          ],
+          "plazas": [
+           "N°289631"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "SANTILLAN MARCOS DIEGO"
+          ],
+          "plazas": [
+           "N°294500"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "DIBUJO TECNICO",
+          "docentes": [
+           "SANTILLAN MARCOS DIEGO"
+          ],
+          "plazas": [
+           "N°291151"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "CAMPOS DANIEL ALBERTO"
+          ],
+          "plazas": [
+           "N°134247"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "09:00 A 09:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "FISICA",
+          "docentes": [
+           "RODRIGUEZ ANA MARIA"
+          ],
+          "plazas": [
+           "N°308136"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "SANTILLAN MARCOS DIEGO",
+           "N294500"
+          ],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "BARRENECHA VERONICA MABEL"
+          ],
+          "plazas": [
+           "N°289631"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "QUIMICA",
+          "docentes": [
+           "FUENSALIDA SOFIA JOSEFINA"
+          ],
+          "plazas": [
+           "N°216606"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "CAMPOS DANIEL ALBERTO"
+          ],
+          "plazas": [
+           "N°134247"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "09:40 A 10:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "FISICA",
+          "docentes": [
+           "RODRIGUEZ ANA MARIA"
+          ],
+          "plazas": [
+           "N°308136"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "SANTILLAN MARCOS DIEGO"
+          ],
+          "plazas": [
+           "N°294500"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "BARRENECHEA VERONICA MABEL"
+          ],
+          "plazas": [
+           "N°289631"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "QUIMICA",
+          "docentes": [
+           "FUENSALIDA SOFIA JOSEFINA"
+          ],
+          "plazas": [
+           "N°216606"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "SIMON ROMINA"
+          ],
+          "plazas": [
+           "N°288582"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "10:30 A 11:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "BIOLOGIA",
+          "docentes": [
+           "CAMPOS MARTA VANESA"
+          ],
+          "plazas": [
+           "N°268074"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "SANTILLAN MARCOS DIEGO"
+          ],
+          "plazas": [
+           "N°294500"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "BARRENECHA VERONICA MABEL"
+          ],
+          "plazas": [
+           "N°289631"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "BIOLOGIA",
+          "docentes": [
+           "CAMPOS MARTA VANESA",
+           "N268074"
+          ],
+          "plazas": []
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "GEOGRAFIA",
+          "docentes": [
+           "DE ANGELIS HUGO ENRIQUE"
+          ],
+          "plazas": [
+           "N°9640"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11:10 A 11:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "BIOLOGIA",
+          "docentes": [
+           "CAMPOS MARTA VANESA"
+          ],
+          "plazas": [
+           "N°268074"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "FISICA",
+          "docentes": [
+           "RODRIGUEZ ANA MARIA",
+           "N294500"
+          ],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "DIBUJO TECNICO",
+          "docentes": [
+           "SANTILLAN MARCOS DIEGO"
+          ],
+          "plazas": [
+           "N°291151"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "SIMON ROMINA ELIZABETH"
+          ],
+          "plazas": [
+           "N°15263"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "GEOGRAFIA",
+          "docentes": [
+           "DE ANGELIS HUGO ENRIQUE"
+          ],
+          "plazas": [
+           "N°9640"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11:50 A 12:30",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "FISICA",
+          "docentes": [
+           "RODRIGUEZ ANA MARIA"
+          ],
+          "plazas": [
+           "N°308136"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "DIBUJO TECNICO",
+          "docentes": [
+           "SANTILLAN MARCOS DIEGO"
+          ],
+          "plazas": [
+           "N°291151"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [],
+          "plazas": [
+           "N°15263"
+          ]
+         }
+        ],
+        "VIERNES": []
        }
       }
      ]

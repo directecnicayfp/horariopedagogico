@@ -15306,24 +15306,6 @@
      ],
      "filas": [
       {
-       "hora": "18:00 A 19:00",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "EDUCACION FISICA",
-          "docentes": [
-           "ZELAYA SERGIO"
-          ],
-          "plazas": []
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
        "hora": "16:00 A 17:00",
        "celdas": {
         "LUNES": [],
@@ -15339,6 +15321,24 @@
           "plazas": []
          }
         ]
+       }
+      },
+      {
+       "hora": "18:00 A 19:00",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "EDUCACION FISICA",
+          "docentes": [
+           "ZELAYA SERGIO"
+          ],
+          "plazas": []
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
        }
       }
      ]

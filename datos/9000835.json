@@ -1121,6 +1121,577 @@
    ]
   },
   {
+   "hoja": "1°AÑO C",
+   "curso": "1°",
+   "division": "C",
+   "ciclo": "BASICO",
+   "resolucion": "1277/5 (Med)",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "1° 14:00 A 14:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "DIBUJO TECNICO",
+          "docentes": [
+           "CASTILLO DORA ISABEL"
+          ],
+          "plazas": [
+           "N° 274178"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "LOBO MARICEL DEL VALLE"
+          ],
+          "plazas": [
+           "N° 236668"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "ROMANO FRANCO"
+          ],
+          "plazas": [
+           "N° 304154"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FISICO-QUIMICA",
+          "docentes": [
+           "FIGUEROA ANGELA-GLINKI NOELIA"
+          ],
+          "plazas": [
+           "N° 226589"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "GOMEZ ADRIANA-PAZ ARIEL"
+          ],
+          "plazas": [
+           "N° 109705"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "2° 14:40 A 15:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "DIBUJO TECNICO",
+          "docentes": [
+           "CASTILLO DORA ISABEL"
+          ],
+          "plazas": [
+           "N° 274178"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "LOBO MARICEL DEL VALLE"
+          ],
+          "plazas": [
+           "N° 236668"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "ROMANO FRANCO"
+          ],
+          "plazas": [
+           "N° 304154"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FISICO-QUIMICA",
+          "docentes": [
+           "FIGUEROA ANGELA-GLINSKI NOELIA"
+          ],
+          "plazas": [
+           "N° 226590"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "GOMEZ ADRIANA-PAZ ARIEL"
+          ],
+          "plazas": [
+           "N° 109705"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "3° 15:30 A 16:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "BIOLOGIA",
+          "docentes": [
+           "ARGAÑARAZ MARIA INES"
+          ],
+          "plazas": [
+           "N° 230634"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "LUCENA MIRIAM"
+          ],
+          "plazas": [
+           "N° 32700"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "DIBUJO TECNICO",
+          "docentes": [
+           "CASTILLO DORA ISABEL"
+          ],
+          "plazas": [
+           "N° 274178"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FISICO-QUIMICA",
+          "docentes": [
+           "FIGUEROA ANGELA-GLINSKI NOELIA"
+          ],
+          "plazas": [
+           "N° 226590"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "LOBO MARICEL"
+          ],
+          "plazas": [
+           "N° 236668"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "4° 16:10 A 16:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "BIOLOGIA",
+          "docentes": [
+           "ARGAÑARAZ MARIA INES"
+          ],
+          "plazas": [
+           "N° 230634"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "LUCENA MIRIAM"
+          ],
+          "plazas": [
+           "N° 32700"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "DIBUJO TECNICO",
+          "docentes": [
+           "CASTILLO DORA ISABEL"
+          ],
+          "plazas": [
+           "N° 274178"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "GOMEZ ADRIANA-PAZ ARIEL"
+          ],
+          "plazas": [
+           "N° 109705"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "LOBO MARICEL"
+          ],
+          "plazas": [
+           "N° 236668"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "5° 17:00 A 17:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "BIOLOGIA",
+          "docentes": [
+           "ARGAÑARAZ MARIA INES"
+          ],
+          "plazas": [
+           "N° 230634"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "LUCENA MIRIAM E."
+          ],
+          "plazas": [
+           "N° 32700"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "GEOGRAFIA",
+          "docentes": [
+           "GONZALEZ FATIMA P."
+          ],
+          "plazas": [
+           "N° 236939"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "GOMEZ ADRIANA-PAZ ARIEL"
+          ],
+          "plazas": [
+           "N° 109705"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "TECNOLOGIA",
+          "docentes": [
+           "FERNANDEZ CLAUDIO-LUNA ANDRES"
+          ],
+          "plazas": [
+           "N° 127762"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "6° 17:40 A 18:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "GOMEZ ADRIANA-PAZ ARIEL"
+          ],
+          "plazas": [
+           "N° 109705"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "ROMANO FRANCO"
+          ],
+          "plazas": [
+           "N° 304154"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "GEOGRAFIA",
+          "docentes": [
+           "GONZALEZ FATIMA P."
+          ],
+          "plazas": [
+           "N° 236939"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "TECNOLOGIA",
+          "docentes": [
+           "FERNANDEZ CLAUDIO-LUNA ANDRES"
+          ],
+          "plazas": [
+           "N° 127762"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "7° 18:20 A 19:00",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "LOBO MARICEL"
+          ],
+          "plazas": [
+           "N° 236668"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "TECNOLOGIA",
+          "docentes": [
+           "FERNANDEZ CLAUDIO-LUNA ANDRES"
+          ],
+          "plazas": [
+           "N° 127762"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "07:20 A 09:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "CARPINTERIA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "AJUSTE",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HOJALATERIA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "AJUSTE",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HOJALATERIA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "CARPINTERIA",
+          "docentes": [],
+          "plazas": []
+         }
+        ]
+       }
+      },
+      {
+       "hora": "09:30 A 11:30",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LUNA ANDRES",
+          "docentes": [],
+          "plazas": [
+           "N° 236360"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "N°",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ORELLANA ULISES",
+          "docentes": [],
+          "plazas": [
+           "N° 236359"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LAZARTE LOPEZ RAUL",
+          "docentes": [],
+          "plazas": [
+           "N° 236343"
+          ]
+         },
+         {
+          "materia": "N°",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LAZARTE LOPEZ RAUL",
+          "docentes": [],
+          "plazas": [
+           "N° 236343"
+          ]
+         },
+         {
+          "materia": "ORELLANA ULISES",
+          "docentes": [],
+          "plazas": [
+           "N° 236359"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LUNA ANDRES",
+          "docentes": [],
+          "plazas": [
+           "N° 236360"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "07:30 A 09:30",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "DIAZ RAUL FEDERICO"
+          ],
+          "plazas": [
+           "N° 24507"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
    "hoja": "1°AÑO D",
    "curso": "1°",
    "division": "D",
@@ -1683,577 +2254,6 @@
            "QUIROS RITA IVONNE- DIAZ FEDERICO"
           ],
           "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hoja": "1°AÑO C",
-   "curso": "1°",
-   "division": "C",
-   "ciclo": "BASICO",
-   "resolucion": "1277/5 (Med)",
-   "observaciones": "",
-   "tablas": [
-    {
-     "titulo": "Horario de clases",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "1° 14:00 A 14:40",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "DIBUJO TECNICO",
-          "docentes": [
-           "CASTILLO DORA ISABEL"
-          ],
-          "plazas": [
-           "N° 274178"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "LOBO MARICEL DEL VALLE"
-          ],
-          "plazas": [
-           "N° 236668"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "ROMANO FRANCO"
-          ],
-          "plazas": [
-           "N° 304154"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "FISICO-QUIMICA",
-          "docentes": [
-           "FIGUEROA ANGELA-GLINKI NOELIA"
-          ],
-          "plazas": [
-           "N° 226589"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "GOMEZ ADRIANA-PAZ ARIEL"
-          ],
-          "plazas": [
-           "N° 109705"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "2° 14:40 A 15:20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "DIBUJO TECNICO",
-          "docentes": [
-           "CASTILLO DORA ISABEL"
-          ],
-          "plazas": [
-           "N° 274178"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "LOBO MARICEL DEL VALLE"
-          ],
-          "plazas": [
-           "N° 236668"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "ROMANO FRANCO"
-          ],
-          "plazas": [
-           "N° 304154"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "FISICO-QUIMICA",
-          "docentes": [
-           "FIGUEROA ANGELA-GLINSKI NOELIA"
-          ],
-          "plazas": [
-           "N° 226590"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "GOMEZ ADRIANA-PAZ ARIEL"
-          ],
-          "plazas": [
-           "N° 109705"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "3° 15:30 A 16:10",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "BIOLOGIA",
-          "docentes": [
-           "ARGAÑARAZ MARIA INES"
-          ],
-          "plazas": [
-           "N° 230634"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "LUCENA MIRIAM"
-          ],
-          "plazas": [
-           "N° 32700"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "DIBUJO TECNICO",
-          "docentes": [
-           "CASTILLO DORA ISABEL"
-          ],
-          "plazas": [
-           "N° 274178"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "FISICO-QUIMICA",
-          "docentes": [
-           "FIGUEROA ANGELA-GLINSKI NOELIA"
-          ],
-          "plazas": [
-           "N° 226590"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "LOBO MARICEL"
-          ],
-          "plazas": [
-           "N° 236668"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "4° 16:10 A 16:50",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "BIOLOGIA",
-          "docentes": [
-           "ARGAÑARAZ MARIA INES"
-          ],
-          "plazas": [
-           "N° 230634"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "LUCENA MIRIAM"
-          ],
-          "plazas": [
-           "N° 32700"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "DIBUJO TECNICO",
-          "docentes": [
-           "CASTILLO DORA ISABEL"
-          ],
-          "plazas": [
-           "N° 274178"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "GOMEZ ADRIANA-PAZ ARIEL"
-          ],
-          "plazas": [
-           "N° 109705"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "LOBO MARICEL"
-          ],
-          "plazas": [
-           "N° 236668"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "5° 17:00 A 17:40",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "BIOLOGIA",
-          "docentes": [
-           "ARGAÑARAZ MARIA INES"
-          ],
-          "plazas": [
-           "N° 230634"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "LUCENA MIRIAM E."
-          ],
-          "plazas": [
-           "N° 32700"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "GEOGRAFIA",
-          "docentes": [
-           "GONZALEZ FATIMA P."
-          ],
-          "plazas": [
-           "N° 236939"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "GOMEZ ADRIANA-PAZ ARIEL"
-          ],
-          "plazas": [
-           "N° 109705"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "TECNOLOGIA",
-          "docentes": [
-           "FERNANDEZ CLAUDIO-LUNA ANDRES"
-          ],
-          "plazas": [
-           "N° 127762"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "6° 17:40 A 18:20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "GOMEZ ADRIANA-PAZ ARIEL"
-          ],
-          "plazas": [
-           "N° 109705"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "ROMANO FRANCO"
-          ],
-          "plazas": [
-           "N° 304154"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "GEOGRAFIA",
-          "docentes": [
-           "GONZALEZ FATIMA P."
-          ],
-          "plazas": [
-           "N° 236939"
-          ]
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "TECNOLOGIA",
-          "docentes": [
-           "FERNANDEZ CLAUDIO-LUNA ANDRES"
-          ],
-          "plazas": [
-           "N° 127762"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "7° 18:20 A 19:00",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "LOBO MARICEL"
-          ],
-          "plazas": [
-           "N° 236668"
-          ]
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "TECNOLOGIA",
-          "docentes": [
-           "FERNANDEZ CLAUDIO-LUNA ANDRES"
-          ],
-          "plazas": [
-           "N° 127762"
-          ]
-         }
-        ]
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Taller Tecnológico",
-     "tipo": "taller",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "07:20 A 09:20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "CARPINTERIA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "AJUSTE",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "HOJALATERIA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "AJUSTE",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "HOJALATERIA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "CARPINTERIA",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "09:30 A 11:30",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "LUNA ANDRES",
-          "docentes": [],
-          "plazas": [
-           "N° 236360"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "N°",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ORELLANA ULISES",
-          "docentes": [],
-          "plazas": [
-           "N° 236359"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LAZARTE LOPEZ RAUL",
-          "docentes": [],
-          "plazas": [
-           "N° 236343"
-          ]
-         },
-         {
-          "materia": "N°",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "LAZARTE LOPEZ RAUL",
-          "docentes": [],
-          "plazas": [
-           "N° 236343"
-          ]
-         },
-         {
-          "materia": "ORELLANA ULISES",
-          "docentes": [],
-          "plazas": [
-           "N° 236359"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LUNA ANDRES",
-          "docentes": [],
-          "plazas": [
-           "N° 236360"
-          ]
-         }
-        ]
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Educación Física",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "07:30 A 09:30",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "EDUCACIÓN FÍSICA",
-          "docentes": [
-           "DIAZ RAUL FEDERICO"
-          ],
-          "plazas": [
-           "N° 24507"
-          ]
          }
         ],
         "JUEVES": [],
@@ -5782,1034 +5782,6 @@
    ]
   },
   {
-   "hoja": "4°AÑO D",
-   "curso": "4°",
-   "division": "D",
-   "ciclo": "SUPERIOR",
-   "resolucion": "50/5 (Med)",
-   "observaciones": "",
-   "tablas": [
-    {
-     "titulo": "Horario de clases",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "1° 14:00 A 14:40",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "LUCENA MIRIAM E."
-          ],
-          "plazas": [
-           "N° 178730"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "ROMANO FRANCO"
-          ],
-          "plazas": [
-           "N° 237133"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "SISTEMA DE INFORMACION CONTABLE",
-          "docentes": [
-           "BARBOZA MIRTA-CASTILLO ISABEL"
-          ],
-          "plazas": [
-           "N° 20181"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "TEORIA DE LAS ORGANIZACIONES",
-          "docentes": [],
-          "plazas": [
-           "N° 99772"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "FILOSOFIA Y ANTROPOLOGIA",
-          "docentes": [
-           "TELLO LAURA"
-          ],
-          "plazas": [
-           "N° 235549"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "2° 14:40 A 15:20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "LUCENA MIRIAM E."
-          ],
-          "plazas": [
-           "N° 178730"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "ROMANO FRANCO"
-          ],
-          "plazas": [
-           "N° 237133"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "SISTEMA DE INFORMACION CONTABLE",
-          "docentes": [
-           "BARBOZA MIRTA-CASTILLO ISABEL"
-          ],
-          "plazas": [
-           "N° 20181"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "TEORIA DE LAS ORGANIZACIONES",
-          "docentes": [],
-          "plazas": [
-           "N° 99772"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "FILOSOFIA Y ANTROPOLOGIA",
-          "docentes": [
-           "TELLO LAURA"
-          ],
-          "plazas": [
-           "N° 235549"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "3° 15:30 A 16:10",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "SISTEMA DE INFORMACION CONTABLE",
-          "docentes": [
-           "BARBOZA MIRTA-CASTILLO ISABEL"
-          ],
-          "plazas": [
-           "N° 20181"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "LOBO MARICEL-MAZA DOLORES"
-          ],
-          "plazas": [
-           "N° 20180"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "GOMEZ RUBEN-MEDINA ANGELES"
-          ],
-          "plazas": [
-           "N° 144922"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "DERECHO CIVIL",
-          "docentes": [
-           "PAVON ISABEL"
-          ],
-          "plazas": [
-           "N° 10073"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "RELACIONES HUMANAS",
-          "docentes": [
-           "MULE GABRIELA LORENA"
-          ],
-          "plazas": [
-           "N° 237138"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "4° 16:10 A 16:50",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "SISTEMA DE INFORMACION CONTABLE",
-          "docentes": [
-           "BARBOZA MIRTA-CASTILLO ISABEL"
-          ],
-          "plazas": [
-           "N° 20181"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "LOBO MARICEL-MAZA DOLORES"
-          ],
-          "plazas": [
-           "N° 20180"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "GOMEZ RUBEN-MEDINA ANGELES"
-          ],
-          "plazas": [
-           "N° 144922"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "TEORIA DE LAS ORGANIZ.",
-          "docentes": [],
-          "plazas": [
-           "N° 99772"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "RELACIONES HUMANAS",
-          "docentes": [
-           "MULE GABRIELA LORENA"
-          ],
-          "plazas": [
-           "N° 237138"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "5° 17:00 A 17:40",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "ECONOMIA I",
-          "docentes": [
-           "BARBOZA MIRTA- VELIZ ROSA"
-          ],
-          "plazas": [
-           "N° 32647"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "DERECHO CIVIL",
-          "docentes": [
-           "PAVON ISABEL"
-          ],
-          "plazas": [
-           "N° 10073"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "ROMANO FRANCO"
-          ],
-          "plazas": [
-           "N° 237133"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "ECONOMIA I",
-          "docentes": [
-           "BARBOZA MIRTA- VELIZ ROSA"
-          ],
-          "plazas": [
-           "N° 133384"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "ADMINISTRACION I",
-          "docentes": [
-           "AHUMADA MARIANA"
-          ],
-          "plazas": [
-           "N° 35334"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "6° 17:40 A 18:20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "ECONOMIA I",
-          "docentes": [
-           "BARBOZA MIRTA- VELIZ ROSA"
-          ],
-          "plazas": [
-           "N° 32647"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "DERECHO CIVIL",
-          "docentes": [
-           "PAVON ISABEL"
-          ],
-          "plazas": [
-           "N° 10073"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "LOBO MARICEL-MAZA DOLORES"
-          ],
-          "plazas": [
-           "N° 20180"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "LUCENA MIRIAM E."
-          ],
-          "plazas": [
-           "N° 178730"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "ADMINISTRACION I",
-          "docentes": [
-           "AHUMADA MARIANA"
-          ],
-          "plazas": [
-           "N° 35334"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "7° 18:20 A 19:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "METEMATICA",
-          "docentes": [
-           "LOBO MARICEL- MAZA DOLORES"
-          ],
-          "plazas": [
-           "N° 20180"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "GOMEZ RUBEN-MEDINA ANGELES"
-          ],
-          "plazas": [
-           "N° 144922"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "ADMINISTRACION I",
-          "docentes": [
-           "AHUMADA MARIANA"
-          ],
-          "plazas": [
-           "N° 35334"
-          ]
-         }
-        ]
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Taller Tecnológico",
-     "tipo": "taller",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "07:20 A 9:20",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "PRACTICA CONTABLE I",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "PRACTICA ORGANIZACIONAL I",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "09:30 A 11:30",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "BEBER MARIA- DELGADO CLARA",
-          "docentes": [],
-          "plazas": [
-           "N° 236399"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "PAVON MATILDE ISABEL",
-          "docentes": [],
-          "plazas": [
-           "N° 236361"
-          ]
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Educación Física",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "07:30 A 09:30",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "EDUCACIÓN FÍSICA",
-          "docentes": [
-           "VERA EMILIO MARTIN"
-          ],
-          "plazas": [
-           "N° 147018"
-          ]
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hoja": "4°AÑO B",
-   "curso": "4°",
-   "division": "B",
-   "ciclo": "SUPERIOR",
-   "resolucion": "50/5 (Med)",
-   "observaciones": "",
-   "tablas": [
-    {
-     "titulo": "Horario de clases",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "1° 14:00 A 14:40",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "SISTEMA DE INFORMACION CONTABLE",
-          "docentes": [
-           "BARBOZA MIRTA-LUNA LORENA"
-          ],
-          "plazas": [
-           "N° 1889"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "TEORIA DE LAS ORGANIZACIONES",
-          "docentes": [
-           "CASTILLO DORA ISABEL"
-          ],
-          "plazas": [
-           "N° 19201"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "LOBO MARICEL-Reemp."
-          ],
-          "plazas": [
-           "N° 109664"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "DERECHO CIVIL",
-          "docentes": [
-           "PAVON ISABEL"
-          ],
-          "plazas": [
-           "N° 10072"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "LUNA MARIEL SILVINA"
-          ],
-          "plazas": [
-           "N° 33378"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "2° 14:40 A 15:20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "SISTEMA DE INFORMACION CONTABLE",
-          "docentes": [
-           "BARBOZA MIRTA-LUNA LORENA"
-          ],
-          "plazas": [
-           "N° 1889"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "TEORIA DE LAS ORGANIZACIONES",
-          "docentes": [
-           "CASTILLO DORA ISABEL"
-          ],
-          "plazas": [
-           "N° 19201"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "LOBO MARICEL-Reemp."
-          ],
-          "plazas": [
-           "N° 109664"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "DERECHO CIVIL",
-          "docentes": [
-           "PAVON ISABEL"
-          ],
-          "plazas": [
-           "N° 10072"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "LUNA MARIEL SILVINA"
-          ],
-          "plazas": [
-           "N° 33378"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "3° 15:30 A 16:10",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "BAEZ ALEJANDRO I."
-          ],
-          "plazas": [
-           "N° 228501"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "ECONOMIA I",
-          "docentes": [
-           "BARBOZA MIRTA-Reemp.GOMEZ LAURA"
-          ],
-          "plazas": [
-           "N°204572"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "GOMEZ ADRIANA-Reemp.PAZ ARIEL"
-          ],
-          "plazas": [
-           "N° 111606"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "ECONOMIA",
-          "docentes": [
-           "BARBOZA MIRTA-Reemp-GOMEZ LAURA"
-          ],
-          "plazas": [
-           "N° 133381"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "FILOSOFIA Y ANTROPOLOGIA",
-          "docentes": [
-           "TELLO LAURA"
-          ],
-          "plazas": [
-           "N°235548"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "4° 16:10 A 16:50",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "BAEZ ALEJANDRO I."
-          ],
-          "plazas": [
-           "N° 228501"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "ECONOMIA I",
-          "docentes": [
-           "BARBOZA MIRTA-Reemp.GOMEZ LAURA"
-          ],
-          "plazas": [
-           "N° 204572"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "GOMEZ ADRIANA-Reemp.PAZ ARIEL"
-          ],
-          "plazas": [
-           "N° 111606"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "ADMINISTRACION I",
-          "docentes": [
-           "LUNA LORENA VANESA"
-          ],
-          "plazas": [
-           "N° 237114"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "FILOSOFIA Y ANTROPOLOGIA",
-          "docentes": [
-           "TELLO LAURA"
-          ],
-          "plazas": [
-           "N° 235548"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "5° 17:00 A 17:40",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "LOBO MARICEL-Reemp."
-          ],
-          "plazas": [
-           "N° 109664"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "SISTEMA DE INFORMACION CONTABLE",
-          "docentes": [
-           "BARBOZA MIRTA-LUNA LORENA"
-          ],
-          "plazas": [
-           "N° 1889"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "TEORIA DE LAS ORGANIZ.",
-          "docentes": [
-           "CASTILLO DORA ISABEL"
-          ],
-          "plazas": [
-           "N° 19201"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "ADMINISTRACION I",
-          "docentes": [
-           "LUNA LORENA VANESA"
-          ],
-          "plazas": [
-           "N° 237114"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "GOMEZ ADRIANA-PAZ ARIEL"
-          ],
-          "plazas": [
-           "N° 111606"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "6° 17:40 A 18:20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "LOBO MARICEL-Reemp."
-          ],
-          "plazas": [
-           "N° 109664"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "SISTEMA DE INFORMACION CONTABLE",
-          "docentes": [
-           "BARBOZA MIRTA-LUNA LORENA"
-          ],
-          "plazas": [
-           "N° 1889"
-          ]
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "ADMINISTRACION I",
-          "docentes": [
-           "LUNA LORENA VANESA"
-          ],
-          "plazas": [
-           "N° 237114"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "RELACIONES HUMANAS",
-          "docentes": [
-           "MULE GABRIELA LORENA"
-          ],
-          "plazas": [
-           "N° 237137"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "7° 18:20 A 19:00",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "BAEZ ALEJANDRO I."
-          ],
-          "plazas": [
-           "N° 228501"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "DERECHO CIVIL",
-          "docentes": [
-           "PAVON ISABEL"
-          ],
-          "plazas": [
-           "N° 10072"
-          ]
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "LUNA MARIEL SILVINA"
-          ],
-          "plazas": [
-           "N° 33378"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "RELACIONES HUMANAS",
-          "docentes": [
-           "MULE GABRIELA LORENA"
-          ],
-          "plazas": [
-           "N° 237137"
-          ]
-         }
-        ]
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Taller Tecnológico",
-     "tipo": "taller",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "07:20 A 09:20",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "PRACTICA ORGANIZACIONAL",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "PRACTICA CONTABLE",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "09:30 A 11:30",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "PAVON MATILDE ISABEL",
-          "docentes": [],
-          "plazas": [
-           "N° 236361"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "BEBER MARIA- DELGADO CLARA",
-          "docentes": [],
-          "plazas": [
-           "N° 236399"
-          ]
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Educación Física",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "09:30 A 11:30",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "EDUCACIÓN FÍSICA",
-          "docentes": [
-           "VERA EMILIO MARTIN"
-          ],
-          "plazas": [
-           "N° 236762"
-          ]
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      }
-     ]
-    }
-   ]
-  },
-  {
    "hoja": "3°AÑO B",
    "curso": "3°",
    "division": "B",
@@ -7392,1190 +6364,6 @@
           ]
          }
         ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hoja": "5°AÑO A",
-   "curso": "5°",
-   "division": "A",
-   "ciclo": "SUPERIOR",
-   "resolucion": "1277/5 (Med)",
-   "observaciones": "",
-   "tablas": [
-    {
-     "titulo": "Horario de clases",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "1° 14:00 A 14:40",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "ELECTRONICA",
-          "docentes": [
-           "FERNANDEZ CLAUDIO-DEL MORAL MARIO"
-          ],
-          "plazas": [
-           "N° 41833"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "JIMENEZ MARIA SILVIA"
-          ],
-          "plazas": [
-           "N° 111462"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "GOMEZ RUBEN-MEDINA ANGELES"
-          ],
-          "plazas": [
-           "N° 111455"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "MATEMATICA APLICADA I",
-          "docentes": [
-           "LESCANO MARCELA"
-          ],
-          "plazas": [
-           "N° 143986"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "TERMODINAMICA Y MAQUINAS TERMICAS",
-          "docentes": [
-           "ZANOTTA VICTOR DANIEL"
-          ],
-          "plazas": [
-           "N° 35104"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "2° 14:40 A 15:20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "ELECTRONICA",
-          "docentes": [
-           "FERNANDEZ CLAUDIO-DEL MORAL MARIO"
-          ],
-          "plazas": [
-           "N° 41833"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "JIMENEZ MARIA SILVIA"
-          ],
-          "plazas": [
-           "N° 111462"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "GOMEZ RUBEN- MEDINA ANGELES"
-          ],
-          "plazas": [
-           "N° 111455"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "MATEMATICA APLICADA I",
-          "docentes": [
-           "LESCANO MARCELA"
-          ],
-          "plazas": [
-           "N° 143986"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "TERMODINAMICA Y MAQUINAS TERMICAS",
-          "docentes": [
-           "ZANOTTA VICTOR DANIEL"
-          ],
-          "plazas": [
-           "N° 35104"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "3° 15:30 A 16:10",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "ELECTROTECNIA II",
-          "docentes": [
-           "DEL MORAL MARIO"
-          ],
-          "plazas": [
-           "N° 36072"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "GEOGRAFIA",
-          "docentes": [
-           "PRADO EMANUEL"
-          ],
-          "plazas": [
-           "N° 24383"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "ORGANIZACION INDUSTRIAL I",
-          "docentes": [
-           "FERNANDEZ CLAUDIO- RIVERO NATALIA"
-          ],
-          "plazas": [
-           "N° 226811"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "ELECTROTECNIA II",
-          "docentes": [
-           "DEL MORAL MARIO"
-          ],
-          "plazas": [
-           "N° 36072"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "TERMODINAMICA Y MAQUINAS TERMICAS",
-          "docentes": [
-           "ZANOTTA VICTOR DANIEL"
-          ],
-          "plazas": [
-           "N° 35104"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "4° 16:10 A 16:50",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "ELECTROTECNIA II",
-          "docentes": [
-           "DEL MORAL MARIO"
-          ],
-          "plazas": [
-           "N° 36072"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "GEOGRAFIA",
-          "docentes": [
-           "PRADO EMANUEL"
-          ],
-          "plazas": [
-           "N° 24383"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "ORGANIZACION INDUSTRIAL I",
-          "docentes": [
-           "FERNADEZ CLAUDIO-RIVERO NATALIA"
-          ],
-          "plazas": [
-           "N° 226811"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "ELECTROTECNIA II",
-          "docentes": [
-           "DEL MORAL MARIO"
-          ],
-          "plazas": [
-           "N° 36072"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "METALURGICA Y TECNOLOGIA MECANICA",
-          "docentes": [
-           "FIGUEROA FELIX MARIO"
-          ],
-          "plazas": [
-           "N° 33033"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "5° 17:00 A 17:40",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "MATEMATICA APLICADA I",
-          "docentes": [
-           "LESCANO MARCELA"
-          ],
-          "plazas": [
-           "N° 143986"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "ELECTRONICA",
-          "docentes": [
-           "FERNANDEZ CLAUDIO-DEL MORAL MARIIO"
-          ],
-          "plazas": [
-           "N° 41833"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "ELEMENTO DE MAQUINAS",
-          "docentes": [
-           "MEDINA SERGIO LUIS"
-          ],
-          "plazas": [
-           "N° 909"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "JIMENEZ MARIA SILVIA"
-          ],
-          "plazas": [
-           "N° 111462"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "METALURGICA Y TECNOLOGIA MECANICA",
-          "docentes": [
-           "FIGUEROA FELIX MARIO"
-          ],
-          "plazas": [
-           "N° 33033"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "6° 17:40 A 18:20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "MATEMATICA APLICADA I",
-          "docentes": [
-           "LESCANO MARCELA"
-          ],
-          "plazas": [
-           "N° 143986"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "ELECTRONICA",
-          "docentes": [
-           "FERNANDEZ CLAUDIO-DEL MORAL MARIO"
-          ],
-          "plazas": [
-           "N° 234864"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LEMENTO DE MAQUINAS",
-          "docentes": [
-           "MEDINA SERGIO LUIS"
-          ],
-          "plazas": [
-           "N° 909"
-          ]
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "METALURGICA Y TECNOLOGIA MECANICA",
-          "docentes": [
-           "FIGUEROA FELIX MARIO"
-          ],
-          "plazas": [
-           "N° 33033"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "7° 18:20 A 19:00",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "TERMODINAMICA Y MAQUINA TERMICAS",
-          "docentes": [
-           "ZANOTTA VICTOR DANIEL"
-          ],
-          "plazas": []
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "GOMEZ RUBEN-MEDINA ANGELES"
-          ],
-          "plazas": [
-           "N° 111456"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "GEOGRAFIA",
-          "docentes": [
-           "PRADO EMANUEL"
-          ],
-          "plazas": [
-           "N° 227226"
-          ]
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "ELEMENTO DE MAQUINAS",
-          "docentes": [
-           "MEDINA SERGIO LUIS"
-          ],
-          "plazas": [
-           "N° 909"
-          ]
-         }
-        ]
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Taller Tecnológico",
-     "tipo": "taller",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "07:20 A 09:20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "OPERACION MANTENIMIENTO Y ENSAYOS DE EQUIPO E INSTALACIONES ELECTOMECANICA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "INSTRUMENTO Y MEDICION EN CORRIENTE ALTERNA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "INSTRUMENTO Y MEDICION EN CORRIENTE ALTERNA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "MAQUINA Y HERRAMIENTA II",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "OPERACION MANTENIMIENTO Y ENSAYO DE EQUIPO E INSTALACION ELECTROMECANICA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "MAQUINA DE CORRIENTE ALTERNA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "MAQUINA Y HERRAMIENTA II",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "MAQUINA DE CORRIENTE ALTERNA",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "09:30 A 11:30",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "ORELLANA ULISES",
-          "docentes": [],
-          "plazas": [
-           "N° 236359"
-          ]
-         },
-         {
-          "materia": "MEDINA SERGIO LUIS",
-          "docentes": [],
-          "plazas": [
-           "N° 127000"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "MEDINA SERGIO LUIS",
-          "docentes": [],
-          "plazas": [
-           "N° 127000"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "CAMINO RAMON HORACIO",
-          "docentes": [],
-          "plazas": [
-           "N° 179437"
-          ]
-         },
-         {
-          "materia": "ORELLANA ULISES",
-          "docentes": [],
-          "plazas": [
-           "N° 236359"
-          ]
-         },
-         {
-          "materia": "MEDINA SERGIO LUIS",
-          "docentes": [],
-          "plazas": [
-           "N° 127000"
-          ]
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "CAMINO RAMON HORACIO",
-          "docentes": [],
-          "plazas": [
-           "N° 179437"
-          ]
-         },
-         {
-          "materia": "MEDINA SERGIO LUIS",
-          "docentes": [],
-          "plazas": [
-           "N° 127000"
-          ]
-         }
-        ]
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Educación Física",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "09:30 A 11:30",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "EDUCACIÓN FÍSICA",
-          "docentes": [
-           "VERA EMILIO MARTIN"
-          ],
-          "plazas": [
-           "N° 24504"
-          ]
-         }
-        ],
-        "VIERNES": []
-       }
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hoja": "4°AÑO C",
-   "curso": "4°",
-   "division": "C",
-   "ciclo": "SUPERIOR",
-   "resolucion": "1277/5 (Med)",
-   "observaciones": "",
-   "tablas": [
-    {
-     "titulo": "Horario de clases",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "1° 14:00 A 14:40",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "ELECTROTECNIA I",
-          "docentes": [
-           "FRIAS ROBERTO E."
-          ],
-          "plazas": [
-           "N° 52396"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "ARGAÑARAZ M.DE LOS ANGELES"
-          ],
-          "plazas": [
-           "N° 24404"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "DIBUJO TECNICO",
-          "docentes": [
-           "GOMEZ MAURO ESTEBAN"
-          ],
-          "plazas": [
-           "N° 102126"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "FISICA",
-          "docentes": [
-           "SANTILLAN MARIA ISABEL"
-          ],
-          "plazas": [
-           "N° 177001"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "ROMANO FRANCO"
-          ],
-          "plazas": [
-           "N° 111584"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "2° 14:40 A 15:20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "ELECTROTECNIA I",
-          "docentes": [
-           "FRIAS ROBERTO E."
-          ],
-          "plazas": [
-           "N° 52396"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "ARGAÑARAZ M.DE LOS ANGELES"
-          ],
-          "plazas": [
-           "N° 24404"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "DIBUJO TECNICO",
-          "docentes": [
-           "GOMEZ MAURO ESTEBAN"
-          ],
-          "plazas": [
-           "N° 102126"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "FISICA",
-          "docentes": [
-           "SANTILLAN MARIA ISABEL"
-          ],
-          "plazas": [
-           "N° 177001"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "ROMANO FRANCO"
-          ],
-          "plazas": [
-           "N° 111584"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "3° 15:30 A 16:10",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "LUCENA MIRIAM E."
-          ],
-          "plazas": [
-           "N° 32444"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "FISICA",
-          "docentes": [
-           "SANTILLAN MARIA ISABEL"
-          ],
-          "plazas": [
-           "N° 177001"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "ESTATICA Y RESISTENCIA DE MATERIALES",
-          "docentes": [
-           "RODRIGUEZ GABRIEL"
-          ],
-          "plazas": [
-           "N° 237016"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "GOMEZ RUBEN-MEDINA ANGELES"
-          ],
-          "plazas": [
-           "N° 125655"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "QUIMICA",
-          "docentes": [
-           "ODOVICH OSVALDO"
-          ],
-          "plazas": [
-           "N° 230001"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "4° 16:10 A 16:50",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "DIBUJO TECNICO",
-          "docentes": [
-           "GOMEZ MAURO ESTEBAN"
-          ],
-          "plazas": [
-           "N° 102126"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "FISICA",
-          "docentes": [
-           "SANTILLAN MARIA ISABEL"
-          ],
-          "plazas": [
-           "N° 177001"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "ESTATICA Y RESISTENCIA DE MATERIALES",
-          "docentes": [
-           "RODRIGUEZ GEBRIEL"
-          ],
-          "plazas": [
-           "N° 237016"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "GOMEZ RUBEN-MEDINA ANGELES"
-          ],
-          "plazas": [
-           "N° 125655"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "QUIMICA",
-          "docentes": [
-           "ODOVICH OSVALDO"
-          ],
-          "plazas": [
-           "N° 230001"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "5° 17:00 A 17:40",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "DIBUJO TECNICO",
-          "docentes": [
-           "GOMEZ MAURO ESTEBAN"
-          ],
-          "plazas": [
-           "N° 102126"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "FISICA",
-          "docentes": [
-           "SANTILLAN MARIA ISABEL"
-          ],
-          "plazas": [
-           "N° 177001"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "GOMEZ RUBEN-MEDINA ANGELES"
-          ],
-          "plazas": [
-           "N° 125655"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "ESTATICA Y RESISTENCIA DE MATERIALES",
-          "docentes": [
-           "RODRIGUEZ GABRIEL"
-          ],
-          "plazas": [
-           "N° 237016"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "QUIMICA",
-          "docentes": [
-           "ODOVICH OSVALDO"
-          ],
-          "plazas": [
-           "N° 230001"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "6° 17:40 A 18:20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "ARGAÑARAZ M.DE LOS ANGELES"
-          ],
-          "plazas": [
-           "N° 24404"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "LUCENA MIRIAM E."
-          ],
-          "plazas": [
-           "N° 32444"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "ROMANO FRANCO"
-          ],
-          "plazas": [
-           "N° 111584"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "ESTATICA Y RESISTENCIA DE MATERIALES",
-          "docentes": [
-           "RODRIGUEZ GABRIEL"
-          ],
-          "plazas": [
-           "N° 237016"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "ELECTROTECNIA I",
-          "docentes": [
-           "FRIAS ROBERTO E."
-          ],
-          "plazas": [
-           "N° 52396"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "7° 18:20 A 19:00",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "ARGAÑARAZ M.DE LOS ANGELES"
-          ],
-          "plazas": [
-           "N° 24404"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "LUCENA MIRIAM E."
-          ],
-          "plazas": [
-           "N° 32444"
-          ]
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "ELECTROTECNIA I",
-          "docentes": [
-           "FRIAS ROBERTO E."
-          ],
-          "plazas": [
-           "N° 52396"
-          ]
-         }
-        ]
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Taller Tecnológico",
-     "tipo": "taller",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "07:20 A 09:20",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "MAQUINA HERRAMIENTA I",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "HERRERIA DE OBRA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "MAQUINA DE CORRIENTE CONTINUA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "INSTRUMENTO Y MEDCION DE CORRIENTE CONTINUA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "MAQUINA HERRAMIENTA I",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "HERRERIA DE OBRA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "MAQUINA DE CORRIENTE CONTINUA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "INSTRUMENTO Y MEDICION DE CORRIENTE CONTINUA",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "09:30 A 11:30",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "FIGUEROA FELIX MARIO",
-          "docentes": [],
-          "plazas": [
-           "N° 236345"
-          ]
-         },
-         {
-          "materia": "CAMINO RAMON HORACIO",
-          "docentes": [],
-          "plazas": [
-           "N° 179437"
-          ]
-         },
-         {
-          "materia": "MAMANI MARCELO HUGO ALEJANDRO",
-          "docentes": [],
-          "plazas": [
-           "N° 271201"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "MAMANI MARCELO HUGO ALEJANDRO",
-          "docentes": [],
-          "plazas": [
-           "N° 271201"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "FIGUEROA FELIX MARIO",
-          "docentes": [],
-          "plazas": [
-           "N° 236345"
-          ]
-         },
-         {
-          "materia": "CAMINO RAMON HORACIO",
-          "docentes": [],
-          "plazas": [
-           "N° 179437"
-          ]
-         },
-         {
-          "materia": "MAMANI MARCELO HUGO ALEJANDRO",
-          "docentes": [],
-          "plazas": [
-           "N° 271201"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "MAMANI MARCELO HUGO ALEJANDRO",
-          "docentes": [],
-          "plazas": [
-           "N° 271201"
-          ]
-         }
-        ]
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Educación Física",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "07:30 A 09:30",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "EDUCACIÓN FÍSICA",
-          "docentes": [
-           "BRIZUELA PABLO CEFERINO"
-          ],
-          "plazas": [
-           "N° 24506"
-          ]
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [],
         "JUEVES": [],
         "VIERNES": []
        }
@@ -9761,6 +7549,2218 @@
         "MARTES": [],
         "MIERCOLES": [],
         "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "4°AÑO B",
+   "curso": "4°",
+   "division": "B",
+   "ciclo": "SUPERIOR",
+   "resolucion": "50/5 (Med)",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "1° 14:00 A 14:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "SISTEMA DE INFORMACION CONTABLE",
+          "docentes": [
+           "BARBOZA MIRTA-LUNA LORENA"
+          ],
+          "plazas": [
+           "N° 1889"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "TEORIA DE LAS ORGANIZACIONES",
+          "docentes": [
+           "CASTILLO DORA ISABEL"
+          ],
+          "plazas": [
+           "N° 19201"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "LOBO MARICEL-Reemp."
+          ],
+          "plazas": [
+           "N° 109664"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "DERECHO CIVIL",
+          "docentes": [
+           "PAVON ISABEL"
+          ],
+          "plazas": [
+           "N° 10072"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "LUNA MARIEL SILVINA"
+          ],
+          "plazas": [
+           "N° 33378"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "2° 14:40 A 15:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "SISTEMA DE INFORMACION CONTABLE",
+          "docentes": [
+           "BARBOZA MIRTA-LUNA LORENA"
+          ],
+          "plazas": [
+           "N° 1889"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "TEORIA DE LAS ORGANIZACIONES",
+          "docentes": [
+           "CASTILLO DORA ISABEL"
+          ],
+          "plazas": [
+           "N° 19201"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "LOBO MARICEL-Reemp."
+          ],
+          "plazas": [
+           "N° 109664"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "DERECHO CIVIL",
+          "docentes": [
+           "PAVON ISABEL"
+          ],
+          "plazas": [
+           "N° 10072"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "LUNA MARIEL SILVINA"
+          ],
+          "plazas": [
+           "N° 33378"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "3° 15:30 A 16:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "BAEZ ALEJANDRO I."
+          ],
+          "plazas": [
+           "N° 228501"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "ECONOMIA I",
+          "docentes": [
+           "BARBOZA MIRTA-Reemp.GOMEZ LAURA"
+          ],
+          "plazas": [
+           "N°204572"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "GOMEZ ADRIANA-Reemp.PAZ ARIEL"
+          ],
+          "plazas": [
+           "N° 111606"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "ECONOMIA",
+          "docentes": [
+           "BARBOZA MIRTA-Reemp-GOMEZ LAURA"
+          ],
+          "plazas": [
+           "N° 133381"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "FILOSOFIA Y ANTROPOLOGIA",
+          "docentes": [
+           "TELLO LAURA"
+          ],
+          "plazas": [
+           "N°235548"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "4° 16:10 A 16:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "BAEZ ALEJANDRO I."
+          ],
+          "plazas": [
+           "N° 228501"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "ECONOMIA I",
+          "docentes": [
+           "BARBOZA MIRTA-Reemp.GOMEZ LAURA"
+          ],
+          "plazas": [
+           "N° 204572"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "GOMEZ ADRIANA-Reemp.PAZ ARIEL"
+          ],
+          "plazas": [
+           "N° 111606"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "ADMINISTRACION I",
+          "docentes": [
+           "LUNA LORENA VANESA"
+          ],
+          "plazas": [
+           "N° 237114"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "FILOSOFIA Y ANTROPOLOGIA",
+          "docentes": [
+           "TELLO LAURA"
+          ],
+          "plazas": [
+           "N° 235548"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "5° 17:00 A 17:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "LOBO MARICEL-Reemp."
+          ],
+          "plazas": [
+           "N° 109664"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "SISTEMA DE INFORMACION CONTABLE",
+          "docentes": [
+           "BARBOZA MIRTA-LUNA LORENA"
+          ],
+          "plazas": [
+           "N° 1889"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "TEORIA DE LAS ORGANIZ.",
+          "docentes": [
+           "CASTILLO DORA ISABEL"
+          ],
+          "plazas": [
+           "N° 19201"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "ADMINISTRACION I",
+          "docentes": [
+           "LUNA LORENA VANESA"
+          ],
+          "plazas": [
+           "N° 237114"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "GOMEZ ADRIANA-PAZ ARIEL"
+          ],
+          "plazas": [
+           "N° 111606"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "6° 17:40 A 18:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "LOBO MARICEL-Reemp."
+          ],
+          "plazas": [
+           "N° 109664"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "SISTEMA DE INFORMACION CONTABLE",
+          "docentes": [
+           "BARBOZA MIRTA-LUNA LORENA"
+          ],
+          "plazas": [
+           "N° 1889"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "ADMINISTRACION I",
+          "docentes": [
+           "LUNA LORENA VANESA"
+          ],
+          "plazas": [
+           "N° 237114"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "RELACIONES HUMANAS",
+          "docentes": [
+           "MULE GABRIELA LORENA"
+          ],
+          "plazas": [
+           "N° 237137"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "7° 18:20 A 19:00",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "BAEZ ALEJANDRO I."
+          ],
+          "plazas": [
+           "N° 228501"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "DERECHO CIVIL",
+          "docentes": [
+           "PAVON ISABEL"
+          ],
+          "plazas": [
+           "N° 10072"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "LUNA MARIEL SILVINA"
+          ],
+          "plazas": [
+           "N° 33378"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "RELACIONES HUMANAS",
+          "docentes": [
+           "MULE GABRIELA LORENA"
+          ],
+          "plazas": [
+           "N° 237137"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "07:20 A 09:20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "PRACTICA ORGANIZACIONAL",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "PRACTICA CONTABLE",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "09:30 A 11:30",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "PAVON MATILDE ISABEL",
+          "docentes": [],
+          "plazas": [
+           "N° 236361"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "BEBER MARIA- DELGADO CLARA",
+          "docentes": [],
+          "plazas": [
+           "N° 236399"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "09:30 A 11:30",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "VERA EMILIO MARTIN"
+          ],
+          "plazas": [
+           "N° 236762"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "4°AÑO C",
+   "curso": "4°",
+   "division": "C",
+   "ciclo": "SUPERIOR",
+   "resolucion": "1277/5 (Med)",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "1° 14:00 A 14:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ELECTROTECNIA I",
+          "docentes": [
+           "FRIAS ROBERTO E."
+          ],
+          "plazas": [
+           "N° 52396"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "ARGAÑARAZ M.DE LOS ANGELES"
+          ],
+          "plazas": [
+           "N° 24404"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "DIBUJO TECNICO",
+          "docentes": [
+           "GOMEZ MAURO ESTEBAN"
+          ],
+          "plazas": [
+           "N° 102126"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FISICA",
+          "docentes": [
+           "SANTILLAN MARIA ISABEL"
+          ],
+          "plazas": [
+           "N° 177001"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "ROMANO FRANCO"
+          ],
+          "plazas": [
+           "N° 111584"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "2° 14:40 A 15:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ELECTROTECNIA I",
+          "docentes": [
+           "FRIAS ROBERTO E."
+          ],
+          "plazas": [
+           "N° 52396"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "ARGAÑARAZ M.DE LOS ANGELES"
+          ],
+          "plazas": [
+           "N° 24404"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "DIBUJO TECNICO",
+          "docentes": [
+           "GOMEZ MAURO ESTEBAN"
+          ],
+          "plazas": [
+           "N° 102126"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FISICA",
+          "docentes": [
+           "SANTILLAN MARIA ISABEL"
+          ],
+          "plazas": [
+           "N° 177001"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "ROMANO FRANCO"
+          ],
+          "plazas": [
+           "N° 111584"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "3° 15:30 A 16:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "LUCENA MIRIAM E."
+          ],
+          "plazas": [
+           "N° 32444"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "FISICA",
+          "docentes": [
+           "SANTILLAN MARIA ISABEL"
+          ],
+          "plazas": [
+           "N° 177001"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "ESTATICA Y RESISTENCIA DE MATERIALES",
+          "docentes": [
+           "RODRIGUEZ GABRIEL"
+          ],
+          "plazas": [
+           "N° 237016"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "GOMEZ RUBEN-MEDINA ANGELES"
+          ],
+          "plazas": [
+           "N° 125655"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "QUIMICA",
+          "docentes": [
+           "ODOVICH OSVALDO"
+          ],
+          "plazas": [
+           "N° 230001"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "4° 16:10 A 16:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "DIBUJO TECNICO",
+          "docentes": [
+           "GOMEZ MAURO ESTEBAN"
+          ],
+          "plazas": [
+           "N° 102126"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "FISICA",
+          "docentes": [
+           "SANTILLAN MARIA ISABEL"
+          ],
+          "plazas": [
+           "N° 177001"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "ESTATICA Y RESISTENCIA DE MATERIALES",
+          "docentes": [
+           "RODRIGUEZ GEBRIEL"
+          ],
+          "plazas": [
+           "N° 237016"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "GOMEZ RUBEN-MEDINA ANGELES"
+          ],
+          "plazas": [
+           "N° 125655"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "QUIMICA",
+          "docentes": [
+           "ODOVICH OSVALDO"
+          ],
+          "plazas": [
+           "N° 230001"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "5° 17:00 A 17:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "DIBUJO TECNICO",
+          "docentes": [
+           "GOMEZ MAURO ESTEBAN"
+          ],
+          "plazas": [
+           "N° 102126"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "FISICA",
+          "docentes": [
+           "SANTILLAN MARIA ISABEL"
+          ],
+          "plazas": [
+           "N° 177001"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "GOMEZ RUBEN-MEDINA ANGELES"
+          ],
+          "plazas": [
+           "N° 125655"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "ESTATICA Y RESISTENCIA DE MATERIALES",
+          "docentes": [
+           "RODRIGUEZ GABRIEL"
+          ],
+          "plazas": [
+           "N° 237016"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "QUIMICA",
+          "docentes": [
+           "ODOVICH OSVALDO"
+          ],
+          "plazas": [
+           "N° 230001"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "6° 17:40 A 18:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "ARGAÑARAZ M.DE LOS ANGELES"
+          ],
+          "plazas": [
+           "N° 24404"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "LUCENA MIRIAM E."
+          ],
+          "plazas": [
+           "N° 32444"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "ROMANO FRANCO"
+          ],
+          "plazas": [
+           "N° 111584"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "ESTATICA Y RESISTENCIA DE MATERIALES",
+          "docentes": [
+           "RODRIGUEZ GABRIEL"
+          ],
+          "plazas": [
+           "N° 237016"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "ELECTROTECNIA I",
+          "docentes": [
+           "FRIAS ROBERTO E."
+          ],
+          "plazas": [
+           "N° 52396"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "7° 18:20 A 19:00",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "ARGAÑARAZ M.DE LOS ANGELES"
+          ],
+          "plazas": [
+           "N° 24404"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "LUCENA MIRIAM E."
+          ],
+          "plazas": [
+           "N° 32444"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "ELECTROTECNIA I",
+          "docentes": [
+           "FRIAS ROBERTO E."
+          ],
+          "plazas": [
+           "N° 52396"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "07:20 A 09:20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "MAQUINA HERRAMIENTA I",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HERRERIA DE OBRA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "MAQUINA DE CORRIENTE CONTINUA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "INSTRUMENTO Y MEDCION DE CORRIENTE CONTINUA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MAQUINA HERRAMIENTA I",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "HERRERIA DE OBRA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "MAQUINA DE CORRIENTE CONTINUA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "INSTRUMENTO Y MEDICION DE CORRIENTE CONTINUA",
+          "docentes": [],
+          "plazas": []
+         }
+        ]
+       }
+      },
+      {
+       "hora": "09:30 A 11:30",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "FIGUEROA FELIX MARIO",
+          "docentes": [],
+          "plazas": [
+           "N° 236345"
+          ]
+         },
+         {
+          "materia": "CAMINO RAMON HORACIO",
+          "docentes": [],
+          "plazas": [
+           "N° 179437"
+          ]
+         },
+         {
+          "materia": "MAMANI MARCELO HUGO ALEJANDRO",
+          "docentes": [],
+          "plazas": [
+           "N° 271201"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MAMANI MARCELO HUGO ALEJANDRO",
+          "docentes": [],
+          "plazas": [
+           "N° 271201"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FIGUEROA FELIX MARIO",
+          "docentes": [],
+          "plazas": [
+           "N° 236345"
+          ]
+         },
+         {
+          "materia": "CAMINO RAMON HORACIO",
+          "docentes": [],
+          "plazas": [
+           "N° 179437"
+          ]
+         },
+         {
+          "materia": "MAMANI MARCELO HUGO ALEJANDRO",
+          "docentes": [],
+          "plazas": [
+           "N° 271201"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MAMANI MARCELO HUGO ALEJANDRO",
+          "docentes": [],
+          "plazas": [
+           "N° 271201"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "07:30 A 09:30",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "BRIZUELA PABLO CEFERINO"
+          ],
+          "plazas": [
+           "N° 24506"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "4°AÑO D",
+   "curso": "4°",
+   "division": "D",
+   "ciclo": "SUPERIOR",
+   "resolucion": "50/5 (Med)",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "1° 14:00 A 14:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "LUCENA MIRIAM E."
+          ],
+          "plazas": [
+           "N° 178730"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "ROMANO FRANCO"
+          ],
+          "plazas": [
+           "N° 237133"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "SISTEMA DE INFORMACION CONTABLE",
+          "docentes": [
+           "BARBOZA MIRTA-CASTILLO ISABEL"
+          ],
+          "plazas": [
+           "N° 20181"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "TEORIA DE LAS ORGANIZACIONES",
+          "docentes": [],
+          "plazas": [
+           "N° 99772"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "FILOSOFIA Y ANTROPOLOGIA",
+          "docentes": [
+           "TELLO LAURA"
+          ],
+          "plazas": [
+           "N° 235549"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "2° 14:40 A 15:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "LUCENA MIRIAM E."
+          ],
+          "plazas": [
+           "N° 178730"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "ROMANO FRANCO"
+          ],
+          "plazas": [
+           "N° 237133"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "SISTEMA DE INFORMACION CONTABLE",
+          "docentes": [
+           "BARBOZA MIRTA-CASTILLO ISABEL"
+          ],
+          "plazas": [
+           "N° 20181"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "TEORIA DE LAS ORGANIZACIONES",
+          "docentes": [],
+          "plazas": [
+           "N° 99772"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "FILOSOFIA Y ANTROPOLOGIA",
+          "docentes": [
+           "TELLO LAURA"
+          ],
+          "plazas": [
+           "N° 235549"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "3° 15:30 A 16:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "SISTEMA DE INFORMACION CONTABLE",
+          "docentes": [
+           "BARBOZA MIRTA-CASTILLO ISABEL"
+          ],
+          "plazas": [
+           "N° 20181"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "LOBO MARICEL-MAZA DOLORES"
+          ],
+          "plazas": [
+           "N° 20180"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "GOMEZ RUBEN-MEDINA ANGELES"
+          ],
+          "plazas": [
+           "N° 144922"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "DERECHO CIVIL",
+          "docentes": [
+           "PAVON ISABEL"
+          ],
+          "plazas": [
+           "N° 10073"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "RELACIONES HUMANAS",
+          "docentes": [
+           "MULE GABRIELA LORENA"
+          ],
+          "plazas": [
+           "N° 237138"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "4° 16:10 A 16:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "SISTEMA DE INFORMACION CONTABLE",
+          "docentes": [
+           "BARBOZA MIRTA-CASTILLO ISABEL"
+          ],
+          "plazas": [
+           "N° 20181"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "LOBO MARICEL-MAZA DOLORES"
+          ],
+          "plazas": [
+           "N° 20180"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "GOMEZ RUBEN-MEDINA ANGELES"
+          ],
+          "plazas": [
+           "N° 144922"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "TEORIA DE LAS ORGANIZ.",
+          "docentes": [],
+          "plazas": [
+           "N° 99772"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "RELACIONES HUMANAS",
+          "docentes": [
+           "MULE GABRIELA LORENA"
+          ],
+          "plazas": [
+           "N° 237138"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "5° 17:00 A 17:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ECONOMIA I",
+          "docentes": [
+           "BARBOZA MIRTA- VELIZ ROSA"
+          ],
+          "plazas": [
+           "N° 32647"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "DERECHO CIVIL",
+          "docentes": [
+           "PAVON ISABEL"
+          ],
+          "plazas": [
+           "N° 10073"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "ROMANO FRANCO"
+          ],
+          "plazas": [
+           "N° 237133"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "ECONOMIA I",
+          "docentes": [
+           "BARBOZA MIRTA- VELIZ ROSA"
+          ],
+          "plazas": [
+           "N° 133384"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "ADMINISTRACION I",
+          "docentes": [
+           "AHUMADA MARIANA"
+          ],
+          "plazas": [
+           "N° 35334"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "6° 17:40 A 18:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ECONOMIA I",
+          "docentes": [
+           "BARBOZA MIRTA- VELIZ ROSA"
+          ],
+          "plazas": [
+           "N° 32647"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "DERECHO CIVIL",
+          "docentes": [
+           "PAVON ISABEL"
+          ],
+          "plazas": [
+           "N° 10073"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "LOBO MARICEL-MAZA DOLORES"
+          ],
+          "plazas": [
+           "N° 20180"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "LUCENA MIRIAM E."
+          ],
+          "plazas": [
+           "N° 178730"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "ADMINISTRACION I",
+          "docentes": [
+           "AHUMADA MARIANA"
+          ],
+          "plazas": [
+           "N° 35334"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "7° 18:20 A 19:00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "METEMATICA",
+          "docentes": [
+           "LOBO MARICEL- MAZA DOLORES"
+          ],
+          "plazas": [
+           "N° 20180"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "GOMEZ RUBEN-MEDINA ANGELES"
+          ],
+          "plazas": [
+           "N° 144922"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "ADMINISTRACION I",
+          "docentes": [
+           "AHUMADA MARIANA"
+          ],
+          "plazas": [
+           "N° 35334"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "07:20 A 9:20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "PRACTICA CONTABLE I",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "PRACTICA ORGANIZACIONAL I",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "09:30 A 11:30",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "BEBER MARIA- DELGADO CLARA",
+          "docentes": [],
+          "plazas": [
+           "N° 236399"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "PAVON MATILDE ISABEL",
+          "docentes": [],
+          "plazas": [
+           "N° 236361"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "07:30 A 09:30",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "VERA EMILIO MARTIN"
+          ],
+          "plazas": [
+           "N° 147018"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "5°AÑO A",
+   "curso": "5°",
+   "division": "A",
+   "ciclo": "SUPERIOR",
+   "resolucion": "1277/5 (Med)",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "1° 14:00 A 14:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ELECTRONICA",
+          "docentes": [
+           "FERNANDEZ CLAUDIO-DEL MORAL MARIO"
+          ],
+          "plazas": [
+           "N° 41833"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "JIMENEZ MARIA SILVIA"
+          ],
+          "plazas": [
+           "N° 111462"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "GOMEZ RUBEN-MEDINA ANGELES"
+          ],
+          "plazas": [
+           "N° 111455"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMATICA APLICADA I",
+          "docentes": [
+           "LESCANO MARCELA"
+          ],
+          "plazas": [
+           "N° 143986"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "TERMODINAMICA Y MAQUINAS TERMICAS",
+          "docentes": [
+           "ZANOTTA VICTOR DANIEL"
+          ],
+          "plazas": [
+           "N° 35104"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "2° 14:40 A 15:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ELECTRONICA",
+          "docentes": [
+           "FERNANDEZ CLAUDIO-DEL MORAL MARIO"
+          ],
+          "plazas": [
+           "N° 41833"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "JIMENEZ MARIA SILVIA"
+          ],
+          "plazas": [
+           "N° 111462"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "GOMEZ RUBEN- MEDINA ANGELES"
+          ],
+          "plazas": [
+           "N° 111455"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMATICA APLICADA I",
+          "docentes": [
+           "LESCANO MARCELA"
+          ],
+          "plazas": [
+           "N° 143986"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "TERMODINAMICA Y MAQUINAS TERMICAS",
+          "docentes": [
+           "ZANOTTA VICTOR DANIEL"
+          ],
+          "plazas": [
+           "N° 35104"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "3° 15:30 A 16:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ELECTROTECNIA II",
+          "docentes": [
+           "DEL MORAL MARIO"
+          ],
+          "plazas": [
+           "N° 36072"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "GEOGRAFIA",
+          "docentes": [
+           "PRADO EMANUEL"
+          ],
+          "plazas": [
+           "N° 24383"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "ORGANIZACION INDUSTRIAL I",
+          "docentes": [
+           "FERNANDEZ CLAUDIO- RIVERO NATALIA"
+          ],
+          "plazas": [
+           "N° 226811"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "ELECTROTECNIA II",
+          "docentes": [
+           "DEL MORAL MARIO"
+          ],
+          "plazas": [
+           "N° 36072"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "TERMODINAMICA Y MAQUINAS TERMICAS",
+          "docentes": [
+           "ZANOTTA VICTOR DANIEL"
+          ],
+          "plazas": [
+           "N° 35104"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "4° 16:10 A 16:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ELECTROTECNIA II",
+          "docentes": [
+           "DEL MORAL MARIO"
+          ],
+          "plazas": [
+           "N° 36072"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "GEOGRAFIA",
+          "docentes": [
+           "PRADO EMANUEL"
+          ],
+          "plazas": [
+           "N° 24383"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "ORGANIZACION INDUSTRIAL I",
+          "docentes": [
+           "FERNADEZ CLAUDIO-RIVERO NATALIA"
+          ],
+          "plazas": [
+           "N° 226811"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "ELECTROTECNIA II",
+          "docentes": [
+           "DEL MORAL MARIO"
+          ],
+          "plazas": [
+           "N° 36072"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "METALURGICA Y TECNOLOGIA MECANICA",
+          "docentes": [
+           "FIGUEROA FELIX MARIO"
+          ],
+          "plazas": [
+           "N° 33033"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "5° 17:00 A 17:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MATEMATICA APLICADA I",
+          "docentes": [
+           "LESCANO MARCELA"
+          ],
+          "plazas": [
+           "N° 143986"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "ELECTRONICA",
+          "docentes": [
+           "FERNANDEZ CLAUDIO-DEL MORAL MARIIO"
+          ],
+          "plazas": [
+           "N° 41833"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "ELEMENTO DE MAQUINAS",
+          "docentes": [
+           "MEDINA SERGIO LUIS"
+          ],
+          "plazas": [
+           "N° 909"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "JIMENEZ MARIA SILVIA"
+          ],
+          "plazas": [
+           "N° 111462"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "METALURGICA Y TECNOLOGIA MECANICA",
+          "docentes": [
+           "FIGUEROA FELIX MARIO"
+          ],
+          "plazas": [
+           "N° 33033"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "6° 17:40 A 18:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MATEMATICA APLICADA I",
+          "docentes": [
+           "LESCANO MARCELA"
+          ],
+          "plazas": [
+           "N° 143986"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "ELECTRONICA",
+          "docentes": [
+           "FERNANDEZ CLAUDIO-DEL MORAL MARIO"
+          ],
+          "plazas": [
+           "N° 234864"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LEMENTO DE MAQUINAS",
+          "docentes": [
+           "MEDINA SERGIO LUIS"
+          ],
+          "plazas": [
+           "N° 909"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "METALURGICA Y TECNOLOGIA MECANICA",
+          "docentes": [
+           "FIGUEROA FELIX MARIO"
+          ],
+          "plazas": [
+           "N° 33033"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "7° 18:20 A 19:00",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "TERMODINAMICA Y MAQUINA TERMICAS",
+          "docentes": [
+           "ZANOTTA VICTOR DANIEL"
+          ],
+          "plazas": []
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "GOMEZ RUBEN-MEDINA ANGELES"
+          ],
+          "plazas": [
+           "N° 111456"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "GEOGRAFIA",
+          "docentes": [
+           "PRADO EMANUEL"
+          ],
+          "plazas": [
+           "N° 227226"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "ELEMENTO DE MAQUINAS",
+          "docentes": [
+           "MEDINA SERGIO LUIS"
+          ],
+          "plazas": [
+           "N° 909"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "07:20 A 09:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "OPERACION MANTENIMIENTO Y ENSAYOS DE EQUIPO E INSTALACIONES ELECTOMECANICA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "INSTRUMENTO Y MEDICION EN CORRIENTE ALTERNA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "INSTRUMENTO Y MEDICION EN CORRIENTE ALTERNA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MAQUINA Y HERRAMIENTA II",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "OPERACION MANTENIMIENTO Y ENSAYO DE EQUIPO E INSTALACION ELECTROMECANICA",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "MAQUINA DE CORRIENTE ALTERNA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "MAQUINA Y HERRAMIENTA II",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "MAQUINA DE CORRIENTE ALTERNA",
+          "docentes": [],
+          "plazas": []
+         }
+        ]
+       }
+      },
+      {
+       "hora": "09:30 A 11:30",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ORELLANA ULISES",
+          "docentes": [],
+          "plazas": [
+           "N° 236359"
+          ]
+         },
+         {
+          "materia": "MEDINA SERGIO LUIS",
+          "docentes": [],
+          "plazas": [
+           "N° 127000"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MEDINA SERGIO LUIS",
+          "docentes": [],
+          "plazas": [
+           "N° 127000"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "CAMINO RAMON HORACIO",
+          "docentes": [],
+          "plazas": [
+           "N° 179437"
+          ]
+         },
+         {
+          "materia": "ORELLANA ULISES",
+          "docentes": [],
+          "plazas": [
+           "N° 236359"
+          ]
+         },
+         {
+          "materia": "MEDINA SERGIO LUIS",
+          "docentes": [],
+          "plazas": [
+           "N° 127000"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "CAMINO RAMON HORACIO",
+          "docentes": [],
+          "plazas": [
+           "N° 179437"
+          ]
+         },
+         {
+          "materia": "MEDINA SERGIO LUIS",
+          "docentes": [],
+          "plazas": [
+           "N° 127000"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "09:30 A 11:30",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "VERA EMILIO MARTIN"
+          ],
+          "plazas": [
+           "N° 24504"
+          ]
+         }
+        ],
         "VIERNES": []
        }
       }

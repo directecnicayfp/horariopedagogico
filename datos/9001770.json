@@ -2209,26 +2209,6 @@
      ],
      "filas": [
       {
-       "hora": "17.00 A 18.00 HS",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "EDUCACION FISICA",
-          "docentes": [
-           "MOYA MONICA DEL VALLE"
-          ],
-          "plazas": [
-           "N°173656"
-          ]
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
        "hora": "15.00 A 16.00",
        "celdas": {
         "LUNES": [],
@@ -2246,6 +2226,26 @@
           ]
          }
         ]
+       }
+      },
+      {
+       "hora": "17.00 A 18.00 HS",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "EDUCACION FISICA",
+          "docentes": [
+           "MOYA MONICA DEL VALLE"
+          ],
+          "plazas": [
+           "N°173656"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
        }
       }
      ]

@@ -2385,611 +2385,6 @@
    ]
   },
   {
-   "hoja": "3°AÑO B",
-   "curso": "3°",
-   "division": "\"B\"",
-   "ciclo": "Básico",
-   "resolucion": "1.296/5 (MEd)",
-   "observaciones": "",
-   "tablas": [
-    {
-     "titulo": "Horario de clases",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "1° HORA: 08:00 A 08:40",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "DIBUJO TÉCNICO",
-          "docentes": [
-           "ZELARAYÁN ROBERTO"
-          ],
-          "plazas": [
-           "N°244274"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "BIOLOGÍA",
-          "docentes": [
-           "JUAREZ ANA MARIA."
-          ],
-          "plazas": [
-           "N°252593"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "EDUC. ÉTICA Y CIUDADANIA",
-          "docentes": [
-           "REALES AMALIA"
-          ],
-          "plazas": [
-           "N°245012"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "FISICA",
-          "docentes": [
-           "JUAREZ ANA MARIA"
-          ],
-          "plazas": [
-           "N°252605"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "ROLDÁN MARINA"
-          ],
-          "plazas": [
-           "N°244873"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "2 °: 08:40 A 09:20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "DIBUJO TÉCNICO",
-          "docentes": [
-           "ZELARAYÁN ROBERTO"
-          ],
-          "plazas": [
-           "N°244274"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "BIOLOGÍA",
-          "docentes": [
-           "JUAREZ ANA MARIA."
-          ],
-          "plazas": [
-           "N°252593"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "EDUC. ÉTICA Y CIUDADANIA",
-          "docentes": [
-           "REALES AMALIA"
-          ],
-          "plazas": [
-           "N°245012"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "FISICA",
-          "docentes": [
-           "JUAREZ ANA MARIA"
-          ],
-          "plazas": [
-           "N°252605"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA EXTRANJ INGLES",
-          "docentes": [
-           "ALBARRACIN PATRICIA"
-          ],
-          "plazas": [
-           "N°244730"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "3°: 09:30 A 10:10",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "QUIMICA",
-          "docentes": [
-           "LOPEZ MERCEDES A."
-          ],
-          "plazas": [
-           "N°248139"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "GEOGRAFIA",
-          "docentes": [
-           "REALES AMALIA"
-          ],
-          "plazas": [
-           "N° 255011"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "PEDRAZA LAURA"
-          ],
-          "plazas": [
-           "N°252636"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "FISICA",
-          "docentes": [
-           "JUAREZ ANA MARIA"
-          ],
-          "plazas": [
-           "N°252605"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "PEDRAZA LAURA"
-          ],
-          "plazas": [
-           "N°252636"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "4°: 10:10 A 10:50",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "QUIMICA",
-          "docentes": [
-           "LOPEZ MERCEDES A."
-          ],
-          "plazas": [
-           "N°248139"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "ROLDÁN MARINA"
-          ],
-          "plazas": [
-           "N°244873"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "PEDRAZA LAURA"
-          ],
-          "plazas": [
-           "N°252636"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "GEOGRAFIA",
-          "docentes": [
-           "REALES AMALIA"
-          ],
-          "plazas": [
-           "N° 255011"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "PEDRAZA LAURA"
-          ],
-          "plazas": [
-           "N°289719"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "5°: 11:00 A 11:40",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "QUIMICA",
-          "docentes": [
-           "LOPEZ MERCEDES A."
-          ],
-          "plazas": [
-           "N°248139"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "ROLDÁN MARINA"
-          ],
-          "plazas": [
-           "N°244873"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "CANCINOS JESUS"
-          ],
-          "plazas": [
-           "N°263563"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "GEOGRAFIA",
-          "docentes": [
-           "REALES AMALIA"
-          ],
-          "plazas": [
-           "N° 255011"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "CANCINOS JESUS"
-          ],
-          "plazas": [
-           "N°263563"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "6°: 11:40 A 12:20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "LENGUA EXTRANJ INGLES",
-          "docentes": [
-           "ALBARRACIN PATRICIA"
-          ],
-          "plazas": [
-           "N°244730"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "FISICA",
-          "docentes": [
-           "JUAREZ ANA MARIA"
-          ],
-          "plazas": [
-           "N°252601"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "CANCINOS JESUS"
-          ],
-          "plazas": [
-           "N°263563"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "DIBUJO TÉCNICO",
-          "docentes": [
-           "ZELARAYÁN ROBERTO"
-          ],
-          "plazas": [
-           "N°244274"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "CANCINOS JESUS"
-          ],
-          "plazas": [
-           "N°263563"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "7°: 12:20 A 13:00",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "LENGUA EXTRANJ INGLES",
-          "docentes": [
-           "ALBARRACIN PATRICIA"
-          ],
-          "plazas": [
-           "N°244730"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "FISICA",
-          "docentes": [
-           "JUAREZ ANA MARIA"
-          ],
-          "plazas": [
-           "N°252605"
-          ]
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "DIBUJO TÉCNICO",
-          "docentes": [
-           "ZELARAYÁN ROBERTO"
-          ],
-          "plazas": [
-           "N°244274"
-          ]
-         }
-        ],
-        "VIERNES": []
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Taller Tecnológico",
-     "tipo": "taller",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "MEP INFORMATICA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "MEP INFORMATICA",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "PONCE JUAN CARLOS",
-          "docentes": [],
-          "plazas": [
-           "N°239662"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "PONCE JUAN CARLOS",
-          "docentes": [],
-          "plazas": [
-           "N°239662"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "MEP AGROINDUSTRIA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "MEP AGROINDUSTRIA",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "FARIAS PABLO IGNACIO",
-          "docentes": [],
-          "plazas": [
-           "N°239661"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "FARIAS PABLO IGNACIO",
-          "docentes": [],
-          "plazas": [
-           "N°239661"
-          ]
-         }
-        ]
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Educación Física",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "15:30 A 16:30",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "ED. FISICA",
-          "docentes": [
-           "CHIAVENATTO ALIDA"
-          ],
-          "plazas": [
-           "N°244833"
-          ]
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "16:30 A 17:30",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "ED. FISICA",
-          "docentes": [
-           "CHIAVENATTO ALIDA"
-          ],
-          "plazas": [
-           "N°244833"
-          ]
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      }
-     ]
-    }
-   ]
-  },
-  {
    "hoja": "3°AÑO A",
    "curso": "3°",
    "division": "\"A\"",
@@ -3582,6 +2977,611 @@
           ],
           "plazas": [
            "N°244832"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "3°AÑO B",
+   "curso": "3°",
+   "division": "\"B\"",
+   "ciclo": "Básico",
+   "resolucion": "1.296/5 (MEd)",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "1° HORA: 08:00 A 08:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "ZELARAYÁN ROBERTO"
+          ],
+          "plazas": [
+           "N°244274"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "JUAREZ ANA MARIA."
+          ],
+          "plazas": [
+           "N°252593"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "EDUC. ÉTICA Y CIUDADANIA",
+          "docentes": [
+           "REALES AMALIA"
+          ],
+          "plazas": [
+           "N°245012"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FISICA",
+          "docentes": [
+           "JUAREZ ANA MARIA"
+          ],
+          "plazas": [
+           "N°252605"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "ROLDÁN MARINA"
+          ],
+          "plazas": [
+           "N°244873"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "2 °: 08:40 A 09:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "ZELARAYÁN ROBERTO"
+          ],
+          "plazas": [
+           "N°244274"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "JUAREZ ANA MARIA."
+          ],
+          "plazas": [
+           "N°252593"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "EDUC. ÉTICA Y CIUDADANIA",
+          "docentes": [
+           "REALES AMALIA"
+          ],
+          "plazas": [
+           "N°245012"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FISICA",
+          "docentes": [
+           "JUAREZ ANA MARIA"
+          ],
+          "plazas": [
+           "N°252605"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJ INGLES",
+          "docentes": [
+           "ALBARRACIN PATRICIA"
+          ],
+          "plazas": [
+           "N°244730"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "3°: 09:30 A 10:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "QUIMICA",
+          "docentes": [
+           "LOPEZ MERCEDES A."
+          ],
+          "plazas": [
+           "N°248139"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "GEOGRAFIA",
+          "docentes": [
+           "REALES AMALIA"
+          ],
+          "plazas": [
+           "N° 255011"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "PEDRAZA LAURA"
+          ],
+          "plazas": [
+           "N°252636"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FISICA",
+          "docentes": [
+           "JUAREZ ANA MARIA"
+          ],
+          "plazas": [
+           "N°252605"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "PEDRAZA LAURA"
+          ],
+          "plazas": [
+           "N°252636"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "4°: 10:10 A 10:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "QUIMICA",
+          "docentes": [
+           "LOPEZ MERCEDES A."
+          ],
+          "plazas": [
+           "N°248139"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "ROLDÁN MARINA"
+          ],
+          "plazas": [
+           "N°244873"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "PEDRAZA LAURA"
+          ],
+          "plazas": [
+           "N°252636"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "GEOGRAFIA",
+          "docentes": [
+           "REALES AMALIA"
+          ],
+          "plazas": [
+           "N° 255011"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "PEDRAZA LAURA"
+          ],
+          "plazas": [
+           "N°289719"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "5°: 11:00 A 11:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "QUIMICA",
+          "docentes": [
+           "LOPEZ MERCEDES A."
+          ],
+          "plazas": [
+           "N°248139"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "ROLDÁN MARINA"
+          ],
+          "plazas": [
+           "N°244873"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "CANCINOS JESUS"
+          ],
+          "plazas": [
+           "N°263563"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "GEOGRAFIA",
+          "docentes": [
+           "REALES AMALIA"
+          ],
+          "plazas": [
+           "N° 255011"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "CANCINOS JESUS"
+          ],
+          "plazas": [
+           "N°263563"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "6°: 11:40 A 12:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA EXTRANJ INGLES",
+          "docentes": [
+           "ALBARRACIN PATRICIA"
+          ],
+          "plazas": [
+           "N°244730"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "FISICA",
+          "docentes": [
+           "JUAREZ ANA MARIA"
+          ],
+          "plazas": [
+           "N°252601"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "CANCINOS JESUS"
+          ],
+          "plazas": [
+           "N°263563"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "ZELARAYÁN ROBERTO"
+          ],
+          "plazas": [
+           "N°244274"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "CANCINOS JESUS"
+          ],
+          "plazas": [
+           "N°263563"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "7°: 12:20 A 13:00",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA EXTRANJ INGLES",
+          "docentes": [
+           "ALBARRACIN PATRICIA"
+          ],
+          "plazas": [
+           "N°244730"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "FISICA",
+          "docentes": [
+           "JUAREZ ANA MARIA"
+          ],
+          "plazas": [
+           "N°252605"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "ZELARAYÁN ROBERTO"
+          ],
+          "plazas": [
+           "N°244274"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "13:30 A 17:45",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "MEP INFORMATICA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MEP INFORMATICA",
+          "docentes": [],
+          "plazas": []
+         }
+        ]
+       }
+      },
+      {
+       "hora": "13:30 A 17:45",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "13:30 A 17:45",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "PONCE JUAN CARLOS",
+          "docentes": [],
+          "plazas": [
+           "N°239662"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "PONCE JUAN CARLOS",
+          "docentes": [],
+          "plazas": [
+           "N°239662"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "13:30 A 17:45",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "MEP AGROINDUSTRIA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MEP AGROINDUSTRIA",
+          "docentes": [],
+          "plazas": []
+         }
+        ]
+       }
+      },
+      {
+       "hora": "13:30 A 17:45",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "13:30 A 17:45",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "FARIAS PABLO IGNACIO",
+          "docentes": [],
+          "plazas": [
+           "N°239661"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "FARIAS PABLO IGNACIO",
+          "docentes": [],
+          "plazas": [
+           "N°239661"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "15:30 A 16:30",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "ED. FISICA",
+          "docentes": [
+           "CHIAVENATTO ALIDA"
+          ],
+          "plazas": [
+           "N°244833"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "16:30 A 17:30",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "ED. FISICA",
+          "docentes": [
+           "CHIAVENATTO ALIDA"
+          ],
+          "plazas": [
+           "N°244833"
           ]
          }
         ],

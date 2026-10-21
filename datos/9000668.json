@@ -8,7 +8,7 @@
    "hoja": "1º C.B. 1ra Div.",
    "curso": "1º AÑO CICLO BASICO",
    "division": "1ra",
-   "ciclo": "2026",
+   "ciclo": "",
    "resolucion": "50/5 (MEd)",
    "observaciones": "",
    "tablas": [
@@ -675,7 +675,7 @@
    "hoja": "1ro C.B. 2da Div.",
    "curso": "1º AÑO CICLO BASICO",
    "division": "2da",
-   "ciclo": "2026",
+   "ciclo": "",
    "resolucion": "50/5 (MEd)",
    "observaciones": "",
    "tablas": [
@@ -1336,7 +1336,7 @@
    "hoja": "2º C.B. 1ra Div.",
    "curso": "2º AÑO CICLO BASICO",
    "division": "1RA",
-   "ciclo": "2026",
+   "ciclo": "",
    "resolucion": "50/5 (MEd)",
    "observaciones": "",
    "tablas": [
@@ -2096,7 +2096,7 @@
    "hoja": "2º C.B. 2da Div.",
    "curso": "2º AÑO CICLO BASICO",
    "division": "2DA",
-   "ciclo": "2026",
+   "ciclo": "",
    "resolucion": "50/5 (MEd)",
    "observaciones": "",
    "tablas": [
@@ -2851,7 +2851,7 @@
    "hoja": "3º C.B. 1ra Div.",
    "curso": "3º CICLO BASICO",
    "division": "1RA",
-   "ciclo": "2026",
+   "ciclo": "",
    "resolucion": "50/5 (MEd)",
    "observaciones": "",
    "tablas": [
@@ -3617,7 +3617,7 @@
    "hoja": "3° C.B. 2da Div.",
    "curso": "3º AÑO CICLO BASICO",
    "division": "2DA",
-   "ciclo": "2026",
+   "ciclo": "",
    "resolucion": "50/5 (MEd)",
    "observaciones": "",
    "tablas": [
@@ -4361,7 +4361,7 @@
    "hoja": "4º C.S. EIE",
    "curso": "4º AÑO C. SUP. E.I.E.",
    "division": "1RA",
-   "ciclo": "2026",
+   "ciclo": "",
    "resolucion": "1277/5 (MEd)",
    "observaciones": "",
    "tablas": [
@@ -5125,7 +5125,7 @@
    "hoja": "4º C.S. GAO",
    "curso": "4º AÑO C. SUP. GAO",
    "division": "1RA",
-   "ciclo": "2026",
+   "ciclo": "",
    "resolucion": "50/5 (MEd)",
    "observaciones": "",
    "tablas": [
@@ -5806,7 +5806,7 @@
    "hoja": "5º C.S. EIE",
    "curso": "5º AÑO C. SUP. EIE",
    "division": "1RA",
-   "ciclo": "2026",
+   "ciclo": "",
    "resolucion": "1277/5 (MEd)",
    "observaciones": "",
    "tablas": [
@@ -6505,7 +6505,7 @@
    "hoja": "5º C.S. GAO",
    "curso": "5º AÑO C. SUP GAO",
    "division": "1RA",
-   "ciclo": "2026",
+   "ciclo": "",
    "resolucion": "50/5 (MEd)",
    "observaciones": "",
    "tablas": [
@@ -7169,7 +7169,7 @@
    "hoja": "6º C.S. EIE",
    "curso": "6º C.S. EIE",
    "division": "1RA",
-   "ciclo": "2026",
+   "ciclo": "",
    "resolucion": "1277/5 (MEd)",
    "observaciones": "",
    "tablas": [
@@ -7932,7 +7932,7 @@
    "hoja": "6º C.S. GAO",
    "curso": "6º AÑO C.SUP. GAO",
    "division": "1RA",
-   "ciclo": "2026",
+   "ciclo": "",
    "resolucion": "50/5 (MEd)",
    "observaciones": "",
    "tablas": [
@@ -8587,7 +8587,7 @@
    "hoja": "7º C.S. EIE",
    "curso": "7º AÑO C. SUP. EIE",
    "division": "1RA",
-   "ciclo": "2026",
+   "ciclo": "",
    "resolucion": "1277/5 (MEd)",
    "observaciones": "",
    "tablas": [
@@ -8602,6 +8602,47 @@
       "VIERNES"
      ],
      "filas": [
+      {
+       "hora": "13:20 A 14:00 HS.",
+       "celdas": {
+        "MARTES": [
+         {
+          "materia": "COMUNICACIÓN",
+          "docentes": [
+           "GOMEZ CONTRERAS, MARIA ANGELICA",
+           "OCARANZA, LAURA GUADALUPE"
+          ],
+          "plazas": [
+           "N°128012"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "BLANCO SALTO, CLAUDIA VANESSA",
+           "CONTRERA, CECILIA VERONICA"
+          ],
+          "plazas": [
+           "N°234746"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "TECNOLOGIA DE LA FABRICACIÓN",
+          "docentes": [
+           "SALTO, CONRADO MIGUEL",
+           "HERNANDEZ, GUILLERMO RAUL"
+          ],
+          "plazas": [
+           "N°232534"
+          ]
+         }
+        ]
+       }
+      },
       {
        "hora": "14:00 HS. A 14:40 HS.",
        "celdas": {
@@ -8979,47 +9020,6 @@
          }
         ]
        }
-      },
-      {
-       "hora": "13:20 A 14:00 HS.",
-       "celdas": {
-        "MARTES": [
-         {
-          "materia": "COMUNICACIÓN",
-          "docentes": [
-           "GOMEZ CONTRERAS, MARIA ANGELICA",
-           "OCARANZA, LAURA GUADALUPE"
-          ],
-          "plazas": [
-           "N°128012"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "BLANCO SALTO, CLAUDIA VANESSA",
-           "CONTRERA, CECILIA VERONICA"
-          ],
-          "plazas": [
-           "N°234746"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "TECNOLOGIA DE LA FABRICACIÓN",
-          "docentes": [
-           "SALTO, CONRADO MIGUEL",
-           "HERNANDEZ, GUILLERMO RAUL"
-          ],
-          "plazas": [
-           "N°232534"
-          ]
-         }
-        ]
-       }
       }
      ]
     },
@@ -9299,7 +9299,7 @@
    "hoja": "7º C.S. GAO",
    "curso": "7º AÑO C. SUP. GAO",
    "division": "1RA",
-   "ciclo": "2026",
+   "ciclo": "",
    "resolucion": "50/5 (MEd)",
    "observaciones": "",
    "tablas": [
@@ -9314,6 +9314,47 @@
       "VIERNES"
      ],
      "filas": [
+      {
+       "hora": "13:20 A 14:00 HS.",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "IMPOSITIVA II",
+          "docentes": [
+           "MOLINA RAQUEL DEL VALLE",
+           "PEREIRA, GLORIA RAMONA"
+          ],
+          "plazas": [
+           "N°229959"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "BLANCO SALTO, CLAUDIA VANESA",
+           "CONTRERA, CECILIA VERONICA"
+          ],
+          "plazas": [
+           "N°234747"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "COMUNICACIÓN",
+          "docentes": [
+           "GOMEZ CONTRERAS, MARIA ANGELICA",
+           "OCARANZA LAURA GUADALUPE"
+          ],
+          "plazas": [
+           "N°128053"
+          ]
+         }
+        ]
+       }
+      },
       {
        "hora": "14:00 HS. A 14:40 HS.",
        "celdas": {
@@ -9682,47 +9723,6 @@
           ],
           "plazas": [
            "N°94011"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "13:20 A 14:00 HS.",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "IMPOSITIVA II",
-          "docentes": [
-           "MOLINA RAQUEL DEL VALLE",
-           "PEREIRA, GLORIA RAMONA"
-          ],
-          "plazas": [
-           "N°229959"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "BLANCO SALTO, CLAUDIA VANESA",
-           "CONTRERA, CECILIA VERONICA"
-          ],
-          "plazas": [
-           "N°234747"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "COMUNICACIÓN",
-          "docentes": [
-           "GOMEZ CONTRERAS, MARIA ANGELICA",
-           "OCARANZA LAURA GUADALUPE"
-          ],
-          "plazas": [
-           "N°128053"
           ]
          }
         ]

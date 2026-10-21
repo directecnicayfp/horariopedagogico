@@ -1245,633 +1245,6 @@
    ]
   },
   {
-   "hoja": "1°AÑO E",
-   "curso": "1°",
-   "division": "E",
-   "ciclo": "BASICO",
-   "resolucion": "1277/5 MEd",
-   "observaciones": "",
-   "tablas": [
-    {
-     "titulo": "Horario de clases",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "14:00 A 14:40",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "BIOLOGIA",
-          "docentes": [
-           "BRITO, LUIS ROBERTO"
-          ],
-          "plazas": [
-           "N° 345359/345360"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "DIBUJO TENICO",
-          "docentes": [
-           "SALAS, JOSE OSCAR/MENORQUE, VICTOR HUGO"
-          ],
-          "plazas": [
-           "N° 297037"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "DIBUJO TENICO",
-          "docentes": [
-           "SALAS, JOSE OSCAR/MENORQUE, VICTOR HUGO"
-          ],
-          "plazas": [
-           "N° 297037"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "ABRAHAM. FERNANDO ARTURO"
-          ],
-          "plazas": [
-           "N° 242570"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "ABRAHAM. FERNANDO ARTURO"
-          ],
-          "plazas": [
-           "N° 242570"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "14:40 A 15:20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "BIOLOGIA",
-          "docentes": [
-           "BRITO, LUIS ROBERTO"
-          ],
-          "plazas": [
-           "N° 345359/345360"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "DIBUJO TENICO",
-          "docentes": [
-           "SALAS, JOSE OSCAR/MENORQUE, VICTOR HUGO"
-          ],
-          "plazas": [
-           "N° 297037"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "DIBUJO TENICO",
-          "docentes": [
-           "SALAS, JOSE OSCAR/MENORQUE, VICTOR HUGO"
-          ],
-          "plazas": [
-           "N° 297037"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "ABRAHAM. FERNANDO ARTURO"
-          ],
-          "plazas": [
-           "N° 242570"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "ABRAHAM. FERNANDO ARTURO"
-          ],
-          "plazas": [
-           "N° 242570"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "15:30 A 16:10",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "ROJAS, JOSE OSCAR"
-          ],
-          "plazas": [
-           "N° 296848"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "GEOGRAFIA",
-          "docentes": [
-           "HERRERA, LUCIANO EDGARDO"
-          ],
-          "plazas": [
-           "N° 106363"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "ROJAS, JOSE OSCAR"
-          ],
-          "plazas": [
-           "N° 296848"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "ABRAHAM. FERNANDO ARTURO"
-          ],
-          "plazas": [
-           "N° 242570"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "ANTICHAN, JUAN MANUEL JESUS"
-          ],
-          "plazas": [
-           "N° 206047"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "16:10 A 16:50",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "FISICO-QUIMICA",
-          "docentes": [
-           "PAZ, ANGELA ELINA"
-          ],
-          "plazas": [
-           "N° 107182"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "GEOGRAFIA",
-          "docentes": [
-           "HERRERA, LUCIANO EDGARDO"
-          ],
-          "plazas": [
-           "N° 106363"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "ROJAS, JOSE OSCAR"
-          ],
-          "plazas": [
-           "N° 296848"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "LENGUA EXTRANJERA INGLES",
-          "docentes": [
-           "NOGUEDA, CARINA DANIELA"
-          ],
-          "plazas": [
-           "N° 319689"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "ANTICHAN, JUAN MANUEL JESUS"
-          ],
-          "plazas": [
-           "N° 206047"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "16:55 A 17:35",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "FISICO-QUIMICA",
-          "docentes": [
-           "PAZ, ANGELA ELINA"
-          ],
-          "plazas": [
-           "N° 107182"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "TECNOLOGIA",
-          "docentes": [
-           "SALAS, OSCAR ANTONIO/MENORQUE, VICTOR HUGO"
-          ],
-          "plazas": [
-           "N° 286359"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "TECNOLOGIA",
-          "docentes": [
-           "SALAS, OSCAR ANTONIO/MENORQUE, VICTOR HUGO"
-          ],
-          "plazas": [
-           "N° 286359"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "LENGUA EXTRANJERA INGLES",
-          "docentes": [
-           "NOGUEDA, CARINA DANIELA"
-          ],
-          "plazas": [
-           "N° 319689"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "ANTICHAN, JUAN MANUEL JESUS"
-          ],
-          "plazas": [
-           "N° 206047"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "17:35 A 18:15",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "FISICO-QUIMICA",
-          "docentes": [
-           "PAZ, ANGELA ELINA"
-          ],
-          "plazas": [
-           "N° 107182"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "TECNOLOGIA",
-          "docentes": [
-           "SALAS, OSCAR ANTONIO/MENORQUE, VICTOR HUGO"
-          ],
-          "plazas": [
-           "N° 286359"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "ANTICHAN, JUAN MANUEL JESUS"
-          ],
-          "plazas": [
-           "N° 206047"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "LENGUA EXTRANJERA INGLES",
-          "docentes": [
-           "NOGUEDA, CARINA DANIELA"
-          ],
-          "plazas": [
-           "N° 319689"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "BIOLOGIA",
-          "docentes": [
-           "BRITO, LUIS ROBERTO"
-          ],
-          "plazas": [
-           "N° 345359/345360"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "18:15 A 18:55",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "ANTICHAN, JUAN MANUEL JESUS"
-          ],
-          "plazas": [
-           "N° 206047"
-          ]
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Taller Tecnológico",
-     "tipo": "taller",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "07:40 A 09:40",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "TALLER TECNOLOGICO: AJUSTE",
-          "docentes": [
-           "CAMPOS, ANTONIO DARIO"
-          ],
-          "plazas": [
-           "N° 132391"
-          ]
-         },
-         {
-          "materia": "TALLER TECNOLOGICO: CARPINTERIA",
-          "docentes": [
-           "CORDOBA, ROBERTO DARIO"
-          ],
-          "plazas": [
-           "N° 134681"
-          ]
-         },
-         {
-          "materia": "TALLER TECNOLOGICO: ELECTRICIDAD",
-          "docentes": [
-           "DIAZ, PAOLA SOLEDAD/ROBLES ALVAREZ, JUAN VALOIS"
-          ],
-          "plazas": [
-           "N° 121361"
-          ]
-         },
-         {
-          "materia": "TALLER TECNOLOGICO: HOJALATERIA",
-          "docentes": [
-           "PERDIGUERO, JOSÉ ROBERTO"
-          ],
-          "plazas": [
-           "N° 175476"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "TALLER TECNOLOGICO: AJUSTE",
-          "docentes": [
-           "CAMPOS, ANTONIO DARIO"
-          ],
-          "plazas": [
-           "N° 132391"
-          ]
-         },
-         {
-          "materia": "TALLER TECNOLOGICO: CARPINTERIA",
-          "docentes": [
-           "CORDOBA, ROBERTO DARIO"
-          ],
-          "plazas": [
-           "N° 134681"
-          ]
-         },
-         {
-          "materia": "TALLER TECNOLOGICO: ELECTRICIDAD",
-          "docentes": [
-           "DIAZ, PAOLA SOLEDAD/ROBLES ALVAREZ, JUAN VALOIS"
-          ],
-          "plazas": [
-           "N° 121361"
-          ]
-         },
-         {
-          "materia": "TALLER TECNOLOGICO: HOJALATERIA",
-          "docentes": [
-           "PERDIGUERO, JOSÉ ROBERTO"
-          ],
-          "plazas": [
-           "N° 175476"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "09:50 A 11:50",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "TALLER TECNOLOGICO: AJUSTE",
-          "docentes": [
-           "CAMPOS, ANTONIO DARIO"
-          ],
-          "plazas": [
-           "N° 132391"
-          ]
-         },
-         {
-          "materia": "TALLER TECNOLOGICO: CARPINTERIA",
-          "docentes": [
-           "CORDOBA, ROBERTO DARIO"
-          ],
-          "plazas": [
-           "N° 134681"
-          ]
-         },
-         {
-          "materia": "TALLER TECNOLOGICO: ELECTRICIDAD",
-          "docentes": [
-           "DIAZ, PAOLA SOLEDAD/ROBLES ALVAREZ, JUAN VALOIS"
-          ],
-          "plazas": [
-           "N° 121361"
-          ]
-         },
-         {
-          "materia": "TALLER TECNOLOGICO: HOJALATERIA",
-          "docentes": [
-           "PERDIGUERO, JOSÉ ROBERTO"
-          ],
-          "plazas": [
-           "N° 175476"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "TALLER TECNOLOGICO: AJUSTE",
-          "docentes": [
-           "CAMPOS, ANTONIO DARIO"
-          ],
-          "plazas": [
-           "N° 132391"
-          ]
-         },
-         {
-          "materia": "TALLER TECNOLOGICO: CARPINTERIA",
-          "docentes": [
-           "CORDOBA, ROBERTO DARIO"
-          ],
-          "plazas": [
-           "N° 134681"
-          ]
-         },
-         {
-          "materia": "TALLER TECNOLOGICO: ELECTRICIDAD",
-          "docentes": [
-           "DIAZ, PAOLA SOLEDAD/ROBLES ALVAREZ, JUAN VALOIS"
-          ],
-          "plazas": [
-           "N° 121361"
-          ]
-         },
-         {
-          "materia": "TALLER TECNOLOGICO: HOJALATERIA",
-          "docentes": [
-           "PERDIGUERO, JOSÉ ROBERTO"
-          ],
-          "plazas": [
-           "N° 175476"
-          ]
-         }
-        ]
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Educación Física",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "8:00 A 10:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "10:00 A 12:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "EDUCACIÓN FISICA",
-          "docentes": [
-           "FLORES, JUAN JOSE"
-          ],
-          "plazas": [
-           "N° 299827"
-          ]
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      }
-     ]
-    }
-   ]
-  },
-  {
    "hoja": "1°AÑO C",
    "curso": "1°",
    "division": "C",
@@ -3109,6 +2482,633 @@
           ]
          }
         ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "1°AÑO E",
+   "curso": "1°",
+   "division": "E",
+   "ciclo": "BASICO",
+   "resolucion": "1277/5 MEd",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "14:00 A 14:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "BIOLOGIA",
+          "docentes": [
+           "BRITO, LUIS ROBERTO"
+          ],
+          "plazas": [
+           "N° 345359/345360"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "DIBUJO TENICO",
+          "docentes": [
+           "SALAS, JOSE OSCAR/MENORQUE, VICTOR HUGO"
+          ],
+          "plazas": [
+           "N° 297037"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "DIBUJO TENICO",
+          "docentes": [
+           "SALAS, JOSE OSCAR/MENORQUE, VICTOR HUGO"
+          ],
+          "plazas": [
+           "N° 297037"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "ABRAHAM. FERNANDO ARTURO"
+          ],
+          "plazas": [
+           "N° 242570"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "ABRAHAM. FERNANDO ARTURO"
+          ],
+          "plazas": [
+           "N° 242570"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "14:40 A 15:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "BIOLOGIA",
+          "docentes": [
+           "BRITO, LUIS ROBERTO"
+          ],
+          "plazas": [
+           "N° 345359/345360"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "DIBUJO TENICO",
+          "docentes": [
+           "SALAS, JOSE OSCAR/MENORQUE, VICTOR HUGO"
+          ],
+          "plazas": [
+           "N° 297037"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "DIBUJO TENICO",
+          "docentes": [
+           "SALAS, JOSE OSCAR/MENORQUE, VICTOR HUGO"
+          ],
+          "plazas": [
+           "N° 297037"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "ABRAHAM. FERNANDO ARTURO"
+          ],
+          "plazas": [
+           "N° 242570"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "ABRAHAM. FERNANDO ARTURO"
+          ],
+          "plazas": [
+           "N° 242570"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "15:30 A 16:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "ROJAS, JOSE OSCAR"
+          ],
+          "plazas": [
+           "N° 296848"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "GEOGRAFIA",
+          "docentes": [
+           "HERRERA, LUCIANO EDGARDO"
+          ],
+          "plazas": [
+           "N° 106363"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "ROJAS, JOSE OSCAR"
+          ],
+          "plazas": [
+           "N° 296848"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "ABRAHAM. FERNANDO ARTURO"
+          ],
+          "plazas": [
+           "N° 242570"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "ANTICHAN, JUAN MANUEL JESUS"
+          ],
+          "plazas": [
+           "N° 206047"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "16:10 A 16:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "FISICO-QUIMICA",
+          "docentes": [
+           "PAZ, ANGELA ELINA"
+          ],
+          "plazas": [
+           "N° 107182"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "GEOGRAFIA",
+          "docentes": [
+           "HERRERA, LUCIANO EDGARDO"
+          ],
+          "plazas": [
+           "N° 106363"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "ROJAS, JOSE OSCAR"
+          ],
+          "plazas": [
+           "N° 296848"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA EXTRANJERA INGLES",
+          "docentes": [
+           "NOGUEDA, CARINA DANIELA"
+          ],
+          "plazas": [
+           "N° 319689"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "ANTICHAN, JUAN MANUEL JESUS"
+          ],
+          "plazas": [
+           "N° 206047"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "16:55 A 17:35",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "FISICO-QUIMICA",
+          "docentes": [
+           "PAZ, ANGELA ELINA"
+          ],
+          "plazas": [
+           "N° 107182"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "TECNOLOGIA",
+          "docentes": [
+           "SALAS, OSCAR ANTONIO/MENORQUE, VICTOR HUGO"
+          ],
+          "plazas": [
+           "N° 286359"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "TECNOLOGIA",
+          "docentes": [
+           "SALAS, OSCAR ANTONIO/MENORQUE, VICTOR HUGO"
+          ],
+          "plazas": [
+           "N° 286359"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA EXTRANJERA INGLES",
+          "docentes": [
+           "NOGUEDA, CARINA DANIELA"
+          ],
+          "plazas": [
+           "N° 319689"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "ANTICHAN, JUAN MANUEL JESUS"
+          ],
+          "plazas": [
+           "N° 206047"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "17:35 A 18:15",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "FISICO-QUIMICA",
+          "docentes": [
+           "PAZ, ANGELA ELINA"
+          ],
+          "plazas": [
+           "N° 107182"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "TECNOLOGIA",
+          "docentes": [
+           "SALAS, OSCAR ANTONIO/MENORQUE, VICTOR HUGO"
+          ],
+          "plazas": [
+           "N° 286359"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "ANTICHAN, JUAN MANUEL JESUS"
+          ],
+          "plazas": [
+           "N° 206047"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA EXTRANJERA INGLES",
+          "docentes": [
+           "NOGUEDA, CARINA DANIELA"
+          ],
+          "plazas": [
+           "N° 319689"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "BIOLOGIA",
+          "docentes": [
+           "BRITO, LUIS ROBERTO"
+          ],
+          "plazas": [
+           "N° 345359/345360"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "18:15 A 18:55",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "ANTICHAN, JUAN MANUEL JESUS"
+          ],
+          "plazas": [
+           "N° 206047"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "07:40 A 09:40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "TALLER TECNOLOGICO: AJUSTE",
+          "docentes": [
+           "CAMPOS, ANTONIO DARIO"
+          ],
+          "plazas": [
+           "N° 132391"
+          ]
+         },
+         {
+          "materia": "TALLER TECNOLOGICO: CARPINTERIA",
+          "docentes": [
+           "CORDOBA, ROBERTO DARIO"
+          ],
+          "plazas": [
+           "N° 134681"
+          ]
+         },
+         {
+          "materia": "TALLER TECNOLOGICO: ELECTRICIDAD",
+          "docentes": [
+           "DIAZ, PAOLA SOLEDAD/ROBLES ALVAREZ, JUAN VALOIS"
+          ],
+          "plazas": [
+           "N° 121361"
+          ]
+         },
+         {
+          "materia": "TALLER TECNOLOGICO: HOJALATERIA",
+          "docentes": [
+           "PERDIGUERO, JOSÉ ROBERTO"
+          ],
+          "plazas": [
+           "N° 175476"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "TALLER TECNOLOGICO: AJUSTE",
+          "docentes": [
+           "CAMPOS, ANTONIO DARIO"
+          ],
+          "plazas": [
+           "N° 132391"
+          ]
+         },
+         {
+          "materia": "TALLER TECNOLOGICO: CARPINTERIA",
+          "docentes": [
+           "CORDOBA, ROBERTO DARIO"
+          ],
+          "plazas": [
+           "N° 134681"
+          ]
+         },
+         {
+          "materia": "TALLER TECNOLOGICO: ELECTRICIDAD",
+          "docentes": [
+           "DIAZ, PAOLA SOLEDAD/ROBLES ALVAREZ, JUAN VALOIS"
+          ],
+          "plazas": [
+           "N° 121361"
+          ]
+         },
+         {
+          "materia": "TALLER TECNOLOGICO: HOJALATERIA",
+          "docentes": [
+           "PERDIGUERO, JOSÉ ROBERTO"
+          ],
+          "plazas": [
+           "N° 175476"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "09:50 A 11:50",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "TALLER TECNOLOGICO: AJUSTE",
+          "docentes": [
+           "CAMPOS, ANTONIO DARIO"
+          ],
+          "plazas": [
+           "N° 132391"
+          ]
+         },
+         {
+          "materia": "TALLER TECNOLOGICO: CARPINTERIA",
+          "docentes": [
+           "CORDOBA, ROBERTO DARIO"
+          ],
+          "plazas": [
+           "N° 134681"
+          ]
+         },
+         {
+          "materia": "TALLER TECNOLOGICO: ELECTRICIDAD",
+          "docentes": [
+           "DIAZ, PAOLA SOLEDAD/ROBLES ALVAREZ, JUAN VALOIS"
+          ],
+          "plazas": [
+           "N° 121361"
+          ]
+         },
+         {
+          "materia": "TALLER TECNOLOGICO: HOJALATERIA",
+          "docentes": [
+           "PERDIGUERO, JOSÉ ROBERTO"
+          ],
+          "plazas": [
+           "N° 175476"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "TALLER TECNOLOGICO: AJUSTE",
+          "docentes": [
+           "CAMPOS, ANTONIO DARIO"
+          ],
+          "plazas": [
+           "N° 132391"
+          ]
+         },
+         {
+          "materia": "TALLER TECNOLOGICO: CARPINTERIA",
+          "docentes": [
+           "CORDOBA, ROBERTO DARIO"
+          ],
+          "plazas": [
+           "N° 134681"
+          ]
+         },
+         {
+          "materia": "TALLER TECNOLOGICO: ELECTRICIDAD",
+          "docentes": [
+           "DIAZ, PAOLA SOLEDAD/ROBLES ALVAREZ, JUAN VALOIS"
+          ],
+          "plazas": [
+           "N° 121361"
+          ]
+         },
+         {
+          "materia": "TALLER TECNOLOGICO: HOJALATERIA",
+          "docentes": [
+           "PERDIGUERO, JOSÉ ROBERTO"
+          ],
+          "plazas": [
+           "N° 175476"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "8:00 A 10:00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "10:00 A 12:00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "EDUCACIÓN FISICA",
+          "docentes": [
+           "FLORES, JUAN JOSE"
+          ],
+          "plazas": [
+           "N° 299827"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
         "JUEVES": [],
         "VIERNES": []
        }

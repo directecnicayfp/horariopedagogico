@@ -8,7 +8,7 @@
    "hoja": "1°AÑO A",
    "curso": "1",
    "division": "A",
-   "ciclo": "2025",
+   "ciclo": "",
    "resolucion": "465/5",
    "observaciones": "",
    "tablas": [
@@ -901,7 +901,7 @@
    "hoja": "1°AÑO B",
    "curso": "1",
    "division": "B",
-   "ciclo": "2025",
+   "ciclo": "",
    "resolucion": "465/5",
    "observaciones": "",
    "tablas": [
@@ -1804,7 +1804,7 @@
    "hoja": "1°AÑO C",
    "curso": "1",
    "division": "C",
-   "ciclo": "2025",
+   "ciclo": "",
    "resolucion": "465/5",
    "observaciones": "",
    "tablas": [
@@ -2707,7 +2707,7 @@
    "hoja": "2°AÑO A",
    "curso": "2",
    "division": "A",
-   "ciclo": "2025",
+   "ciclo": "",
    "resolucion": "465/5",
    "observaciones": "",
    "tablas": [
@@ -3630,7 +3630,7 @@
    "hoja": "2°AÑO B",
    "curso": "2",
    "division": "B",
-   "ciclo": "2025",
+   "ciclo": "",
    "resolucion": "465/5",
    "observaciones": "",
    "tablas": [
@@ -4533,7 +4533,7 @@
    "hoja": "2°AÑO C",
    "curso": "2",
    "division": "C",
-   "ciclo": "2025",
+   "ciclo": "",
    "resolucion": "465/5",
    "observaciones": "",
    "tablas": [
@@ -5460,7 +5460,7 @@
    "hoja": "3°AÑO A",
    "curso": "3",
    "division": "A",
-   "ciclo": "2025",
+   "ciclo": "",
    "resolucion": "465/5",
    "observaciones": "",
    "tablas": [
@@ -6362,7 +6362,7 @@
    "hoja": "3°AÑO B",
    "curso": "3",
    "division": "B",
-   "ciclo": "2025",
+   "ciclo": "",
    "resolucion": "465/5",
    "observaciones": "",
    "tablas": [
@@ -7285,7 +7285,7 @@
    "hoja": "3°AÑO C",
    "curso": "3",
    "division": "C",
-   "ciclo": "2025",
+   "ciclo": "",
    "resolucion": "465/5",
    "observaciones": "",
    "tablas": [
@@ -8212,7 +8212,7 @@
    "hoja": "4°AÑO A",
    "curso": "4",
    "division": "A",
-   "ciclo": "2025",
+   "ciclo": "",
    "resolucion": "465/5",
    "observaciones": "",
    "tablas": [
@@ -9105,7 +9105,7 @@
    "hoja": "4°AÑO B",
    "curso": "4",
    "division": "B",
-   "ciclo": "2025",
+   "ciclo": "",
    "resolucion": "304/5",
    "observaciones": "",
    "tablas": [
@@ -9845,7 +9845,7 @@
    "hoja": "5°AÑO A",
    "curso": "5",
    "division": "A",
-   "ciclo": "2025",
+   "ciclo": "",
    "resolucion": "465/5",
    "observaciones": "",
    "tablas": [
@@ -10748,7 +10748,7 @@
    "hoja": "5°AÑO B",
    "curso": "5",
    "division": "B",
-   "ciclo": "2025",
+   "ciclo": "",
    "resolucion": "304/5",
    "observaciones": "",
    "tablas": [
@@ -11488,7 +11488,7 @@
    "hoja": "6°AÑO A",
    "curso": "6",
    "division": "A",
-   "ciclo": "2025",
+   "ciclo": "",
    "resolucion": "465/5",
    "observaciones": "",
    "tablas": [
@@ -12391,7 +12391,7 @@
    "hoja": "6°AÑO B",
    "curso": "6",
    "division": "B",
-   "ciclo": "2025",
+   "ciclo": "",
    "resolucion": "304/5",
    "observaciones": "",
    "tablas": [
@@ -13131,7 +13131,7 @@
    "hoja": "7°AÑO",
    "curso": "7",
    "division": "A",
-   "ciclo": "2025",
+   "ciclo": "",
    "resolucion": "465/5",
    "observaciones": "",
    "tablas": [

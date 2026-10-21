@@ -14072,6 +14072,687 @@
    ]
   },
   {
+   "hoja": "4°1° INFOR",
+   "curso": "4°",
+   "division": "1°",
+   "ciclo": "INFORMÁTICA",
+   "resolucion": "467/5 (MED)",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "07:45 A 08:25",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
+          "docentes": [
+           "BUSTAMANTE ROSANA"
+          ],
+          "plazas": [
+           "N°109566"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "ALURRALDE ADOLFO SEBASTIAN"
+          ],
+          "plazas": [
+           "N°11586"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GOMEZ ZULEMA DEL VALLE"
+          ],
+          "plazas": [
+           "N°328438"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "INTRODUCCIÓN A LA PROGRAMACIÓN",
+          "docentes": [
+           "CÁCERES MÓNICA ALEJANDRA"
+          ],
+          "plazas": [
+           "N°183849"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "MONASTERIO MÓNICA ALEJANDRA"
+          ],
+          "plazas": [
+           "N°194837"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "08:25 A 09:05",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
+          "docentes": [
+           "BUSTAMANTE ROSANA"
+          ],
+          "plazas": [
+           "N°109566"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "ALURRALDE ADOLFO SEBASTIAN"
+          ],
+          "plazas": [
+           "N°11586"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GOMEZ ZULEMA DEL VALLE"
+          ],
+          "plazas": [
+           "N°328438"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "INTRODUCCIÓN A LA PROGRAMACIÓN",
+          "docentes": [
+           "CÁCERES MÓNICA ALEJANDRA"
+          ],
+          "plazas": [
+           "N°183849"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "MONASTERIO MÓNICA ALEJANDRA"
+          ],
+          "plazas": [
+           "N°194837"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "09:15 A 09:55",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "ARGAÑARAZ LIDIA GIOVANA"
+          ],
+          "plazas": [
+           "N°191251"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "ZUÑIGA ANTONIA DEL VALLE"
+          ],
+          "plazas": [
+           "N°242134"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "ARGAÑARAZ LIDIA GIOVANA"
+          ],
+          "plazas": [
+           "N°191251"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "ALURRALDE ADOLFO SEBASTIAN"
+          ],
+          "plazas": [
+           "N°11586"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "MONASTERIO MÓNICA ALEJANDRA"
+          ],
+          "plazas": [
+           "N°194837"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "09:55 A 10:35",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ELECTRÓNICA I",
+          "docentes": [
+           "ANTOUN CARLOS ARTURO"
+          ],
+          "plazas": [
+           "N°155598"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "ZUÑIGA ANTONIA DEL VALLE"
+          ],
+          "plazas": [
+           "N°242134"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "ARGAÑARAZ LIDIA GIOVANA"
+          ],
+          "plazas": [
+           "N°191251"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GOMEZ ZULEMA DEL VALLE"
+          ],
+          "plazas": [
+           "N°328438"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "ARGAÑARAZ LIDIA GIOVANA"
+          ],
+          "plazas": [
+           "N°191251"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "10:45 A 11:25",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ELECTRÓNICA I",
+          "docentes": [
+           "ANTOUN CARLOS ARTURO"
+          ],
+          "plazas": [
+           "N°155598"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "ZUÑIGA ANTONIA DEL VALLE"
+          ],
+          "plazas": [
+           "N°242134"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA EXTRANJERA INGLÉS",
+          "docentes": [
+           "ALBORNOZ ALEXIA MACARENA"
+          ],
+          "plazas": [
+           "N°311311"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
+          "docentes": [
+           "BUSTAMANTE ROSANA"
+          ],
+          "plazas": [
+           "N°109566"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GOMEZ ZULEMA DEL VALLE"
+          ],
+          "plazas": [
+           "N°328438"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11:25 A 12:05",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ELECTRÓNICA I",
+          "docentes": [
+           "ANTOUN CARLOS ARTURO"
+          ],
+          "plazas": [
+           "N°155598"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "INTRODUCCIÓN A LA PROGRAMACIÓN",
+          "docentes": [
+           "CÁCERES MÓNICA ALEJANDRA"
+          ],
+          "plazas": [
+           "N°183849"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA EXTRANJERA INGLÉS",
+          "docentes": [
+           "ALBORNOZ ALEXIA MACARENA"
+          ],
+          "plazas": [
+           "N°311311"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
+          "docentes": [
+           "BUSTAMANTE ROSANA"
+          ],
+          "plazas": [
+           "N°109566"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GOMEZ ZULEMA DEL VALLE"
+          ],
+          "plazas": [
+           "N°328438"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "12:05 A 12:45",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "INTRODUCCIÓN A LA PROGRAMACIÓN",
+          "docentes": [
+           "CÁCERES MÓNICA ALEJANDRA"
+          ],
+          "plazas": [
+           "N°183849"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "LENGUA EXTRANJERA INGLÉS",
+          "docentes": [
+           "ALBORNOZ ALEXIA MACARENA"
+          ],
+          "plazas": [
+           "N°311311"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "ALURRALDE ADOLFO SEBASTIAN"
+          ],
+          "plazas": [
+           "N°11586"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "14:40 A 14:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "INSTALACIÓN Y CONFIGURACIÓN DE SOFTWARE Y SISTEMA OPERATIVO",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "INSTALACIÓN DE COMPUTADORAS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ASISTENCIA SOBRE UTILITARIOS",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "INSTALACIÓN Y CONFIGURACIÓN DE SOFTWARE Y SISTEMA OPERATIVO",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "INSTALACIÓN DE COMPUTADORAS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ASISTENCIA SOBRE UTILITARIOS",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "14:40 A 15:20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "15:20 A 16:00",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ALBORNOZ LUIS ARTURO",
+          "docentes": [],
+          "plazas": [
+           "N°234640"
+          ]
+         },
+         {
+          "materia": "COSTILLA NELSON RODRIGO",
+          "docentes": [],
+          "plazas": [
+           "N°163543"
+          ]
+         },
+         {
+          "materia": "MARCHESE ROSANA SOLEDAD",
+          "docentes": [],
+          "plazas": [
+           "N°121252"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "ALBORNOZ LUIS ARTURO",
+          "docentes": [],
+          "plazas": [
+           "N°234640"
+          ]
+         },
+         {
+          "materia": "COSTILLA NELSON RODRIGO",
+          "docentes": [],
+          "plazas": [
+           "N°163543"
+          ]
+         },
+         {
+          "materia": "MARCHESE ROSANA SOLEDAD",
+          "docentes": [],
+          "plazas": [
+           "N°121252"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "16:20 A 17:00",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "INSTALACIÓN Y CONFIGURACIÓN DE SOFTWARE Y SISTEMA OPERATIVO",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "INSTALACIÓN DE COMPUTADORAS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ASISTENCIA SOBRE UTILITARIOS",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "INSTALACIÓN Y CONFIGURACIÓN DE SOFTWARE Y SISTEMA OPERATIVO",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "INSTALACIÓN DE COMPUTADORAS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ASISTENCIA SOBRE UTILITARIOS",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17:00 A 17:40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17:40 A 18:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ALBORNOZ LUIS ARTURO",
+          "docentes": [],
+          "plazas": [
+           "N°234640"
+          ]
+         },
+         {
+          "materia": "COSTILLA NELSON RODRIGO",
+          "docentes": [],
+          "plazas": [
+           "N°163543"
+          ]
+         },
+         {
+          "materia": "MARCHESE ROSANA SOLEDAD",
+          "docentes": [],
+          "plazas": [
+           "N°121252"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "ALBORNOZ LUIS ARTURO",
+          "docentes": [],
+          "plazas": [
+           "N°234640"
+          ]
+         },
+         {
+          "materia": "COSTILLA NELSON RODRIGO",
+          "docentes": [],
+          "plazas": [
+           "N°163543"
+          ]
+         },
+         {
+          "materia": "MARCHESE ROSANA SOLEDAD",
+          "docentes": [],
+          "plazas": [
+           "N°121252"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "15:00 A 16:00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "CABRERA PABLO ESTEBAN"
+          ],
+          "plazas": [
+           "N°296620"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
    "hoja": "4°2° ELECT",
    "curso": "4°",
    "division": "2°",
@@ -14814,6 +15495,704 @@
         ],
         "JUEVES": [],
         "VIERNES": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "4°2° INFOR",
+   "curso": "4°",
+   "division": "2°",
+   "ciclo": "INFORMÁTICA",
+   "resolucion": "467/5 (MED)",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "07:45 A 08:25",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "INTRODUCCIÓN A LA PROGRAMACIÓN",
+          "docentes": [
+           "LEIVA JORGE ANGEL"
+          ],
+          "plazas": [
+           "N°239194"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "ELECTRÓNICA I",
+          "docentes": [
+           "JUAREZ MAILEN ALEXIA"
+          ],
+          "plazas": [
+           "N°297148"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "ARGAÑARAZ LIDIA GIOVANA"
+          ],
+          "plazas": [
+           "N°211115"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "FIGUEROA GUILLERMO AUGUSTO"
+          ],
+          "plazas": [
+           "N°32674"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA INGLÉS",
+          "docentes": [
+           "SIN CUBRIR"
+          ],
+          "plazas": [
+           "N°158422"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "08:25 A 09:05",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "INTRODUCCIÓN A LA PROGRAMACIÓN",
+          "docentes": [
+           "LEIVA JORGE ANGEL"
+          ],
+          "plazas": [
+           "N°239194"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "ELECTRÓNICA I",
+          "docentes": [
+           "JUAREZ MAILEN ALEXIA"
+          ],
+          "plazas": [
+           "N°297148"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "ARGAÑARAZ LIDIA GIOVANA"
+          ],
+          "plazas": [
+           "N°211115"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "FIGUEROA GUILLERMO AUGUSTO"
+          ],
+          "plazas": [
+           "N°32674"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA INGLÉS",
+          "docentes": [
+           "SIN CUBRIR"
+          ],
+          "plazas": [
+           "N°158422"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "09:15 A 09:55",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "INTRODUCCIÓN A LA PROGRAMACIÓN",
+          "docentes": [
+           "LEIVA JORGE ANGEL"
+          ],
+          "plazas": [
+           "N°239194"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "ELECTRÓNICA I",
+          "docentes": [
+           "JUAREZ MAILEN ALEXIA"
+          ],
+          "plazas": [
+           "N°297148"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "SALINAS MIRTA PAOLA"
+          ],
+          "plazas": [
+           "N°304425"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "FIGUEROA GUILLERMO AUGUSTO"
+          ],
+          "plazas": [
+           "N°32674"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "FIGUEROA GUILLERMO AUGUSTO"
+          ],
+          "plazas": [
+           "N°32674"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "09:55 A 10:35",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "JUAREZ MARÍA SILVANA"
+          ],
+          "plazas": [
+           "N°304415"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA EXTRANJERA INGLÉS",
+          "docentes": [
+           "SIN CUBRIR"
+          ],
+          "plazas": [
+           "N°158422"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
+          "docentes": [
+           "KASSNER LIDIA ESTER"
+          ],
+          "plazas": [
+           "N°270108"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "JUAREZ MARÍA SILVANA"
+          ],
+          "plazas": [
+           "N°304415"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "FIGUEROA GUILLERMO AUGUSTO"
+          ],
+          "plazas": [
+           "N°32674"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "10:45 A 11:25",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "JUAREZ MARÍA SILVANA"
+          ],
+          "plazas": [
+           "N°304415"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "ALURRALDE ADOLFO SEBASTIAN"
+          ],
+          "plazas": [
+           "N°211127"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
+          "docentes": [
+           "KASSNER LIDIA ESTER"
+          ],
+          "plazas": [
+           "N°270108"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "SALINAS MIRTA PAOLA"
+          ],
+          "plazas": [
+           "N°304425"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "ARGAÑARAZ LIDIA GIOVANA"
+          ],
+          "plazas": [
+           "N°211115"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11:25 A 12:05",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "ALURRALDE ADOLFO SEBASTIAN"
+          ],
+          "plazas": [
+           "N°211127"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "ALURRALDE ADOLFO SEBASTIAN"
+          ],
+          "plazas": [
+           "N°211127"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
+          "docentes": [
+           "KASSNER LIDIA ESTER"
+          ],
+          "plazas": [
+           "N°270108"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "SALINAS MIRTA PAOLA"
+          ],
+          "plazas": [
+           "N°304425"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "ARGAÑARAZ LIDIA GIOVANA"
+          ],
+          "plazas": [
+           "N°211115"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "12:05 A 12:45",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "ALURRALDE ADOLFO SEBASTIAN"
+          ],
+          "plazas": [
+           "N°211127"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
+          "docentes": [
+           "KASSNER LIDIA ESTER"
+          ],
+          "plazas": [
+           "N°270108"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "INTRODUCCIÓN A LA PROGRAMACIÓN",
+          "docentes": [
+           "LEIVA JORGE ANGEL"
+          ],
+          "plazas": [
+           "N°239194"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "14:40 A 14:40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "INSTALACIÓN Y CONFIGURACIÓN DE SOFTWARE Y SISTEMA OPERATIVO",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "INSTALACIÓN DE COMPUTADORAS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ASISTENCIA SOBRE UTILITARIOS",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "INSTALACIÓN Y CONFIGURACIÓN DE SOFTWARE Y SISTEMA OPERATIVO",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "INSTALACIÓN DE COMPUTADORAS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ASISTENCIA SOBRE UTILITARIOS",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "14:40 A 15:20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "15:20 A 16:00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "ALBORNOZ LUIS ARTURO",
+          "docentes": [],
+          "plazas": [
+           "N°234640"
+          ]
+         },
+         {
+          "materia": "COSTILLA NELSON RODRIGO",
+          "docentes": [],
+          "plazas": [
+           "N°163543"
+          ]
+         },
+         {
+          "materia": "MARCHESE ROSANA SOLEDAD",
+          "docentes": [],
+          "plazas": [
+           "N°121252"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "ALBORNOZ LUIS ARTURO",
+          "docentes": [],
+          "plazas": [
+           "N°234640"
+          ]
+         },
+         {
+          "materia": "COSTILLA NELSON RODRIGO",
+          "docentes": [],
+          "plazas": [
+           "N°163543"
+          ]
+         },
+         {
+          "materia": "MARCHESE ROSANA SOLEDAD",
+          "docentes": [],
+          "plazas": [
+           "N°121252"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "16:20 A 17:00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "INSTALACIÓN Y CONFIGURACIÓN DE SOFTWARE Y SISTEMA OPERATIVO",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "INSTALACIÓN DE COMPUTADORAS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ASISTENCIA SOBRE UTILITARIOS",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "INSTALACIÓN Y CONFIGURACIÓN DE SOFTWARE Y SISTEMA OPERATIVO",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "INSTALACIÓN DE COMPUTADORAS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ASISTENCIA SOBRE UTILITARIOS",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17:00 A 17:40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17:40 A 18:20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "ALBORNOZ LUIS ARTURO",
+          "docentes": [],
+          "plazas": [
+           "N°234640"
+          ]
+         },
+         {
+          "materia": "COSTILLA NELSON RODRIGO",
+          "docentes": [],
+          "plazas": [
+           "N°163543"
+          ]
+         },
+         {
+          "materia": "MARCHESE ROSANA SOLEDAD",
+          "docentes": [],
+          "plazas": [
+           "N°121252"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "ALBORNOZ LUIS ARTURO",
+          "docentes": [],
+          "plazas": [
+           "N°234640"
+          ]
+         },
+         {
+          "materia": "COSTILLA NELSON RODRIGO",
+          "docentes": [],
+          "plazas": [
+           "N°163543"
+          ]
+         },
+         {
+          "materia": "MARCHESE ROSANA SOLEDAD",
+          "docentes": [],
+          "plazas": [
+           "N°121252"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "17:00 A 18:00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "CABRERA PABLO ESTEBAN",
+           "EDUCACIÓN FÍSICA"
+          ],
+          "plazas": []
+         }
+        ]
+       }
+      },
+      {
+       "hora": "18:00 A 19:00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "CABRERA PABLO ESTEBAN",
+          "docentes": [],
+          "plazas": [
+           "N°296612"
+          ]
+         }
+        ]
        }
       }
      ]
@@ -15570,1385 +16949,6 @@
    ]
   },
   {
-   "hoja": "4°1° INFOR",
-   "curso": "4°",
-   "division": "1°",
-   "ciclo": "INFORMÁTICA",
-   "resolucion": "467/5 (MED)",
-   "observaciones": "",
-   "tablas": [
-    {
-     "titulo": "Horario de clases",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "07:45 A 08:25",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
-          "docentes": [
-           "BUSTAMANTE ROSANA"
-          ],
-          "plazas": [
-           "N°109566"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "QUÍMICA",
-          "docentes": [
-           "ALURRALDE ADOLFO SEBASTIAN"
-          ],
-          "plazas": [
-           "N°11586"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "FÍSICA",
-          "docentes": [
-           "GOMEZ ZULEMA DEL VALLE"
-          ],
-          "plazas": [
-           "N°328438"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "INTRODUCCIÓN A LA PROGRAMACIÓN",
-          "docentes": [
-           "CÁCERES MÓNICA ALEJANDRA"
-          ],
-          "plazas": [
-           "N°183849"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "MONASTERIO MÓNICA ALEJANDRA"
-          ],
-          "plazas": [
-           "N°194837"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "08:25 A 09:05",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
-          "docentes": [
-           "BUSTAMANTE ROSANA"
-          ],
-          "plazas": [
-           "N°109566"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "QUÍMICA",
-          "docentes": [
-           "ALURRALDE ADOLFO SEBASTIAN"
-          ],
-          "plazas": [
-           "N°11586"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "FÍSICA",
-          "docentes": [
-           "GOMEZ ZULEMA DEL VALLE"
-          ],
-          "plazas": [
-           "N°328438"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "INTRODUCCIÓN A LA PROGRAMACIÓN",
-          "docentes": [
-           "CÁCERES MÓNICA ALEJANDRA"
-          ],
-          "plazas": [
-           "N°183849"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "MONASTERIO MÓNICA ALEJANDRA"
-          ],
-          "plazas": [
-           "N°194837"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "09:15 A 09:55",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "MATEMÁTICA",
-          "docentes": [
-           "ARGAÑARAZ LIDIA GIOVANA"
-          ],
-          "plazas": [
-           "N°191251"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "ZUÑIGA ANTONIA DEL VALLE"
-          ],
-          "plazas": [
-           "N°242134"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "MATEMÁTICA",
-          "docentes": [
-           "ARGAÑARAZ LIDIA GIOVANA"
-          ],
-          "plazas": [
-           "N°191251"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "QUÍMICA",
-          "docentes": [
-           "ALURRALDE ADOLFO SEBASTIAN"
-          ],
-          "plazas": [
-           "N°11586"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "MONASTERIO MÓNICA ALEJANDRA"
-          ],
-          "plazas": [
-           "N°194837"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "09:55 A 10:35",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "ELECTRÓNICA I",
-          "docentes": [
-           "ANTOUN CARLOS ARTURO"
-          ],
-          "plazas": [
-           "N°155598"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "ZUÑIGA ANTONIA DEL VALLE"
-          ],
-          "plazas": [
-           "N°242134"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "MATEMÁTICA",
-          "docentes": [
-           "ARGAÑARAZ LIDIA GIOVANA"
-          ],
-          "plazas": [
-           "N°191251"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "FÍSICA",
-          "docentes": [
-           "GOMEZ ZULEMA DEL VALLE"
-          ],
-          "plazas": [
-           "N°328438"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "MATEMÁTICA",
-          "docentes": [
-           "ARGAÑARAZ LIDIA GIOVANA"
-          ],
-          "plazas": [
-           "N°191251"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "10:45 A 11:25",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "ELECTRÓNICA I",
-          "docentes": [
-           "ANTOUN CARLOS ARTURO"
-          ],
-          "plazas": [
-           "N°155598"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "ZUÑIGA ANTONIA DEL VALLE"
-          ],
-          "plazas": [
-           "N°242134"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LENGUA EXTRANJERA INGLÉS",
-          "docentes": [
-           "ALBORNOZ ALEXIA MACARENA"
-          ],
-          "plazas": [
-           "N°311311"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
-          "docentes": [
-           "BUSTAMANTE ROSANA"
-          ],
-          "plazas": [
-           "N°109566"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "FÍSICA",
-          "docentes": [
-           "GOMEZ ZULEMA DEL VALLE"
-          ],
-          "plazas": [
-           "N°328438"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "11:25 A 12:05",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "ELECTRÓNICA I",
-          "docentes": [
-           "ANTOUN CARLOS ARTURO"
-          ],
-          "plazas": [
-           "N°155598"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "INTRODUCCIÓN A LA PROGRAMACIÓN",
-          "docentes": [
-           "CÁCERES MÓNICA ALEJANDRA"
-          ],
-          "plazas": [
-           "N°183849"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LENGUA EXTRANJERA INGLÉS",
-          "docentes": [
-           "ALBORNOZ ALEXIA MACARENA"
-          ],
-          "plazas": [
-           "N°311311"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
-          "docentes": [
-           "BUSTAMANTE ROSANA"
-          ],
-          "plazas": [
-           "N°109566"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "FÍSICA",
-          "docentes": [
-           "GOMEZ ZULEMA DEL VALLE"
-          ],
-          "plazas": [
-           "N°328438"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "12:05 A 12:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "INTRODUCCIÓN A LA PROGRAMACIÓN",
-          "docentes": [
-           "CÁCERES MÓNICA ALEJANDRA"
-          ],
-          "plazas": [
-           "N°183849"
-          ]
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "LENGUA EXTRANJERA INGLÉS",
-          "docentes": [
-           "ALBORNOZ ALEXIA MACARENA"
-          ],
-          "plazas": [
-           "N°311311"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "QUÍMICA",
-          "docentes": [
-           "ALURRALDE ADOLFO SEBASTIAN"
-          ],
-          "plazas": [
-           "N°11586"
-          ]
-         }
-        ]
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Taller Tecnológico",
-     "tipo": "taller",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "14:40 A 14:40",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "INSTALACIÓN Y CONFIGURACIÓN DE SOFTWARE Y SISTEMA OPERATIVO",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "INSTALACIÓN DE COMPUTADORAS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ASISTENCIA SOBRE UTILITARIOS",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "INSTALACIÓN Y CONFIGURACIÓN DE SOFTWARE Y SISTEMA OPERATIVO",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "INSTALACIÓN DE COMPUTADORAS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ASISTENCIA SOBRE UTILITARIOS",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "14:40 A 15:20",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "15:20 A 16:00",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "ALBORNOZ LUIS ARTURO",
-          "docentes": [],
-          "plazas": [
-           "N°234640"
-          ]
-         },
-         {
-          "materia": "COSTILLA NELSON RODRIGO",
-          "docentes": [],
-          "plazas": [
-           "N°163543"
-          ]
-         },
-         {
-          "materia": "MARCHESE ROSANA SOLEDAD",
-          "docentes": [],
-          "plazas": [
-           "N°121252"
-          ]
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "ALBORNOZ LUIS ARTURO",
-          "docentes": [],
-          "plazas": [
-           "N°234640"
-          ]
-         },
-         {
-          "materia": "COSTILLA NELSON RODRIGO",
-          "docentes": [],
-          "plazas": [
-           "N°163543"
-          ]
-         },
-         {
-          "materia": "MARCHESE ROSANA SOLEDAD",
-          "docentes": [],
-          "plazas": [
-           "N°121252"
-          ]
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "16:20 A 17:00",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "INSTALACIÓN Y CONFIGURACIÓN DE SOFTWARE Y SISTEMA OPERATIVO",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "INSTALACIÓN DE COMPUTADORAS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ASISTENCIA SOBRE UTILITARIOS",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "INSTALACIÓN Y CONFIGURACIÓN DE SOFTWARE Y SISTEMA OPERATIVO",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "INSTALACIÓN DE COMPUTADORAS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ASISTENCIA SOBRE UTILITARIOS",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "17:00 A 17:40",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "17:40 A 18:20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "ALBORNOZ LUIS ARTURO",
-          "docentes": [],
-          "plazas": [
-           "N°234640"
-          ]
-         },
-         {
-          "materia": "COSTILLA NELSON RODRIGO",
-          "docentes": [],
-          "plazas": [
-           "N°163543"
-          ]
-         },
-         {
-          "materia": "MARCHESE ROSANA SOLEDAD",
-          "docentes": [],
-          "plazas": [
-           "N°121252"
-          ]
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "ALBORNOZ LUIS ARTURO",
-          "docentes": [],
-          "plazas": [
-           "N°234640"
-          ]
-         },
-         {
-          "materia": "COSTILLA NELSON RODRIGO",
-          "docentes": [],
-          "plazas": [
-           "N°163543"
-          ]
-         },
-         {
-          "materia": "MARCHESE ROSANA SOLEDAD",
-          "docentes": [],
-          "plazas": [
-           "N°121252"
-          ]
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Educación Física",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "15:00 A 16:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "EDUCACIÓN FÍSICA",
-          "docentes": [
-           "CABRERA PABLO ESTEBAN"
-          ],
-          "plazas": [
-           "N°296620"
-          ]
-         }
-        ]
-       }
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hoja": "4°2° INFOR",
-   "curso": "4°",
-   "division": "2°",
-   "ciclo": "INFORMÁTICA",
-   "resolucion": "467/5 (MED)",
-   "observaciones": "",
-   "tablas": [
-    {
-     "titulo": "Horario de clases",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "07:45 A 08:25",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "INTRODUCCIÓN A LA PROGRAMACIÓN",
-          "docentes": [
-           "LEIVA JORGE ANGEL"
-          ],
-          "plazas": [
-           "N°239194"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "ELECTRÓNICA I",
-          "docentes": [
-           "JUAREZ MAILEN ALEXIA"
-          ],
-          "plazas": [
-           "N°297148"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "MATEMÁTICA",
-          "docentes": [
-           "ARGAÑARAZ LIDIA GIOVANA"
-          ],
-          "plazas": [
-           "N°211115"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "FÍSICA",
-          "docentes": [
-           "FIGUEROA GUILLERMO AUGUSTO"
-          ],
-          "plazas": [
-           "N°32674"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA EXTRANJERA INGLÉS",
-          "docentes": [
-           "SIN CUBRIR"
-          ],
-          "plazas": [
-           "N°158422"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "08:25 A 09:05",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "INTRODUCCIÓN A LA PROGRAMACIÓN",
-          "docentes": [
-           "LEIVA JORGE ANGEL"
-          ],
-          "plazas": [
-           "N°239194"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "ELECTRÓNICA I",
-          "docentes": [
-           "JUAREZ MAILEN ALEXIA"
-          ],
-          "plazas": [
-           "N°297148"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "MATEMÁTICA",
-          "docentes": [
-           "ARGAÑARAZ LIDIA GIOVANA"
-          ],
-          "plazas": [
-           "N°211115"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "FÍSICA",
-          "docentes": [
-           "FIGUEROA GUILLERMO AUGUSTO"
-          ],
-          "plazas": [
-           "N°32674"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA EXTRANJERA INGLÉS",
-          "docentes": [
-           "SIN CUBRIR"
-          ],
-          "plazas": [
-           "N°158422"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "09:15 A 09:55",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "INTRODUCCIÓN A LA PROGRAMACIÓN",
-          "docentes": [
-           "LEIVA JORGE ANGEL"
-          ],
-          "plazas": [
-           "N°239194"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "ELECTRÓNICA I",
-          "docentes": [
-           "JUAREZ MAILEN ALEXIA"
-          ],
-          "plazas": [
-           "N°297148"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "SALINAS MIRTA PAOLA"
-          ],
-          "plazas": [
-           "N°304425"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "FÍSICA",
-          "docentes": [
-           "FIGUEROA GUILLERMO AUGUSTO"
-          ],
-          "plazas": [
-           "N°32674"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "FÍSICA",
-          "docentes": [
-           "FIGUEROA GUILLERMO AUGUSTO"
-          ],
-          "plazas": [
-           "N°32674"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "09:55 A 10:35",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "JUAREZ MARÍA SILVANA"
-          ],
-          "plazas": [
-           "N°304415"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "LENGUA EXTRANJERA INGLÉS",
-          "docentes": [
-           "SIN CUBRIR"
-          ],
-          "plazas": [
-           "N°158422"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
-          "docentes": [
-           "KASSNER LIDIA ESTER"
-          ],
-          "plazas": [
-           "N°270108"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "JUAREZ MARÍA SILVANA"
-          ],
-          "plazas": [
-           "N°304415"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "FÍSICA",
-          "docentes": [
-           "FIGUEROA GUILLERMO AUGUSTO"
-          ],
-          "plazas": [
-           "N°32674"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "10:45 A 11:25",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "JUAREZ MARÍA SILVANA"
-          ],
-          "plazas": [
-           "N°304415"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "QUÍMICA",
-          "docentes": [
-           "ALURRALDE ADOLFO SEBASTIAN"
-          ],
-          "plazas": [
-           "N°211127"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
-          "docentes": [
-           "KASSNER LIDIA ESTER"
-          ],
-          "plazas": [
-           "N°270108"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "SALINAS MIRTA PAOLA"
-          ],
-          "plazas": [
-           "N°304425"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "MATEMÁTICA",
-          "docentes": [
-           "ARGAÑARAZ LIDIA GIOVANA"
-          ],
-          "plazas": [
-           "N°211115"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "11:25 A 12:05",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "QUÍMICA",
-          "docentes": [
-           "ALURRALDE ADOLFO SEBASTIAN"
-          ],
-          "plazas": [
-           "N°211127"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "QUÍMICA",
-          "docentes": [
-           "ALURRALDE ADOLFO SEBASTIAN"
-          ],
-          "plazas": [
-           "N°211127"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
-          "docentes": [
-           "KASSNER LIDIA ESTER"
-          ],
-          "plazas": [
-           "N°270108"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "SALINAS MIRTA PAOLA"
-          ],
-          "plazas": [
-           "N°304425"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "MATEMÁTICA",
-          "docentes": [
-           "ARGAÑARAZ LIDIA GIOVANA"
-          ],
-          "plazas": [
-           "N°211115"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "12:05 A 12:45",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "QUÍMICA",
-          "docentes": [
-           "ALURRALDE ADOLFO SEBASTIAN"
-          ],
-          "plazas": [
-           "N°211127"
-          ]
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
-          "docentes": [
-           "KASSNER LIDIA ESTER"
-          ],
-          "plazas": [
-           "N°270108"
-          ]
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "INTRODUCCIÓN A LA PROGRAMACIÓN",
-          "docentes": [
-           "LEIVA JORGE ANGEL"
-          ],
-          "plazas": [
-           "N°239194"
-          ]
-         }
-        ]
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Taller Tecnológico",
-     "tipo": "taller",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "14:40 A 14:40",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "INSTALACIÓN Y CONFIGURACIÓN DE SOFTWARE Y SISTEMA OPERATIVO",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "INSTALACIÓN DE COMPUTADORAS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ASISTENCIA SOBRE UTILITARIOS",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "INSTALACIÓN Y CONFIGURACIÓN DE SOFTWARE Y SISTEMA OPERATIVO",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "INSTALACIÓN DE COMPUTADORAS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ASISTENCIA SOBRE UTILITARIOS",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "14:40 A 15:20",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "15:20 A 16:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "ALBORNOZ LUIS ARTURO",
-          "docentes": [],
-          "plazas": [
-           "N°234640"
-          ]
-         },
-         {
-          "materia": "COSTILLA NELSON RODRIGO",
-          "docentes": [],
-          "plazas": [
-           "N°163543"
-          ]
-         },
-         {
-          "materia": "MARCHESE ROSANA SOLEDAD",
-          "docentes": [],
-          "plazas": [
-           "N°121252"
-          ]
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "ALBORNOZ LUIS ARTURO",
-          "docentes": [],
-          "plazas": [
-           "N°234640"
-          ]
-         },
-         {
-          "materia": "COSTILLA NELSON RODRIGO",
-          "docentes": [],
-          "plazas": [
-           "N°163543"
-          ]
-         },
-         {
-          "materia": "MARCHESE ROSANA SOLEDAD",
-          "docentes": [],
-          "plazas": [
-           "N°121252"
-          ]
-         }
-        ],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "16:20 A 17:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "INSTALACIÓN Y CONFIGURACIÓN DE SOFTWARE Y SISTEMA OPERATIVO",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "INSTALACIÓN DE COMPUTADORAS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ASISTENCIA SOBRE UTILITARIOS",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "INSTALACIÓN Y CONFIGURACIÓN DE SOFTWARE Y SISTEMA OPERATIVO",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "INSTALACIÓN DE COMPUTADORAS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ASISTENCIA SOBRE UTILITARIOS",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "17:00 A 17:40",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "17:40 A 18:20",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "ALBORNOZ LUIS ARTURO",
-          "docentes": [],
-          "plazas": [
-           "N°234640"
-          ]
-         },
-         {
-          "materia": "COSTILLA NELSON RODRIGO",
-          "docentes": [],
-          "plazas": [
-           "N°163543"
-          ]
-         },
-         {
-          "materia": "MARCHESE ROSANA SOLEDAD",
-          "docentes": [],
-          "plazas": [
-           "N°121252"
-          ]
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "ALBORNOZ LUIS ARTURO",
-          "docentes": [],
-          "plazas": [
-           "N°234640"
-          ]
-         },
-         {
-          "materia": "COSTILLA NELSON RODRIGO",
-          "docentes": [],
-          "plazas": [
-           "N°163543"
-          ]
-         },
-         {
-          "materia": "MARCHESE ROSANA SOLEDAD",
-          "docentes": [],
-          "plazas": [
-           "N°121252"
-          ]
-         }
-        ],
-        "VIERNES": []
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Educación Física",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "17:00 A 18:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "EDUCACIÓN FÍSICA",
-          "docentes": [
-           "CABRERA PABLO ESTEBAN",
-           "EDUCACIÓN FÍSICA"
-          ],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "18:00 A 19:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "CABRERA PABLO ESTEBAN",
-          "docentes": [],
-          "plazas": [
-           "N°296612"
-          ]
-         }
-        ]
-       }
-      }
-     ]
-    }
-   ]
-  },
-  {
    "hoja": "5°1° ELECT",
    "curso": "5°",
    "division": "1°",
@@ -17691,6 +17691,707 @@
         "MIERCOLES": [],
         "JUEVES": [],
         "VIERNES": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "5°1° INFOR",
+   "curso": "5°",
+   "division": "1°",
+   "ciclo": "INFORMÁTICA",
+   "resolucion": "467/5 (MED)",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "14:00 a 14:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GOMEZ ZULEMA DEL VALLE"
+          ],
+          "plazas": [
+           "N°191215"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMÁTICA APLICADA I",
+          "docentes": [
+           "RUIZ JUAN ANTONIO"
+          ],
+          "plazas": [
+           "N°176368"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMÁTICA APLICADA I",
+          "docentes": [
+           "RUIZ JUAN ANTONIO"
+          ],
+          "plazas": [
+           "N°176368"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "ALURRALDE ADOLFO SEBASTIAN"
+          ],
+          "plazas": [
+           "N°227700"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA INGLÉS",
+          "docentes": [
+           "ALCARAZ NORA BEATRIZ"
+          ],
+          "plazas": [
+           "N°242454"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "14:40 a 15:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GOMEZ ZULEMA DEL VALLE"
+          ],
+          "plazas": [
+           "N°191215"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMÁTICA APLICADA I",
+          "docentes": [
+           "RUIZ JUAN ANTONIO"
+          ],
+          "plazas": [
+           "N°176368"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMÁTICA APLICADA I",
+          "docentes": [
+           "RUIZ JUAN ANTONIO"
+          ],
+          "plazas": [
+           "N°176368"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "ALURRALDE ADOLFO SEBASTIAN"
+          ],
+          "plazas": [
+           "N°227700"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA INGLÉS",
+          "docentes": [
+           "ALCARAZ NORA BEATRIZ"
+          ],
+          "plazas": [
+           "N°242454"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "15:30 a 16:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "PROBABILIDAD Y ESTADÍSTICA",
+          "docentes": [
+           "FIGUEROA GUILLERMO AUGUSTO"
+          ],
+          "plazas": [
+           "N°147031"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "TECNOLOGÍA DE LOS MATERIALES",
+          "docentes": [
+           "SUELDO REINALDO EMILIO"
+          ],
+          "plazas": [
+           "N°11853"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "PROGRAMACIÓN I",
+          "docentes": [
+           "CÁCERES MÓNICA DANIELA"
+          ],
+          "plazas": [
+           "N°199446"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "ALURRALDE ADOLFO SEBASTIAN"
+          ],
+          "plazas": [
+           "N°227700"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "PROGRAMACIÓN I",
+          "docentes": [
+           "CÁCERES MÓNICA DANIELA"
+          ],
+          "plazas": [
+           "N°199446"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "16:10 a 16:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "MONASTERIO MÓNICA ALEJANDRA"
+          ],
+          "plazas": [
+           "N°10243"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "TECNOLOGÍA DE LOS MATERIALES",
+          "docentes": [
+           "SUELDO REINALDO EMILIO"
+          ],
+          "plazas": [
+           "N°11853"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "PROGRAMACIÓN I",
+          "docentes": [
+           "CÁCERES MÓNICA DANIELA"
+          ],
+          "plazas": [
+           "N°199446"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GOMEZ ZULEMA DEL VALLE"
+          ],
+          "plazas": [
+           "N°191215"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "PROGRAMACIÓN I",
+          "docentes": [
+           "CÁCERES MÓNICA DANIELA"
+          ],
+          "plazas": [
+           "N°199446"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "17:00 a 17:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "MONASTERIO MÓNICA ALEJANDRA"
+          ],
+          "plazas": [
+           "N°10243"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "TECNOLOGÍA DE LOS MATERIALES",
+          "docentes": [
+           "SUELDO REINALDO EMILIO"
+          ],
+          "plazas": [
+           "N°11853"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA EXTRANJERA INGLÉS",
+          "docentes": [
+           "ALCARAZ NORA BEATRIZ"
+          ],
+          "plazas": [
+           "N°242454"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GOMEZ ZULEMA DEL VALLE"
+          ],
+          "plazas": [
+           "N°191215"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "QUINTEROS RAUL MIGUEL"
+          ],
+          "plazas": [
+           "N°266177"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "17:40 a 18:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "MONASTERIO MÓNICA ALEJANDRA"
+          ],
+          "plazas": [
+           "N°10243"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "PROGRAMACIÓN I",
+          "docentes": [
+           "CÁCERES MÓNICA DANIELA"
+          ],
+          "plazas": [
+           "N°356219"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "PROBABILIDAD Y ESTADÍSTICA",
+          "docentes": [
+           "FIGUEROA GUILLERMO AUGUSTO"
+          ],
+          "plazas": [
+           "N°147031"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GOMEZ ZULEMA DEL VALLE"
+          ],
+          "plazas": [
+           "N°191215"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "QUINTEROS RAUL MIGUEL"
+          ],
+          "plazas": [
+           "N°266177"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "18:20 a 19:00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "PROGRAMACIÓN I",
+          "docentes": [
+           "CÁCERES MÓNICA DANIELA"
+          ],
+          "plazas": [
+           "N°356219"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "PROBABILIDAD Y ESTADÍSTICA",
+          "docentes": [
+           "FIGUEROA GUILLERMO AUGUSTO"
+          ],
+          "plazas": [
+           "N°147031"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "QUINTEROS RAUL MIGUEL"
+          ],
+          "plazas": [
+           "N°266177"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "07:45 a 08:25",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "APRECIACIÓN DE SISTEMAS DE INFORMACIÓN TÍPICOS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ADAPTACIÓN Y COMPLEMENTACIÓN DE PROGRAMAS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "MANTENIMIENTO Y REPARACIÓN DE DATOS",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "APRECIACIÓN DE SISTEMAS DE INFORMACIÓN TÍPICOS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ADAPTACIÓN Y COMPLEMENTACIÓN DE PROGRAMAS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "MANTENIMIENTO Y REPARACIÓN DE DATOS",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "08:25 a 09:05",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "09:05 a 09:45",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ARREGUEZ BARBARA EUGENIA",
+          "docentes": [],
+          "plazas": [
+           "N°366613"
+          ]
+         },
+         {
+          "materia": "DECIMA SALAZAR RUBEN",
+          "docentes": [],
+          "plazas": [
+           "N°209337"
+          ]
+         },
+         {
+          "materia": "JUAREZ VANESA ALEJANDRA",
+          "docentes": [],
+          "plazas": [
+           "N°159983"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "ARREGUEZ BARBARA EUGENIA",
+          "docentes": [],
+          "plazas": [
+           "N°366613"
+          ]
+         },
+         {
+          "materia": "DECIMA SALAZAR RUBEN",
+          "docentes": [],
+          "plazas": [
+           "N°209337"
+          ]
+         },
+         {
+          "materia": "JUAREZ VANESA ALEJANDRA",
+          "docentes": [],
+          "plazas": [
+           "N°159983"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "10:05 a 10:45",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "APRECIACIÓN DE SISTEMAS DE INFORMACIÓN TÍPICOS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ADAPTACIÓN Y COMPLEMENTACIÓN DE PROGRAMAS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "MANTENIMIENTO Y REPARACIÓN DE DATOS",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "APRECIACIÓN DE SISTEMAS DE INFORMACIÓN TÍPICOS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ADAPTACIÓN Y COMPLEMENTACIÓN DE PROGRAMAS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "MANTENIMIENTO Y REPARACIÓN DE DATOS",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "10:45 a 11:25",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "11:25 a 12:05",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ARREGUEZ BARBARA EUGENIA",
+          "docentes": [],
+          "plazas": [
+           "N°366613"
+          ]
+         },
+         {
+          "materia": "DECIMA SALAZAR RUBEN",
+          "docentes": [],
+          "plazas": [
+           "N°209337"
+          ]
+         },
+         {
+          "materia": "JUAREZ VANESA ALEJANDRA",
+          "docentes": [],
+          "plazas": [
+           "N°159983"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "ARREGUEZ BARBARA EUGENIA",
+          "docentes": [],
+          "plazas": [
+           "N°366613"
+          ]
+         },
+         {
+          "materia": "DECIMA SALAZAR RUBEN",
+          "docentes": [],
+          "plazas": [
+           "N°209337"
+          ]
+         },
+         {
+          "materia": "JUAREZ VANESA ALEJANDRA",
+          "docentes": [],
+          "plazas": [
+           "N°159983"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "08:00 A 09:00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "ELIAS MELISA JIMENA"
+          ],
+          "plazas": [
+           "N°193550"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "09:00 A 10:00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "ELIAS MELISA JIMENA"
+          ],
+          "plazas": [
+           "N°193550"
+          ]
+         }
+        ]
        }
       }
      ]
@@ -20245,6 +20946,707 @@
    ]
   },
   {
+   "hoja": "5°2° INFOR",
+   "curso": "5°",
+   "division": "2°",
+   "ciclo": "INFORMÁTICA",
+   "resolucion": "467/5 (MED)",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "07:45 A 08:25",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MATEMÁTICA APLICADA I",
+          "docentes": [
+           "ARGAÑARAZ LIDIA GIOVANA"
+          ],
+          "plazas": [
+           "N°354500"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "PROGRAMACIÓN I",
+          "docentes": [
+           "AIBAR MILAGROS GISEL"
+          ],
+          "plazas": [
+           "N°354503"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "TECNOLOGÍA DE LOS MATERIALES",
+          "docentes": [
+           "ZARATE JOSE FERNANDO"
+          ],
+          "plazas": [
+           "N°354506"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GOMEZ ZULEMA DEL VALLE"
+          ],
+          "plazas": [
+           "N°354498"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA INGLÉS",
+          "docentes": [
+           "ALCARAZ NORA BEATRIZ"
+          ],
+          "plazas": [
+           "N°354497"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "08:25 A 09:05",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MATEMÁTICA APLICADA I",
+          "docentes": [
+           "ARGAÑARAZ LIDIA GIOVANA"
+          ],
+          "plazas": [
+           "N°354500"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "PROGRAMACIÓN I",
+          "docentes": [
+           "AIBAR MILAGROS GISEL"
+          ],
+          "plazas": [
+           "N°354503"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "TECNOLOGÍA DE LOS MATERIALES",
+          "docentes": [
+           "ZARATE JOSE FERNANDO"
+          ],
+          "plazas": [
+           "N°354506"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GOMEZ ZULEMA DEL VALLE"
+          ],
+          "plazas": [
+           "N°354498"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA INGLÉS",
+          "docentes": [
+           "ALCARAZ NORA BEATRIZ"
+          ],
+          "plazas": [
+           "N°354497"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "09:15 A 09:55",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "ALURRALDE ADOLFO SEBASTIAN"
+          ],
+          "plazas": [
+           "N°354501"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "PROBABILIDAD Y ESTADÍSTICA",
+          "docentes": [
+           "CORNEJO MARCOS SEGUNDO NICOLÁS"
+          ],
+          "plazas": [
+           "N°354505"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "TECNOLOGÍA DE LOS MATERIALES",
+          "docentes": [
+           "ZARATE JOSE FERNANDO"
+          ],
+          "plazas": [
+           "N°354506"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "PROGRAMACIÓN I",
+          "docentes": [
+           "AIBAR MILAGROS GISEL"
+          ],
+          "plazas": [
+           "N°354503"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "PROGRAMACIÓN I",
+          "docentes": [
+           "AIBAR MILAGROS GISEL"
+          ],
+          "plazas": [
+           "N°354503"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "09:55 A 10:35",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "ALURRALDE ADOLFO SEBASTIAN"
+          ],
+          "plazas": [
+           "N°354501"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "PROBABILIDAD Y ESTADÍSTICA",
+          "docentes": [
+           "CORNEJO MARCOS SEGUNDO NICOLÁS"
+          ],
+          "plazas": [
+           "N°354505"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA EXTRANJERA INGLÉS",
+          "docentes": [
+           "ALCARAZ NORA BEATRIZ"
+          ],
+          "plazas": [
+           "N°354497"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "PROGRAMACIÓN I",
+          "docentes": [
+           "AIBAR MILAGROS GISEL"
+          ],
+          "plazas": [
+           "N°354503"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "PROGRAMACIÓN I",
+          "docentes": [
+           "AIBAR MILAGROS GISEL"
+          ],
+          "plazas": [
+           "N°354503"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "10:45 A 11:25",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "ALURRALDE ADOLFO SEBASTIAN"
+          ],
+          "plazas": [
+           "N°354501"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GOMEZ ZULEMA DEL VALLE"
+          ],
+          "plazas": [
+           "N°354498"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "JUAREZ MARIA SILVANA"
+          ],
+          "plazas": [
+           "N°354496"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMÁTICA APLICADA I",
+          "docentes": [
+           "ARGAÑARAZ LIDIA GIOVANA"
+          ],
+          "plazas": [
+           "N°354500"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "NIEVA JUDITH ELIZABETH"
+          ],
+          "plazas": [
+           "N°354495"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11:25 A 12:05",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "JUAREZ MARIA SILVANA"
+          ],
+          "plazas": [
+           "N°354496"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GOMEZ ZULEMA DEL VALLE"
+          ],
+          "plazas": [
+           "N°354498"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "JUAREZ MARIA SILVANA"
+          ],
+          "plazas": [
+           "N°354496"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMÁTICA APLICADA I",
+          "docentes": [
+           "ARGAÑARAZ LIDIA GIOVANA"
+          ],
+          "plazas": [
+           "N°354500"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "NIEVA JUDITH ELIZABETH"
+          ],
+          "plazas": [
+           "N°354495"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "12:05 A 12:45",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "NIEVA JUDITH ELIZABETH"
+          ],
+          "plazas": [
+           "N°354495"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "GOMEZ ZULEMA DEL VALLE"
+          ],
+          "plazas": [
+           "N°354498"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "PROBABILIDAD Y ESTADÍSTICA",
+          "docentes": [
+           "CORNEJO MARCOS SEGUNDO NICOLÁS"
+          ],
+          "plazas": [
+           "N°354505"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "14:00 A 14:40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "APRECIACIÓN DE SISTEMAS DE INFORMACIÓN TÍPICOS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ADAPTACIÓN Y COMPLEMENTACIÓN DE PROGRAMAS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "MANTENIMIENTO Y REPARACIÓN DE DATOS",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "APRECIACIÓN DE SISTEMAS DE INFORMACIÓN TÍPICOS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ADAPTACIÓN Y COMPLEMENTACIÓN DE PROGRAMAS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "MANTENIMIENTO Y REPARACIÓN DE DATOS",
+          "docentes": [],
+          "plazas": []
+         }
+        ]
+       }
+      },
+      {
+       "hora": "14:40 A 15:20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "15:20 A 16:00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "ESPINOZA WALTER OMAR",
+          "docentes": [],
+          "plazas": [
+           "N°354413"
+          ]
+         },
+         {
+          "materia": "FLORES LUIS PABLO",
+          "docentes": [],
+          "plazas": [
+           "N°354414"
+          ]
+         },
+         {
+          "materia": "JUAREZ VANESA ALEJANDRA",
+          "docentes": [],
+          "plazas": [
+           "N°354515"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "ESPINOZA WALTER OMAR",
+          "docentes": [],
+          "plazas": [
+           "N°354413"
+          ]
+         },
+         {
+          "materia": "FLORES LUIS PABLO",
+          "docentes": [],
+          "plazas": [
+           "N°354414"
+          ]
+         },
+         {
+          "materia": "JUAREZ VANESA ALEJANDRA",
+          "docentes": [],
+          "plazas": [
+           "N°354515"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "16:20 A 17:00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "APRECIACIÓN DE SISTEMAS DE INFORMACIÓN TÍPICOS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ADAPTACIÓN Y COMPLEMENTACIÓN DE PROGRAMAS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "MANTENIMIENTO Y REPARACIÓN DE DATOS",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "APRECIACIÓN DE SISTEMAS DE INFORMACIÓN TÍPICOS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ADAPTACIÓN Y COMPLEMENTACIÓN DE PROGRAMAS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "MANTENIMIENTO Y REPARACIÓN DE DATOS",
+          "docentes": [],
+          "plazas": []
+         }
+        ]
+       }
+      },
+      {
+       "hora": "17:00 A 17:40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17:40 A 18:20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "ESPINOZA WALTER OMAR",
+          "docentes": [],
+          "plazas": [
+           "N°354413"
+          ]
+         },
+         {
+          "materia": "FLORES LUIS PABLO",
+          "docentes": [],
+          "plazas": [
+           "N°354414"
+          ]
+         },
+         {
+          "materia": "JUAREZ VANESA ALEJANDRA",
+          "docentes": [],
+          "plazas": [
+           "N°354515"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "ESPINOZA WALTER OMAR",
+          "docentes": [],
+          "plazas": [
+           "N°354413"
+          ]
+         },
+         {
+          "materia": "FLORES LUIS PABLO",
+          "docentes": [],
+          "plazas": [
+           "N°354414"
+          ]
+         },
+         {
+          "materia": "JUAREZ VANESA ALEJANDRA",
+          "docentes": [],
+          "plazas": [
+           "N°354515"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "17:00 A 18:00",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "OVEJERO DANIEL ALEJANDRO"
+          ],
+          "plazas": [
+           "N°354504"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "18:00 A 19:00",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "OVEJERO DANIEL ALEJANDRO"
+          ],
+          "plazas": [
+           "N°354504"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
    "hoja": "5°3° ELECT",
    "curso": "5°",
    "division": "3°",
@@ -20974,1408 +22376,6 @@
           ]
          }
         ],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hoja": "5°1° INFOR",
-   "curso": "5°",
-   "division": "1°",
-   "ciclo": "INFORMÁTICA",
-   "resolucion": "467/5 (MED)",
-   "observaciones": "",
-   "tablas": [
-    {
-     "titulo": "Horario de clases",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "14:00 a 14:40",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "FÍSICA",
-          "docentes": [
-           "GOMEZ ZULEMA DEL VALLE"
-          ],
-          "plazas": [
-           "N°191215"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "MATEMÁTICA APLICADA I",
-          "docentes": [
-           "RUIZ JUAN ANTONIO"
-          ],
-          "plazas": [
-           "N°176368"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "MATEMÁTICA APLICADA I",
-          "docentes": [
-           "RUIZ JUAN ANTONIO"
-          ],
-          "plazas": [
-           "N°176368"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "QUÍMICA",
-          "docentes": [
-           "ALURRALDE ADOLFO SEBASTIAN"
-          ],
-          "plazas": [
-           "N°227700"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA EXTRANJERA INGLÉS",
-          "docentes": [
-           "ALCARAZ NORA BEATRIZ"
-          ],
-          "plazas": [
-           "N°242454"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "14:40 a 15:20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "FÍSICA",
-          "docentes": [
-           "GOMEZ ZULEMA DEL VALLE"
-          ],
-          "plazas": [
-           "N°191215"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "MATEMÁTICA APLICADA I",
-          "docentes": [
-           "RUIZ JUAN ANTONIO"
-          ],
-          "plazas": [
-           "N°176368"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "MATEMÁTICA APLICADA I",
-          "docentes": [
-           "RUIZ JUAN ANTONIO"
-          ],
-          "plazas": [
-           "N°176368"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "QUÍMICA",
-          "docentes": [
-           "ALURRALDE ADOLFO SEBASTIAN"
-          ],
-          "plazas": [
-           "N°227700"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA EXTRANJERA INGLÉS",
-          "docentes": [
-           "ALCARAZ NORA BEATRIZ"
-          ],
-          "plazas": [
-           "N°242454"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "15:30 a 16:10",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "PROBABILIDAD Y ESTADÍSTICA",
-          "docentes": [
-           "FIGUEROA GUILLERMO AUGUSTO"
-          ],
-          "plazas": [
-           "N°147031"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "TECNOLOGÍA DE LOS MATERIALES",
-          "docentes": [
-           "SUELDO REINALDO EMILIO"
-          ],
-          "plazas": [
-           "N°11853"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "PROGRAMACIÓN I",
-          "docentes": [
-           "CÁCERES MÓNICA DANIELA"
-          ],
-          "plazas": [
-           "N°199446"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "QUÍMICA",
-          "docentes": [
-           "ALURRALDE ADOLFO SEBASTIAN"
-          ],
-          "plazas": [
-           "N°227700"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "PROGRAMACIÓN I",
-          "docentes": [
-           "CÁCERES MÓNICA DANIELA"
-          ],
-          "plazas": [
-           "N°199446"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "16:10 a 16:50",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "MONASTERIO MÓNICA ALEJANDRA"
-          ],
-          "plazas": [
-           "N°10243"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "TECNOLOGÍA DE LOS MATERIALES",
-          "docentes": [
-           "SUELDO REINALDO EMILIO"
-          ],
-          "plazas": [
-           "N°11853"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "PROGRAMACIÓN I",
-          "docentes": [
-           "CÁCERES MÓNICA DANIELA"
-          ],
-          "plazas": [
-           "N°199446"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "FÍSICA",
-          "docentes": [
-           "GOMEZ ZULEMA DEL VALLE"
-          ],
-          "plazas": [
-           "N°191215"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "PROGRAMACIÓN I",
-          "docentes": [
-           "CÁCERES MÓNICA DANIELA"
-          ],
-          "plazas": [
-           "N°199446"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "17:00 a 17:40",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "MONASTERIO MÓNICA ALEJANDRA"
-          ],
-          "plazas": [
-           "N°10243"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "TECNOLOGÍA DE LOS MATERIALES",
-          "docentes": [
-           "SUELDO REINALDO EMILIO"
-          ],
-          "plazas": [
-           "N°11853"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LENGUA EXTRANJERA INGLÉS",
-          "docentes": [
-           "ALCARAZ NORA BEATRIZ"
-          ],
-          "plazas": [
-           "N°242454"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "FÍSICA",
-          "docentes": [
-           "GOMEZ ZULEMA DEL VALLE"
-          ],
-          "plazas": [
-           "N°191215"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "GEOGRAFÍA",
-          "docentes": [
-           "QUINTEROS RAUL MIGUEL"
-          ],
-          "plazas": [
-           "N°266177"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "17:40 a 18:20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "MONASTERIO MÓNICA ALEJANDRA"
-          ],
-          "plazas": [
-           "N°10243"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "PROGRAMACIÓN I",
-          "docentes": [
-           "CÁCERES MÓNICA DANIELA"
-          ],
-          "plazas": [
-           "N°356219"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "PROBABILIDAD Y ESTADÍSTICA",
-          "docentes": [
-           "FIGUEROA GUILLERMO AUGUSTO"
-          ],
-          "plazas": [
-           "N°147031"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "FÍSICA",
-          "docentes": [
-           "GOMEZ ZULEMA DEL VALLE"
-          ],
-          "plazas": [
-           "N°191215"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "GEOGRAFÍA",
-          "docentes": [
-           "QUINTEROS RAUL MIGUEL"
-          ],
-          "plazas": [
-           "N°266177"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "18:20 a 19:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "PROGRAMACIÓN I",
-          "docentes": [
-           "CÁCERES MÓNICA DANIELA"
-          ],
-          "plazas": [
-           "N°356219"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "PROBABILIDAD Y ESTADÍSTICA",
-          "docentes": [
-           "FIGUEROA GUILLERMO AUGUSTO"
-          ],
-          "plazas": [
-           "N°147031"
-          ]
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "GEOGRAFÍA",
-          "docentes": [
-           "QUINTEROS RAUL MIGUEL"
-          ],
-          "plazas": [
-           "N°266177"
-          ]
-         }
-        ]
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Taller Tecnológico",
-     "tipo": "taller",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "07:45 a 08:25",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "APRECIACIÓN DE SISTEMAS DE INFORMACIÓN TÍPICOS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ADAPTACIÓN Y COMPLEMENTACIÓN DE PROGRAMAS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "MANTENIMIENTO Y REPARACIÓN DE DATOS",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "APRECIACIÓN DE SISTEMAS DE INFORMACIÓN TÍPICOS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ADAPTACIÓN Y COMPLEMENTACIÓN DE PROGRAMAS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "MANTENIMIENTO Y REPARACIÓN DE DATOS",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "08:25 a 09:05",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "09:05 a 09:45",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "ARREGUEZ BARBARA EUGENIA",
-          "docentes": [],
-          "plazas": [
-           "N°366613"
-          ]
-         },
-         {
-          "materia": "DECIMA SALAZAR RUBEN",
-          "docentes": [],
-          "plazas": [
-           "N°209337"
-          ]
-         },
-         {
-          "materia": "JUAREZ VANESA ALEJANDRA",
-          "docentes": [],
-          "plazas": [
-           "N°159983"
-          ]
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "ARREGUEZ BARBARA EUGENIA",
-          "docentes": [],
-          "plazas": [
-           "N°366613"
-          ]
-         },
-         {
-          "materia": "DECIMA SALAZAR RUBEN",
-          "docentes": [],
-          "plazas": [
-           "N°209337"
-          ]
-         },
-         {
-          "materia": "JUAREZ VANESA ALEJANDRA",
-          "docentes": [],
-          "plazas": [
-           "N°159983"
-          ]
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "10:05 a 10:45",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "APRECIACIÓN DE SISTEMAS DE INFORMACIÓN TÍPICOS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ADAPTACIÓN Y COMPLEMENTACIÓN DE PROGRAMAS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "MANTENIMIENTO Y REPARACIÓN DE DATOS",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "APRECIACIÓN DE SISTEMAS DE INFORMACIÓN TÍPICOS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ADAPTACIÓN Y COMPLEMENTACIÓN DE PROGRAMAS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "MANTENIMIENTO Y REPARACIÓN DE DATOS",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "10:45 a 11:25",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "11:25 a 12:05",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "ARREGUEZ BARBARA EUGENIA",
-          "docentes": [],
-          "plazas": [
-           "N°366613"
-          ]
-         },
-         {
-          "materia": "DECIMA SALAZAR RUBEN",
-          "docentes": [],
-          "plazas": [
-           "N°209337"
-          ]
-         },
-         {
-          "materia": "JUAREZ VANESA ALEJANDRA",
-          "docentes": [],
-          "plazas": [
-           "N°159983"
-          ]
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "ARREGUEZ BARBARA EUGENIA",
-          "docentes": [],
-          "plazas": [
-           "N°366613"
-          ]
-         },
-         {
-          "materia": "DECIMA SALAZAR RUBEN",
-          "docentes": [],
-          "plazas": [
-           "N°209337"
-          ]
-         },
-         {
-          "materia": "JUAREZ VANESA ALEJANDRA",
-          "docentes": [],
-          "plazas": [
-           "N°159983"
-          ]
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Educación Física",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "08:00 A 09:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "EDUCACIÓN FÍSICA",
-          "docentes": [
-           "ELIAS MELISA JIMENA"
-          ],
-          "plazas": [
-           "N°193550"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "09:00 A 10:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "EDUCACIÓN FÍSICA",
-          "docentes": [
-           "ELIAS MELISA JIMENA"
-          ],
-          "plazas": [
-           "N°193550"
-          ]
-         }
-        ]
-       }
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hoja": "5°2° INFOR",
-   "curso": "5°",
-   "division": "2°",
-   "ciclo": "INFORMÁTICA",
-   "resolucion": "467/5 (MED)",
-   "observaciones": "",
-   "tablas": [
-    {
-     "titulo": "Horario de clases",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "07:45 A 08:25",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "MATEMÁTICA APLICADA I",
-          "docentes": [
-           "ARGAÑARAZ LIDIA GIOVANA"
-          ],
-          "plazas": [
-           "N°354500"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "PROGRAMACIÓN I",
-          "docentes": [
-           "AIBAR MILAGROS GISEL"
-          ],
-          "plazas": [
-           "N°354503"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "TECNOLOGÍA DE LOS MATERIALES",
-          "docentes": [
-           "ZARATE JOSE FERNANDO"
-          ],
-          "plazas": [
-           "N°354506"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "FÍSICA",
-          "docentes": [
-           "GOMEZ ZULEMA DEL VALLE"
-          ],
-          "plazas": [
-           "N°354498"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA EXTRANJERA INGLÉS",
-          "docentes": [
-           "ALCARAZ NORA BEATRIZ"
-          ],
-          "plazas": [
-           "N°354497"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "08:25 A 09:05",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "MATEMÁTICA APLICADA I",
-          "docentes": [
-           "ARGAÑARAZ LIDIA GIOVANA"
-          ],
-          "plazas": [
-           "N°354500"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "PROGRAMACIÓN I",
-          "docentes": [
-           "AIBAR MILAGROS GISEL"
-          ],
-          "plazas": [
-           "N°354503"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "TECNOLOGÍA DE LOS MATERIALES",
-          "docentes": [
-           "ZARATE JOSE FERNANDO"
-          ],
-          "plazas": [
-           "N°354506"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "FÍSICA",
-          "docentes": [
-           "GOMEZ ZULEMA DEL VALLE"
-          ],
-          "plazas": [
-           "N°354498"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA EXTRANJERA INGLÉS",
-          "docentes": [
-           "ALCARAZ NORA BEATRIZ"
-          ],
-          "plazas": [
-           "N°354497"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "09:15 A 09:55",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "QUÍMICA",
-          "docentes": [
-           "ALURRALDE ADOLFO SEBASTIAN"
-          ],
-          "plazas": [
-           "N°354501"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "PROBABILIDAD Y ESTADÍSTICA",
-          "docentes": [
-           "CORNEJO MARCOS SEGUNDO NICOLÁS"
-          ],
-          "plazas": [
-           "N°354505"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "TECNOLOGÍA DE LOS MATERIALES",
-          "docentes": [
-           "ZARATE JOSE FERNANDO"
-          ],
-          "plazas": [
-           "N°354506"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "PROGRAMACIÓN I",
-          "docentes": [
-           "AIBAR MILAGROS GISEL"
-          ],
-          "plazas": [
-           "N°354503"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "PROGRAMACIÓN I",
-          "docentes": [
-           "AIBAR MILAGROS GISEL"
-          ],
-          "plazas": [
-           "N°354503"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "09:55 A 10:35",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "QUÍMICA",
-          "docentes": [
-           "ALURRALDE ADOLFO SEBASTIAN"
-          ],
-          "plazas": [
-           "N°354501"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "PROBABILIDAD Y ESTADÍSTICA",
-          "docentes": [
-           "CORNEJO MARCOS SEGUNDO NICOLÁS"
-          ],
-          "plazas": [
-           "N°354505"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LENGUA EXTRANJERA INGLÉS",
-          "docentes": [
-           "ALCARAZ NORA BEATRIZ"
-          ],
-          "plazas": [
-           "N°354497"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "PROGRAMACIÓN I",
-          "docentes": [
-           "AIBAR MILAGROS GISEL"
-          ],
-          "plazas": [
-           "N°354503"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "PROGRAMACIÓN I",
-          "docentes": [
-           "AIBAR MILAGROS GISEL"
-          ],
-          "plazas": [
-           "N°354503"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "10:45 A 11:25",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "QUÍMICA",
-          "docentes": [
-           "ALURRALDE ADOLFO SEBASTIAN"
-          ],
-          "plazas": [
-           "N°354501"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "FÍSICA",
-          "docentes": [
-           "GOMEZ ZULEMA DEL VALLE"
-          ],
-          "plazas": [
-           "N°354498"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "JUAREZ MARIA SILVANA"
-          ],
-          "plazas": [
-           "N°354496"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "MATEMÁTICA APLICADA I",
-          "docentes": [
-           "ARGAÑARAZ LIDIA GIOVANA"
-          ],
-          "plazas": [
-           "N°354500"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "GEOGRAFÍA",
-          "docentes": [
-           "NIEVA JUDITH ELIZABETH"
-          ],
-          "plazas": [
-           "N°354495"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "11:25 A 12:05",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "JUAREZ MARIA SILVANA"
-          ],
-          "plazas": [
-           "N°354496"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "FÍSICA",
-          "docentes": [
-           "GOMEZ ZULEMA DEL VALLE"
-          ],
-          "plazas": [
-           "N°354498"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "JUAREZ MARIA SILVANA"
-          ],
-          "plazas": [
-           "N°354496"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "MATEMÁTICA APLICADA I",
-          "docentes": [
-           "ARGAÑARAZ LIDIA GIOVANA"
-          ],
-          "plazas": [
-           "N°354500"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "GEOGRAFÍA",
-          "docentes": [
-           "NIEVA JUDITH ELIZABETH"
-          ],
-          "plazas": [
-           "N°354495"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "12:05 A 12:45",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "GEOGRAFÍA",
-          "docentes": [
-           "NIEVA JUDITH ELIZABETH"
-          ],
-          "plazas": [
-           "N°354495"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "FÍSICA",
-          "docentes": [
-           "GOMEZ ZULEMA DEL VALLE"
-          ],
-          "plazas": [
-           "N°354498"
-          ]
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "PROBABILIDAD Y ESTADÍSTICA",
-          "docentes": [
-           "CORNEJO MARCOS SEGUNDO NICOLÁS"
-          ],
-          "plazas": [
-           "N°354505"
-          ]
-         }
-        ],
-        "VIERNES": []
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Taller Tecnológico",
-     "tipo": "taller",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "14:00 A 14:40",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "APRECIACIÓN DE SISTEMAS DE INFORMACIÓN TÍPICOS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ADAPTACIÓN Y COMPLEMENTACIÓN DE PROGRAMAS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "MANTENIMIENTO Y REPARACIÓN DE DATOS",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "APRECIACIÓN DE SISTEMAS DE INFORMACIÓN TÍPICOS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ADAPTACIÓN Y COMPLEMENTACIÓN DE PROGRAMAS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "MANTENIMIENTO Y REPARACIÓN DE DATOS",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "14:40 A 15:20",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "15:20 A 16:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "ESPINOZA WALTER OMAR",
-          "docentes": [],
-          "plazas": [
-           "N°354413"
-          ]
-         },
-         {
-          "materia": "FLORES LUIS PABLO",
-          "docentes": [],
-          "plazas": [
-           "N°354414"
-          ]
-         },
-         {
-          "materia": "JUAREZ VANESA ALEJANDRA",
-          "docentes": [],
-          "plazas": [
-           "N°354515"
-          ]
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "ESPINOZA WALTER OMAR",
-          "docentes": [],
-          "plazas": [
-           "N°354413"
-          ]
-         },
-         {
-          "materia": "FLORES LUIS PABLO",
-          "docentes": [],
-          "plazas": [
-           "N°354414"
-          ]
-         },
-         {
-          "materia": "JUAREZ VANESA ALEJANDRA",
-          "docentes": [],
-          "plazas": [
-           "N°354515"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "16:20 A 17:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "APRECIACIÓN DE SISTEMAS DE INFORMACIÓN TÍPICOS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ADAPTACIÓN Y COMPLEMENTACIÓN DE PROGRAMAS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "MANTENIMIENTO Y REPARACIÓN DE DATOS",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "APRECIACIÓN DE SISTEMAS DE INFORMACIÓN TÍPICOS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ADAPTACIÓN Y COMPLEMENTACIÓN DE PROGRAMAS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "MANTENIMIENTO Y REPARACIÓN DE DATOS",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "17:00 A 17:40",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "17:40 A 18:20",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "ESPINOZA WALTER OMAR",
-          "docentes": [],
-          "plazas": [
-           "N°354413"
-          ]
-         },
-         {
-          "materia": "FLORES LUIS PABLO",
-          "docentes": [],
-          "plazas": [
-           "N°354414"
-          ]
-         },
-         {
-          "materia": "JUAREZ VANESA ALEJANDRA",
-          "docentes": [],
-          "plazas": [
-           "N°354515"
-          ]
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "ESPINOZA WALTER OMAR",
-          "docentes": [],
-          "plazas": [
-           "N°354413"
-          ]
-         },
-         {
-          "materia": "FLORES LUIS PABLO",
-          "docentes": [],
-          "plazas": [
-           "N°354414"
-          ]
-         },
-         {
-          "materia": "JUAREZ VANESA ALEJANDRA",
-          "docentes": [],
-          "plazas": [
-           "N°354515"
-          ]
-         }
-        ]
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Educación Física",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "17:00 A 18:00",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "EDUCACIÓN FÍSICA",
-          "docentes": [
-           "OVEJERO DANIEL ALEJANDRO"
-          ],
-          "plazas": [
-           "N°354504"
-          ]
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "18:00 A 19:00",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "EDUCACIÓN FÍSICA",
-          "docentes": [
-           "OVEJERO DANIEL ALEJANDRO"
-          ],
-          "plazas": [
-           "N°354504"
-          ]
-         }
-        ],
-        "MARTES": [],
         "MIERCOLES": [],
         "JUEVES": [],
         "VIERNES": []
@@ -23135,6 +23135,717 @@
    ]
   },
   {
+   "hoja": "6°1° INF",
+   "curso": "6°",
+   "division": "1°",
+   "ciclo": "INFORMÁTICA",
+   "resolucion": "467/5 (MED)",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "14:00 a 14:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MARCO JURÍDICO DE LOS PROCESOS PRODUCTIVOS",
+          "docentes": [
+           "FERNANDEZ PABLO DAVID"
+          ],
+          "plazas": [
+           "N°207779"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA EXTRANJERA INGLÉS",
+          "docentes": [
+           "ALCARAZ NORA BEATRIZ"
+          ],
+          "plazas": [
+           "N°99894"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "PROBABILIDAD Y ESTADÍSTICA II",
+          "docentes": [
+           "FIGUEROA GUILLERMO AUGUSTO"
+          ],
+          "plazas": [
+           "N°229418"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "PROCESOS PRODUCTIVOS",
+          "docentes": [
+           "SALICA MARÍA SYLVINA DE LOS ANGELES"
+          ],
+          "plazas": [
+           "N°203115"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMÁTICA APLICADA II",
+          "docentes": [
+           "FIGUEROA GUILLERMO AUGUSTO"
+          ],
+          "plazas": [
+           "N°205130"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "14:40 a 15:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MARCO JURÍDICO DE LOS PROCESOS PRODUCTIVOS",
+          "docentes": [
+           "FERNANDEZ PABLO DAVID"
+          ],
+          "plazas": [
+           "N°207779"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA EXTRANJERA INGLÉS",
+          "docentes": [
+           "ALCARAZ NORA BEATRIZ"
+          ],
+          "plazas": [
+           "N°99894"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "PROBABILIDAD Y ESTADÍSTICA II",
+          "docentes": [
+           "FIGUEROA GUILLERMO AUGUSTO"
+          ],
+          "plazas": [
+           "N°229418"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "PROCESOS PRODUCTIVOS",
+          "docentes": [
+           "SALICA MARÍA SYLVINA DE LOS ANGELES"
+          ],
+          "plazas": [
+           "N°235840"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMÁTICA APLICADA II",
+          "docentes": [
+           "FIGUEROA GUILLERMO AUGUSTO"
+          ],
+          "plazas": [
+           "N°205130"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "15:30 a 16:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ECONOMÍA",
+          "docentes": [
+           "FERNANDEZ PABLO DAVID"
+          ],
+          "plazas": [
+           "N°11094"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA EXTRANJERA INGLÉS",
+          "docentes": [
+           "ALCARAZ NORA BEATRIZ"
+          ],
+          "plazas": [
+           "N°99894"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "TECNOLOGÍA DE CONTROL",
+          "docentes": [
+           "GOMEZ REBECA ESTELA"
+          ],
+          "plazas": [
+           "N°235404"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "TECNOLOGÍA DE CONTROL",
+          "docentes": [
+           "GOMEZ REBECA ESTELA"
+          ],
+          "plazas": [
+           "N°235404"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMÁTICA APLICADA II",
+          "docentes": [
+           "FIGUEROA GUILLERMO AUGUSTO"
+          ],
+          "plazas": [
+           "N°205130"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "16:10 a 16:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "SIN CUBRIR"
+          ],
+          "plazas": [
+           "N°204945"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MANTENIMIENTO DE HARDWARE MONOUSUARIO",
+          "docentes": [
+           "AGUERO CECILIA MERCEDES"
+          ],
+          "plazas": [
+           "N°183848"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "TECNOLOGÍA DE CONTROL",
+          "docentes": [
+           "GOMEZ REBECA ESTELA"
+          ],
+          "plazas": [
+           "N°235404"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "TECNOLOGÍA DE CONTROL",
+          "docentes": [
+           "GOMEZ REBECA ESTELA"
+          ],
+          "plazas": [
+           "N°235404"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "RELACIONES HUMANAS",
+          "docentes": [
+           "ORELLANA HUGO CESAR"
+          ],
+          "plazas": [
+           "N°229417"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "17:00 a 17:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "SIN CUBRIR"
+          ],
+          "plazas": [
+           "N°204945"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MANTENIMIENTO DE HARDWARE MONOUSUARIO",
+          "docentes": [
+           "AGUERO CECILIA MERCEDES"
+          ],
+          "plazas": [
+           "N°183848"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMÁTICA APLICADA II",
+          "docentes": [
+           "FIGUEROA GUILLERMO AUGUSTO"
+          ],
+          "plazas": [
+           "N°234638"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "DISEÑO GRÁFICO",
+          "docentes": [
+           "LOGARZO JULIO CÉSAR"
+          ],
+          "plazas": [
+           "N°136576"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "RELACIONES HUMANAS",
+          "docentes": [
+           "ORELLANA HUGO CESAR"
+          ],
+          "plazas": [
+           "N°229417"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "17:40 a 18:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "SIN CUBRIR"
+          ],
+          "plazas": [
+           "N°204945"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "PROCESOS PRODUCTIVOS",
+          "docentes": [
+           "SALICA MARÍA SYLVINA DE LOS ANGELES"
+          ],
+          "plazas": [
+           "N°203115"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMÁTICA APLICADA II",
+          "docentes": [
+           "FIGUEROA GUILLERMO AUGUSTO"
+          ],
+          "plazas": [
+           "N°234638"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "DISEÑO GRÁFICO",
+          "docentes": [
+           "LOGARZO JULIO CÉSAR"
+          ],
+          "plazas": [
+           "N°136576"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MANTENIMIENTO DE HARDWARE MONOUSUARIO",
+          "docentes": [
+           "AGUERO CECILIA MERCEDES"
+          ],
+          "plazas": [
+           "N°183848"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "18:20 a 19:00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "PROCESOS PRODUCTIVOS",
+          "docentes": [
+           "SALICA MARÍA SYLVINA DE LOS ANGELES"
+          ],
+          "plazas": [
+           "N°203115"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "ECONOMÍA",
+          "docentes": [
+           "FERNANDEZ PABLO DAVID"
+          ],
+          "plazas": [
+           "N°11094"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "DISEÑO GRÁFICO",
+          "docentes": [
+           "LOGARZO JULIO CÉSAR"
+          ],
+          "plazas": [
+           "N°136576"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MANTENIMIENTO DE HARDWARE MONOUSUARIO",
+          "docentes": [
+           "AGUERO CECILIA MERCEDES"
+          ],
+          "plazas": [
+           "N°183848"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "07:45 a 08:25",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "ADMINISTRACIÓN Y CONEXIÓN DE REDES LOCALES",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "PROGRAMACIÓN II",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ASISTENCIA SOBRE APLICACIONES ESPECÍFICAS",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "ADMINISTRACIÓN Y CONEXIÓN DE REDES LOCALES",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "PROGRAMACIÓN II",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ASISTENCIA SOBRE APLICACIONES ESPECÍFICAS",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "08:25 a 09:05",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "09:05 a 09:45",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "LAZARTE NOELÍ GISELLE",
+          "docentes": [],
+          "plazas": [
+           "N°366614"
+          ]
+         },
+         {
+          "materia": "DECIMA SALAZAR RUBEN",
+          "docentes": [],
+          "plazas": [
+           "N°209337"
+          ]
+         },
+         {
+          "materia": "JUAREZ VANESA ALEJANDRA",
+          "docentes": [],
+          "plazas": [
+           "N°159983"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "LAZARTE NOELÍ GISELLE",
+          "docentes": [],
+          "plazas": [
+           "N°366614"
+          ]
+         },
+         {
+          "materia": "DECIMA SALAZAR RUBEN",
+          "docentes": [],
+          "plazas": [
+           "N°209337"
+          ]
+         },
+         {
+          "materia": "JUAREZ VANESA ALEJANDRA",
+          "docentes": [],
+          "plazas": [
+           "N°159983"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "10:05 a 10:45",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "ADMINISTRACIÓN Y CONEXIÓN DE REDES LOCALES",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "PROGRAMACIÓN II",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ASISTENCIA SOBRE APLICACIONES ESPECÍFICAS",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "ADMINISTRACIÓN Y CONEXIÓN DE REDES LOCALES",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "PROGRAMACIÓN II",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ASISTENCIA SOBRE APLICACIONES ESPECÍFICAS",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "10:45 a 11:25",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "11:25 a 12:05",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "LAZARTE NOELÍ GISELLE",
+          "docentes": [],
+          "plazas": [
+           "N°366614"
+          ]
+         },
+         {
+          "materia": "DECIMA SALAZAR RUBEN",
+          "docentes": [],
+          "plazas": [
+           "N°209337"
+          ]
+         },
+         {
+          "materia": "JUAREZ VANESA ALEJANDRA",
+          "docentes": [],
+          "plazas": [
+           "N°159983"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "LAZARTE NOELÍ GISELLE",
+          "docentes": [],
+          "plazas": [
+           "N°366614"
+          ]
+         },
+         {
+          "materia": "DECIMA SALAZAR RUBEN",
+          "docentes": [],
+          "plazas": [
+           "N°209337"
+          ]
+         },
+         {
+          "materia": "JUAREZ VANESA ALEJANDRA",
+          "docentes": [],
+          "plazas": [
+           "N°159983"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "08:00 A 09:00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "CABRERA PABLO ESTEBAN"
+          ],
+          "plazas": [
+           "N°296625"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "09:00 A 10:00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "CABRERA PABLO ESTEBAN"
+          ],
+          "plazas": [
+           "N°296625"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
    "hoja": "6°2° ELECT",
    "curso": "6°",
    "division": "2°",
@@ -23875,717 +24586,6 @@
         "MIERCOLES": [],
         "JUEVES": [],
         "VIERNES": []
-       }
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hoja": "6°1° INF",
-   "curso": "6°",
-   "division": "1°",
-   "ciclo": "INFORMÁTICA",
-   "resolucion": "467/5 (MED)",
-   "observaciones": "",
-   "tablas": [
-    {
-     "titulo": "Horario de clases",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "14:00 a 14:40",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "MARCO JURÍDICO DE LOS PROCESOS PRODUCTIVOS",
-          "docentes": [
-           "FERNANDEZ PABLO DAVID"
-          ],
-          "plazas": [
-           "N°207779"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "LENGUA EXTRANJERA INGLÉS",
-          "docentes": [
-           "ALCARAZ NORA BEATRIZ"
-          ],
-          "plazas": [
-           "N°99894"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "PROBABILIDAD Y ESTADÍSTICA II",
-          "docentes": [
-           "FIGUEROA GUILLERMO AUGUSTO"
-          ],
-          "plazas": [
-           "N°229418"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "PROCESOS PRODUCTIVOS",
-          "docentes": [
-           "SALICA MARÍA SYLVINA DE LOS ANGELES"
-          ],
-          "plazas": [
-           "N°203115"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "MATEMÁTICA APLICADA II",
-          "docentes": [
-           "FIGUEROA GUILLERMO AUGUSTO"
-          ],
-          "plazas": [
-           "N°205130"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "14:40 a 15:20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "MARCO JURÍDICO DE LOS PROCESOS PRODUCTIVOS",
-          "docentes": [
-           "FERNANDEZ PABLO DAVID"
-          ],
-          "plazas": [
-           "N°207779"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "LENGUA EXTRANJERA INGLÉS",
-          "docentes": [
-           "ALCARAZ NORA BEATRIZ"
-          ],
-          "plazas": [
-           "N°99894"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "PROBABILIDAD Y ESTADÍSTICA II",
-          "docentes": [
-           "FIGUEROA GUILLERMO AUGUSTO"
-          ],
-          "plazas": [
-           "N°229418"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "PROCESOS PRODUCTIVOS",
-          "docentes": [
-           "SALICA MARÍA SYLVINA DE LOS ANGELES"
-          ],
-          "plazas": [
-           "N°235840"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "MATEMÁTICA APLICADA II",
-          "docentes": [
-           "FIGUEROA GUILLERMO AUGUSTO"
-          ],
-          "plazas": [
-           "N°205130"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "15:30 a 16:10",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "ECONOMÍA",
-          "docentes": [
-           "FERNANDEZ PABLO DAVID"
-          ],
-          "plazas": [
-           "N°11094"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "LENGUA EXTRANJERA INGLÉS",
-          "docentes": [
-           "ALCARAZ NORA BEATRIZ"
-          ],
-          "plazas": [
-           "N°99894"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "TECNOLOGÍA DE CONTROL",
-          "docentes": [
-           "GOMEZ REBECA ESTELA"
-          ],
-          "plazas": [
-           "N°235404"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "TECNOLOGÍA DE CONTROL",
-          "docentes": [
-           "GOMEZ REBECA ESTELA"
-          ],
-          "plazas": [
-           "N°235404"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "MATEMÁTICA APLICADA II",
-          "docentes": [
-           "FIGUEROA GUILLERMO AUGUSTO"
-          ],
-          "plazas": [
-           "N°205130"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "16:10 a 16:50",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "SIN CUBRIR"
-          ],
-          "plazas": [
-           "N°204945"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "MANTENIMIENTO DE HARDWARE MONOUSUARIO",
-          "docentes": [
-           "AGUERO CECILIA MERCEDES"
-          ],
-          "plazas": [
-           "N°183848"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "TECNOLOGÍA DE CONTROL",
-          "docentes": [
-           "GOMEZ REBECA ESTELA"
-          ],
-          "plazas": [
-           "N°235404"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "TECNOLOGÍA DE CONTROL",
-          "docentes": [
-           "GOMEZ REBECA ESTELA"
-          ],
-          "plazas": [
-           "N°235404"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "RELACIONES HUMANAS",
-          "docentes": [
-           "ORELLANA HUGO CESAR"
-          ],
-          "plazas": [
-           "N°229417"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "17:00 a 17:40",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "SIN CUBRIR"
-          ],
-          "plazas": [
-           "N°204945"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "MANTENIMIENTO DE HARDWARE MONOUSUARIO",
-          "docentes": [
-           "AGUERO CECILIA MERCEDES"
-          ],
-          "plazas": [
-           "N°183848"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "MATEMÁTICA APLICADA II",
-          "docentes": [
-           "FIGUEROA GUILLERMO AUGUSTO"
-          ],
-          "plazas": [
-           "N°234638"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "DISEÑO GRÁFICO",
-          "docentes": [
-           "LOGARZO JULIO CÉSAR"
-          ],
-          "plazas": [
-           "N°136576"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "RELACIONES HUMANAS",
-          "docentes": [
-           "ORELLANA HUGO CESAR"
-          ],
-          "plazas": [
-           "N°229417"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "17:40 a 18:20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "SIN CUBRIR"
-          ],
-          "plazas": [
-           "N°204945"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "PROCESOS PRODUCTIVOS",
-          "docentes": [
-           "SALICA MARÍA SYLVINA DE LOS ANGELES"
-          ],
-          "plazas": [
-           "N°203115"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "MATEMÁTICA APLICADA II",
-          "docentes": [
-           "FIGUEROA GUILLERMO AUGUSTO"
-          ],
-          "plazas": [
-           "N°234638"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "DISEÑO GRÁFICO",
-          "docentes": [
-           "LOGARZO JULIO CÉSAR"
-          ],
-          "plazas": [
-           "N°136576"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "MANTENIMIENTO DE HARDWARE MONOUSUARIO",
-          "docentes": [
-           "AGUERO CECILIA MERCEDES"
-          ],
-          "plazas": [
-           "N°183848"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "18:20 a 19:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "PROCESOS PRODUCTIVOS",
-          "docentes": [
-           "SALICA MARÍA SYLVINA DE LOS ANGELES"
-          ],
-          "plazas": [
-           "N°203115"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "ECONOMÍA",
-          "docentes": [
-           "FERNANDEZ PABLO DAVID"
-          ],
-          "plazas": [
-           "N°11094"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "DISEÑO GRÁFICO",
-          "docentes": [
-           "LOGARZO JULIO CÉSAR"
-          ],
-          "plazas": [
-           "N°136576"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "MANTENIMIENTO DE HARDWARE MONOUSUARIO",
-          "docentes": [
-           "AGUERO CECILIA MERCEDES"
-          ],
-          "plazas": [
-           "N°183848"
-          ]
-         }
-        ]
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Taller Tecnológico",
-     "tipo": "taller",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "07:45 a 08:25",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "ADMINISTRACIÓN Y CONEXIÓN DE REDES LOCALES",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "PROGRAMACIÓN II",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ASISTENCIA SOBRE APLICACIONES ESPECÍFICAS",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "ADMINISTRACIÓN Y CONEXIÓN DE REDES LOCALES",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "PROGRAMACIÓN II",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ASISTENCIA SOBRE APLICACIONES ESPECÍFICAS",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "08:25 a 09:05",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "09:05 a 09:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "LAZARTE NOELÍ GISELLE",
-          "docentes": [],
-          "plazas": [
-           "N°366614"
-          ]
-         },
-         {
-          "materia": "DECIMA SALAZAR RUBEN",
-          "docentes": [],
-          "plazas": [
-           "N°209337"
-          ]
-         },
-         {
-          "materia": "JUAREZ VANESA ALEJANDRA",
-          "docentes": [],
-          "plazas": [
-           "N°159983"
-          ]
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "LAZARTE NOELÍ GISELLE",
-          "docentes": [],
-          "plazas": [
-           "N°366614"
-          ]
-         },
-         {
-          "materia": "DECIMA SALAZAR RUBEN",
-          "docentes": [],
-          "plazas": [
-           "N°209337"
-          ]
-         },
-         {
-          "materia": "JUAREZ VANESA ALEJANDRA",
-          "docentes": [],
-          "plazas": [
-           "N°159983"
-          ]
-         }
-        ],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "10:05 a 10:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "ADMINISTRACIÓN Y CONEXIÓN DE REDES LOCALES",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "PROGRAMACIÓN II",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ASISTENCIA SOBRE APLICACIONES ESPECÍFICAS",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "ADMINISTRACIÓN Y CONEXIÓN DE REDES LOCALES",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "PROGRAMACIÓN II",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ASISTENCIA SOBRE APLICACIONES ESPECÍFICAS",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "10:45 a 11:25",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "11:25 a 12:05",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "LAZARTE NOELÍ GISELLE",
-          "docentes": [],
-          "plazas": [
-           "N°366614"
-          ]
-         },
-         {
-          "materia": "DECIMA SALAZAR RUBEN",
-          "docentes": [],
-          "plazas": [
-           "N°209337"
-          ]
-         },
-         {
-          "materia": "JUAREZ VANESA ALEJANDRA",
-          "docentes": [],
-          "plazas": [
-           "N°159983"
-          ]
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "LAZARTE NOELÍ GISELLE",
-          "docentes": [],
-          "plazas": [
-           "N°366614"
-          ]
-         },
-         {
-          "materia": "DECIMA SALAZAR RUBEN",
-          "docentes": [],
-          "plazas": [
-           "N°209337"
-          ]
-         },
-         {
-          "materia": "JUAREZ VANESA ALEJANDRA",
-          "docentes": [],
-          "plazas": [
-           "N°159983"
-          ]
-         }
-        ],
-        "VIERNES": []
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Educación Física",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "08:00 A 09:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "EDUCACIÓN FÍSICA",
-          "docentes": [
-           "CABRERA PABLO ESTEBAN"
-          ],
-          "plazas": [
-           "N°296625"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "09:00 A 10:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "EDUCACIÓN FÍSICA",
-          "docentes": [
-           "CABRERA PABLO ESTEBAN"
-          ],
-          "plazas": [
-           "N°296625"
-          ]
-         }
-        ]
        }
       }
      ]
@@ -26043,6 +26043,701 @@
    ]
   },
   {
+   "hoja": "7°1° INFOR",
+   "curso": "7°",
+   "division": "1°",
+   "ciclo": "INFORMÁTICA",
+   "resolucion": "467/5 (MED)",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "07:45 A 08:25",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "INFORMÁTICA EDUCATIVA",
+          "docentes": [
+           "CURA JORGELINA PAOLA"
+          ],
+          "plazas": [
+           "N°349451"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "COMUNICACIÓN",
+          "docentes": [
+           "ROBLES NANCY MARIELA"
+          ],
+          "plazas": [
+           "N°234634"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMÁTICA APLICADA III",
+          "docentes": [
+           "FIGUEROA GUILLERMO AUGUSTO"
+          ],
+          "plazas": [
+           "N°230947"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "PROYECTO TECNOLÓGICO",
+          "docentes": [
+           "PAREDES JOHANA MICAELA"
+          ],
+          "plazas": [
+           "N°234920"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "TECNOLOGÍA DE GESTIÓN",
+          "docentes": [
+           "CURA JORGELINA PAOLA"
+          ],
+          "plazas": [
+           "N°349452"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "08:25 A 09:05",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "INFORMÁTICA EDUCATIVA",
+          "docentes": [
+           "CURA JORGELINA PAOLA"
+          ],
+          "plazas": [
+           "N°349451"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "COMUNICACIÓN",
+          "docentes": [
+           "ROBLES NANCY MARIELA"
+          ],
+          "plazas": [
+           "N°234634"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMÁTICA APLICADA III",
+          "docentes": [
+           "FIGUEROA GUILLERMO AUGUSTO"
+          ],
+          "plazas": [
+           "N°230947"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "PROYECTO TECNOLÓGICO",
+          "docentes": [
+           "PAREDES JOHANA MICAELA"
+          ],
+          "plazas": [
+           "N°234920"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "TECNOLOGÍA DE GESTIÓN",
+          "docentes": [
+           "CURA JORGELINA PAOLA"
+          ],
+          "plazas": [
+           "N°349452"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "09:15 A 09:55",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "INFORMÁTICA EDUCATIVA",
+          "docentes": [
+           "CURA JORGELINA PAOLA"
+          ],
+          "plazas": [
+           "N°349451"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "COMUNICACIÓN",
+          "docentes": [
+           "ROBLES NANCY MARIELA"
+          ],
+          "plazas": [
+           "N°234634"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMÁTICA APLICADA III",
+          "docentes": [
+           "FIGUEROA GUILLERMO AUGUSTO"
+          ],
+          "plazas": [
+           "N°230947"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "SIMULACIÓN",
+          "docentes": [
+           "CÁCERES MÓNICA DANIELA"
+          ],
+          "plazas": [
+           "N°183849"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "TECNOLOGÍA DE GESTIÓN",
+          "docentes": [
+           "CURA JORGELINA PAOLA"
+          ],
+          "plazas": [
+           "N°349452"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "09:55 A 10:35",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "PROYECTO TECNOLÓGICO",
+          "docentes": [
+           "PAREDES JOHANA MICAELA"
+          ],
+          "plazas": [
+           "N°234920"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "SIMULACIÓN",
+          "docentes": [
+           "CÁCERES MÓNICA DANIELA"
+          ],
+          "plazas": [
+           "N°183849"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "SEGURIDAD INFORMÁTICA",
+          "docentes": [
+           "RODRIGUEZ MIGUEL ORLANDO"
+          ],
+          "plazas": [
+           "N°182962"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "SIMULACIÓN",
+          "docentes": [
+           "CÁCERES MÓNICA DANIELA"
+          ],
+          "plazas": [
+           "N°183849"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "DISEÑO WEB",
+          "docentes": [
+           "BAZAN CECILIA GABRIELA"
+          ],
+          "plazas": []
+         }
+        ]
+       }
+      },
+      {
+       "hora": "10:45 A 11:25",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "PROYECTO TECNOLÓGICO",
+          "docentes": [
+           "PAREDES JOHANA MICAELA"
+          ],
+          "plazas": [
+           "N°234920"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "SIMULACIÓN",
+          "docentes": [
+           "CÁCERES MÓNICA DANIELA"
+          ],
+          "plazas": [
+           "N°183849"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "SEGURIDAD INFORMÁTICA",
+          "docentes": [
+           "RODRIGUEZ MIGUEL ORLANDO"
+          ],
+          "plazas": [
+           "N°182962"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MANTENIMIENTO DE SOFTWARE",
+          "docentes": [
+           "CÁCERES MÓNICA DANIELA"
+          ],
+          "plazas": [
+           "N°183846"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "DISEÑO WEB",
+          "docentes": [
+           "BAZAN CECILIA GABRIELA"
+          ],
+          "plazas": []
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11:25 A 12:05",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA EXTRANJERA INGLÉS",
+          "docentes": [
+           "ALCARAZ NORA BEATRIZ"
+          ],
+          "plazas": [
+           "N°234636"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA EXTRANJERA INGLÉS",
+          "docentes": [
+           "ALCARAZ NORA BEATRIZ"
+          ],
+          "plazas": [
+           "N°234636"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "SEGURIDAD INFORMÁTICA",
+          "docentes": [
+           "RODRIGUEZ MIGUEL ORLANDO"
+          ],
+          "plazas": [
+           "N°182962"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MANTENIMIENTO DE SOFTWARE",
+          "docentes": [
+           "CÁCERES MÓNICA DANIELA"
+          ],
+          "plazas": [
+           "N°183846"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "DISEÑO WEB",
+          "docentes": [
+           "BAZAN CECILIA GABRIELA"
+          ],
+          "plazas": []
+         }
+        ]
+       }
+      },
+      {
+       "hora": "12:05 A 12:45",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "LENGUA EXTRANJERA INGLÉS",
+          "docentes": [
+           "ALCARAZ NORA BEATRIZ"
+          ],
+          "plazas": [
+           "N°234636"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "MANTENIMIENTO DE SOFTWARE",
+          "docentes": [
+           "CÁCERES MÓNICA DANIELA"
+          ],
+          "plazas": [
+           "N°183846"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "SEGURIDAD INFORMÁTICA",
+          "docentes": [
+           "RODRIGUEZ MIGUEL ORLANDO"
+          ],
+          "plazas": [
+           "N°182962"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "14:40 A 14:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "AUTOGESTIÓN EN EL MUNDO ECONÓMICO",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "APLICACIONES DE REDES INFORMÁTICAS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ADAPTACIÓN EN EL AMBIENTE DE TRABAJO",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "AUTOGESTIÓN EN EL MUNDO ECONÓMICO",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "APLICACIONES DE REDES INFORMÁTICAS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ADAPTACIÓN EN EL AMBIENTE DE TRABAJO",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "14:40 A 15:20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "15:20 A 16:00",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "SIN CUBRIR",
+          "docentes": [
+           "SIN PLAZA"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "COSTILL NELSON RODRIGO",
+          "docentes": [],
+          "plazas": [
+           "N°163453"
+          ]
+         },
+         {
+          "materia": "SIN CUBRIR",
+          "docentes": [
+           "SIN PLAZA"
+          ],
+          "plazas": []
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "SIN CUBRIR",
+          "docentes": [
+           "SIN PLAZA"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "COSTILL NELSON RODRIGO",
+          "docentes": [],
+          "plazas": [
+           "N°163453"
+          ]
+         },
+         {
+          "materia": "SIN CUBRIR",
+          "docentes": [
+           "SIN PLAZA"
+          ],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "16:20 A 17:00",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "AUTOGESTIÓN EN EL MUNDO ECONÓMICO",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "APLICACIONES DE REDES INFORMÁTICAS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ADAPTACIÓN EN EL AMBIENTE DE TRABAJO",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "AUTOGESTIÓN EN EL MUNDO ECONÓMICO",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "APLICACIONES DE REDES INFORMÁTICAS",
+          "docentes": [],
+          "plazas": []
+         },
+         {
+          "materia": "ADAPTACIÓN EN EL AMBIENTE DE TRABAJO",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17:00 A 17:40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "17:40 A 18:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "SIN CUBRIR",
+          "docentes": [
+           "SIN PLAZA"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "COSTILL NELSON RODRIGO",
+          "docentes": [],
+          "plazas": [
+           "N°163453"
+          ]
+         },
+         {
+          "materia": "SIN CUBRIR",
+          "docentes": [
+           "SIN PLAZA"
+          ],
+          "plazas": []
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "SIN CUBRIR",
+          "docentes": [
+           "SIN PLAZA"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "COSTILL NELSON RODRIGO",
+          "docentes": [],
+          "plazas": [
+           "N°163453"
+          ]
+         },
+         {
+          "materia": "SIN CUBRIR",
+          "docentes": [
+           "SIN PLAZA"
+          ],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "16:00 a 17:00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "ANDRADE RAUL OMAR"
+          ],
+          "plazas": [
+           "N°234635"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "17:00 a 18:00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "EDUCACIÓN FÍSICA",
+          "docentes": [
+           "ANDRADE RAUL OMAR"
+          ],
+          "plazas": [
+           "N°234635"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
    "hoja": "7°2° ELECT",
    "curso": "7°",
    "division": "2°",
@@ -26782,701 +27477,6 @@
           ],
           "plazas": [
            "N°10538"
-          ]
-         }
-        ]
-       }
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "hoja": "7°1° INFOR",
-   "curso": "7°",
-   "division": "1°",
-   "ciclo": "INFORMÁTICA",
-   "resolucion": "467/5 (MED)",
-   "observaciones": "",
-   "tablas": [
-    {
-     "titulo": "Horario de clases",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "07:45 A 08:25",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "INFORMÁTICA EDUCATIVA",
-          "docentes": [
-           "CURA JORGELINA PAOLA"
-          ],
-          "plazas": [
-           "N°349451"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "COMUNICACIÓN",
-          "docentes": [
-           "ROBLES NANCY MARIELA"
-          ],
-          "plazas": [
-           "N°234634"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "MATEMÁTICA APLICADA III",
-          "docentes": [
-           "FIGUEROA GUILLERMO AUGUSTO"
-          ],
-          "plazas": [
-           "N°230947"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "PROYECTO TECNOLÓGICO",
-          "docentes": [
-           "PAREDES JOHANA MICAELA"
-          ],
-          "plazas": [
-           "N°234920"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "TECNOLOGÍA DE GESTIÓN",
-          "docentes": [
-           "CURA JORGELINA PAOLA"
-          ],
-          "plazas": [
-           "N°349452"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "08:25 A 09:05",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "INFORMÁTICA EDUCATIVA",
-          "docentes": [
-           "CURA JORGELINA PAOLA"
-          ],
-          "plazas": [
-           "N°349451"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "COMUNICACIÓN",
-          "docentes": [
-           "ROBLES NANCY MARIELA"
-          ],
-          "plazas": [
-           "N°234634"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "MATEMÁTICA APLICADA III",
-          "docentes": [
-           "FIGUEROA GUILLERMO AUGUSTO"
-          ],
-          "plazas": [
-           "N°230947"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "PROYECTO TECNOLÓGICO",
-          "docentes": [
-           "PAREDES JOHANA MICAELA"
-          ],
-          "plazas": [
-           "N°234920"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "TECNOLOGÍA DE GESTIÓN",
-          "docentes": [
-           "CURA JORGELINA PAOLA"
-          ],
-          "plazas": [
-           "N°349452"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "09:15 A 09:55",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "INFORMÁTICA EDUCATIVA",
-          "docentes": [
-           "CURA JORGELINA PAOLA"
-          ],
-          "plazas": [
-           "N°349451"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "COMUNICACIÓN",
-          "docentes": [
-           "ROBLES NANCY MARIELA"
-          ],
-          "plazas": [
-           "N°234634"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "MATEMÁTICA APLICADA III",
-          "docentes": [
-           "FIGUEROA GUILLERMO AUGUSTO"
-          ],
-          "plazas": [
-           "N°230947"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "SIMULACIÓN",
-          "docentes": [
-           "CÁCERES MÓNICA DANIELA"
-          ],
-          "plazas": [
-           "N°183849"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "TECNOLOGÍA DE GESTIÓN",
-          "docentes": [
-           "CURA JORGELINA PAOLA"
-          ],
-          "plazas": [
-           "N°349452"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "09:55 A 10:35",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "PROYECTO TECNOLÓGICO",
-          "docentes": [
-           "PAREDES JOHANA MICAELA"
-          ],
-          "plazas": [
-           "N°234920"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "SIMULACIÓN",
-          "docentes": [
-           "CÁCERES MÓNICA DANIELA"
-          ],
-          "plazas": [
-           "N°183849"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "SEGURIDAD INFORMÁTICA",
-          "docentes": [
-           "RODRIGUEZ MIGUEL ORLANDO"
-          ],
-          "plazas": [
-           "N°182962"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "SIMULACIÓN",
-          "docentes": [
-           "CÁCERES MÓNICA DANIELA"
-          ],
-          "plazas": [
-           "N°183849"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "DISEÑO WEB",
-          "docentes": [
-           "BAZAN CECILIA GABRIELA"
-          ],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "10:45 A 11:25",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "PROYECTO TECNOLÓGICO",
-          "docentes": [
-           "PAREDES JOHANA MICAELA"
-          ],
-          "plazas": [
-           "N°234920"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "SIMULACIÓN",
-          "docentes": [
-           "CÁCERES MÓNICA DANIELA"
-          ],
-          "plazas": [
-           "N°183849"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "SEGURIDAD INFORMÁTICA",
-          "docentes": [
-           "RODRIGUEZ MIGUEL ORLANDO"
-          ],
-          "plazas": [
-           "N°182962"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "MANTENIMIENTO DE SOFTWARE",
-          "docentes": [
-           "CÁCERES MÓNICA DANIELA"
-          ],
-          "plazas": [
-           "N°183846"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "DISEÑO WEB",
-          "docentes": [
-           "BAZAN CECILIA GABRIELA"
-          ],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "11:25 A 12:05",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "LENGUA EXTRANJERA INGLÉS",
-          "docentes": [
-           "ALCARAZ NORA BEATRIZ"
-          ],
-          "plazas": [
-           "N°234636"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "LENGUA EXTRANJERA INGLÉS",
-          "docentes": [
-           "ALCARAZ NORA BEATRIZ"
-          ],
-          "plazas": [
-           "N°234636"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "SEGURIDAD INFORMÁTICA",
-          "docentes": [
-           "RODRIGUEZ MIGUEL ORLANDO"
-          ],
-          "plazas": [
-           "N°182962"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "MANTENIMIENTO DE SOFTWARE",
-          "docentes": [
-           "CÁCERES MÓNICA DANIELA"
-          ],
-          "plazas": [
-           "N°183846"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "DISEÑO WEB",
-          "docentes": [
-           "BAZAN CECILIA GABRIELA"
-          ],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "12:05 A 12:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "LENGUA EXTRANJERA INGLÉS",
-          "docentes": [
-           "ALCARAZ NORA BEATRIZ"
-          ],
-          "plazas": [
-           "N°234636"
-          ]
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "MANTENIMIENTO DE SOFTWARE",
-          "docentes": [
-           "CÁCERES MÓNICA DANIELA"
-          ],
-          "plazas": [
-           "N°183846"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "SEGURIDAD INFORMÁTICA",
-          "docentes": [
-           "RODRIGUEZ MIGUEL ORLANDO"
-          ],
-          "plazas": [
-           "N°182962"
-          ]
-         }
-        ]
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Taller Tecnológico",
-     "tipo": "taller",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "14:40 A 14:40",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "AUTOGESTIÓN EN EL MUNDO ECONÓMICO",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "APLICACIONES DE REDES INFORMÁTICAS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ADAPTACIÓN EN EL AMBIENTE DE TRABAJO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "AUTOGESTIÓN EN EL MUNDO ECONÓMICO",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "APLICACIONES DE REDES INFORMÁTICAS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ADAPTACIÓN EN EL AMBIENTE DE TRABAJO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "14:40 A 15:20",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "15:20 A 16:00",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "SIN CUBRIR",
-          "docentes": [
-           "SIN PLAZA"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "COSTILL NELSON RODRIGO",
-          "docentes": [],
-          "plazas": [
-           "N°163453"
-          ]
-         },
-         {
-          "materia": "SIN CUBRIR",
-          "docentes": [
-           "SIN PLAZA"
-          ],
-          "plazas": []
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "SIN CUBRIR",
-          "docentes": [
-           "SIN PLAZA"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "COSTILL NELSON RODRIGO",
-          "docentes": [],
-          "plazas": [
-           "N°163453"
-          ]
-         },
-         {
-          "materia": "SIN CUBRIR",
-          "docentes": [
-           "SIN PLAZA"
-          ],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "16:20 A 17:00",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "AUTOGESTIÓN EN EL MUNDO ECONÓMICO",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "APLICACIONES DE REDES INFORMÁTICAS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ADAPTACIÓN EN EL AMBIENTE DE TRABAJO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "AUTOGESTIÓN EN EL MUNDO ECONÓMICO",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "APLICACIONES DE REDES INFORMÁTICAS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ADAPTACIÓN EN EL AMBIENTE DE TRABAJO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "17:00 A 17:40",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "17:40 A 18:20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "SIN CUBRIR",
-          "docentes": [
-           "SIN PLAZA"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "COSTILL NELSON RODRIGO",
-          "docentes": [],
-          "plazas": [
-           "N°163453"
-          ]
-         },
-         {
-          "materia": "SIN CUBRIR",
-          "docentes": [
-           "SIN PLAZA"
-          ],
-          "plazas": []
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "SIN CUBRIR",
-          "docentes": [
-           "SIN PLAZA"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "COSTILL NELSON RODRIGO",
-          "docentes": [],
-          "plazas": [
-           "N°163453"
-          ]
-         },
-         {
-          "materia": "SIN CUBRIR",
-          "docentes": [
-           "SIN PLAZA"
-          ],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Educación Física",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "16:00 a 17:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "EDUCACIÓN FÍSICA",
-          "docentes": [
-           "ANDRADE RAUL OMAR"
-          ],
-          "plazas": [
-           "N°234635"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "17:00 a 18:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "EDUCACIÓN FÍSICA",
-          "docentes": [
-           "ANDRADE RAUL OMAR"
-          ],
-          "plazas": [
-           "N°234635"
           ]
          }
         ]

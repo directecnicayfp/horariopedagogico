@@ -1902,609 +1902,6 @@
    ]
   },
   {
-   "hoja": "1°AÑO 5ºDIV",
-   "curso": "1ER AÑO",
-   "division": "5TA",
-   "ciclo": "BASICO",
-   "resolucion": "RESOLUCION MINISTERIAL Nº1372/5 (MEd)",
-   "observaciones": "",
-   "tablas": [
-    {
-     "titulo": "Horario de clases",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "07:30 A 08:10",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "DIACO KARINA"
-          ],
-          "plazas": [
-           "N°100940"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "GEOGRAFIA",
-          "docentes": [
-           "GIL NORMA"
-          ],
-          "plazas": [
-           "Nº185052"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "RODRIGUEZ KARINA"
-          ],
-          "plazas": [
-           "N°49671"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "RODRIGUEZ KARINA"
-          ],
-          "plazas": [
-           "N°49671"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "PEREZ NELSON"
-          ],
-          "plazas": [
-           "N°289984"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "08:10 A 08:50",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "DIACO KARINA"
-          ],
-          "plazas": [
-           "N°100940"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "GEOGRAFIA",
-          "docentes": [
-           "GIL NORMA"
-          ],
-          "plazas": [
-           "Nº185052"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "RODRIGUEZ KARINA"
-          ],
-          "plazas": [
-           "N°49671"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "RODRIGUEZ KARINA"
-          ],
-          "plazas": [
-           "N°49671"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "PEREZ NELSON"
-          ],
-          "plazas": [
-           "N°289984"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "09:00 A 09:40",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "DIACO KARINA"
-          ],
-          "plazas": [
-           "N°100940"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "BIOLOGIA",
-          "docentes": [
-           "FENOGLIO NADIA"
-          ],
-          "plazas": [
-           "N°243287"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "FISICO QUIMICA",
-          "docentes": [
-           "RODRIGUEZ KARINA"
-          ],
-          "plazas": [
-           "N°236411"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "PEREZ NELSON"
-          ],
-          "plazas": [
-           "N°289984"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "COMAN ANGELA"
-          ],
-          "plazas": [
-           "N°242276"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "09:40 A 10:20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "DIBUJO TECNICO",
-          "docentes": [
-           "ARREGUEZ ARIEL"
-          ],
-          "plazas": [
-           "N°185972"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "BIOLOGIA",
-          "docentes": [
-           "FENOGLIO NADIA"
-          ],
-          "plazas": [
-           "N°243287"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "FISICO QUIMICA",
-          "docentes": [
-           "RODRIGUEZ KARINA"
-          ],
-          "plazas": [
-           "N°236411"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "COMAN ANGELA"
-          ],
-          "plazas": [
-           "N°242276"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "COMAN ANGELA"
-          ],
-          "plazas": [
-           "N°242276"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "10:30 A 11:10",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "DIBUJO TECNICO",
-          "docentes": [
-           "ARREGUEZ ARIEL"
-          ],
-          "plazas": [
-           "N°185972"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "BIOLOGIA",
-          "docentes": [
-           "FENOGLIO NADIA"
-          ],
-          "plazas": [
-           "N°243287"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "TECNOLOGIA",
-          "docentes": [
-           "AMAYOLA GABRIEL"
-          ],
-          "plazas": [
-           "N°356203"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "RODRIGUEZ KARINA"
-          ],
-          "plazas": [
-           "N°122897"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "PEREZ NELSON"
-          ],
-          "plazas": [
-           "N°289984"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "11:10 A 11:50",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "DUBUJO TECNICO",
-          "docentes": [
-           "ARREGUEZ ARIEL"
-          ],
-          "plazas": [
-           "Nº185972"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "DIBUJO TECNICO",
-          "docentes": [
-           "ARREGUEZ ARIEL"
-          ],
-          "plazas": [
-           "N°185972"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "TECNOLOGIA",
-          "docentes": [
-           "AMAYOLA GABRIEL"
-          ],
-          "plazas": [
-           "N°356203"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "FISICO QUIMICA",
-          "docentes": [
-           "RODRIGEUZ KARINA"
-          ],
-          "plazas": [
-           "N°236411"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "PEREZ NELSON"
-          ],
-          "plazas": [
-           "N°289984"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "11:55 A 12:35",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "TECNOLOGIA",
-          "docentes": [
-           "AMAYOLA GABRIEL"
-          ],
-          "plazas": [
-           "Nº356203"
-          ]
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Taller Tecnológico",
-     "tipo": "taller",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "14:30 A 16:30 HS",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "AJUSTE",
-          "docentes": [
-           "SALINAS MARCELO"
-          ],
-          "plazas": [
-           "N°34925"
-          ]
-         },
-         {
-          "materia": "CARPINTERÍA",
-          "docentes": [
-           "VACANTE"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "ELECTRICIDAD",
-          "docentes": [
-           "VACANTE"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "HOJALATERÍA",
-          "docentes": [
-           "VACANTE"
-          ],
-          "plazas": []
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "AJUSTE",
-          "docentes": [
-           "SALINAS MARCELO"
-          ],
-          "plazas": [
-           "N°34925"
-          ]
-         },
-         {
-          "materia": "CARPINTERÍA",
-          "docentes": [
-           "VACANTE"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "ELECTRICIDAD",
-          "docentes": [
-           "VACANTE"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "HOJALATERÍA",
-          "docentes": [
-           "VACANTE"
-          ],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "16:40 A 18:40 HS",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "AJUSTE",
-          "docentes": [
-           "SALINAS MARCELO"
-          ],
-          "plazas": [
-           "N°34925"
-          ]
-         },
-         {
-          "materia": "CARPINTERÍA",
-          "docentes": [
-           "VACANTE"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "ELECTRICIDAD",
-          "docentes": [
-           "VACANTE"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "HOJALATERÍA",
-          "docentes": [
-           "VACANTE"
-          ],
-          "plazas": []
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "AJUSTE",
-          "docentes": [
-           "SALINAS MARCELO"
-          ],
-          "plazas": [
-           "N°34925"
-          ]
-         },
-         {
-          "materia": "CARPINTERÍA",
-          "docentes": [
-           "VACANTE"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "ELECTRICIDAD",
-          "docentes": [
-           "VACANTE"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "HOJALATERÍA",
-          "docentes": [
-           "VACANTE"
-          ],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      }
-     ]
-    },
-    {
-     "titulo": "Educación Física",
-     "tipo": "grid",
-     "dias": [
-      "LUNES",
-      "MARTES",
-      "MIERCOLES",
-      "JUEVES",
-      "VIERNES"
-     ],
-     "filas": [
-      {
-       "hora": "17:00 A 18:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "EDUCACION FISICA",
-          "docentes": [
-           "FUCHO CARLOS"
-          ],
-          "plazas": [
-           "Nº11758"
-          ]
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "EDUCACION FISICA",
-          "docentes": [
-           "FUCHO CARLOS"
-          ],
-          "plazas": [
-           "Nº11758"
-          ]
-         }
-        ],
-        "VIERNES": []
-       }
-      }
-     ]
-    }
-   ]
-  },
-  {
    "hoja": "1°AÑO 4ºDIV",
    "curso": "1ER AÑO",
    "division": "4TA",
@@ -3123,6 +2520,609 @@
           ],
           "plazas": [
            "Nº154074"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "1°AÑO 5ºDIV",
+   "curso": "1ER AÑO",
+   "division": "5TA",
+   "ciclo": "BASICO",
+   "resolucion": "RESOLUCION MINISTERIAL Nº1372/5 (MEd)",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "07:30 A 08:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "DIACO KARINA"
+          ],
+          "plazas": [
+           "N°100940"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "GEOGRAFIA",
+          "docentes": [
+           "GIL NORMA"
+          ],
+          "plazas": [
+           "Nº185052"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "RODRIGUEZ KARINA"
+          ],
+          "plazas": [
+           "N°49671"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "RODRIGUEZ KARINA"
+          ],
+          "plazas": [
+           "N°49671"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "PEREZ NELSON"
+          ],
+          "plazas": [
+           "N°289984"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "08:10 A 08:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "DIACO KARINA"
+          ],
+          "plazas": [
+           "N°100940"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "GEOGRAFIA",
+          "docentes": [
+           "GIL NORMA"
+          ],
+          "plazas": [
+           "Nº185052"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "RODRIGUEZ KARINA"
+          ],
+          "plazas": [
+           "N°49671"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "RODRIGUEZ KARINA"
+          ],
+          "plazas": [
+           "N°49671"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "PEREZ NELSON"
+          ],
+          "plazas": [
+           "N°289984"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "09:00 A 09:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "DIACO KARINA"
+          ],
+          "plazas": [
+           "N°100940"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "BIOLOGIA",
+          "docentes": [
+           "FENOGLIO NADIA"
+          ],
+          "plazas": [
+           "N°243287"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "FISICO QUIMICA",
+          "docentes": [
+           "RODRIGUEZ KARINA"
+          ],
+          "plazas": [
+           "N°236411"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "PEREZ NELSON"
+          ],
+          "plazas": [
+           "N°289984"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "COMAN ANGELA"
+          ],
+          "plazas": [
+           "N°242276"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "09:40 A 10:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "DIBUJO TECNICO",
+          "docentes": [
+           "ARREGUEZ ARIEL"
+          ],
+          "plazas": [
+           "N°185972"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "BIOLOGIA",
+          "docentes": [
+           "FENOGLIO NADIA"
+          ],
+          "plazas": [
+           "N°243287"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "FISICO QUIMICA",
+          "docentes": [
+           "RODRIGUEZ KARINA"
+          ],
+          "plazas": [
+           "N°236411"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "COMAN ANGELA"
+          ],
+          "plazas": [
+           "N°242276"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "COMAN ANGELA"
+          ],
+          "plazas": [
+           "N°242276"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "10:30 A 11:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "DIBUJO TECNICO",
+          "docentes": [
+           "ARREGUEZ ARIEL"
+          ],
+          "plazas": [
+           "N°185972"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "BIOLOGIA",
+          "docentes": [
+           "FENOGLIO NADIA"
+          ],
+          "plazas": [
+           "N°243287"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "TECNOLOGIA",
+          "docentes": [
+           "AMAYOLA GABRIEL"
+          ],
+          "plazas": [
+           "N°356203"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "RODRIGUEZ KARINA"
+          ],
+          "plazas": [
+           "N°122897"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "PEREZ NELSON"
+          ],
+          "plazas": [
+           "N°289984"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11:10 A 11:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "DUBUJO TECNICO",
+          "docentes": [
+           "ARREGUEZ ARIEL"
+          ],
+          "plazas": [
+           "Nº185972"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "DIBUJO TECNICO",
+          "docentes": [
+           "ARREGUEZ ARIEL"
+          ],
+          "plazas": [
+           "N°185972"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "TECNOLOGIA",
+          "docentes": [
+           "AMAYOLA GABRIEL"
+          ],
+          "plazas": [
+           "N°356203"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FISICO QUIMICA",
+          "docentes": [
+           "RODRIGEUZ KARINA"
+          ],
+          "plazas": [
+           "N°236411"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "PEREZ NELSON"
+          ],
+          "plazas": [
+           "N°289984"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11:55 A 12:35",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "TECNOLOGIA",
+          "docentes": [
+           "AMAYOLA GABRIEL"
+          ],
+          "plazas": [
+           "Nº356203"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "14:30 A 16:30 HS",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "AJUSTE",
+          "docentes": [
+           "SALINAS MARCELO"
+          ],
+          "plazas": [
+           "N°34925"
+          ]
+         },
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [
+           "VACANTE"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "VACANTE"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "HOJALATERÍA",
+          "docentes": [
+           "VACANTE"
+          ],
+          "plazas": []
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "AJUSTE",
+          "docentes": [
+           "SALINAS MARCELO"
+          ],
+          "plazas": [
+           "N°34925"
+          ]
+         },
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [
+           "VACANTE"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "VACANTE"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "HOJALATERÍA",
+          "docentes": [
+           "VACANTE"
+          ],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "16:40 A 18:40 HS",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "AJUSTE",
+          "docentes": [
+           "SALINAS MARCELO"
+          ],
+          "plazas": [
+           "N°34925"
+          ]
+         },
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [
+           "VACANTE"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "VACANTE"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "HOJALATERÍA",
+          "docentes": [
+           "VACANTE"
+          ],
+          "plazas": []
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "AJUSTE",
+          "docentes": [
+           "SALINAS MARCELO"
+          ],
+          "plazas": [
+           "N°34925"
+          ]
+         },
+         {
+          "materia": "CARPINTERÍA",
+          "docentes": [
+           "VACANTE"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "VACANTE"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "HOJALATERÍA",
+          "docentes": [
+           "VACANTE"
+          ],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "17:00 A 18:00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "EDUCACION FISICA",
+          "docentes": [
+           "FUCHO CARLOS"
+          ],
+          "plazas": [
+           "Nº11758"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "EDUCACION FISICA",
+          "docentes": [
+           "FUCHO CARLOS"
+          ],
+          "plazas": [
+           "Nº11758"
           ]
          }
         ],

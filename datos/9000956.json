@@ -1357,6 +1357,26 @@
      ],
      "filas": [
       {
+       "hora": "13:05 A 13:45",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "FISICO-QUIMICA",
+          "docentes": [
+           "VACANTE/INCREMENTO"
+          ],
+          "plazas": [
+           "N°239741"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
        "hora": "13:45 A 14:25",
        "celdas": {
         "LUNES": [
@@ -1714,26 +1734,6 @@
           ]
          }
         ]
-       }
-      },
-      {
-       "hora": "13:05 A 13:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "FISICO-QUIMICA",
-          "docentes": [
-           "VACANTE/INCREMENTO"
-          ],
-          "plazas": [
-           "N°239741"
-          ]
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
        }
       }
      ]
@@ -3380,6 +3380,46 @@
      ],
      "filas": [
       {
+       "hora": "13:05 A 13:45",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "ROCHA DELINA DEL CARMEN"
+          ],
+          "plazas": [
+           "N°290714"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "MORALES GLORIA SOLEDAD"
+          ],
+          "plazas": [
+           "N°270916"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "BIOLOGIA",
+          "docentes": [
+           "HAEL MONICA RAQUEL"
+          ],
+          "plazas": [
+           "N°310352"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
        "hora": "13:45 A 14:25",
        "celdas": {
         "LUNES": [
@@ -3737,46 +3777,6 @@
           ]
          }
         ]
-       }
-      },
-      {
-       "hora": "13:05 A 13:45",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "ROCHA DELINA DEL CARMEN"
-          ],
-          "plazas": [
-           "N°290714"
-          ]
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "MORALES GLORIA SOLEDAD"
-          ],
-          "plazas": [
-           "N°270916"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "BIOLOGIA",
-          "docentes": [
-           "HAEL MONICA RAQUEL"
-          ],
-          "plazas": [
-           "N°310352"
-          ]
-         }
-        ],
-        "VIERNES": []
        }
       }
      ]
@@ -5423,6 +5423,46 @@
      ],
      "filas": [
       {
+       "hora": "13:05 A 13:45",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LEBGUA EXTRANJERA",
+          "docentes": [
+           "ORTIZ MATIAS ANDRES"
+          ],
+          "plazas": [
+           "N°289785"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "DIBUJO TECNICO",
+          "docentes": [
+           "SABALZA JAVIER ALEJANDRO"
+          ],
+          "plazas": [
+           "N°247612"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "QUIMICA",
+          "docentes": [
+           "GARCIA MERLO FEDERICO"
+          ],
+          "plazas": [
+           "N°271492"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
        "hora": "13:45 A 14:25",
        "celdas": {
         "LUNES": [
@@ -5780,46 +5820,6 @@
           ]
          }
         ]
-       }
-      },
-      {
-       "hora": "13:05 A 13:45",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "LEBGUA EXTRANJERA",
-          "docentes": [
-           "ORTIZ MATIAS ANDRES"
-          ],
-          "plazas": [
-           "N°289785"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "DIBUJO TECNICO",
-          "docentes": [
-           "SABALZA JAVIER ALEJANDRO"
-          ],
-          "plazas": [
-           "N°247612"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "QUIMICA",
-          "docentes": [
-           "GARCIA MERLO FEDERICO"
-          ],
-          "plazas": [
-           "N°271492"
-          ]
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
        }
       }
      ]
@@ -7466,6 +7466,47 @@
      ],
      "filas": [
       {
+       "hora": "13:05 A 13:45",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "BIOLOGIA",
+          "docentes": [
+           "BUSTOS ELOY EXEQUIEL"
+          ],
+          "plazas": [
+           "N°211591"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "ACOMPAÑAMIENTOPEDAGOGICO",
+          "docentes": [
+           "1HS",
+           "MARINO YOLANDA MERCEDES"
+          ],
+          "plazas": [
+           "N°169859"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "BIOLOGIA",
+          "docentes": [
+           "BUSTOS ELOY EXEQUIEL"
+          ],
+          "plazas": [
+           "N°211591"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
        "hora": "13:45 A 14:25",
        "celdas": {
         "LUNES": [
@@ -7817,47 +7858,6 @@
           ]
          }
         ]
-       }
-      },
-      {
-       "hora": "13:05 A 13:45",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "BIOLOGIA",
-          "docentes": [
-           "BUSTOS ELOY EXEQUIEL"
-          ],
-          "plazas": [
-           "N°211591"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "ACOMPAÑAMIENTOPEDAGOGICO",
-          "docentes": [
-           "1HS",
-           "MARINO YOLANDA MERCEDES"
-          ],
-          "plazas": [
-           "N°169859"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "BIOLOGIA",
-          "docentes": [
-           "BUSTOS ELOY EXEQUIEL"
-          ],
-          "plazas": [
-           "N°211591"
-          ]
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
        }
       }
      ]
@@ -8869,6 +8869,46 @@
      ],
      "filas": [
       {
+       "hora": "13:05 A 13:45",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "MOLINA CINTIA VANINA"
+          ],
+          "plazas": [
+           "N°335946"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "ORTIZ MATIAS ANDRES"
+          ],
+          "plazas": [
+           "N°335645"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "GEOGRAFIA",
+          "docentes": [
+           "VASQUEZ OSCAR ALFREDO"
+          ],
+          "plazas": [
+           "N°335944"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
        "hora": "13:45 A 14:25",
        "celdas": {
         "LUNES": [
@@ -9224,46 +9264,6 @@
           ]
          }
         ]
-       }
-      },
-      {
-       "hora": "13:05 A 13:45",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "LENGUA Y LITERATURA",
-          "docentes": [
-           "MOLINA CINTIA VANINA"
-          ],
-          "plazas": [
-           "N°335946"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "ORTIZ MATIAS ANDRES"
-          ],
-          "plazas": [
-           "N°335645"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "GEOGRAFIA",
-          "docentes": [
-           "VASQUEZ OSCAR ALFREDO"
-          ],
-          "plazas": [
-           "N°335944"
-          ]
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
        }
       }
      ]
@@ -10167,6 +10167,46 @@
      ],
      "filas": [
       {
+       "hora": "13:05 A 13:45",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "ORTIZ ANDRES MATIAS"
+          ],
+          "plazas": [
+           "N°347668"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "SEGURIDAD E HIGIENE",
+          "docentes": [
+           "PEREIRA JOSE MARIA"
+          ],
+          "plazas": [
+           "N°347672"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "EMPREDEDORISMO",
+          "docentes": [
+           "BRAGAGNINI MARIO ALBERTO"
+          ],
+          "plazas": [
+           "N°347671"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
        "hora": "13:45 A 14:25",
        "celdas": {
         "LUNES": [
@@ -10524,46 +10564,6 @@
           ]
          }
         ]
-       }
-      },
-      {
-       "hora": "13:05 A 13:45",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
-           "ORTIZ ANDRES MATIAS"
-          ],
-          "plazas": [
-           "N°347668"
-          ]
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "SEGURIDAD E HIGIENE",
-          "docentes": [
-           "PEREIRA JOSE MARIA"
-          ],
-          "plazas": [
-           "N°347672"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "EMPREDEDORISMO",
-          "docentes": [
-           "BRAGAGNINI MARIO ALBERTO"
-          ],
-          "plazas": [
-           "N°347671"
-          ]
-         }
-        ],
-        "VIERNES": []
        }
       }
      ]
@@ -11521,6 +11521,46 @@
      ],
      "filas": [
       {
+       "hora": "13:05 A 13:45",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "MARCO JURIDICO DE LOS PROCESOS PRODUCTIVOS",
+          "docentes": [
+           "MORALES GLORIA SOLEDAD"
+          ],
+          "plazas": [
+           "N°347688"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "INSTALACIONES ELECTRICAS",
+          "docentes": [
+           "DIEZ FRANCO DAVID"
+          ],
+          "plazas": [
+           "N°347692"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "ORGANIZACIÓN INDUSTRIAL",
+          "docentes": [
+           "SABALZA JAVIER ALEJANDRO"
+          ],
+          "plazas": [
+           "N°271542"
+          ]
+         }
+        ]
+       }
+      },
+      {
        "hora": "13:45 A 14:25",
        "celdas": {
         "LUNES": [
@@ -11874,46 +11914,6 @@
           ],
           "plazas": [
            "N°347686"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "13:05 A 13:45",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "MARCO JURIDICO DE LOS PROCESOS PRODUCTIVOS",
-          "docentes": [
-           "MORALES GLORIA SOLEDAD"
-          ],
-          "plazas": [
-           "N°347688"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "INSTALACIONES ELECTRICAS",
-          "docentes": [
-           "DIEZ FRANCO DAVID"
-          ],
-          "plazas": [
-           "N°347692"
-          ]
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "ORGANIZACIÓN INDUSTRIAL",
-          "docentes": [
-           "SABALZA JAVIER ALEJANDRO"
-          ],
-          "plazas": [
-           "N°271542"
           ]
          }
         ]
