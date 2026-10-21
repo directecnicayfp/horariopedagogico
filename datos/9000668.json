@@ -9712,7 +9712,20 @@
       },
       {
        "hora": "13:20 A 14:00 HS.",
-       "celdas": {}
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "IMPOSITIVA II",
+          "docentes": [
+           "MOLINA RAQUEL DEL VALLE",
+           "PEREIRA, GLORIA RAMONA"
+          ],
+          "plazas": [
+           "N°229959"
+          ]
+         }
+        ]
+       }
       }
      ]
     },
