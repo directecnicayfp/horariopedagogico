@@ -30,7 +30,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "MONASTERIO NAZARENA"
+           "MONASTERIO, DOLORES NAZARENA"
           ],
           "plazas": [
            "N°270975"
@@ -41,7 +41,7 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "NUÑEZ MIGUEL"
+           "NUÑEZ, MIGUEL FRANCISCO"
           ],
           "plazas": [
            "N°317334"
@@ -50,8 +50,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "LENGUA EXTRANJEA",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
+           "CENTENO, ROMINA DANIELA",
            "CABRAL DAVID"
           ],
           "plazas": [
@@ -63,7 +64,7 @@
          {
           "materia": "FISICO QUIMICA",
           "docentes": [
-           "GONZALEZ CARLOS ROBERTO"
+           "GONZALEZ, CARLOS ROBERTO"
           ],
           "plazas": [
            "N°223207"
@@ -74,6 +75,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
+           "VACANTE",
            "BUSTAMANTE NANCY FELISA"
           ],
           "plazas": [
@@ -90,7 +92,7 @@
          {
           "materia": "BIOLOGIA",
           "docentes": [
-           "OLEA JORGE ESTEBAN"
+           "CEBALLOS, FRANCO EDUARDO"
           ],
           "plazas": [
            "N°145942"
@@ -101,7 +103,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "CARAQUE YESICA"
+           "VACANTE"
           ],
           "plazas": [
            "N°270981"
@@ -112,6 +114,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
+           "CENTENO, ROMINA DANIELA",
            "CABRAL DAVID"
           ],
           "plazas": [
@@ -123,6 +126,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
+           "VACANTE",
            "BUSTAMANTE NANCY FELISA"
           ],
           "plazas": [
@@ -134,7 +138,7 @@
          {
           "materia": "TECNOLOGIA",
           "docentes": [
-           "HEREDIA MARIELA"
+           "URAGA, EDUARDO ALEJANDRO"
           ],
           "plazas": [
            "N°47314"
@@ -150,7 +154,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "CARAQUE YESICA"
+           "VACANTE"
           ],
           "plazas": [
            "N°270981"
@@ -161,7 +165,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "CARAQUE YESICA"
+           "VACANTE"
           ],
           "plazas": [
            "N°270981"
@@ -172,6 +176,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
+           "VACANTE",
            "BUSTAMNETE NANCY FELISA"
           ],
           "plazas": [
@@ -183,6 +188,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
+           "VACANTE",
            "BUSTAMANTE NACY FELISA"
           ],
           "plazas": [
@@ -194,7 +200,7 @@
          {
           "materia": "TECNOLOGIA",
           "docentes": [
-           "HERDIA MARIELA"
+           "URAGA, EDUARDO ALEJANDRO"
           ],
           "plazas": [
            "N°47314"
@@ -210,7 +216,7 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "NUÑEZ MIGUEL"
+           "NUÑEZ, MIGUEL FRANCISCO"
           ],
           "plazas": [
            "N°317334"
@@ -221,9 +227,10 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "DIAZ MARCELO"
+           "DIAZ, PASCUAL MARCELO"
           ],
           "plazas": [
+           "N°116711",
            "N°1116711"
           ]
          }
@@ -232,7 +239,7 @@
          {
           "materia": "BIOLOGIA",
           "docentes": [
-           "OLEA JORGE ESTEBAN"
+           "CEBALLOS, FRANCO EDUARDO"
           ],
           "plazas": [
            "N°145942"
@@ -243,7 +250,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "CARAQUE YESICA"
+           "VACANTE"
           ],
           "plazas": [
            "N°270981"
@@ -254,7 +261,7 @@
          {
           "materia": "TECNOLOGIA",
           "docentes": [
-           "HEREDIA MARIELA"
+           "URAGA, EDUARDO ALEJANDRO"
           ],
           "plazas": [
            "N°47314"
@@ -271,9 +278,10 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "DIAZ MARCELO"
+           "DIAZ, PASCUAL MARCELO"
           ],
           "plazas": [
+           "N°116711",
            "N°1116711"
           ]
          }
@@ -282,7 +290,7 @@
          {
           "materia": "BIOLOGIA",
           "docentes": [
-           "OLEA JORGE ESTEBAN"
+           "CEBALLOS, FRANCO EDUARDO"
           ],
           "plazas": [
            "N°145942"
@@ -293,7 +301,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "CARAQUE YESICA"
+           "VACANTE"
           ],
           "plazas": [
            "N°270981"
@@ -311,9 +319,10 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "DIAZ MARCELO"
+           "DIAZ, PASCUAL MARCELO"
           ],
           "plazas": [
+           "N°116711",
            "N°1116711"
           ]
          }
@@ -323,7 +332,7 @@
          {
           "materia": "FISICO QUIMICA",
           "docentes": [
-           "GONZALEZ CARLOS"
+           "GONZALEZ, CARLOS ROBERTO"
           ],
           "plazas": [
            "N°223207"
@@ -347,102 +356,63 @@
      ],
      "filas": [
       {
-       "hora": "12:50-14:10",
+       "hora": "12:50 A 17:00",
        "celdas": {
         "LUNES": [],
         "MARTES": [
          {
-          "materia": "TALLER TECNOLOGICO DE HUERTA FAMILIAR I",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO GRANJA FAMILIAR I",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TELLER TECNOLOGICO DE TALLER RURAL I",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "TALLER TECNOLOGICO DE HUERTA FAMILIAR I",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE GRANJA FAMILIAR I",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE TALLER RURAL I",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "14:20- 15:40",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "15:40-17:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "MORALES PAOLA LORENA",
-          "docentes": [],
+          "materia": "DE HUERTA FAMILIAR I",
+          "docentes": [
+           "VALLA, IVANA ESTEFANIA"
+          ],
           "plazas": [
            "N°274204"
           ]
          },
          {
-          "materia": "ARROYO GASTON",
-          "docentes": [],
+          "materia": "GRANJA FAMILIAR I",
+          "docentes": [
+           "ARROYO, RODRIGO GASTON"
+          ],
           "plazas": [
            "N°274203"
           ]
          },
          {
-          "materia": "ORDOÑEZ MARTIN HORACIO",
-          "docentes": [],
+          "materia": "TELLER TECNOLOGICO DE TALLER RURAL I",
+          "docentes": [
+           "ORDOÑEZ, HORACIO MARTIN"
+          ],
           "plazas": [
+           "N°297465",
            "N°274205"
           ]
          }
         ],
         "MIERCOLES": [
          {
-          "materia": "MORALES PAOLA LORENA",
-          "docentes": [],
+          "materia": "DE HUERTA FAMILIAR I",
+          "docentes": [
+           "VALLA, IVANA ESTEFANIA"
+          ],
           "plazas": [
            "N°274204"
           ]
          },
          {
-          "materia": "ARROYO GASTON",
-          "docentes": [],
+          "materia": "DE GRANJA FAMILIAR I",
+          "docentes": [
+           "ARROYO, RODRIGO GASTON"
+          ],
           "plazas": [
            "N°274203"
           ]
          },
          {
-          "materia": "ORDOÑEZ MARTIN HORACIO",
-          "docentes": [],
+          "materia": "DE TALLER RURAL I",
+          "docentes": [
+           "ORDOÑEZ, HORACIO MARTIN"
+          ],
           "plazas": [
            "N°297465"
           ]
@@ -476,7 +446,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "ELIAS ARTURO MANUEL"
+           "ELIAS, ARTURO MANUEL"
           ],
           "plazas": [
            "N°271404"
@@ -496,7 +466,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "ELIAS ARTURO MANUEL"
+           "ELIAS, ARTURO MANUEL"
           ],
           "plazas": [
            "N°271404"
@@ -535,7 +505,7 @@
          {
           "materia": "BIOLOGIA",
           "docentes": [
-           "OLEA JORGE ESTEBAN"
+           "CALIVA, BRENDA DEL VALLE"
           ],
           "plazas": [
            "N°101981"
@@ -544,9 +514,9 @@
         ],
         "MARTES": [
          {
-          "materia": "LEMGUA EXTRANJERA",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ALBARRACIN PATRICIA"
+           "CENTENO, ROMINA DANIELA"
           ],
           "plazas": [
            "N°210404"
@@ -557,7 +527,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "NIEVA MERCEDES SILVIA"
+           "NIEVA, MERCEDES SILVIA"
           ],
           "plazas": [
            "N°241731"
@@ -568,7 +538,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "NIEVA MERCEDES SILVIA"
+           "NIEVA, MERCEDES SILVIA"
           ],
           "plazas": [
            "N°241731"
@@ -579,7 +549,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "SORIA CINTHYA MARIA"
+           "SORIA, CINTHYA MARIA"
           ],
           "plazas": [
            "N°314618"
@@ -595,9 +565,10 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "NIEVA MARIA DE LOS A"
+           "NIEVA, MARIA DE LOS ANGELES"
           ],
           "plazas": [
+           "N°239467",
            "N°278975"
           ]
          }
@@ -606,7 +577,7 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "NUÑEZ MIGUEL"
+           "NUÑEZ, MIGUEL FRANCISCO"
           ],
           "plazas": [
            "N°317335"
@@ -617,7 +588,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "NIEVA MERCEDES SILVIA"
+           "NIEVA, MERCEDES SILVIA"
           ],
           "plazas": [
            "N°241731"
@@ -628,7 +599,7 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "NUÑEZ MIGUEL"
+           "NUÑEZ, MIGUEL FRANCISCO"
           ],
           "plazas": [
            "N°317335"
@@ -639,7 +610,7 @@
          {
           "materia": "TECNOLOGIA",
           "docentes": [
-           "ATENCIO CLAUDIA"
+           "URAGA, EDUARDO ALEJANDRO"
           ],
           "plazas": [
            "N°277401"
@@ -655,9 +626,10 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "NIEVA MARIA DE LOS A"
+           "NIEVA, MARIA DE LOS ANGELES"
           ],
           "plazas": [
+           "N°239467",
            "N°278975"
           ]
          }
@@ -666,7 +638,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ALBARRACIN PATRICIA"
+           "CENTENO, ROMINA DANIELA"
           ],
           "plazas": [
            "N°210404"
@@ -677,7 +649,7 @@
          {
           "materia": "BIOLOGIA",
           "docentes": [
-           "OLEA JORGE ESTEBAN"
+           "CALIVA, BRENDA DEL VALLE"
           ],
           "plazas": [
            "N°101981"
@@ -688,7 +660,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "NIEVA MARIA DE LOS ANGELES"
+           "NIEVA, MARIA DE LOS ANGELES"
           ],
           "plazas": [
            "N°239489"
@@ -699,7 +671,7 @@
          {
           "materia": "TECNOLOGIA",
           "docentes": [
-           "ATENCIO CLAUDIA"
+           "URAGA, EDUARDO ALEJANDRO"
           ],
           "plazas": [
            "N°277401"
@@ -715,7 +687,7 @@
          {
           "materia": "FISICO QUIMICA",
           "docentes": [
-           "MADRID GUSTAVO"
+           "MADRID, GUSTAVO ALFREDO"
           ],
           "plazas": [
            "N°210336"
@@ -726,7 +698,7 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "NUÑEZ MIGUEL"
+           "NUÑEZ, MIGUEL FRANCISCO"
           ],
           "plazas": [
            "N°317335"
@@ -737,7 +709,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "SORIA CINTHYA MARIA"
+           "SORIA, CINTHYA MARIA"
           ],
           "plazas": [
            "N°314618"
@@ -748,7 +720,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "NIEVA MARIA DE LOS ANGELES"
+           "NIEVA, MARIA DE LOS ANGELES"
           ],
           "plazas": [
            "N°239489"
@@ -759,7 +731,7 @@
          {
           "materia": "TECNOLOGIA",
           "docentes": [
-           "ATENCIO CLAUDIA"
+           "URAGA, EDUARDO ALEJANDRO"
           ],
           "plazas": [
            "N°277401"
@@ -775,7 +747,7 @@
          {
           "materia": "FISICO QUIMICA",
           "docentes": [
-           "MADRID GUSTAVO"
+           "MADRID, GUSTAVO ALFREDO"
           ],
           "plazas": [
            "N°210336"
@@ -787,7 +759,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "SORIA CINTHYA MARIA"
+           "SORIA, CINTHYA MARIA"
           ],
           "plazas": [
            "N°314618"
@@ -812,79 +784,33 @@
      ],
      "filas": [
       {
-       "hora": "12:50-14:10",
+       "hora": "12:50 A 17:00",
        "celdas": {
         "LUNES": [],
         "MARTES": [
          {
-          "materia": "TALLER TECNOLOGICO DE HUERTA FAMILIAR I",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO GRANJA FAMILIAR I",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TELLER TECNOLOGICO DE TALLER RURAL I",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "TALLER TECNOLOGICO DE HUERTA FAMILIAR I",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO GRANJA FAMILIAR I",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TELLER TECNOLOGICO DE TALLER RURAL I",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "14:20-15:40",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "15:40-17:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "MORALES PAOLA LORENA",
-          "docentes": [],
+          "materia": "DE HUERTA FAMILIAR I",
+          "docentes": [
+           "VALLA, IVANA ESTEFANIA"
+          ],
           "plazas": [
            "N°274204"
           ]
          },
          {
-          "materia": "ARROYO GASTON",
-          "docentes": [],
+          "materia": "GRANJA FAMILIAR I",
+          "docentes": [
+           "ARROYO, RODRIGO GASTON"
+          ],
           "plazas": [
            "N°274203"
           ]
          },
          {
-          "materia": "ORDOÑEZ MARTIN HORACIO",
-          "docentes": [],
+          "materia": "TELLER TECNOLOGICO DE TALLER RURAL I",
+          "docentes": [
+           "ORDOÑEZ, HORACIO MARTIN"
+          ],
           "plazas": [
            "N°297465"
           ]
@@ -892,22 +818,28 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "PROFESOR",
-          "docentes": [],
+          "materia": "DE HUERTA FAMILIAR I",
+          "docentes": [
+           "VALLA, IVANA ESTEFANIA"
+          ],
           "plazas": [
            "N°274204"
           ]
          },
          {
-          "materia": "PROFESOR",
-          "docentes": [],
+          "materia": "GRANJA FAMILIAR I",
+          "docentes": [
+           "ARROYO, RODRIGO GASTON"
+          ],
           "plazas": [
            "N°274203"
           ]
          },
          {
-          "materia": "PROFESOR",
-          "docentes": [],
+          "materia": "TELLER TECNOLOGICO DE TALLER RURAL I",
+          "docentes": [
+           "ORDOÑEZ, HORACIO MARTIN"
+          ],
           "plazas": [
            "N°297465"
           ]
@@ -937,9 +869,10 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "ELIA ARTURO MANUEL"
+           "ASAD SAIG, ABEL AMADO"
           ],
           "plazas": [
+           "N°271405",
            "N°2714025"
           ]
          }
@@ -957,7 +890,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "ELIAS ARTURO MANUEL"
+           "ASAD SAIG, ABEL AMADO"
           ],
           "plazas": [
            "N°271405"
@@ -1000,7 +933,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "CARAQUE YESICA"
+           "CARAQUE, JESSICA MARIANELA"
           ],
           "plazas": [
            "N°185806"
@@ -1011,6 +944,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
+           "MARTINEZ, SILVINA GABRIELA",
            "CHOCOBAR PEDRO"
           ],
           "plazas": [
@@ -1022,6 +956,7 @@
          {
           "materia": "FISICA",
           "docentes": [
+           "VACANTE",
            "GONZALEZ CARLOS"
           ],
           "plazas": [
@@ -1033,7 +968,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "BUSTAMANTE NANCY FELISA"
+           "BUSTAMANTE, NANCY FELISA"
           ],
           "plazas": [
            "N°196675"
@@ -1044,7 +979,7 @@
          {
           "materia": "BIOLOGIA",
           "docentes": [
-           "OLEA JORGE"
+           "CALIVA, BRENDA DEL VALLE"
           ],
           "plazas": [
            "N°42594"
@@ -1060,7 +995,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "CARAQUE YESICA"
+           "CARAQUE, JESSICA MARIANELA"
           ],
           "plazas": [
            "N°185806"
@@ -1071,7 +1006,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "SORIA CINTHYA MARIA"
+           "SORIA, CINTHYA MARIA"
           ],
           "plazas": [
            "N°196675"
@@ -1082,6 +1017,7 @@
          {
           "materia": "FISICA",
           "docentes": [
+           "VACANTE",
            "GONZALEZ CARLOS"
           ],
           "plazas": [
@@ -1093,7 +1029,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "ROGER SILVIA"
+           "ROGER, SILVIA LILIANA"
           ],
           "plazas": [
            "N°229550"
@@ -1104,7 +1040,7 @@
          {
           "materia": "BIOLOGIA",
           "docentes": [
-           "OLEA JORGE"
+           "CALIVA, BRENDA DEL VALLE"
           ],
           "plazas": [
            "N°42594"
@@ -1114,13 +1050,13 @@
        }
       },
       {
-       "hora": "9:40 a 10:20",
+       "hora": "9:40 A 10:20",
        "celdas": {
         "LUNES": [
          {
           "materia": "HISTORIA",
           "docentes": [
-           "DIAZ MARCELO"
+           "DIAZ, PASCUAL MARCELO"
           ],
           "plazas": [
            "N°196678"
@@ -1131,7 +1067,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "SORIA CINTHYA MARIA"
+           "SORIA, CINTHYA MARIA"
           ],
           "plazas": [
            "N°196675"
@@ -1142,6 +1078,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
+           "CENTENO, ROMINA DANIELA",
            "CABRAL DAVID"
           ],
           "plazas": [
@@ -1153,7 +1090,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "ROGER SILVIA"
+           "ROGER, SILVIA LILIANA"
           ],
           "plazas": [
            "N°229550"
@@ -1164,7 +1101,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "NIEVA MARIA DE LOS ANGELES"
+           "NIEVA, MARIA DE LOS ANGELES"
           ],
           "plazas": [
            "N°239468"
@@ -1180,7 +1117,7 @@
          {
           "materia": "EDUCACION ETICA Y CIUDADANA",
           "docentes": [
-           "GOMEZ GASEP GERARDO"
+           "CHOCOBAR, PEDRO ROQUE"
           ],
           "plazas": [
            "N°313489"
@@ -1191,7 +1128,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "CARAQUE JESSICA"
+           "CARAQUE, JESSICA MARIANELA"
           ],
           "plazas": [
            "N°185806"
@@ -1202,6 +1139,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
+           "CENTENO, ROMINA DANIELA",
            "CABRAL DAVID"
           ],
           "plazas": [
@@ -1213,6 +1151,7 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
+           "VACANTE",
            "GONZALEZ CARLOS ROBERTO"
           ],
           "plazas": [
@@ -1224,7 +1163,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "NIEVA MARIA DE LOS ANGELES"
+           "NIEVA, MARIA DE LOS ANGELES"
           ],
           "plazas": [
            "N°239468"
@@ -1242,6 +1181,7 @@
          {
           "materia": "FISICA",
           "docentes": [
+           "VACANTE",
            "GONZALEZ CARLOS"
           ],
           "plazas": [
@@ -1253,7 +1193,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "BUSTAMANTE NANCY FELISA"
+           "BUSTAMANTE, NANCY FELISA"
           ],
           "plazas": [
            "N°196675"
@@ -1277,81 +1217,35 @@
      ],
      "filas": [
       {
-       "hora": "12:50-14:10",
+       "hora": "12:50 A 17:00",
        "celdas": {
         "LUNES": [],
         "MARTES": [],
         "MIERCOLES": [],
         "JUEVES": [
          {
-          "materia": "TALLER TECNOLOGICO DE PROD DE PLANTAS EN VIVERO",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE GRANJA FAMILIAR II",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE TALLER RUAL II",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "TALLER TECNOLOGICO DE PROD DE PLANTAS EN VIVERO",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE GRANJA FAMILIAR",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE TALLER RURAL",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "14:20-15:40",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "15.40-17:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "MORALES PAOLA LORENA",
-          "docentes": [],
+          "materia": "DE PROD DE PLANTAS EN VIVERO",
+          "docentes": [
+           "VALLA, IVANA ESTEFANIA"
+          ],
           "plazas": [
            "N°274204"
           ]
          },
          {
-          "materia": "ARROYO GASTON",
-          "docentes": [],
+          "materia": "DE GRANJA FAMILIAR II",
+          "docentes": [
+           "ARROYO, RODRIGO GASTON"
+          ],
           "plazas": [
            "N°274203"
           ]
          },
          {
-          "materia": "ORDOÑEZ MARTIN HORACIO",
-          "docentes": [],
+          "materia": "DE TALLER RUAL II",
+          "docentes": [
+           "ORDOÑEZ MARTIN HORACIO"
+          ],
           "plazas": [
            "N°294665"
           ]
@@ -1359,22 +1253,28 @@
         ],
         "VIERNES": [
          {
-          "materia": "MORALES PAOLA LORENA",
-          "docentes": [],
+          "materia": "DE PROD DE PLANTAS EN VIVERO",
+          "docentes": [
+           "VALLA, IVANA ESTEFANIA"
+          ],
           "plazas": [
            "N°274204"
           ]
          },
          {
-          "materia": "ARROYO GASTON",
-          "docentes": [],
+          "materia": "DE GRANJA FAMILIAR",
+          "docentes": [
+           "ARROYO, RODRIGO GASTON"
+          ],
           "plazas": [
            "N°274203"
           ]
          },
          {
-          "materia": "ORDOÑEZ MARTIN HORACIO",
-          "docentes": [],
+          "materia": "DE TALLER RURAL",
+          "docentes": [
+           "ORDOÑEZ, HORACIO MARTIN"
+          ],
           "plazas": [
            "N°297465"
           ]
@@ -1401,9 +1301,9 @@
         "LUNES": [],
         "MARTES": [
          {
-          "materia": "EDUCACIO FISICA",
+          "materia": "EDUCACION FISICA",
           "docentes": [
-           "ELIAS ARTURO MANUEL"
+           "HOMET, FRANCO NERI"
           ],
           "plazas": [
            "N°271406"
@@ -1414,10 +1314,10 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "GONZALEZ CARLOS ROBERTO"
+           "GONZALEZ, CARLOS ROBERTO"
           ],
           "plazas": [
-           "N°271012"
+           "N°223211"
           ]
          }
         ],
@@ -1433,7 +1333,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "ELIAS ARTURO MANUEL"
+           "HOMET, FRANCO NERI"
           ],
           "plazas": [
            "N°271406"
@@ -1475,7 +1375,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "MADRID GUSTAVO"
+           "MADRID, GUSTAVO ALFREDO"
           ],
           "plazas": [
            "N°212645"
@@ -1486,7 +1386,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "MADRID GUSTAVO"
+           "MADRID, GUSTAVO ALFREDO"
           ],
           "plazas": [
            "N°212645"
@@ -1497,7 +1397,7 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "NUÑEZ MIGUEL"
+           "NUÑEZ, MIGUEL FRANCISCO"
           ],
           "plazas": [
            "N°277418"
@@ -1508,7 +1408,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "NIEVA MARIA DE LOS ANGELES"
+           "NIEVA, MARIA DE LOS ANGELES"
           ],
           "plazas": [
            "N°239491"
@@ -1519,7 +1419,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "DIAZ NANCY DEOLINDA"
+           "DIAZ, NANCY DEOLINDA"
           ],
           "plazas": [
            "N°212640"
@@ -1535,7 +1435,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "MADRID GUSTAVO"
+           "MADRID, GUSTAVO ALFREDO"
           ],
           "plazas": [
            "N°212647"
@@ -1546,7 +1446,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "MADRID GUSTAVO"
+           "MADRID, GUSTAVO ALFREDO"
           ],
           "plazas": [
            "N°212645"
@@ -1556,9 +1456,11 @@
         "MIERCOLES": [
          {
           "materia": "BIOLOGIA",
-          "docentes": [],
+          "docentes": [
+           "IÑIGO, HORACIO MATIAS"
+          ],
           "plazas": [
-           "N°15263"
+           "N°104816"
           ]
          }
         ],
@@ -1566,7 +1468,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "NIEVA MARIA DE LOS ANGELES"
+           "NIEVA, MARIA DE LOS ANGELES"
           ],
           "plazas": [
            "N°239491"
@@ -1577,7 +1479,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "DIAZ NANCY DEOLINDA"
+           "DIAZ, NANCY DEOLINDA"
           ],
           "plazas": [
            "N°212640"
@@ -1587,13 +1489,13 @@
        }
       },
       {
-       "hora": "9:40 a 10:20",
+       "hora": "9:40 A 10:20",
        "celdas": {
         "LUNES": [
          {
           "materia": "FISICA",
           "docentes": [
-           "MADRID GUSTAVO"
+           "MADRID, GUSTAVO ALFREDO"
           ],
           "plazas": [
            "N°212647"
@@ -1604,7 +1506,7 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "NUÑEZ MIGUEL"
+           "NUÑEZ, MIGUEL FRANCISCO"
           ],
           "plazas": [
            "N°277418"
@@ -1615,7 +1517,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "MADRID GUSTAVO"
+           "MADRID, GUSTAVO ALFREDO"
           ],
           "plazas": [
            "N°212647"
@@ -1626,7 +1528,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "MADRID GUSTAVO"
+           "MADRID, GUSTAVO ALFREDO"
           ],
           "plazas": [
            "N°212647"
@@ -1636,7 +1538,9 @@
         "VIERNES": [
          {
           "materia": "BIOLOGIA",
-          "docentes": [],
+          "docentes": [
+           "IÑIGO, HORACIO MATIAS"
+          ],
           "plazas": [
            "N°104816"
           ]
@@ -1651,10 +1555,10 @@
          {
           "materia": "EDUCACION ETICA Y CIUDADANA",
           "docentes": [
-           "NIEVA MARIA DE LOS A"
+           "NIEVA, MARIA DE LOS ANGELES"
           ],
           "plazas": [
-           "N°239468"
+           "N°239469"
           ]
          }
         ],
@@ -1662,7 +1566,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "SORIA CINTHYA"
+           "SORIA, CINTHYA MARIA"
           ],
           "plazas": [
            "N°314619"
@@ -1674,7 +1578,7 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "NUÑEZ MIGUEL"
+           "NUÑEZ, MIGUEL FRANCISCO"
           ],
           "plazas": [
            "N°277418"
@@ -1683,8 +1587,10 @@
         ],
         "VIERNES": [
          {
-          "materia": "BILOGIA",
-          "docentes": [],
+          "materia": "BIOLOGIA",
+          "docentes": [
+           "IÑIGO, HORACIO MATIAS"
+          ],
           "plazas": [
            "N°104816"
           ]
@@ -1699,7 +1605,7 @@
          {
           "materia": "EDUCACION ETICA Y CIUDADANA",
           "docentes": [
-           "NIEVA MARIA DE LOS ANGELES"
+           "NIEVA, MARIA DE LOS ANGELES"
           ],
           "plazas": [
            "N°239469"
@@ -1710,7 +1616,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "SORIA CINTHYA MARIA"
+           "SORIA, CINTHYA MARIA"
           ],
           "plazas": [
            "N°314619"
@@ -1722,7 +1628,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "ROGER SILVIA"
+           "ROGER, SILVIA LILIANA"
           ],
           "plazas": [
            "N°212648"
@@ -1732,7 +1638,9 @@
         "VIERNES": [
          {
           "materia": "BIOLOGIA",
-          "docentes": [],
+          "docentes": [
+           "IÑIGO, HORACIO MATIAS"
+          ],
           "plazas": [
            "N°104816"
           ]
@@ -1747,7 +1655,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "SORIA CINTHYA MARIA"
+           "SORIA, CINTHYA MARIA"
           ],
           "plazas": [
            "N°314619"
@@ -1758,7 +1666,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "SORIA CINTHYA MARIA"
+           "SORIA, CINTHYA MARIA"
           ],
           "plazas": [
            "N°314619"
@@ -1770,7 +1678,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "ROGER SILVIA"
+           "ROGER, SILVIA LILIANA"
           ],
           "plazas": [
            "N°212648"
@@ -1781,7 +1689,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "SORIA CINTHYA MARIA"
+           "SORIA, CINTHYA MARIA"
           ],
           "plazas": [
            "N°314619"
@@ -1797,9 +1705,11 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "SANCHEZ TELLO PAOLA"
+           "NIEVA, MARIA DE LOS ANGELES"
           ],
-          "plazas": []
+          "plazas": [
+           "N°239492"
+          ]
          }
         ],
         "MARTES": [],
@@ -1822,81 +1732,35 @@
      ],
      "filas": [
       {
-       "hora": "12:50-14:10",
+       "hora": "12:50 A 17:00",
        "celdas": {
         "LUNES": [],
         "MARTES": [],
         "MIERCOLES": [],
         "JUEVES": [
          {
-          "materia": "TALLER TECNOLOGICO DE PROD DE PLANTAS EN VIVERO",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE GRANJA FAMILIAR II",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE TALLER RUAL II",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "TALLER TECNOLOGICO DE PROD DE PLANTAS EN VIVERO",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE GRANJA FAMILIAR",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE TALLER RURAL",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "14:20-15:40",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "15:40 -17:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "MORALES PAOLA LORENA",
-          "docentes": [],
+          "materia": "DE PROD DE PLANTAS EN VIVERO",
+          "docentes": [
+           "MORALES PAOLA LORENA"
+          ],
           "plazas": [
            "N°274104"
           ]
          },
          {
-          "materia": "ARROYO GASTON",
-          "docentes": [],
+          "materia": "DE GRANJA FAMILIAR II",
+          "docentes": [
+           "ARROYO, RODRIGO GASTON"
+          ],
           "plazas": [
            "N°274203"
           ]
          },
          {
-          "materia": "ORDOÑEZ MARTIN HORACIO",
-          "docentes": [],
+          "materia": "DE TALLER RUAL II",
+          "docentes": [
+           "ORDOÑEZ MARTIN HORACIO"
+          ],
           "plazas": [
            "N°277465"
           ]
@@ -1904,22 +1768,28 @@
         ],
         "VIERNES": [
          {
-          "materia": "MORALES PAOLA LORENA",
-          "docentes": [],
+          "materia": "DE PROD DE PLANTAS EN VIVERO",
+          "docentes": [
+           "MORALES PAOLA LORENA"
+          ],
           "plazas": [
            "N°274104"
           ]
          },
          {
-          "materia": "ARROYO GASTON",
-          "docentes": [],
+          "materia": "DE GRANJA FAMILIAR",
+          "docentes": [
+           "ARROYO, RODRIGO GASTON"
+          ],
           "plazas": [
            "N°274203"
           ]
          },
          {
-          "materia": "ORDOÑEZ MARTIN HORACIO",
-          "docentes": [],
+          "materia": "DE TALLER RURAL",
+          "docentes": [
+           "ORDOÑEZ MARTIN HORACIO"
+          ],
           "plazas": [
            "N°277465"
           ]
@@ -1949,7 +1819,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "ELIAS ARTURO MANUEL"
+           "HOMET, FRANCO NERI"
           ],
           "plazas": [
            "N°271409"
@@ -1969,7 +1839,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "ELIAS ARTUTO MANUEL"
+           "HOMET, FRANCO NERI"
           ],
           "plazas": [
            "N°271409"
@@ -2008,9 +1878,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "EDUCACION ETICA Y CIUDADA",
+          "materia": "EDUCACION ETICA Y CIUDADANA",
           "docentes": [
-           "GOMEZ GASEP GERARDO"
+           "CHOCOBAR, PEDRO ROQUE"
           ],
           "plazas": [
            "N°313488"
@@ -2021,7 +1891,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "CARAQUE YESICA"
+           "CARAQUE, JESSICA MARIANELA"
           ],
           "plazas": [
            "N°352421"
@@ -2032,7 +1902,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "ROGER SILVIA"
+           "ROGER, SILVIA LILIANA"
           ],
           "plazas": [
            "N°214891"
@@ -2043,7 +1913,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "MONASTERIO NAZARENA"
+           "MONASTERIO, DOLORES NAZARENA"
           ],
           "plazas": [
            "N°270976"
@@ -2054,6 +1924,7 @@
          {
           "materia": "FISICA",
           "docentes": [
+           "VACANTE",
            "GONZALEZ CARLOS ROBERTO"
           ],
           "plazas": [
@@ -2070,7 +1941,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "BUSTAMANTE NANCY FELISA"
+           "BUSTAMANTE, NANCY FELISA"
           ],
           "plazas": [
            "N°196675"
@@ -2081,6 +1952,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
+           "CENTENO, ROMINA DANIELA",
            "CABRAL DAVID"
           ],
           "plazas": [
@@ -2092,7 +1964,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "ROGER SILVIA"
+           "ROGER, SILVIA LILIANA"
           ],
           "plazas": [
            "N°214891"
@@ -2103,7 +1975,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "MONASTERIO NAZARENA"
+           "MONASTERIO, DOLORES NAZARENA"
           ],
           "plazas": [
            "N°270976"
@@ -2114,7 +1986,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "BUSTANATE NANCY FELISA"
+           "BUSTAMANTE, NANCY FELISA"
           ],
           "plazas": [
            "N°196675"
@@ -2130,7 +2002,7 @@
          {
           "materia": "BIOLOGIA",
           "docentes": [
-           "OLEA JORGE"
+           "IÑIGO, HORACIO MATIAS"
           ],
           "plazas": [
            "N°147588"
@@ -2141,7 +2013,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "DIAZ MARCELO"
+           "DIAZ, PASCUAL MARCELO"
           ],
           "plazas": [
            "N°196679"
@@ -2152,6 +2024,7 @@
          {
           "materia": "FISICA",
           "docentes": [
+           "VACANTE",
            "GONZALEZ CARLOS ROBERTO"
           ],
           "plazas": [
@@ -2163,7 +2036,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "CARAQUE YESICA"
+           "CARAQUE, JESSICA MARIANELA"
           ],
           "plazas": [
            "N°352421"
@@ -2174,75 +2047,37 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "GONZALEZ CARLOS ROBERTO"
+           "GONZALEZ, CARLOS ROBERTO"
           ],
           "plazas": [
-           "N°271013"
+           "N°223214"
           ]
          }
         ]
        }
       },
       {
-       "hora": "10:30-11:10",
+       "hora": "10:30 A 11:50",
        "celdas": {
         "LUNES": [
          {
           "materia": "BIOLOGIA",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "IÑIGO, HORACIO MATIAS"
+          ],
+          "plazas": [
+           "N°147588"
+          ]
          }
         ],
         "MARTES": [
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "CABRAL DAVID"
-          ],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "FISICA",
-          "docentes": [
-           "GONZALEZ CARLOS"
-          ],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "LENGUA",
-          "docentes": [
-           "BUSTAMANTE NANCY"
-          ],
-          "plazas": []
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "DIAZ MARCELO"
-          ],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "11:10-11:50",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "LENGUA EXTRANJERA",
-          "docentes": [
+           "CENTENO, ROMINA DANIELA",
            "CABRAL DAVID"
           ],
           "plazas": [
-           "N°270974",
            "N°270974"
           ]
          }
@@ -2251,7 +2086,8 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "GONZALEZ CARLOS R"
+           "VACANTE",
+           "GONZALEZ CARLOS"
           ],
           "plazas": [
            "N°271013",
@@ -2263,10 +2099,9 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "BUSTAMANTE NANCY"
+           "BUSTAMANTE, NANCY FELISA"
           ],
           "plazas": [
-           "N°196675",
            "N°196675"
           ]
          }
@@ -2275,10 +2110,9 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "DIAZ MARCELO"
+           "DIAZ, PASCUAL MARCELO"
           ],
           "plazas": [
-           "N°196679",
            "N°196679"
           ]
          }
@@ -2293,15 +2127,19 @@
         "MIERCOLES": [
          {
           "materia": "MATEMATICA",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "CARAQUE, JESSICA MARIANELA"
+          ],
+          "plazas": [
+           "N°352421"
+          ]
          }
         ],
         "JUEVES": [
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "CARAQUE JESSICA"
+           "CARAQUE, JESSICA MARIANELA"
           ],
           "plazas": [
            "N°352421"
@@ -2321,9 +2159,10 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "GONZALEZ CARLOS ROBERTO"
+           "GONZALEZ, CARLOS ROBERTO"
           ],
           "plazas": [
+           "N°223214",
            "N°241012"
           ]
          }
@@ -2345,79 +2184,33 @@
      ],
      "filas": [
       {
-       "hora": "12:50-14:10",
+       "hora": "12:50 A 17:00",
        "celdas": {
         "LUNES": [],
         "MARTES": [
          {
-          "materia": "TALLER TECNOLOGICO CLIMATOLOGIA Y FENOLOGIA AGRICOLA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE NUTRICION ANIMAL Y FORRAJE",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE TALLER RURAL II",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "TALLER TECNOLOGICO CLIMATOLOGIA Y FENOLOGIA AGRICOLA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE NUTRICION ANIMAL Y FORRAJE",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE TALLER RURAL II",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "14:20-15:40",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "15:40-17:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "FERNANDO MAGARIÑEO",
-          "docentes": [],
+          "materia": "CLIMATOLOGIA Y FENOLOGIA AGRICOLA",
+          "docentes": [
+           "FERNANDO MAGARIÑEO"
+          ],
           "plazas": [
            "N°240869"
           ]
          },
          {
-          "materia": "DIAZ VOLPEZ SOLCIRE",
-          "docentes": [],
+          "materia": "DE NUTRICION ANIMAL Y FORRAJE",
+          "docentes": [
+           "DIAZ VOLPEZ, SOLCIRE"
+          ],
           "plazas": [
            "N°236283"
           ]
          },
          {
-          "materia": "ARROYO MATIAS",
-          "docentes": [],
+          "materia": "DE TALLER RURAL II",
+          "docentes": [
+           "DIAZ, JOHANA NOELIA"
+          ],
           "plazas": [
            "N°236282"
           ]
@@ -2427,22 +2220,28 @@
         "JUEVES": [],
         "VIERNES": [
          {
-          "materia": "FERNANDO MAGARIÑEO",
-          "docentes": [],
+          "materia": "CLIMATOLOGIA Y FENOLOGIA AGRICOLA",
+          "docentes": [
+           "FERNANDO MAGARIÑEO"
+          ],
           "plazas": [
            "N°240869"
           ]
          },
          {
-          "materia": "DIAZ VOLPEZ SOLCIRE",
-          "docentes": [],
+          "materia": "DE NUTRICION ANIMAL Y FORRAJE",
+          "docentes": [
+           "DIAZ VOLPEZ, SOLCIRE"
+          ],
           "plazas": [
            "N°236283"
           ]
          },
          {
-          "materia": "ARROYO MATIAS",
-          "docentes": [],
+          "materia": "DE TALLER RURAL II",
+          "docentes": [
+           "DIAZ, JOHANA NOELIA"
+          ],
           "plazas": [
            "N°236282"
           ]
@@ -2472,7 +2271,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "ELIAS ARTURO MANUEL"
+           "HOMET, FRANCO NERI"
           ],
           "plazas": [
            "N°271408"
@@ -2492,9 +2291,10 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "ELIAS ARTURO MANUEL"
+           "HOMET, FRANCO NERI"
           ],
           "plazas": [
+           "N°271408",
            "N°272408"
           ]
          }
@@ -2533,7 +2333,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "SORIA CINTHYA MARIA"
+           "SORIA, CINTHYA MARIA"
           ],
           "plazas": [
            "N°314620"
@@ -2544,7 +2344,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "SORIA CINTHYA MARIA"
+           "SORIA, CINTHYA MARIA"
           ],
           "plazas": [
            "N°314620"
@@ -2553,9 +2353,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "EDUC ETICA Y CIUDADANA",
+          "materia": "EDUCACION ETICA Y CIUDADANA",
           "docentes": [
-           "GONZALEZ LILIANA"
+           "GONZALEZ, LILIANA MABEL"
           ],
           "plazas": [
            "N°219861"
@@ -2566,7 +2366,7 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "NUÑEZ MIGUEL"
+           "NUÑEZ, MIGUEL FRANCISCO"
           ],
           "plazas": [
            "N°277419"
@@ -2577,7 +2377,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "CARAQUE YESICA"
+           "CARAQUE, JESSICA MARIANELA"
           ],
           "plazas": [
            "N°185715"
@@ -2593,10 +2393,10 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "MONASTERIO NAZARENA"
+           "MONASTERIO, DOLORES NAZARENA"
           ],
           "plazas": [
-           "N°15263"
+           "N°270977"
           ]
          }
         ],
@@ -2604,7 +2404,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "CHOCOBAR PEDRO ROQUE"
+           "CHOCOBAR, PEDRO ROQUE"
           ],
           "plazas": [
            "N°219862"
@@ -2615,7 +2415,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "MADRID GUSTAVO"
+           "MADRID, GUSTAVO ALFREDO"
           ],
           "plazas": [
            "N°219858"
@@ -2626,7 +2426,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "MADRID GUSTAVO"
+           "MADRID, GUSTAVO ALFREDO"
           ],
           "plazas": [
            "N°219858"
@@ -2637,7 +2437,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "CARAQUE JESSICA"
+           "CARAQUE, JESSICA MARIANELA"
           ],
           "plazas": [
            "N°185715"
@@ -2647,13 +2447,13 @@
        }
       },
       {
-       "hora": "9:40 a 10:20",
+       "hora": "9:40 A 10:20",
        "celdas": {
         "LUNES": [
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "MONASTERIO NAZARENA"
+           "MONASTERIO, DOLORES NAZARENA"
           ],
           "plazas": [
            "N°270977"
@@ -2664,7 +2464,7 @@
          {
           "materia": "BIOLOGIA",
           "docentes": [
-           "MATIAS IÑIGO"
+           "IÑIGO, HORACIO MATIAS"
           ],
           "plazas": [
            "N°296113"
@@ -2675,7 +2475,7 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "NUÑEZ MIGUEL"
+           "NUÑEZ, MIGUEL FRANCISCO"
           ],
           "plazas": [
            "N°277419"
@@ -2686,7 +2486,7 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "NUÑEZ MIGUEL"
+           "NUÑEZ, MIGUEL FRANCISCO"
           ],
           "plazas": [
            "N°277419"
@@ -2697,7 +2497,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "DIAZ NANCY DEOLINDA"
+           "DIAZ, NANCY DEOLINDA"
           ],
           "plazas": [
            "N°219856"
@@ -2713,7 +2513,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "MONATERIO NAZARENA"
+           "MONASTERIO, DOLORES NAZARENA"
           ],
           "plazas": [
            "N°270977"
@@ -2724,7 +2524,7 @@
          {
           "materia": "BIOLOGIA",
           "docentes": [
-           "MATIAS IÑIGO"
+           "IÑIGO, HORACIO MATIAS"
           ],
           "plazas": [
            "N°296113"
@@ -2735,7 +2535,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "CHOCOBAR PEDRO"
+           "CHOCOBAR, PEDRO ROQUE"
           ],
           "plazas": [
            "N°219862"
@@ -2746,7 +2546,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "MADRID GUSTAVO"
+           "MADRID, GUSTAVO ALFREDO"
           ],
           "plazas": [
            "N°219858"
@@ -2757,7 +2557,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "DIAZ NANCY DEOLINDA"
+           "DIAZ, NANCY DEOLINDA"
           ],
           "plazas": [
            "N°219856"
@@ -2773,6 +2573,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
+           "MADRID, GUSTAVO ALFREDO",
            "ROGER SILVIA"
           ],
           "plazas": [
@@ -2784,7 +2585,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "MADRID GUSTAVO 2"
+           "MADRID, GUSTAVO ALFREDO"
           ],
           "plazas": [
            "N°219858"
@@ -2795,7 +2596,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "CHOCOBAR PEDRO"
+           "CHOCOBAR, PEDRO ROQUE"
           ],
           "plazas": [
            "N°219862"
@@ -2806,7 +2607,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "MADRID GUSTAVO"
+           "MADRID, GUSTAVO ALFREDO"
           ],
           "plazas": [
            "N°219858"
@@ -2817,7 +2618,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "DIAZ NANCY DEOLINDA"
+           "DIAZ, NANCY DEOLINDA"
           ],
           "plazas": [
            "N°219856"
@@ -2833,6 +2634,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
+           "MADRID, GUSTAVO ALFREDO",
            "ROGER SILVIA"
           ],
           "plazas": [
@@ -2846,7 +2648,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "CARAQUE JESSICA"
+           "CARAQUE, JESSICA MARIANELA"
           ],
           "plazas": [
            "N°185715"
@@ -2857,6 +2659,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
+           "MADRID, GUSTAVO ALFREDO",
            "ROGER SILVIA"
           ],
           "plazas": [
@@ -2880,23 +2683,33 @@
      ],
      "filas": [
       {
-       "hora": "12:50-14:10",
+       "hora": "12:50 A 17:00",
        "celdas": {
         "LUNES": [],
         "MARTES": [
          {
-          "materia": "TALLER TECNOLOGICO CLIMATOLOGIA Y FENOLOGIA AGRICOLA",
-          "docentes": [],
-          "plazas": []
+          "materia": "CLIMATOLOGIA Y FENOLOGIA AGRICOLA",
+          "docentes": [
+           "FERNANDO MAGARIÑEO"
+          ],
+          "plazas": [
+           "N°240869"
+          ]
          },
          {
-          "materia": "TALLER TECNOLOGICO DE NUTRICION ANIMAL Y FORRAJE",
-          "docentes": [],
-          "plazas": []
+          "materia": "DE NUTRICION ANIMAL Y FORRAJE",
+          "docentes": [
+           "DIAZ VOLPEZ, SOLCIRE"
+          ],
+          "plazas": [
+           "N°236283"
+          ]
          },
          {
-          "materia": "TALLER TECNOLOGICO DE TALLER RURAL II",
-          "docentes": [],
+          "materia": "DE TALLER RURAL II",
+          "docentes": [
+           "ARROYO MATIAS"
+          ],
           "plazas": []
          }
         ],
@@ -2904,80 +2717,28 @@
         "JUEVES": [],
         "VIERNES": [
          {
-          "materia": "TALLER TECNOLOGICO CLIMATOLOGIA Y FENOLOGIA AGRICOLA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE NUTRICION ANIMAL Y FORRAJE",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE TALLER RURAL II",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "14:20-15:40",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "15:40- 17:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "FERNANDO MAGARIÑEO",
-          "docentes": [],
+          "materia": "CLIMATOLOGIA Y FENOLOGIA AGRICOLA",
+          "docentes": [
+           "FERNANDO MAGARIÑEO"
+          ],
           "plazas": [
            "N°240869"
           ]
          },
          {
-          "materia": "DIAZ VOLPEZ SOLCIRE",
-          "docentes": [],
+          "materia": "DE NUTRICION ANIMAL Y FORRAJE",
+          "docentes": [
+           "DIAZ VOLPEZ, SOLCIRE"
+          ],
           "plazas": [
            "N°236283"
           ]
          },
          {
-          "materia": "ARROYO MATIAS",
-          "docentes": [],
-          "plazas": [
-           "N°15263"
-          ]
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "FERNANDO MAGARIÑEO",
-          "docentes": [],
-          "plazas": [
-           "N°240869"
-          ]
-         },
-         {
-          "materia": "DIAZ VOLPEZ SOLCIRE",
-          "docentes": [],
-          "plazas": [
-           "N°236283"
-          ]
-         },
-         {
-          "materia": "ARROYO MATIAS",
-          "docentes": [],
+          "materia": "DE TALLER RURAL II",
+          "docentes": [
+           "DIAZ, JOHANA NOELIA"
+          ],
           "plazas": [
            "N°236282"
           ]
@@ -3008,7 +2769,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "ELIAS ARTURO MANUEL"
+           "HOMET, FRANCO NERI"
           ],
           "plazas": [
            "N°271409"
@@ -3028,7 +2789,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "ELIAS ARTURO MANUEL"
+           "HOMET, FRANCO NERI"
           ],
           "plazas": [
            "N°271409"
@@ -3068,7 +2829,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "CHOCOBAR PEDRO"
+           "CHOCOBAR, PEDRO ROQUE"
           ],
           "plazas": [
            "N°182292"
@@ -3079,7 +2840,7 @@
          {
           "materia": "EDAFOLOGIA Y USOS DEL SUELO",
           "docentes": [
-           "MERCADO CARLOS E"
+           "MARINO MENENDEZ, CARLOS ROBERTO"
           ],
           "plazas": [
            "N°239430"
@@ -3090,7 +2851,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "DIAZ NANCY DEOLINDA"
+           "DIAZ, NANCY DEOLINDA"
           ],
           "plazas": [
            "N°288500"
@@ -3101,7 +2862,7 @@
          {
           "materia": "BIOLOGIA",
           "docentes": [
-           "MERCADO CARLOS"
+           "MARINO MENENDEZ, CARLOS ROBERTO"
           ],
           "plazas": [
            "N°239438"
@@ -3112,7 +2873,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "ROGER SILVIA"
+           "ROGER, SILVIA LILIANA"
           ],
           "plazas": [
            "N°263052"
@@ -3128,7 +2889,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "CHOCOBAR PEDRO"
+           "CHOCOBAR, PEDRO ROQUE"
           ],
           "plazas": [
            "N°182292"
@@ -3139,7 +2900,7 @@
          {
           "materia": "EDAFOLOGIA Y USOS DEL SUELO",
           "docentes": [
-           "MERCADO CARLOS E"
+           "MARINO MENENDEZ, CARLOS ROBERTO"
           ],
           "plazas": [
            "N°239430"
@@ -3150,7 +2911,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "DIAZ NANCY DEOLINDA"
+           "DIAZ, NANCY DEOLINDA"
           ],
           "plazas": [
            "N°288500"
@@ -3161,20 +2922,24 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
+           "VACANTE",
            "GONZALEZ ROBERTO CARLOS"
           ],
           "plazas": [
-           "N°15263"
+           "N°271014"
           ]
          }
         ],
         "VIERNES": [
          {
-          "materia": "FISICA",
+          "materia": "EDUCACION FISICA",
           "docentes": [
+           "HOMET, FRANCO NERI",
            "GONZALEZ CARLOS ROBERTO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°271418"
+          ]
          }
         ]
        }
@@ -3186,7 +2951,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "SORIA CINTHYA MARIA"
+           "SORIA, CINTHYA MARIA"
           ],
           "plazas": [
            "N°314621"
@@ -3197,7 +2962,7 @@
          {
           "materia": "BIOLOGIA",
           "docentes": [
-           "MERCADO CARLOS ENRIQUE"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°239429"
@@ -3208,7 +2973,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "ROGER SILVIA"
+           "ROGER, SILVIA LILIANA"
           ],
           "plazas": [
            "N°263052"
@@ -3219,10 +2984,11 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
+           "VACANTE",
            "GONZALEZ ROBERTO CARLOS"
           ],
           "plazas": [
-           "N°15263"
+           "N°271014"
           ]
          }
         ],
@@ -3236,7 +3002,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "SORIA CINTYA MARIA"
+           "SORIA, CINTHYA MARIA"
           ],
           "plazas": [
            "N°314621"
@@ -3256,9 +3022,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "FISIOLOGIA ANIMAL Y VEGETAL",
+          "materia": "FISIOLOGIA VEGETAL",
           "docentes": [
-           "MERCADO CARLOS ENRIQUE"
+           "AVALOS, ELIANA BEATRIZ"
           ],
           "plazas": [
            "N°239428"
@@ -3269,7 +3035,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "ROGER SILVIA"
+           "ROGER, SILVIA LILIANA"
           ],
           "plazas": [
            "N°263052"
@@ -3280,10 +3046,11 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
+           "VACANTE",
            "GONZALEZ CARLOS ROBERTO"
           ],
           "plazas": [
-           "N°15263"
+           "N°271014"
           ]
          }
         ]
@@ -3296,7 +3063,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "SORIA CINTHYA MARIA"
+           "SORIA, CINTHYA MARIA"
           ],
           "plazas": [
            "N°314621"
@@ -3307,7 +3074,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "ELIAS ARTURO MANUEL"
+           "HOMET, FRANCO NERI"
           ],
           "plazas": [
            "N°271418"
@@ -3316,9 +3083,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "FISIOLOGIA ANIMAL Y VEGETAL",
+          "materia": "FISIOLOGIA VEGETAL",
           "docentes": [
-           "MERCADO CARLOS ENRIQUE"
+           "AVALOS, ELIANA BEATRIZ"
           ],
           "plazas": [
            "N°239428"
@@ -3329,7 +3096,7 @@
          {
           "materia": "ANATOMIA Y FISIOLOGIA VEGETAL",
           "docentes": [
-           "MERCADO CARLOS ENRIQUE"
+           "MARINO MENENDEZ, CARLOS ROBERTO"
           ],
           "plazas": [
            "N°239431"
@@ -3340,10 +3107,11 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
+           "VACANTE",
            "GONZALEZ CARLOS ROBERTO"
           ],
           "plazas": [
-           "N°15263"
+           "N°271014"
           ]
          }
         ]
@@ -3357,7 +3125,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "ELIAS ARTURO MANUEL"
+           "HOMET, FRANCO NERI"
           ],
           "plazas": [
            "N°271418"
@@ -3366,9 +3134,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "FISIOLOGIA ANIMAL Y VEGETAL",
+          "materia": "FISIOLOGIA VEGETAL",
           "docentes": [
-           "MERCADO CARLOS ENRIQUE"
+           "AVALOS, ELIANA BEATRIZ"
           ],
           "plazas": [
            "N°239428"
@@ -3379,7 +3147,7 @@
          {
           "materia": "ANATOMIA Y FISIOLOGIA VEGETAL",
           "docentes": [
-           "MERCADO CARLOS"
+           "MARINO MENENDEZ, CARLOS ROBERTO"
           ],
           "plazas": [
            "N°239431"
@@ -3398,11 +3166,14 @@
         "JUEVES": [],
         "VIERNES": [
          {
-          "materia": "FISICA",
+          "materia": "EDUCACION FISICA",
           "docentes": [
+           "HOMET, FRANCO NERI",
            "GONZALEZ CARLOS R"
           ],
-          "plazas": []
+          "plazas": [
+           "N°271418"
+          ]
          }
         ]
        }
@@ -3416,11 +3187,14 @@
         "JUEVES": [],
         "VIERNES": [
          {
-          "materia": "FISICA",
+          "materia": "EDUCACION FISICA",
           "docentes": [
+           "HOMET, FRANCO NERI",
            "GONZALEZ CARLOS R"
           ],
-          "plazas": []
+          "plazas": [
+           "N°271418"
+          ]
          }
         ]
        }
@@ -3439,80 +3213,34 @@
      ],
      "filas": [
       {
-       "hora": "12:50-14:10",
+       "hora": "12:50 A 17:00",
        "celdas": {
         "LUNES": [],
         "MARTES": [],
         "MIERCOLES": [
          {
-          "materia": "TALLER TECNOLOGICO AGRICULTURA GENERAL",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO SANIDAD Y REPRODUCCION ANIMAL",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE ZOOLOGIA AGRICOLA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "TALLER TECNOLOGICO AGRICULTURA GENERAL",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO SANIDAD Y REPRODUCCION ANIMAL",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE ZOOLOGIA AGRICOLA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "14:20-15:40",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "15:40-17:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "MAGARIÑEO FERNANDO",
-          "docentes": [],
+          "materia": "AGRICULTURA GENERAL",
+          "docentes": [
+           "SACHETTI, YVAN EDUARDO"
+          ],
           "plazas": [
            "N°240869"
           ]
          },
          {
-          "materia": "DIAZ VOLPEZ SOLCIRE",
-          "docentes": [],
+          "materia": "SANIDAD Y REPRODUCCION ANIMAL",
+          "docentes": [
+           "DIAZ VOLPEZ, SOLCIRE"
+          ],
           "plazas": [
            "N°236283"
           ]
          },
          {
-          "materia": "ARROYO MATIAS",
-          "docentes": [],
+          "materia": "DE ZOOLOGIA AGRICOLA",
+          "docentes": [
+           "DIAZ, JOHANA NOELIA"
+          ],
           "plazas": [
            "N°236282"
           ]
@@ -3520,22 +3248,28 @@
         ],
         "JUEVES": [
          {
-          "materia": "MAGARIÑEO FERNANDO",
-          "docentes": [],
+          "materia": "AGRICULTURA GENERAL",
+          "docentes": [
+           "SACHETTI, YVAN EDUARDO"
+          ],
           "plazas": [
            "N°240869"
           ]
          },
          {
-          "materia": "DIAZ VOLPEZ SOLCIRE",
-          "docentes": [],
+          "materia": "SANIDAD Y REPRODUCCION ANIMAL",
+          "docentes": [
+           "DIAZ VOLPEZ, SOLCIRE"
+          ],
           "plazas": [
            "N°236283"
           ]
          },
          {
-          "materia": "ARROYO MATIAS",
-          "docentes": [],
+          "materia": "DE ZOOLOGIA AGRICOLA",
+          "docentes": [
+           "DIAZ, JOHANA NOELIA"
+          ],
           "plazas": [
            "N°236282"
           ]
@@ -3565,7 +3299,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "ELIAS ARTURO MANUEL"
+           "HOMET, FRANCO NERI"
           ],
           "plazas": [
            "N°271418"
@@ -3584,7 +3318,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "ELIAS ARTURO MANUEL"
+           "HOMET, FRANCO NERI"
           ],
           "plazas": [
            "N°271418"
@@ -3627,18 +3361,18 @@
          {
           "materia": "APICULTURA",
           "docentes": [
-           "AHMED ALEXANDER"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
-           "N°15263"
+           "N°165850"
           ]
          }
         ],
         "MARTES": [
          {
-          "materia": "SANIDAD Y TERAPEUTICA V",
+          "materia": "SANIDAD Y TERAPEUTICA VEGETAL",
           "docentes": [
-           "MERCADO CARLOS E"
+           "RAMOS, NOELIA SOLEDAD"
           ],
           "plazas": [
            "N°239432"
@@ -3649,7 +3383,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "MONASTERIO NAZARENA"
+           "MONASTERIO, DOLORES NAZARENA"
           ],
           "plazas": [
            "N°229338"
@@ -3660,7 +3394,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "MADRID GUSTAVO"
+           "MADRID, GUSTAVO ALFREDO"
           ],
           "plazas": [
            "N°229339"
@@ -3669,8 +3403,9 @@
         ],
         "VIERNES": [
          {
-          "materia": "HORTUCULTURA Y PRD DE FLORES",
+          "materia": "HORTICULTURA Y PRODUCCION DE FLORES",
           "docentes": [
+           "PRELIZ, GABRIEL EDUARDO",
            "MORALE PAOLA LORENA"
           ],
           "plazas": [
@@ -3687,18 +3422,18 @@
          {
           "materia": "APICULTURA",
           "docentes": [
-           "AHMED ALEXANDER"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
-           "N°15263"
+           "N°165850"
           ]
          }
         ],
         "MARTES": [
          {
-          "materia": "SANIDAD Y TERAPEUTICA V",
+          "materia": "SANIDAD Y TERAPEUTICA VEGETAL",
           "docentes": [
-           "MERCADO CARLOS E"
+           "RAMOS, NOELIA SOLEDAD"
           ],
           "plazas": [
            "N°239432"
@@ -3709,7 +3444,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "MONASTERIO NAZARENA"
+           "MONASTERIO, DOLORES NAZARENA"
           ],
           "plazas": [
            "N°229338"
@@ -3718,9 +3453,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "MATEMATICA APLICAD I",
+          "materia": "MATEMATICA APLICADA I",
           "docentes": [
-           "NIEVA MERCEDES SILVIA"
+           "NIEVA, MERCEDES SILVIA"
           ],
           "plazas": [
            "N°241735"
@@ -3729,8 +3464,9 @@
         ],
         "VIERNES": [
          {
-          "materia": "HORTICULTURA Y PROD DE FLORES",
+          "materia": "HORTICULTURA Y PRODUCCION DE FLORES",
           "docentes": [
+           "PRELIZ, GABRIEL EDUARDO",
            "MORALES PAOLA LORENA"
           ],
           "plazas": [
@@ -3747,7 +3483,7 @@
          {
           "materia": "GENETICA Y BIOTECNOLOGIA",
           "docentes": [
-           "MERCADO CARLOS E"
+           "LAZARTE, VERA DE JESUS"
           ],
           "plazas": [
            "N°239433"
@@ -3758,7 +3494,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "MADRID GUSTAVO"
+           "MADRID, GUSTAVO ALFREDO"
           ],
           "plazas": [
            "N°229339"
@@ -3769,7 +3505,7 @@
          {
           "materia": "MATEMATICA APLICADA I",
           "docentes": [
-           "NIEVA MERCEDES SILVIA"
+           "NIEVA, MERCEDES SILVIA"
           ],
           "plazas": [
            "N°241735"
@@ -3780,7 +3516,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "DIAZ NANCY DEOLINDA"
+           "DIAZ, NANCY DEOLINDA"
           ],
           "plazas": [
            "N°288501"
@@ -3791,7 +3527,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "ROGER SILVIA"
+           "ROGER, SILVIA LILIANA"
           ],
           "plazas": [
            "N°229340"
@@ -3807,7 +3543,7 @@
          {
           "materia": "GENETICA Y BIOTECNOLOGIA",
           "docentes": [
-           "MERCADO CARLOS E"
+           "LAZARTE, VERA DE JESUS"
           ],
           "plazas": [
            "N°239433"
@@ -3818,7 +3554,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "MADRID GUSTAVO"
+           "MADRID, GUSTAVO ALFREDO"
           ],
           "plazas": [
            "N°229339"
@@ -3829,7 +3565,7 @@
          {
           "materia": "MATEMATICA APLICADA I",
           "docentes": [
-           "NIEVA SILVIA MERCEDES"
+           "NIEVA, MERCEDES SILVIA"
           ],
           "plazas": [
            "N°241735"
@@ -3840,7 +3576,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "DIAZ NANCY DEOLINDA"
+           "DIAZ, NANCY DEOLINDA"
           ],
           "plazas": [
            "N°288501"
@@ -3851,7 +3587,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "ROGER SILVIA"
+           "ROGER, SILVIA LILIANA"
           ],
           "plazas": [
            "N°229340"
@@ -3867,7 +3603,7 @@
          {
           "materia": "GENETICA Y BIOTECNOLOGIA",
           "docentes": [
-           "MERCADO CARLOS E"
+           "LAZARTE, VERA DE JESUS"
           ],
           "plazas": [
            "N°239433"
@@ -3876,9 +3612,9 @@
         ],
         "MARTES": [
          {
-          "materia": "GENETICA Y BIOLOTECNOLOGIA",
+          "materia": "GENETICA Y BIOTECNOLOGIA",
           "docentes": [
-           "MERCADO CARLOS"
+           "LAZARTE, VERA DE JESUS"
           ],
           "plazas": [
            "N°239433"
@@ -3889,7 +3625,7 @@
          {
           "materia": "MATEMATICA APLICADA I",
           "docentes": [
-           "NIEVA SILVIA MERCEDES"
+           "NIEVA, MERCEDES SILVIA"
           ],
           "plazas": [
            "N°241735"
@@ -3900,7 +3636,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "DIAZ NANCY DEOLINDA"
+           "DIAZ, NANCY DEOLINDA"
           ],
           "plazas": [
            "N°288501"
@@ -3911,7 +3647,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "ROGER SILVIA"
+           "ROGER, SILVIA LILIANA"
           ],
           "plazas": [
            "N°229340"
@@ -3927,7 +3663,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "SORIA CINTHYA MARIA"
+           "SORIA, CINTHYA MARIA"
           ],
           "plazas": [
            "N°314622"
@@ -3947,7 +3683,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "SORIA CINTHYA MARIA"
+           "SORIA, CINTHYA MARIA"
           ],
           "plazas": [
            "N°314622"
@@ -3974,84 +3710,24 @@
      ],
      "filas": [
       {
-       "hora": "12:50-14:10",
+       "hora": "12:50 A 17:00",
        "celdas": {
         "LUNES": [],
         "MARTES": [
          {
-          "materia": "TALLER TECOLOGICO DE PROD ANIMAL I",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE HORTICULTURA Y PORF DE FLORES",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "TALLER TECNOLOGIA DE IND DE PROD VEGETALES",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE MAQUINARIAS AGRICOLA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "TALLER TECOLOGICO DE PROD ANIMAL I",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE HORTICULTURA Y PORF DE FLORES",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "TALLER TECNOLOGIA DE IND DE PROD VEGETALES",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE MAQUINARIAS AGRICOLA",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "14:20-15:40",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "15:40-17:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "TARIFA RODRIGO JUAN",
-          "docentes": [],
+          "materia": "TECNOLOGICO DE PROD ANIMAL I",
+          "docentes": [
+           "TARIFA RODRIGO JUAN"
+          ],
           "plazas": [
            "N°242188"
           ]
          },
          {
-          "materia": "TARIFA RODRIGO JUAN",
-          "docentes": [],
+          "materia": "DE HORTICULTURA Y PORF DE FLORES",
+          "docentes": [
+           "TARIFA RODRIGO JUAN"
+          ],
           "plazas": [
            "N°242188"
           ]
@@ -4059,15 +3735,19 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "TARIFA RODRIGO JUAN",
-          "docentes": [],
+          "materia": "TECNOLOGIA DE IND DE PROD VEGETALES",
+          "docentes": [
+           "TARIFA RODRIGO JUAN"
+          ],
           "plazas": [
            "N°242188"
           ]
          },
          {
-          "materia": "TARIFA RODRIGO JUAN",
-          "docentes": [],
+          "materia": "MAQUINARIAS AGRICOLAS",
+          "docentes": [
+           "TARIFA, RODRIGO JUAN EDUARDO"
+          ],
           "plazas": [
            "N°242188"
           ]
@@ -4075,15 +3755,19 @@
         ],
         "JUEVES": [
          {
-          "materia": "TARIFA RODRIGO JUAN",
-          "docentes": [],
+          "materia": "TECNOLOGICO DE PROD ANIMAL I",
+          "docentes": [
+           "TARIFA RODRIGO JUAN"
+          ],
           "plazas": [
            "N°242188"
           ]
          },
          {
-          "materia": "TARIFA RODRIGO JUAN",
-          "docentes": [],
+          "materia": "DE HORTICULTURA Y PORF DE FLORES",
+          "docentes": [
+           "TARIFA RODRIGO JUAN"
+          ],
           "plazas": [
            "N°242188"
           ]
@@ -4091,15 +3775,19 @@
         ],
         "VIERNES": [
          {
-          "materia": "TARIFA RODRIGO JUAN",
-          "docentes": [],
+          "materia": "TECNOLOGIA DE IND DE PROD VEGETALES",
+          "docentes": [
+           "TARIFA RODRIGO JUAN"
+          ],
           "plazas": [
            "N°242188"
           ]
          },
          {
-          "materia": "TARIFA RODRIGO JUAN",
-          "docentes": [],
+          "materia": "MAQUINARIAS AGRICOLAS",
+          "docentes": [
+           "TARIFA, RODRIGO JUAN EDUARDO"
+          ],
           "plazas": [
            "N°242188"
           ]
@@ -4127,7 +3815,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "ELIAS ARTURO MANUEL"
+           "ASAD SAIG, ABEL AMADO"
           ],
           "plazas": [
            "N°271419"
@@ -4147,7 +3835,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "ELIAS ARTURO MANUEL"
+           "ASAD SAIG, ABEL AMADO"
           ],
           "plazas": [
            "N°271419"
@@ -4190,7 +3878,7 @@
          {
           "materia": "FRUTICULTURA",
           "docentes": [
-           "MERCADO CARLOS ENRIQUE"
+           "PASTRANA, LAURA VERONICA"
           ],
           "plazas": [
            "N°239435"
@@ -4201,7 +3889,7 @@
          {
           "materia": "CULTIVOS INDUSTRIALES",
           "docentes": [
-           "VELARDEZ RAQUEL"
+           "VELARDEZ, MARIA RAQUEL"
           ],
           "plazas": [
            "N°239437"
@@ -4212,7 +3900,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "SORIA CINTHYA MARIA"
+           "SORIA, CINTHYA MARIA"
           ],
           "plazas": [
            "N°314623"
@@ -4223,7 +3911,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "DIAZ NANCY DEOLINDA"
+           "DIAZ, NANCY DEOLINDA"
           ],
           "plazas": [
            "N°288502"
@@ -4232,9 +3920,9 @@
         ],
         "VIERNES": [
          {
-          "materia": "PROD PECUARIA I",
+          "materia": "PRODUCCION PECUARIA I",
           "docentes": [
-           "ARROYO GASTON"
+           "ARROYO, RODRIGO GASTON"
           ],
           "plazas": [
            "N°239434"
@@ -4250,7 +3938,7 @@
          {
           "materia": "RELACIONES HUMANAS",
           "docentes": [
-           "GOMEZ GASEP GERARDO"
+           "PAGNONI, STEFANIA"
           ],
           "plazas": [
            "N°313490"
@@ -4261,7 +3949,7 @@
          {
           "materia": "CULTIVOS INDUSTRIALES",
           "docentes": [
-           "VELARDES RAQUEL"
+           "VELARDEZ, MARIA RAQUEL"
           ],
           "plazas": [
            "N°239437"
@@ -4272,7 +3960,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "SORIA CINTHYA MARIA"
+           "SORIA, CINTHYA MARIA"
           ],
           "plazas": [
            "N°314623"
@@ -4283,7 +3971,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "DIAZ NANCY DEOLINDA"
+           "DIAZ, NANCY DEOLINDA"
           ],
           "plazas": [
            "N°288502"
@@ -4294,7 +3982,7 @@
          {
           "materia": "MATEMATICA APLICADA II",
           "docentes": [
-           "CARAQUE JESSICA"
+           "CARAQUE, JESSICA MARIANELA"
           ],
           "plazas": [
            "N°231425"
@@ -4310,7 +3998,7 @@
          {
           "materia": "RELACIONES HUMANAS",
           "docentes": [
-           "GOMEZ GASEP GERARDO"
+           "PAGNONI, STEFANIA"
           ],
           "plazas": [
            "N°313490"
@@ -4321,7 +4009,7 @@
          {
           "materia": "SILVICULTURA",
           "docentes": [
-           "MAGARIÑEO FERNANDO"
+           "PRELIZ, GABRIEL EDUARDO"
           ],
           "plazas": [
            "N°239439"
@@ -4330,9 +4018,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "ECONOMIA Y DESARROLLO SOCIAL",
+          "materia": "ECONOMIA Y DESARROLLO RURAL",
           "docentes": [
-           "GONZALEZ LILIANA"
+           "GONZALEZ, LILIANA MABEL"
           ],
           "plazas": [
            "N°185911"
@@ -4343,7 +4031,7 @@
          {
           "materia": "FRUTICULTURA",
           "docentes": [
-           "MERCADO CARLOS ENRIQUE"
+           "PASTRANA, LAURA VERONICA"
           ],
           "plazas": [
            "N°239435"
@@ -4352,9 +4040,9 @@
         ],
         "VIERNES": [
          {
-          "materia": "PROD PECUARIA I",
+          "materia": "PRODUCCION PECUARIA I",
           "docentes": [
-           "ARROYO GASTON"
+           "ARROYO, RODRIGO GASTON"
           ],
           "plazas": [
            "N°239434"
@@ -4370,7 +4058,7 @@
          {
           "materia": "MATEMATICA APLICADA II",
           "docentes": [
-           "CARAQUE JESSICA"
+           "CARAQUE, JESSICA MARIANELA"
           ],
           "plazas": [
            "N°231425"
@@ -4379,8 +4067,9 @@
         ],
         "MARTES": [
          {
-          "materia": "AGROINDUSTRIA DE TUC",
+          "materia": "AGROINDUSTRIAS DE TUCUMAN",
           "docentes": [
+           "PRELIZ, GABRIEL EDUARDO",
            "MORALES PAOLA"
           ],
           "plazas": [
@@ -4390,9 +4079,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "ECONOMIA Y DESARROLLO SOCIAL",
+          "materia": "ECONOMIA Y DESARROLLO RURAL",
           "docentes": [
-           "GONZALEZ LILIANA"
+           "GONZALEZ, LILIANA MABEL"
           ],
           "plazas": [
            "N°185911"
@@ -4403,7 +4092,7 @@
          {
           "materia": "FRUTICULTURA",
           "docentes": [
-           "MERCADO CARLOS E"
+           "PASTRANA, LAURA VERONICA"
           ],
           "plazas": [
            "N°239435"
@@ -4412,9 +4101,9 @@
         ],
         "VIERNES": [
          {
-          "materia": "PROD PECUARIA I",
+          "materia": "PRODUCCION PECUARIA I",
           "docentes": [
-           "ARROYO GASTON"
+           "ARROYO, RODRIGO GASTON"
           ],
           "plazas": [
            "N°239434"
@@ -4430,7 +4119,7 @@
          {
           "materia": "MATEMATICA APLICADA II",
           "docentes": [
-           "CARAQUE JESSICA"
+           "CARAQUE, JESSICA MARIANELA"
           ],
           "plazas": [
            "N°231425"
@@ -4439,8 +4128,9 @@
         ],
         "MARTES": [
          {
-          "materia": "AGROINSDUSTRIA DE TUC",
+          "materia": "AGROINDUSTRIAS DE TUCUMAN",
           "docentes": [
+           "PRELIZ, GABRIEL EDUARDO",
            "MORALES PAOLA"
           ],
           "plazas": [
@@ -4450,9 +4140,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "ECONOMIA Y DESARROLLO SOCIAL",
+          "materia": "ECONOMIA Y DESARROLLO RURAL",
           "docentes": [
-           "GONZALEZ LILIANA"
+           "GONZALEZ, LILIANA MABEL"
           ],
           "plazas": [
            "N°185911"
@@ -4462,9 +4152,9 @@
         "JUEVES": [],
         "VIERNES": [
          {
-          "materia": "PROD PECUARIA I",
+          "materia": "PRODUCCION PECUARIA I",
           "docentes": [
-           "ARROYO GASTON"
+           "ARROYO, RODRIGO GASTON"
           ],
           "plazas": [
            "N°239434"
@@ -4480,7 +4170,7 @@
          {
           "materia": "MATEMATICA APLICADA II",
           "docentes": [
-           "CARAQUE JESSICA"
+           "CARAQUE, JESSICA MARIANELA"
           ],
           "plazas": [
            "N°231425"
@@ -4489,8 +4179,9 @@
         ],
         "MARTES": [
          {
-          "materia": "AGROINDUSTRIA DE TUC",
+          "materia": "AGROINDUSTRIAS DE TUCUMAN",
           "docentes": [
+           "PRELIZ, GABRIEL EDUARDO",
            "MORALES PAOLA"
           ],
           "plazas": [
@@ -4504,9 +4195,11 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "SORIA CINTHYA MARIA"
+           "SORIA, CINTHYA MARIA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°314623"
+          ]
          }
         ]
        }
@@ -4518,7 +4211,7 @@
          {
           "materia": "SILVICULTURA",
           "docentes": [
-           "MAGARIÑEO FERNANDO"
+           "PRELIZ, GABRIEL EDUARDO"
           ],
           "plazas": [
            "N°239439"
@@ -4545,79 +4238,33 @@
      ],
      "filas": [
       {
-       "hora": "12:50-14:10",
+       "hora": "12:50 A 17:00",
        "celdas": {
         "LUNES": [],
         "MARTES": [
          {
-          "materia": "TALLER TECNOLOGICO DE PROD ANIMAL II",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE IND DE LA CARNE Y DE LA LECHE",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE ARBORICULTURA Y FRUTICULTUA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "TALLER TECNOLOGICO DE PRODUCCION ANIMAL II",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE INDUSTRIA DE LA CARNE Y LECHE",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE ARBORICULTURA Y FRUTICULTURA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "14:20-15:40",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "15:40-17:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "ZURITA ELSA MARIA",
-          "docentes": [],
+          "materia": "DE PROD ANIMAL II",
+          "docentes": [
+           "ZURITA, ELSA MARIA"
+          ],
           "plazas": [
            "N°236284"
           ]
          },
          {
-          "materia": "ROGER SILVIA",
-          "docentes": [],
+          "materia": "DE IND DE LA CARNE Y DE LA LECHE",
+          "docentes": [
+           "ROGER, SILVIA LILIANA"
+          ],
           "plazas": [
            "N°236913"
           ]
          },
          {
-          "materia": "MARTINEZ EDUARDO",
-          "docentes": [],
+          "materia": "DE ARBORICULTURA Y FRUTICULTURA",
+          "docentes": [
+           "MARINO MENENDEZ, CARLOS ROBERTO"
+          ],
           "plazas": [
            "N°240870"
           ]
@@ -4626,22 +4273,28 @@
         "MIERCOLES": [],
         "JUEVES": [
          {
-          "materia": "ZURITA ELSA MARIA",
-          "docentes": [],
+          "materia": "DE PRODUCCION ANIMAL II",
+          "docentes": [
+           "ZURITA, ELSA MARIA"
+          ],
           "plazas": [
            "N°236284"
           ]
          },
          {
-          "materia": "ROGER SILVIA",
-          "docentes": [],
+          "materia": "DE INDUSTRIA DE LA CARNE Y LECHE",
+          "docentes": [
+           "ROGER, SILVIA LILIANA"
+          ],
           "plazas": [
            "N°236913"
           ]
          },
          {
-          "materia": "MARTINEZ EDUARDO",
-          "docentes": [],
+          "materia": "DE ARBORICULTURA Y FRUTICULTURA",
+          "docentes": [
+           "MARINO MENENDEZ, CARLOS ROBERTO"
+          ],
           "plazas": [
            "N°240870"
           ]
@@ -4673,9 +4326,10 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "ELIAS ARTURO MANUEL"
+           "HOMET, FRANCO NERI"
           ],
           "plazas": [
+           "N°271420",
            "N°271020"
           ]
          }
@@ -4713,7 +4367,7 @@
          {
           "materia": "LEGISLACION AGRARIA",
           "docentes": [
-           "PAGNONI ESTEFANIA"
+           "PAGNONI, STEFANIA"
           ],
           "plazas": [
            "N°372016"
@@ -4722,9 +4376,9 @@
         ],
         "MARTES": [
          {
-          "materia": "ORG Y GESTION DE LA EMP AGRO",
+          "materia": "ORGANIZACION Y GESTION DE LA EMPRESA AGROPECUARIA",
           "docentes": [
-           "SOARIA CARLOS"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°239436"
@@ -4735,7 +4389,7 @@
          {
           "materia": "FORMULACION DE PROYECTO",
           "docentes": [
-           "MORALES PAOLA LORENA"
+           "SACHETTI, YVAN EDUARDO"
           ],
           "plazas": [
            "N°297090"
@@ -4746,7 +4400,7 @@
          {
           "materia": "PROYECTO TECNOLOGICO",
           "docentes": [
-           "MORALES PAOLA LORENA"
+           "MORALES, PAOLA LORENA"
           ],
           "plazas": [
            "N°297089"
@@ -4757,7 +4411,7 @@
          {
           "materia": "MATEMATICA APLICADA A LA EMPRESA AGROPECUARIA",
           "docentes": [
-           "VERAGROY NANCY"
+           "VERA GROY, NANCY ADRIANA"
           ],
           "plazas": [
            "N°198552"
@@ -4782,9 +4436,9 @@
         ],
         "MARTES": [
          {
-          "materia": "ORG Y GESTION DE LA EMP AGR",
+          "materia": "ORGANIZACION Y GESTION DE LA EMPRESA AGROPECUARIA",
           "docentes": [
-           "SORIA CARLOS"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°239436"
@@ -4806,7 +4460,7 @@
          {
           "materia": "PROYECTO TECNOLOGICO",
           "docentes": [
-           "MORALES PAOLA LORENA"
+           "MORALES, PAOLA LORENA"
           ],
           "plazas": [
            "N°297089"
@@ -4817,7 +4471,7 @@
          {
           "materia": "MATEMATICA APLICADA A LA EMPRESA AGROPECUARIA",
           "docentes": [
-           "VERAGROY NANCY"
+           "VERA GROY, NANCY ADRIANA"
           ],
           "plazas": [
            "N°198552"
@@ -4831,9 +4485,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "ORG Y GESTION DE LA EMP AGR",
+          "materia": "ORGANIZACION Y GESTION DE LA EMPRESA AGROPECUARIA",
           "docentes": [
-           "SORIA CARLOS"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°239436"
@@ -4842,12 +4496,12 @@
         ],
         "MARTES": [
          {
-          "materia": "PROD AGR DE INTERES LOCAL",
+          "materia": "PRODUCCION AGROPECUARIA DE INTERES LOCAL",
           "docentes": [
-           "ROGER SILVIA"
+           "ROGER, SILVIA LILIANA"
           ],
           "plazas": [
-           "N°15263"
+           "N°296108"
           ]
          }
         ],
@@ -4866,7 +4520,7 @@
          {
           "materia": "PROYECTO TECNOLOGICO",
           "docentes": [
-           "MORALES PAOLA"
+           "MORALES, PAOLA LORENA"
           ],
           "plazas": [
            "N°297089"
@@ -4877,7 +4531,7 @@
          {
           "materia": "MATEMATICA APLICADA A LA EMPRESA AGROPECUARIA",
           "docentes": [
-           "VERAGROY NANCY"
+           "VERA GROY, NANCY ADRIANA"
           ],
           "plazas": [
            "N°198552"
@@ -4891,9 +4545,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "PROD AGR DE INTERES LOCAL",
+          "materia": "PRODUCCION AGROPECUARIA DE INTERES LOCAL",
           "docentes": [
-           "ROGER SILVIA"
+           "ROGER, SILVIA LILIANA"
           ],
           "plazas": [
            "N°296108"
@@ -4902,9 +4556,9 @@
         ],
         "MARTES": [
          {
-          "materia": "PROD AGR DE INTERES LOCAL",
+          "materia": "PRODUCCION AGROPECUARIA DE INTERES LOCAL",
           "docentes": [
-           "ROGER SILVIA"
+           "ROGER, SILVIA LILIANA"
           ],
           "plazas": [
            "N°296108"
@@ -4915,7 +4569,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "DIAZ NANCY DEOLINDA"
+           "DIAZ, NANCY DEOLINDA"
           ],
           "plazas": [
            "N°235858"
@@ -4926,7 +4580,7 @@
          {
           "materia": "PROYECTO TECNOLOGICO",
           "docentes": [
-           "MORALES PAOLA LORENA"
+           "MORALES, PAOLA LORENA"
           ],
           "plazas": [
            "N°297089"
@@ -4935,12 +4589,12 @@
         ],
         "VIERNES": [
          {
-          "materia": "MATEMATICA APLICADA APLICAD A LA EMPRESA AGROPECUARIA",
+          "materia": "MATEMATICA APLICADA A LA EMPRESA AGROPECUARIA",
           "docentes": [
-           "VERAGROY NANCY"
+           "VERA GROY, NANCY ADRIANA"
           ],
           "plazas": [
-           "N°15263"
+           "N°198552"
           ]
          }
         ]
@@ -4951,9 +4605,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "PROD AGR DE INTERES LOCAL",
+          "materia": "PRODUCCION AGROPECUARIA DE INTERES LOCAL",
           "docentes": [
-           "ROGER SILVIA"
+           "ROGER, SILVIA LILIANA"
           ],
           "plazas": [
            "N°296108"
@@ -4962,9 +4616,9 @@
         ],
         "MARTES": [
          {
-          "materia": "PROD AGR DE INTERES LOCAL",
+          "materia": "PRODUCCION AGROPECUARIA DE INTERES LOCAL",
           "docentes": [
-           "ROGER SILVIA"
+           "ROGER, SILVIA LILIANA"
           ],
           "plazas": [
            "N°296108"
@@ -4975,7 +4629,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "DIAZ NANCY DEOLINDA"
+           "DIAZ, NANCY DEOLINDA"
           ],
           "plazas": [
            "N°235858"
@@ -4984,9 +4638,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "FROMULACION DE PROYECTO",
+          "materia": "FORMULACION DE PROYECTO",
           "docentes": [
-           "MORALES PAOLA LORENA"
+           "SACHETTI, YVAN EDUARDO"
           ],
           "plazas": [
            "N°297090"
@@ -4997,7 +4651,7 @@
          {
           "materia": "PROYECTO TECNOLOGICO",
           "docentes": [
-           "MORALES PAOLA LORENA"
+           "MORALES, PAOLA LORENA"
           ],
           "plazas": [
            "N°297089"
@@ -5013,9 +4667,10 @@
          {
           "materia": "LEGISLACION AGRARIA",
           "docentes": [
-           "PAGNONI ESTEFANIA"
+           "PAGNONI, STEFANIA"
           ],
           "plazas": [
+           "N°372016",
            "N°372026"
           ]
          }
@@ -5025,7 +4680,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "DIAZ NANCY DEOLINDA"
+           "DIAZ, NANCY DEOLINDA"
           ],
           "plazas": [
            "N°235858"
@@ -5036,9 +4691,10 @@
          {
           "materia": "FORMULACION DE PROYECTO",
           "docentes": [
-           "MORALES PAOLA LORENA"
+           "SACHETTI, YVAN EDUARDO"
           ],
           "plazas": [
+           "N°297090",
            "N°299790"
           ]
          }
@@ -5047,7 +4703,7 @@
          {
           "materia": "PROYECTO TECNOLOGICO",
           "docentes": [
-           "MORALES PAOLA LORENA"
+           "MORALES, PAOLA LORENA"
           ],
           "plazas": [
            "N°297089"
@@ -5070,79 +4726,33 @@
      ],
      "filas": [
       {
-       "hora": "12:50-14:10",
+       "hora": "12:50 A 17:00",
        "celdas": {
         "LUNES": [],
         "MARTES": [
          {
-          "materia": "TALLER TECNOLOGICO EXTENSION Y DESARROLLO LOCAL",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE AGROECOLOGIA Y MONITOREO AMBIENTAL",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLOGICO DE TECNOLOGIA DE MEDICION Y CONTROL",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "TECNOLOGIA DE MEDICION Y CONTROL",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "AGROECOLOGIA Y MONITOREO AMBIENTAL",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TECNOLOGIA DE MEDICION Y CONTROL",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "14:20-15:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "15:00-17:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "ZURITA ELSA MARIA",
-          "docentes": [],
+          "materia": "EXTENSION Y DESARROLLO LOCAL",
+          "docentes": [
+           "ZURITA, ELSA MARIA"
+          ],
           "plazas": [
            "N°236284"
           ]
          },
          {
-          "materia": "MARTINEZ EDUARDO",
-          "docentes": [],
+          "materia": "DE AGROECOLOGIA Y MONITOREO AMBIENTAL",
+          "docentes": [
+           "MARINO MENENDEZ, CARLOS ROBERTO"
+          ],
           "plazas": [
            "N°240870"
           ]
          },
          {
-          "materia": "ROGER SILVIA",
-          "docentes": [],
+          "materia": "DE TECNOLOGIA DE MEDICION Y CONTROL",
+          "docentes": [
+           "ROGER, SILVIA LILIANA"
+          ],
           "plazas": [
            "N°236913"
           ]
@@ -5152,22 +4762,28 @@
         "JUEVES": [],
         "VIERNES": [
          {
-          "materia": "ROGER SILVIA",
-          "docentes": [],
+          "materia": "TECNOLOGIA DE MEDICION Y CONTROL",
+          "docentes": [
+           "ROGER, SILVIA LILIANA"
+          ],
           "plazas": [
            "N°236913"
           ]
          },
          {
-          "materia": "ZURITA ELSA MARIA",
-          "docentes": [],
+          "materia": "AGROECOLOGIA Y MONITOREO AMBIENTAL",
+          "docentes": [
+           "ZURITA, ELSA MARIA"
+          ],
           "plazas": [
            "N°236284"
           ]
          },
          {
-          "materia": "MARTINEZ EDUARDO",
-          "docentes": [],
+          "materia": "TECNOLOGIA DE MEDICION Y CONTROL",
+          "docentes": [
+           "MARINO MENENDEZ, CARLOS ROBERTO"
+          ],
           "plazas": [
            "N°240870"
           ]
@@ -5196,10 +4812,10 @@
          {
           "materia": "COMUNICACION",
           "docentes": [
-           "SORIA CINTYA MARIA"
+           "SORIA, CINTHYA MARIA"
           ],
           "plazas": [
-           "N°197181"
+           "N°235859"
           ]
          }
         ],
@@ -5216,9 +4832,11 @@
          {
           "materia": "COMUNICACION",
           "docentes": [
-           "SORIA CINTHYA MARIA"
+           "SORIA, CINTHYA MARIA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°235859"
+          ]
          }
         ],
         "MIERCOLES": [],
@@ -5234,7 +4852,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "ELIAS ARTURO MANUEL"
+           "ASAD SAIG, ABEL AMADO"
           ],
           "plazas": [
            "N°235860"

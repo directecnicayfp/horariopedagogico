@@ -8,7 +8,7 @@
    "hoja": "1°AÑO A",
    "curso": "1°",
    "division": "A",
-   "ciclo": "Básico",
+   "ciclo": "BÁSICO",
    "resolucion": "",
    "observaciones": "",
    "tablas": [
@@ -24,57 +24,33 @@
      ],
      "filas": [
       {
-       "hora": "13:10 a 13:50",
+       "hora": "13:10 A 13:50",
        "celdas": {
-        "LUNES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
         "JUEVES": [
          {
           "materia": "FÍSICO-QUÍMICA",
           "docentes": [
-           "MATILDE VAQUERA"
+           "VAQUERA, MATILDE DEL CARMEN"
           ],
           "plazas": [
            "N°149529"
           ]
          }
         ],
-        "VIERNES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
+        "VIERNES": []
        }
       },
       {
-       "hora": "14:00 a 14:40",
+       "hora": "14:00 A 14:40",
        "celdas": {
         "LUNES": [
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "GIOVANA ARGAÑARAZ"
+           "ARGAÑARAZ, LIDIA GIOVANA"
           ],
           "plazas": [
            "N°180192"
@@ -85,7 +61,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "GIOVANA ARGAÑARAZ"
+           "ARGAÑARAZ, LIDIA GIOVANA"
           ],
           "plazas": [
            "N°180192"
@@ -96,7 +72,7 @@
          {
           "materia": "TECNOLOGÍA",
           "docentes": [
-           "IRIS SÁNCHEZ"
+           "SANCHEZ, IRIS SABRINA DEL VALLE"
           ],
           "plazas": [
            "N°182141"
@@ -107,7 +83,7 @@
          {
           "materia": "FÍSICO-QUÍMICA",
           "docentes": [
-           "MATILDE VAQUERA"
+           "VAQUERA, MATILDE DEL CARMEN"
           ],
           "plazas": [
            "N°149529"
@@ -118,7 +94,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "CARRIZO VERONICA"
+           "CARRIZO, VERONICA BEATRIZ"
           ],
           "plazas": [
            "N°140406"
@@ -128,13 +104,13 @@
        }
       },
       {
-       "hora": "14:40 a 15:20",
+       "hora": "14:40 A 15:20",
        "celdas": {
         "LUNES": [
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "GIOVANA ARGAÑARAZ"
+           "ARGAÑARAZ, LIDIA GIOVANA"
           ],
           "plazas": [
            "N°180192"
@@ -145,7 +121,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "GIOVANA ARGAÑARAZ"
+           "ARGAÑARAZ, LIDIA GIOVANA"
           ],
           "plazas": [
            "N°180192"
@@ -156,7 +132,7 @@
          {
           "materia": "TECNOLOGÍA",
           "docentes": [
-           "IRIS SÁNCHEZ"
+           "SANCHEZ, IRIS SABRINA DEL VALLE"
           ],
           "plazas": [
            "N°141140"
@@ -167,7 +143,7 @@
          {
           "materia": "FÍSICO-QUÍMICA",
           "docentes": [
-           "MATILDE VAQUERA"
+           "VAQUERA, MATILDE DEL CARMEN"
           ],
           "plazas": [
            "N°210531"
@@ -178,7 +154,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "CARRIZO VERONICA"
+           "CARRIZO, VERONICA BEATRIZ"
           ],
           "plazas": [
            "N°140406"
@@ -188,13 +164,13 @@
        }
       },
       {
-       "hora": "15:30 a 16:10",
+       "hora": "15:30 A 16:10",
        "celdas": {
         "LUNES": [
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "GIOVANA ARGAÑARAZ"
+           "ARGAÑARAZ, LIDIA GIOVANA"
           ],
           "plazas": [
            "N°180192"
@@ -205,7 +181,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "VANESA RODRÍGUEZ"
+           "RODRIGUEZ, VANESA DEL VALLE"
           ],
           "plazas": [
            "N°139661"
@@ -216,7 +192,7 @@
          {
           "materia": "TECNOLOGÍA",
           "docentes": [
-           "IRIS SÁNCHEZ"
+           "SANCHEZ, IRIS SABRINA DEL VALLE"
           ],
           "plazas": [
            "N°182141"
@@ -227,7 +203,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "VANESA RODRÍGUEZ"
+           "RODRIGUEZ, VANESA DEL VALLE"
           ],
           "plazas": [
            "N°139661"
@@ -238,7 +214,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "MANSILLA/AGUILAR"
+           "MANSILLA, RUBEN DARIO"
           ],
           "plazas": [
            "N°369353"
@@ -248,13 +224,13 @@
        }
       },
       {
-       "hora": "16:10 a 16:50",
+       "hora": "16:10 A 16:50",
        "celdas": {
         "LUNES": [
          {
           "materia": "HISTORIA",
           "docentes": [
-           "MARCELO GONZÁLEZ/ELENA GEREZ"
+           "GEREZ, ELENA RAQUEL"
           ],
           "plazas": [
            "N°236541"
@@ -265,7 +241,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "VANESA RODRÍGUEZ"
+           "RODRIGUEZ, VANESA DEL VALLE"
           ],
           "plazas": [
            "N°139661"
@@ -276,7 +252,7 @@
          {
           "materia": "LENGUA EXTRANJERA (INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°210803"
@@ -287,7 +263,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "MAGDALENA MORENO/CORINA VALDEZ"
+           "VALDEZ, CORINA DEL CARMEN"
           ],
           "plazas": [
            "N°224508"
@@ -298,7 +274,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "MANSILLA/AGUILAR"
+           "MANSILLA, RUBEN DARIO"
           ],
           "plazas": [
            "N°369353"
@@ -308,13 +284,13 @@
        }
       },
       {
-       "hora": "17:00 a 17:40",
+       "hora": "17:00 A 17:40",
        "celdas": {
         "LUNES": [
          {
           "materia": "HISTORIA",
           "docentes": [
-           "MARCELO GONZÁLEZ/ELENA GEREZ"
+           "GEREZ, ELENA RAQUEL"
           ],
           "plazas": [
            "N°236541"
@@ -325,7 +301,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "RUBÉN MANSILLA/GUILLERMO AGUILAR"
+           "MANSILLA, RUBEN DARIO"
           ],
           "plazas": [
            "N°369353"
@@ -336,7 +312,7 @@
          {
           "materia": "LENGUA EXTRANJERA (INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°146515"
@@ -347,7 +323,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "MAGDALENA MORENO/CORINA VALDEZ"
+           "VALDEZ, CORINA DEL CARMEN"
           ],
           "plazas": [
            "N°224508"
@@ -358,7 +334,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "RODRÍGUEZ VANESA"
+           "RODRIGUEZ, VANESA DEL VALLE"
           ],
           "plazas": [
            "N°139661"
@@ -368,13 +344,13 @@
        }
       },
       {
-       "hora": "17:40 a 18:20",
+       "hora": "17:40 A 18:20",
        "celdas": {
         "LUNES": [
          {
           "materia": "HISTORIA",
           "docentes": [
-           "MARCELO GONZÁLEZ/ELENA GEREZ"
+           "GEREZ, ELENA RAQUEL"
           ],
           "plazas": [
            "N°236541"
@@ -385,7 +361,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "RUBÉN MANSILLA/GUILLERMO AGUILAR"
+           "MANSILLA, RUBEN DARIO"
           ],
           "plazas": [
            "N°369353"
@@ -396,7 +372,7 @@
          {
           "materia": "LENGUA EXTRANJERA (INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°146515"
@@ -407,7 +383,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "MAGDALENA MORENO/CORINA VALDEZ"
+           "VALDEZ, CORINA DEL CARMEN"
           ],
           "plazas": [
            "N°224508"
@@ -418,7 +394,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "RODRÍGUEZ VANESA"
+           "RODRIGUEZ, VANESA DEL VALLE"
           ],
           "plazas": [
            "N°139661"
@@ -447,7 +423,7 @@
          {
           "materia": "GRANJA FAMILIAR",
           "docentes": [
-           "JULIO ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°270492"
@@ -456,7 +432,7 @@
          {
           "materia": "CARPINTERÍA",
           "docentes": [
-           "SANCHEZ ANTONELLA"
+           "SANCHEZ, ANTONELLA DAIANA"
           ],
           "plazas": [
            "N°270494"
@@ -465,7 +441,8 @@
          {
           "materia": "AJUSTE",
           "docentes": [
-           "NUÑEZ / HEREDIA"
+           "MATURANO, LOURDES NAHIR",
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
            "N°236199"
@@ -476,7 +453,7 @@
          {
           "materia": "HUERTA FAMILIAR",
           "docentes": [
-           "JULIO ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°270492"
@@ -488,7 +465,7 @@
          {
           "materia": "GRANJA FAMILIAR",
           "docentes": [
-           "JULIO ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°270492"
@@ -497,7 +474,7 @@
          {
           "materia": "CARPINTERÍA",
           "docentes": [
-           "SANCHEZ ANTONELLA"
+           "SANCHEZ, ANTONELLA DAIANA"
           ],
           "plazas": [
            "N°270494"
@@ -506,7 +483,8 @@
          {
           "materia": "AJUSTE",
           "docentes": [
-           "NUÑEZ/ HEREDIA"
+           "MATURANO, LOURDES NAHIR",
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
            "N°236199"
@@ -517,7 +495,7 @@
          {
           "materia": "HUERTA FAMILIAR",
           "docentes": [
-           "JULIO ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°270492"
@@ -533,7 +511,7 @@
          {
           "materia": "GRANJA FAMILIAR",
           "docentes": [
-           "JULIO ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°270492"
@@ -542,7 +520,7 @@
          {
           "materia": "CARPINTERÍA",
           "docentes": [
-           "SANCHEZ ANTONELLA"
+           "SANCHEZ, ANTONELLA DAIANA"
           ],
           "plazas": [
            "N°270494"
@@ -551,9 +529,11 @@
          {
           "materia": "AJUSTE",
           "docentes": [
-           "NUÑEZ / HEREDIA"
+           "MATURANO, LOURDES NAHIR",
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
+           "N°236199",
            "N°216399"
           ]
          }
@@ -562,7 +542,7 @@
          {
           "materia": "HUERTA FAMILIAR",
           "docentes": [
-           "JULIO ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°270492"
@@ -574,7 +554,7 @@
          {
           "materia": "GRANJA FAMILIAR",
           "docentes": [
-           "JULIO ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°270492"
@@ -583,7 +563,7 @@
          {
           "materia": "CARPINTERÍA",
           "docentes": [
-           "SANCHEZ ANTONELLA"
+           "SANCHEZ, ANTONELLA DAIANA"
           ],
           "plazas": [
            "N°270494"
@@ -592,7 +572,8 @@
          {
           "materia": "AJUSTE",
           "docentes": [
-           "NUÑEZ / HEREDIA"
+           "MATURANO, LOURDES NAHIR",
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
            "N°236199"
@@ -603,7 +584,7 @@
          {
           "materia": "HUERTA FAMILIAR",
           "docentes": [
-           "JULIO ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°270492"
@@ -634,7 +615,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "HUMBERTO TARASCIO"
+           "TARASCIO, HUMBERTO FLAVIO"
           ],
           "plazas": [
            "N°209598"
@@ -654,6 +635,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
+           "VACANTE",
            "HUMBERTO TARASCIO"
           ],
           "plazas": [
@@ -691,45 +673,21 @@
       {
        "hora": "13:10 A 13:50",
        "celdas": {
-        "LUNES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
+        "LUNES": [],
         "MARTES": [
          {
           "materia": "FÍSICO-QUÍMICA",
           "docentes": [
-           "MATILDE VAQUERA"
+           "VAQUERA, MATILDE DEL CARMEN"
           ],
           "plazas": [
            "N°210532"
           ]
          }
         ],
-        "MIERCOLES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
        }
       },
       {
@@ -739,7 +697,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "MORENO/VALDEZ"
+           "VALDEZ, CORINA DEL CARMEN"
           ],
           "plazas": [
            "N°224509"
@@ -750,7 +708,7 @@
          {
           "materia": "FÍSICO-QUÍMICA",
           "docentes": [
-           "MATILDE VAQUERA"
+           "VAQUERA, MATILDE DEL CARMEN"
           ],
           "plazas": [
            "N°210532"
@@ -761,7 +719,7 @@
          {
           "materia": "LENGUA EXTRANJERA(INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°210804"
@@ -772,7 +730,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "VERONICA CARRIZO"
+           "CARRIZO, VERONICA BEATRIZ"
           ],
           "plazas": [
            "N°189436"
@@ -783,7 +741,7 @@
          {
           "materia": "TECNOLOGÍA",
           "docentes": [
-           "IRIS SÁNCHEZ"
+           "SANCHEZ, IRIS SABRINA DEL VALLE"
           ],
           "plazas": [
            "N°182142"
@@ -799,7 +757,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "MORENO/ VALDEZ"
+           "VALDEZ, CORINA DEL CARMEN"
           ],
           "plazas": [
            "N°224509"
@@ -810,7 +768,7 @@
          {
           "materia": "FÍSICO-QUÍMICA",
           "docentes": [
-           "MATILDE VAQUERA"
+           "VAQUERA, MATILDE DEL CARMEN"
           ],
           "plazas": [
            "N°210532"
@@ -821,7 +779,7 @@
          {
           "materia": "LENGUA EXTRANJERA(INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°210804"
@@ -832,7 +790,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "VERONICA CARRIZO"
+           "CARRIZO, VERONICA BEATRIZ"
           ],
           "plazas": [
            "N°189436"
@@ -843,7 +801,7 @@
          {
           "materia": "TECNOLOGÍA",
           "docentes": [
-           "IRIS SÁNCHEZ"
+           "SANCHEZ, IRIS SABRINA DEL VALLE"
           ],
           "plazas": [
            "N°182142"
@@ -859,7 +817,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "MORENO/VALDEZ"
+           "VALDEZ, CORINA DEL CARMEN"
           ],
           "plazas": [
            "N°224509"
@@ -870,7 +828,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "GIOVANA ARGAÑARAZ"
+           "ARGAÑARAZ, LIDIA GIOVANA"
           ],
           "plazas": [
            "N°180193"
@@ -881,7 +839,7 @@
          {
           "materia": "LENGUA EXTRANJERA(INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°146516"
@@ -892,6 +850,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
+           "VACANTE",
            "HORACIO ORELLLANA"
           ],
           "plazas": [
@@ -903,7 +862,7 @@
          {
           "materia": "TECNOLOGÍA",
           "docentes": [
-           "IRIS SANCHEZ"
+           "SANCHEZ, IRIS SABRINA DEL VALLE"
           ],
           "plazas": [
            "N°183227"
@@ -919,7 +878,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "GIOVANA ARGAÑARAZ"
+           "ARGAÑARAZ, LIDIA GIOVANA"
           ],
           "plazas": [
            "N°180193"
@@ -930,7 +889,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "GIOVANA ARGAÑARAZ"
+           "ARGAÑARAZ, LIDIA GIOVANA"
           ],
           "plazas": [
            "N°180193"
@@ -941,7 +900,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "VANESA RODRÍGUEZ"
+           "RODRIGUEZ, VANESA DEL VALLE"
           ],
           "plazas": [
            "N°195237"
@@ -952,6 +911,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
+           "VACANTE",
            "HORACIO ORELLLANA"
           ],
           "plazas": [
@@ -963,7 +923,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "GONZALEZ/GEREZ"
+           "GEREZ, ELENA RAQUEL"
           ],
           "plazas": [
            "N°142932"
@@ -979,7 +939,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "GIOVANA ARGAÑARAZ"
+           "ARGAÑARAZ, LIDIA GIOVANA"
           ],
           "plazas": [
            "N°180193"
@@ -990,6 +950,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
+           "VACANTE",
            "HORACIO ORELLANA"
           ],
           "plazas": [
@@ -1001,7 +962,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "VANESA RODRÍGUEZ"
+           "RODRIGUEZ, VANESA DEL VALLE"
           ],
           "plazas": [
            "N°195237"
@@ -1012,7 +973,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "VANESA RODRÍGUEZ"
+           "RODRIGUEZ, VANESA DEL VALLE"
           ],
           "plazas": [
            "N°237763"
@@ -1023,7 +984,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "GONZALEZ/GEREZ"
+           "GEREZ, ELENA RAQUEL"
           ],
           "plazas": [
            "N°142932"
@@ -1039,7 +1000,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "GIOVANA ARGAÑARAZ"
+           "ARGAÑARAZ, LIDIA GIOVANA"
           ],
           "plazas": [
            "N°180193"
@@ -1050,6 +1011,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
+           "VACANTE",
            "HORACIO ORELLANA"
           ],
           "plazas": [
@@ -1061,7 +1023,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "VANESA RODRÍGUEZ"
+           "RODRIGUEZ, VANESA DEL VALLE"
           ],
           "plazas": [
            "N°195237"
@@ -1072,7 +1034,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "VANESA RODRÍGUEZ"
+           "RODRIGUEZ, VANESA DEL VALLE"
           ],
           "plazas": [
            "N°237761"
@@ -1083,7 +1045,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "GONZALEZ/GEREZ"
+           "GEREZ, ELENA RAQUEL"
           ],
           "plazas": [
            "N°142932"
@@ -1112,7 +1074,7 @@
          {
           "materia": "GRANJA FAMILIAR",
           "docentes": [
-           "JULIO ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°270492"
@@ -1121,7 +1083,7 @@
          {
           "materia": "CARPINTERÍA",
           "docentes": [
-           "SANCHEZ ANTONELLA"
+           "SANCHEZ, ANTONELLA DAIANA"
           ],
           "plazas": [
            "N°270494"
@@ -1130,7 +1092,8 @@
          {
           "materia": "AJUSTE",
           "docentes": [
-           "NUÑEZ / HEREDIA"
+           "NUÑEZ",
+           "HEREDIA"
           ],
           "plazas": [
            "N°216399"
@@ -1141,7 +1104,7 @@
          {
           "materia": "HUERTA FAMILIAR",
           "docentes": [
-           "JULIO ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°270492"
@@ -1153,7 +1116,7 @@
          {
           "materia": "GRANJA FAMILIAR",
           "docentes": [
-           "JULIO ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°270492"
@@ -1162,7 +1125,7 @@
          {
           "materia": "CARPINTERÍA",
           "docentes": [
-           "SANCHEZ ANTONELLA"
+           "SANCHEZ, ANTONELLA DAIANA"
           ],
           "plazas": [
            "N°270494"
@@ -1171,7 +1134,8 @@
          {
           "materia": "AJUSTE",
           "docentes": [
-           "NUÑEZ/ HEREDIA"
+           "NUÑEZ",
+           "HEREDIA"
           ],
           "plazas": [
            "N°216399"
@@ -1180,9 +1144,9 @@
         ],
         "VIERNES": [
          {
-          "materia": "HUERTA FAMILAR",
+          "materia": "HUERTA FAMILIAR",
           "docentes": [
-           "JULIO ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°270492"
@@ -1198,7 +1162,7 @@
          {
           "materia": "GRANJA FAMILIAR",
           "docentes": [
-           "JULIO ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°270492"
@@ -1207,7 +1171,7 @@
          {
           "materia": "CARPINTERÍA",
           "docentes": [
-           "SANCHEZ ANTONELLA"
+           "SANCHEZ, ANTONELLA DAIANA"
           ],
           "plazas": [
            "N°270494"
@@ -1216,7 +1180,8 @@
          {
           "materia": "AJUSTE",
           "docentes": [
-           "NUÑEZ/ HEREDIA"
+           "NUÑEZ",
+           "HEREDIA"
           ],
           "plazas": [
            "N°216399"
@@ -1227,7 +1192,7 @@
          {
           "materia": "HUERTA FAMILIAR",
           "docentes": [
-           "JULIO ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°270492"
@@ -1239,7 +1204,7 @@
          {
           "materia": "GRANJA FAMILIAR",
           "docentes": [
-           "JULIO ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°270492"
@@ -1248,7 +1213,7 @@
          {
           "materia": "CARPINTERÍA",
           "docentes": [
-           "SANCHEZ ANTONELLA"
+           "SANCHEZ, ANTONELLA DAIANA"
           ],
           "plazas": [
            "N°270494"
@@ -1257,7 +1222,8 @@
          {
           "materia": "AJUSTE",
           "docentes": [
-           "NUÑEZ /HEREDIA"
+           "NUÑEZ",
+           "HEREDIA"
           ],
           "plazas": [
            "N°216399"
@@ -1268,7 +1234,7 @@
          {
           "materia": "HUERTA FAMILIAR",
           "docentes": [
-           "JULIO ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°270492"
@@ -1299,7 +1265,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "HUMBERTO TARASCIO"
+           "TARASCIO, HUMBERTO FLAVIO"
           ],
           "plazas": [
            "N°209599"
@@ -1319,6 +1285,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
+           "VACANTE",
            "HUMBERTO TARASCIO"
           ],
           "plazas": [
@@ -1360,41 +1327,17 @@
          {
           "materia": "LENGUA EXTRANJERA (INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°146517"
           ]
          }
         ],
-        "MARTES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
        }
       },
       {
@@ -1404,7 +1347,7 @@
          {
           "materia": "LENGUA EXTRANJERA (INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°146517"
@@ -1415,7 +1358,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "SERGIO MAÑES"
+           "MAÑES, SERGIO GABRIEL"
           ],
           "plazas": [
            "N°144641"
@@ -1426,7 +1369,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "HORACIO ORELLANA"
+           "ORELLANA, HORACIO ENRIQUE"
           ],
           "plazas": [
            "N°146936"
@@ -1437,7 +1380,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "MAGDALENA MORENO/CORINA VALDEZ"
+           "VALDEZ, CORINA DEL CARMEN"
           ],
           "plazas": [
            "N°224510"
@@ -1448,7 +1391,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "GONZALEZ/GEREZ"
+           "GEREZ, ELENA RAQUEL"
           ],
           "plazas": [
            "N°236542"
@@ -1464,7 +1407,7 @@
          {
           "materia": "LENGUA EXTRANJERA (INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°146517"
@@ -1475,7 +1418,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "SERGIO MAÑES"
+           "MAÑES, SERGIO GABRIEL"
           ],
           "plazas": [
            "N°144641"
@@ -1484,9 +1427,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "DIBIJO TECNICO",
+          "materia": "DIBUJO TECNICO",
           "docentes": [
-           "HORACIO ORELLANA"
+           "ORELLANA, HORACIO ENRIQUE"
           ],
           "plazas": [
            "N°146936"
@@ -1497,7 +1440,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "MAGDALENA MORENO/CORINA VALDEZ"
+           "VALDEZ, CORINA DEL CARMEN"
           ],
           "plazas": [
            "N°224510"
@@ -1508,7 +1451,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "GONZALEZ/GEREZ"
+           "GEREZ, ELENA RAQUEL"
           ],
           "plazas": [
            "N°236542"
@@ -1524,7 +1467,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "HORACIO ORELLANA"
+           "ORELLANA, HORACIO ENRIQUE"
           ],
           "plazas": [
            "N°146936"
@@ -1535,7 +1478,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "SERGIO MAÑES"
+           "MAÑES, SERGIO GABRIEL"
           ],
           "plazas": [
            "N°144641"
@@ -1546,7 +1489,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "FERREIRA SONIA/ VACANTE"
+           "BRITO, JUAN ANTONIO"
           ],
           "plazas": [
            "N°143348"
@@ -1557,7 +1500,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "MAGDALENA MORENO/CORINA VALDEZ"
+           "VALDEZ, CORINA DEL CARMEN"
           ],
           "plazas": [
            "N°224510"
@@ -1568,7 +1511,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "GONZALEZ/GEREZ"
+           "GEREZ, ELENA RAQUEL"
           ],
           "plazas": [
            "N°236542"
@@ -1584,7 +1527,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "HORACIO ORELLANA"
+           "ORELLANA, HORACIO ENRIQUE"
           ],
           "plazas": [
            "N°146936"
@@ -1595,7 +1538,7 @@
          {
           "materia": "FÍSICO-QUÍMICA",
           "docentes": [
-           "MATILDE VAQUERA"
+           "VAQUERA, MATILDE DEL CARMEN"
           ],
           "plazas": [
            "N°149531"
@@ -1606,10 +1549,10 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "HORACIO ORELLANA"
+           "ORELLANA, HORACIO ENRIQUE"
           ],
           "plazas": [
-           "N°143348"
+           "N°146936"
           ]
          }
         ],
@@ -1617,7 +1560,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "SONIA FERREIRA/EMILIA VILLAVERDE"
+           "BRITO, JUAN ANTONIO"
           ],
           "plazas": [
            "N°143348"
@@ -1628,7 +1571,7 @@
          {
           "materia": "TECNOLOGÍA",
           "docentes": [
-           "IRIS SÁNCHEZ"
+           "SANCHEZ, IRIS SABRINA DEL VALLE"
           ],
           "plazas": [
            "N°189684"
@@ -1644,7 +1587,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "VERÓNICA CARRIZO"
+           "CARRIZO, VERONICA BEATRIZ"
           ],
           "plazas": [
            "N°189437"
@@ -1655,7 +1598,7 @@
          {
           "materia": "FÍSICO-QUÍMICA",
           "docentes": [
-           "MATILDE VAQUERA"
+           "VAQUERA, MATILDE DEL CARMEN"
           ],
           "plazas": [
            "N°149531"
@@ -1666,7 +1609,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "SERGIO MAÑES"
+           "MAÑES, SERGIO GABRIEL"
           ],
           "plazas": [
            "N°144641"
@@ -1677,7 +1620,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "SONIA FERREIRA/EMILIA VILLAVERDE"
+           "BRITO, JUAN ANTONIO"
           ],
           "plazas": [
            "N°143348"
@@ -1688,7 +1631,7 @@
          {
           "materia": "TECNOLOGÍA",
           "docentes": [
-           "IRIS SÁNCHEZ"
+           "SANCHEZ, IRIS SABRINA DEL VALLE"
           ],
           "plazas": [
            "N°182140"
@@ -1704,7 +1647,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "VERÓNICA CARRIZO"
+           "CARRIZO, VERONICA BEATRIZ"
           ],
           "plazas": [
            "N°189437"
@@ -1715,7 +1658,7 @@
          {
           "materia": "FÍSICO-QUÍMICA",
           "docentes": [
-           "MATILDE VAQUERA"
+           "VAQUERA, MATILDE DEL CARMEN"
           ],
           "plazas": [
            "N°149531"
@@ -1726,7 +1669,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "SERGIO MAÑES"
+           "MAÑES, SERGIO GABRIEL"
           ],
           "plazas": [
            "N°144641"
@@ -1737,7 +1680,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "SONIA FERREIRA/EMILIA VILLAVERDE"
+           "BRITO, JUAN ANTONIO"
           ],
           "plazas": [
            "N°143348"
@@ -1748,7 +1691,7 @@
          {
           "materia": "TECNOLOGÍA",
           "docentes": [
-           "IRIS SÁNCHEZ"
+           "SANCHEZ, IRIS SABRINA DEL VALLE"
           ],
           "plazas": [
            "N°182140"
@@ -1777,7 +1720,7 @@
          {
           "materia": "GRANJA FAMILIAR",
           "docentes": [
-           "JULIO ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°270492"
@@ -1786,7 +1729,7 @@
          {
           "materia": "CARPINTERÍA",
           "docentes": [
-           "SANCHEZ ANTONELLA"
+           "SANCHEZ, ANTONELLA DAIANA"
           ],
           "plazas": [
            "N°270494"
@@ -1795,9 +1738,10 @@
          {
           "materia": "AJUSTE",
           "docentes": [
-           "NUÑEZ MARCOS/ HEREDIA JUAN"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
+           "N°236199",
            "N°216399"
           ]
          }
@@ -1806,7 +1750,7 @@
          {
           "materia": "HUERTA FAMILIAR",
           "docentes": [
-           "JULIO ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°270492"
@@ -1818,7 +1762,7 @@
          {
           "materia": "GRANJA FAMILIAR",
           "docentes": [
-           "JULIO ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°270492"
@@ -1827,7 +1771,7 @@
          {
           "materia": "CARPINTERÍA",
           "docentes": [
-           "SANCHEZ ANTONELLA"
+           "SANCHEZ, ANTONELLA DAIANA"
           ],
           "plazas": [
            "N°270494"
@@ -1836,9 +1780,10 @@
          {
           "materia": "AJUSTE",
           "docentes": [
-           "NUÑEZ MARCOS/HEREDIA JUAN"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
+           "N°236199",
            "N°216399"
           ]
          }
@@ -1847,7 +1792,7 @@
          {
           "materia": "HUERTA FAMILIAR",
           "docentes": [
-           "JULIO ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°270492"
@@ -1863,7 +1808,7 @@
          {
           "materia": "GRANJA FAMILIAR",
           "docentes": [
-           "JULIO ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°270492"
@@ -1872,7 +1817,7 @@
          {
           "materia": "CARPINTERÍA",
           "docentes": [
-           "SANCHEZ ANTONELLA"
+           "SANCHEZ, ANTONELLA DAIANA"
           ],
           "plazas": [
            "N°270494"
@@ -1881,9 +1826,10 @@
          {
           "materia": "AJUSTE",
           "docentes": [
-           "NUÑEZ MARCOS/ HEREDIA JUAN"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
+           "N°236199",
            "N°216399"
           ]
          }
@@ -1892,7 +1838,7 @@
          {
           "materia": "HUERTA FAMILIAR",
           "docentes": [
-           "JULIO ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°270492"
@@ -1904,7 +1850,7 @@
          {
           "materia": "GRANJA FAMILIAR",
           "docentes": [
-           "JULIO ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°270492"
@@ -1913,7 +1859,7 @@
          {
           "materia": "CARPINTERÍA",
           "docentes": [
-           "SANCHEZ ANTONELLA"
+           "SANCHEZ, ANTONELLA DAIANA"
           ],
           "plazas": [
            "N°270494"
@@ -1922,9 +1868,10 @@
          {
           "materia": "AJUSTE",
           "docentes": [
-           "NUÑEZ MARCOS/HEREDIA JUAN"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
+           "N°236199",
            "N°216399"
           ]
          }
@@ -1933,7 +1880,7 @@
          {
           "materia": "HUERTA FAMILIAR",
           "docentes": [
-           "JULIO ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°270492"
@@ -1964,7 +1911,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "MAURICIO MAIDANA"
+           "VACANTE"
           ],
           "plazas": [
            "N°143363"
@@ -1984,7 +1931,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "MAURICIO MAIDANA"
+           "VACANTE"
           ],
           "plazas": [
            "N°149782"
@@ -2021,18 +1968,12 @@
       {
        "hora": "13:10 A 13:50",
        "celdas": {
-        "LUNES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
+        "LUNES": [],
         "MARTES": [
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ALEJANDRA SORIA/ERICA SUAREZ"
+           "SUAREZ, ERICA LIZET"
           ],
           "plazas": [
            "N°189443"
@@ -2043,25 +1984,19 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "MATILDE VAQUERA"
+           "VAQUERA, MATILDE DEL CARMEN"
           ],
           "plazas": [
            "N°237366"
           ]
          }
         ],
-        "JUEVES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
+        "JUEVES": [],
         "VIERNES": [
          {
           "materia": "LENGUA",
           "docentes": [
-           "CRISTIAN MAZA MURÚA"
+           "MAZA MURUA, CRISTIAN BERHMAN"
           ],
           "plazas": [
            "N°237764"
@@ -2077,7 +2012,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "NANCY ALBORNOZ/PAMELA SORIA"
+           "SORIA, NELIDA PAMELA"
           ],
           "plazas": [
            "N°184009"
@@ -2088,7 +2023,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ALEJANDRA SORIA/ERICA SUAREZ"
+           "SUAREZ, ERICA LIZET"
           ],
           "plazas": [
            "N°189443"
@@ -2099,7 +2034,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "MATILDE VAQUERA"
+           "VAQUERA, MATILDE DEL CARMEN"
           ],
           "plazas": [
            "N°237366"
@@ -2110,7 +2045,7 @@
          {
           "materia": "LENGUA EXTRANJERA(INGLÉS)",
           "docentes": [
-           "VERÓNICA ARGAÑARAZ"
+           "ARGAÑARAZ, VERONICA SILVIA"
           ],
           "plazas": [
            "N°187461"
@@ -2121,7 +2056,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "CRISTIAN MAZA MURÚA"
+           "MAZA MURUA, CRISTIAN BERHMAN"
           ],
           "plazas": [
            "N°237764"
@@ -2137,7 +2072,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "NANCY ALBORNOZ/PAMELA SORIA"
+           "SORIA, NELIDA PAMELA"
           ],
           "plazas": [
            "N°184009"
@@ -2148,7 +2083,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ALEJANDRA SORIA/ERICA SUAREZ"
+           "SUAREZ, ERICA LIZET"
           ],
           "plazas": [
            "N°189443"
@@ -2159,7 +2094,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "MATILDE VAQUERA"
+           "VAQUERA, MATILDE DEL CARMEN"
           ],
           "plazas": [
            "N°237366"
@@ -2170,7 +2105,7 @@
          {
           "materia": "LENGUA EXTRANJERA(INGLÉS)",
           "docentes": [
-           "VERÓNICA ARGAÑARAZ"
+           "ARGAÑARAZ, VERONICA SILVIA"
           ],
           "plazas": [
            "N°187461"
@@ -2181,7 +2116,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "CRISTIAN MAZA MURÚA"
+           "MAZA MURUA, CRISTIAN BERHMAN"
           ],
           "plazas": [
            "N°237764"
@@ -2197,7 +2132,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "SANDRA VILLARREAL"
+           "VILLARREAL, SANDRA ISABEL"
           ],
           "plazas": [
            "N°189440"
@@ -2208,7 +2143,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "RUBÉN DARÍO MANSILLA/AGUSTÍN JUNCOS"
+           "MANSILLA, RUBEN DARIO"
           ],
           "plazas": [
            "N°369354"
@@ -2219,7 +2154,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "CRISTIAN MAZA MURÚA"
+           "MAZA MURUA, CRISTIAN BERHMAN"
           ],
           "plazas": [
            "N°237764"
@@ -2230,7 +2165,7 @@
          {
           "materia": "LENGUA EXTRANJERA(INGLÉS)",
           "docentes": [
-           "VERÓNICA ARGAÑARAZ"
+           "ARGAÑARAZ, VERONICA SILVIA"
           ],
           "plazas": [
            "N°187461"
@@ -2241,7 +2176,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "SILVIA AUGIER"
+           "VACANTE"
           ],
           "plazas": [
            "N°291805"
@@ -2257,7 +2192,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "SANDRA VILLARREAL"
+           "VILLARREAL, SANDRA ISABEL"
           ],
           "plazas": [
            "N°189440"
@@ -2268,7 +2203,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "RUBÉN DARÍO MANSILLA/AGUSTÍN JUNCOS"
+           "MANSILLA, RUBEN DARIO"
           ],
           "plazas": [
            "N°369354"
@@ -2279,7 +2214,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "CRISTIAN MAZA MURÚA"
+           "MAZA MURUA, CRISTIAN BERHMAN"
           ],
           "plazas": [
            "N°237764"
@@ -2290,7 +2225,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "VERÓNICA CARRIZO"
+           "CARRIZO, VERONICA BEATRIZ"
           ],
           "plazas": [
            "N°184399"
@@ -2301,7 +2236,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "SILVIA AUGIER"
+           "VACANTE"
           ],
           "plazas": [
            "N°291805"
@@ -2317,7 +2252,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "MATILDE VAQUERA"
+           "VAQUERA, MATILDE DEL CARMEN"
           ],
           "plazas": [
            "N°237366"
@@ -2328,7 +2263,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "SILVIA AUGIER"
+           "VACANTE"
           ],
           "plazas": [
            "N°291805"
@@ -2339,7 +2274,7 @@
          {
           "materia": "EDUCACIÓN ÉTICA Y CIUDADANA",
           "docentes": [
-           "VERONICA CARRIZO"
+           "CARRIZO, VERONICA BEATRIZ"
           ],
           "plazas": [
            "N°184402"
@@ -2350,7 +2285,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "VERÓNICA CARRIZO"
+           "CARRIZO, VERONICA BEATRIZ"
           ],
           "plazas": [
            "N°184399"
@@ -2361,7 +2296,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "RUBÉN DARÍO MANSILLA/AGUSTÍN JUNCOS"
+           "MANSILLA, RUBEN DARIO"
           ],
           "plazas": [
            "N°369354"
@@ -2377,7 +2312,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "MATILDE VAQUERA"
+           "VAQUERA, MATILDE DEL CARMEN"
           ],
           "plazas": [
            "N°237366"
@@ -2388,7 +2323,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "SILVIA AUGIER"
+           "VACANTE"
           ],
           "plazas": [
            "N°291805"
@@ -2399,7 +2334,7 @@
          {
           "materia": "EDUCACIÓN ÉTICA Y CIUDADANA",
           "docentes": [
-           "VERONICA CARRIZO"
+           "CARRIZO, VERONICA BEATRIZ"
           ],
           "plazas": [
            "N°184402"
@@ -2410,7 +2345,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "VERÓNICA CARRIZO"
+           "CARRIZO, VERONICA BEATRIZ"
           ],
           "plazas": [
            "N°184399"
@@ -2421,7 +2356,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "RUBÉN DARÍO MANSILLA/AGUSTÍN JUNCOS"
+           "MANSILLA, RUBEN DARIO"
           ],
           "plazas": [
            "N°369354"
@@ -2457,7 +2392,7 @@
          {
           "materia": "PRODUCCIÓN DE PLANTAS EN VIVERO",
           "docentes": [
-           "JUAN JOSÉ HEREDIA"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
            "N°236199"
@@ -2468,7 +2403,7 @@
          {
           "materia": "GRANJA FAMILIAR II",
           "docentes": [
-           "NUÑEZ MARCOS/ JUAN JOSÉ HEREDIA"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
            "N°236199"
@@ -2477,7 +2412,7 @@
          {
           "materia": "TALLER RURAL II (SOLDADURA)",
           "docentes": [
-           "AGUSTÍN VILLA"
+           "MEDINA, JORGE LUIS"
           ],
           "plazas": [
            "N°236200"
@@ -2495,7 +2430,7 @@
          {
           "materia": "GRANJA FAMILIAR II",
           "docentes": [
-           "NUÑEZ MARCOS / JUAN JOSÉ HEREDIA"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
            "N°236199"
@@ -2506,7 +2441,7 @@
          {
           "materia": "PRODUCCIÓN DE PLANTAS EN VIVERO",
           "docentes": [
-           "JUAN JOSÉ HEREDIA"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
            "N°236199"
@@ -2515,7 +2450,7 @@
          {
           "materia": "TALLER RURAL II (SOLDADURA)",
           "docentes": [
-           "AGUSTÍN VILLA"
+           "MEDINA, JORGE LUIS"
           ],
           "plazas": [
            "N°236200"
@@ -2539,7 +2474,7 @@
          {
           "materia": "PRODUCCIÓN DE PLANTAS EN VIVERO",
           "docentes": [
-           "JUAN JOSÉ HERDIA"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
            "N°236199"
@@ -2550,7 +2485,7 @@
          {
           "materia": "GRANJA FAMILIAR II",
           "docentes": [
-           "NUÑEZ MARCOS/ JUAN JOSÉ HEREDIA"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
            "N°236199"
@@ -2559,7 +2494,7 @@
          {
           "materia": "TALLER RURAL II (SOLDADURA)",
           "docentes": [
-           "AGUSTÍN VILLA"
+           "MEDINA, JORGE LUIS"
           ],
           "plazas": [
            "N°236200"
@@ -2577,7 +2512,7 @@
          {
           "materia": "GRANJA FAMILIAR II",
           "docentes": [
-           "NUÑEZ MARCOS / JUAN JOSÉ HEREDIA"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
            "N°236199"
@@ -2588,7 +2523,7 @@
          {
           "materia": "PRODUCCIÓN DE PLANTAS EN VIVERO",
           "docentes": [
-           "JUAN JOSÉ HEREDIA"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
            "N°236199"
@@ -2597,7 +2532,7 @@
          {
           "materia": "TALLER RURAL II (SOLDADURA)",
           "docentes": [
-           "AGUSTÍN VILLA"
+           "MEDINA, JORGE LUIS"
           ],
           "plazas": [
            "N°236200"
@@ -2631,7 +2566,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "HUMBERTO TARASCIO"
+           "TARASCIO, HUMBERTO FLAVIO"
           ],
           "plazas": [
            "N°167804"
@@ -2651,7 +2586,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "HUMBERTO TARASCIO"
+           "TARASCIO, HUMBERTO FLAVIO"
           ],
           "plazas": [
            "N°167804"
@@ -2690,25 +2625,19 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ALEJANDRA SORIA/ERICA SUAREZ"
+           "SUAREZ, ERICA LIZET"
           ],
           "plazas": [
            "N°189444"
           ]
          }
         ],
-        "MARTES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
+        "MARTES": [],
         "MIERCOLES": [
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "PAOLA ORTEGA/VILMA LAZO"
+           "LAZO, VILMA NANCY"
           ],
           "plazas": [
            "N°190253"
@@ -2719,20 +2648,14 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "SONIA FERREIRA/EMILIA VILLAVERDE"
+           "VALDEZ, AMINA AGOSTINA"
           ],
           "plazas": [
            "N°179166"
           ]
          }
         ],
-        "VIERNES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
+        "VIERNES": []
        }
       },
       {
@@ -2742,7 +2665,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ALEJANDRA SORIA/ERICA SUAREZ"
+           "SUAREZ, ERICA LIZET"
           ],
           "plazas": [
            "N°189444"
@@ -2753,7 +2676,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "VERÓNICA CARRIZO"
+           "CARRIZO, VERONICA BEATRIZ"
           ],
           "plazas": [
            "N°184400"
@@ -2764,7 +2687,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "PAOLA ORTEGA/VILMA LAZO"
+           "LAZO, VILMA NANCY"
           ],
           "plazas": [
            "N°190253"
@@ -2775,7 +2698,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "SONIA FERREIRA/EMILIA VILLAVERDE"
+           "VALDEZ, AMINA AGOSTINA"
           ],
           "plazas": [
            "N°179166"
@@ -2786,7 +2709,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "HORACIO ORELLANA"
+           "ORELLANA, HORACIO ENRIQUE"
           ],
           "plazas": [
            "N°146937"
@@ -2802,7 +2725,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ALEJANDRA SORIA/ERICA SUAREZ"
+           "SUAREZ, ERICA LIZET"
           ],
           "plazas": [
            "N°189444"
@@ -2813,7 +2736,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "VERÓNICA CARRIZO"
+           "CARRIZO, VERONICA BEATRIZ"
           ],
           "plazas": [
            "N°184400"
@@ -2824,7 +2747,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "PAOLA ORTEGA/VILMA LAZO"
+           "LAZO, VILMA NANCY"
           ],
           "plazas": [
            "N°190253"
@@ -2835,7 +2758,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "SONIA FERREIRA/EMILIA VILLAVERDE"
+           "VALDEZ, AMINA AGOSTINA"
           ],
           "plazas": [
            "N°179166"
@@ -2846,7 +2769,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "HORACIO ORELLANA"
+           "ORELLANA, HORACIO ENRIQUE"
           ],
           "plazas": [
            "N°146937"
@@ -2862,7 +2785,8 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "NANCY ALBORNOZ/CARLOS MAURO"
+           "ALBORNOZ, NANCY CARMELA",
+           "MAURO, CARLOS DEOLINDO"
           ],
           "plazas": [
            "N°178583"
@@ -2873,7 +2797,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "VERÓNICA CARRIZO"
+           "CARRIZO, VERONICA BEATRIZ"
           ],
           "plazas": [
            "N°184400"
@@ -2884,7 +2808,7 @@
          {
           "materia": "EDUCACIÓN ÉTICA Y CIUDADANA",
           "docentes": [
-           "SANDRA VILLAREAL"
+           "VILLARREAL, SANDRA ISABEL"
           ],
           "plazas": [
            "N°237903"
@@ -2895,7 +2819,7 @@
          {
           "materia": "LENGUA EXTRANJERA (INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°181875"
@@ -2906,7 +2830,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "PAOLA ORTEGA/VILMA LAZO"
+           "LAZO, VILMA NANCY"
           ],
           "plazas": [
            "N°190253"
@@ -2922,7 +2846,8 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "NANCY ALBORNOZ/CARLOS MAURO"
+           "ALBORNOZ, NANCY CARMELA",
+           "MAURO, CARLOS DEOLINDO"
           ],
           "plazas": [
            "N°178583"
@@ -2933,7 +2858,7 @@
          {
           "materia": "LENGUA EXTRANJERA (INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°181875"
@@ -2944,7 +2869,7 @@
          {
           "materia": "EDUCACIÓN ÉTICA Y CIUDADANA",
           "docentes": [
-           "SANDRA VILLAREAL"
+           "VILLARREAL, SANDRA ISABEL"
           ],
           "plazas": [
            "N°237903"
@@ -2955,7 +2880,7 @@
          {
           "materia": "LENGUA EXTRANJERA (INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°181875"
@@ -2966,7 +2891,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "PAOLA ORTEGA/VILMA LAZO"
+           "LAZO, VILMA NANCY"
           ],
           "plazas": [
            "N°190253"
@@ -2982,7 +2907,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "SANDRA VILLARREAL"
+           "VILLARREAL, SANDRA ISABEL"
           ],
           "plazas": [
            "N°189441"
@@ -2993,7 +2918,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "VILMA LAZO"
+           "PIZZONI, AGOSTINA"
           ],
           "plazas": [
            "N°236574"
@@ -3004,7 +2929,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "SONIA FERREIRA/EMILIA VILLAVERDE"
+           "VALDEZ, AMINA AGOSTINA"
           ],
           "plazas": [
            "N°179166"
@@ -3015,7 +2940,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "HORACIO ORELLANA"
+           "ORELLANA, HORACIO ENRIQUE"
           ],
           "plazas": [
            "N°146937"
@@ -3026,7 +2951,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "VILMA LAZO"
+           "PIZZONI, AGOSTINA"
           ],
           "plazas": [
            "N°236574"
@@ -3042,7 +2967,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "SANDRA VILLARREAL"
+           "VILLARREAL, SANDRA ISABEL"
           ],
           "plazas": [
            "N°189441"
@@ -3053,7 +2978,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "VILMA LAZO"
+           "PIZZONI, AGOSTINA"
           ],
           "plazas": [
            "N°236574"
@@ -3064,7 +2989,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "SONIA FERREIRA/EMILIA VILLAVERDE"
+           "VALDEZ, AMINA AGOSTINA"
           ],
           "plazas": [
            "N°179166"
@@ -3075,7 +3000,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "HORACIO ORELLANA"
+           "ORELLANA, HORACIO ENRIQUE"
           ],
           "plazas": [
            "N°146937"
@@ -3086,7 +3011,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "VILMA LAZO"
+           "PIZZONI, AGOSTINA"
           ],
           "plazas": [
            "N°236574"
@@ -3122,7 +3047,7 @@
          {
           "materia": "PRODUCCIÓN DE PLANTAS EN VIVERO",
           "docentes": [
-           "JUAN JOSÉ HEREDIA"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
            "N°236199"
@@ -3133,7 +3058,7 @@
          {
           "materia": "GRANJA FAMILIAR II",
           "docentes": [
-           "NUÑEZ MARCOS/ JUAN JOSÉ HEREDIA"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
            "N°236199"
@@ -3142,7 +3067,7 @@
          {
           "materia": "TALLER RURAL II (SOLDADURA)",
           "docentes": [
-           "AGUSTÍN VILLA"
+           "MEDINA, JORGE LUIS"
           ],
           "plazas": [
            "N°236200"
@@ -3160,7 +3085,7 @@
          {
           "materia": "GRANJA FAMILIAR II",
           "docentes": [
-           "NUÑEZ MARCOS/ JUAN JOSÉ HEREDIA"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
            "N°236199"
@@ -3171,7 +3096,7 @@
          {
           "materia": "PRODUCCIÓN DE PLANTAS EN VIVERO",
           "docentes": [
-           "JUAN JOSÉ HEREDIA"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
            "N°236199"
@@ -3180,7 +3105,7 @@
          {
           "materia": "TALLER RURAL II (SOLDADURA)",
           "docentes": [
-           "AGUSTÍN VILLA"
+           "MEDINA, JORGE LUIS"
           ],
           "plazas": [
            "N°236200"
@@ -3204,7 +3129,7 @@
          {
           "materia": "PRODUCCIÓN DE PLANTAS EN VIVERO",
           "docentes": [
-           "JUAN JOSÉ HEREDIA"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
            "N°236199"
@@ -3215,7 +3140,7 @@
          {
           "materia": "GRANJA FAMILIAR II",
           "docentes": [
-           "NUÑEZ MARCOS/ JUAN JOSÉ HEREDIA"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
            "N°236199"
@@ -3224,7 +3149,7 @@
          {
           "materia": "TALLER RURAL II (SOLDADURA)",
           "docentes": [
-           "AGUSTÍN VILLA"
+           "MEDINA, JORGE LUIS"
           ],
           "plazas": [
            "N°236200"
@@ -3242,7 +3167,7 @@
          {
           "materia": "GRANJA FAMILIAR II",
           "docentes": [
-           "NUÑEZ MARCOS/ JUAN JOSÉ HEREDIA"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
            "N°236199"
@@ -3253,7 +3178,7 @@
          {
           "materia": "PRODUCCIÓN DE PLANTAS EN VIVERO",
           "docentes": [
-           "JUAN JOSÉ HEREDIA"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
            "N°236199"
@@ -3262,7 +3187,7 @@
          {
           "materia": "TALLER RURAL II (SOLDADURA)",
           "docentes": [
-           "AGUSTÍN VILLA"
+           "MEDINA, JORGE LUIS"
           ],
           "plazas": [
            "N°236200"
@@ -3296,7 +3221,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "HUMBERTO TARASCIO"
+           "TARASCIO, HUMBERTO FLAVIO"
           ],
           "plazas": [
            "N°195688"
@@ -3316,7 +3241,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "HUMBERTO TARASCIO"
+           "TARASCIO, HUMBERTO FLAVIO"
           ],
           "plazas": [
            "N°195688"
@@ -3351,18 +3276,12 @@
       {
        "hora": "13:10 A 13:50",
        "celdas": {
-        "LUNES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
+        "LUNES": [],
         "MARTES": [
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "VILMA LAZO"
+           "LAZO, VILMA NANCY"
           ],
           "plazas": [
            "N°182748"
@@ -3373,25 +3292,19 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "VANESA RODRÍGUEZ"
+           "RODRIGUEZ, VANESA DEL VALLE"
           ],
           "plazas": [
            "N°237765"
           ]
          }
         ],
-        "JUEVES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
+        "JUEVES": [],
         "VIERNES": [
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ALEJANDRA SORIA/ERICA SUAREZ"
+           "SUAREZ, ERICA LIZET"
           ],
           "plazas": [
            "N°189445"
@@ -3407,7 +3320,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "SANDRA VILLAREAL"
+           "VILLARREAL, SANDRA ISABEL"
           ],
           "plazas": [
            "N°189442"
@@ -3418,7 +3331,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "VILMA LAZO"
+           "LAZO, VILMA NANCY"
           ],
           "plazas": [
            "N°182748"
@@ -3429,7 +3342,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "VANESA RODRÍGUEZ"
+           "RODRIGUEZ, VANESA DEL VALLE"
           ],
           "plazas": [
            "N°237765"
@@ -3440,7 +3353,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "RUBÉN MANSILLA/ADRIANA SALAS"
+           "MANSILLA, RUBEN DARIO"
           ],
           "plazas": [
            "N°371036"
@@ -3451,7 +3364,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ALEJANDRA SORIA/ERICA SUAREZ"
+           "SUAREZ, ERICA LIZET"
           ],
           "plazas": [
            "N°189445"
@@ -3467,7 +3380,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "SANDRA VILLAREAL"
+           "VILLARREAL, SANDRA ISABEL"
           ],
           "plazas": [
            "N°189442"
@@ -3478,7 +3391,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "VILMA LAZO"
+           "LAZO, VILMA NANCY"
           ],
           "plazas": [
            "N°182748"
@@ -3489,7 +3402,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "VANESA RODRÍGUEZ"
+           "RODRIGUEZ, VANESA DEL VALLE"
           ],
           "plazas": [
            "N°237765"
@@ -3500,7 +3413,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "RUBÉN MANSILLA/ADRIANA SALAS"
+           "MANSILLA, RUBEN DARIO"
           ],
           "plazas": [
            "N°371036"
@@ -3511,7 +3424,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ALEJANDRA SORIA/ERICA SUAREZ"
+           "SUAREZ, ERICA LIZET"
           ],
           "plazas": [
            "N°189445"
@@ -3527,7 +3440,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "VERÓNICA CARRIZO"
+           "CARRIZO, VERONICA BEATRIZ"
           ],
           "plazas": [
            "N°184401"
@@ -3538,7 +3451,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "SILVIA AUGIER"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°291806"
@@ -3549,7 +3462,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "VILMA LAZO"
+           "LAZO, VILMA NANCY"
           ],
           "plazas": [
            "N°182748"
@@ -3560,7 +3473,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "VERÓNICA CARRIZO"
+           "CARRIZO, VERONICA BEATRIZ"
           ],
           "plazas": [
            "N°184401"
@@ -3571,7 +3484,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "VANESA RODRÍGUEZ"
+           "RODRIGUEZ, VANESA DEL VALLE"
           ],
           "plazas": [
            "N°237765"
@@ -3587,7 +3500,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "VERÓNICA CARRIZO"
+           "CARRIZO, VERONICA BEATRIZ"
           ],
           "plazas": [
            "N°184401"
@@ -3598,7 +3511,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "SILVIA AUGIER"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°291806"
@@ -3609,7 +3522,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "VILMA LAZO"
+           "LAZO, VILMA NANCY"
           ],
           "plazas": [
            "N°182748"
@@ -3620,7 +3533,7 @@
          {
           "materia": "LENGUA EXTRANJERA (INGLÉS)",
           "docentes": [
-           "VERÓNICA ARGAÑARAZ"
+           "ARGAÑARAZ, VERONICA SILVIA"
           ],
           "plazas": [
            "N°187462"
@@ -3631,7 +3544,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "VANESA RODRÍGUEZ"
+           "RODRIGUEZ, VANESA DEL VALLE"
           ],
           "plazas": [
            "N°237765"
@@ -3647,7 +3560,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "NANCY ALBORNOZ/PAMELA SORIA"
+           "SORIA, NELIDA PAMELA"
           ],
           "plazas": [
            "N°178584"
@@ -3658,7 +3571,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "RUBÉN MANSILLA/ADRIANA SALAS"
+           "MANSILLA, RUBEN DARIO"
           ],
           "plazas": [
            "N°371036"
@@ -3669,10 +3582,10 @@
          {
           "materia": "EDUCACIÓN ÉTICA Y CIUDADANA",
           "docentes": [
-           "SANDRA VILLAREAL"
+           "VILLARREAL, SANDRA ISABEL"
           ],
           "plazas": [
-           "N°189442"
+           "N°237904"
           ]
          }
         ],
@@ -3680,7 +3593,7 @@
          {
           "materia": "LENGUA EXTRANJERA (INGLÉS)",
           "docentes": [
-           "VERÓNICA ARGAÑARAZ"
+           "ARGAÑARAZ, VERONICA SILVIA"
           ],
           "plazas": [
            "N°187462"
@@ -3691,10 +3604,12 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "SILVIA AUGIER",
-           "SIN PLAZA"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°237919",
+           "N°291806"
+          ]
          }
         ]
        }
@@ -3706,7 +3621,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "NANCY ALBORNOZ/PAMELA SORIA"
+           "SORIA, NELIDA PAMELA"
           ],
           "plazas": [
            "N°178584"
@@ -3717,7 +3632,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "RUBÉN MANSILLA/ADRIANA SALAS"
+           "MANSILLA, RUBEN DARIO"
           ],
           "plazas": [
            "N°371036"
@@ -3728,10 +3643,10 @@
          {
           "materia": "EDUCACIÓN ÉTICA Y CIUDADANA",
           "docentes": [
-           "SANDRA VILLAREAL"
+           "VILLARREAL, SANDRA ISABEL"
           ],
           "plazas": [
-           "N°189442"
+           "N°237904"
           ]
          }
         ],
@@ -3739,7 +3654,7 @@
          {
           "materia": "LENGUA EXTRANJERA (INGLÉS)",
           "docentes": [
-           "VERÓNICA ARGAÑARAZ"
+           "ARGAÑARAZ, VERONICA SILVIA"
           ],
           "plazas": [
            "N°187462"
@@ -3750,10 +3665,12 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "SILVIA AUGIER",
-           "SIN PLAZA"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°237919",
+           "N°291806"
+          ]
          }
         ]
        }
@@ -3785,7 +3702,7 @@
          {
           "materia": "PRODUCCIÓN DE PLANTAS EN VIVERO",
           "docentes": [
-           "JUAN JOSÉ HEREDIA"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
            "N°236199"
@@ -3796,7 +3713,7 @@
          {
           "materia": "GRANJA FAMILIAR II",
           "docentes": [
-           "NUÑEZ MARCOS/ JUAN JOSÉ HEREDIA"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
            "N°236199"
@@ -3805,7 +3722,7 @@
          {
           "materia": "TALLER RURAL II (SOLDADURA)",
           "docentes": [
-           "AGUSTÍN VILLA"
+           "MEDINA, JORGE LUIS"
           ],
           "plazas": [
            "N°236200"
@@ -3816,7 +3733,7 @@
          {
           "materia": "GRANJA FAMILIAR II",
           "docentes": [
-           "NUÑEZ MARCOS/ JUAN JOSÉ HEREDIA"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
            "N°236199"
@@ -3834,7 +3751,7 @@
          {
           "materia": "PRODUCCIÓN DE PLANTAS EN VIVERO",
           "docentes": [
-           "JUAN JOSÉ HEREDIA"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
            "N°236199"
@@ -3843,7 +3760,7 @@
          {
           "materia": "TALLER RURAL II (SOLDADURA)",
           "docentes": [
-           "AGUSTÍN VILLA"
+           "MEDINA, JORGE LUIS"
           ],
           "plazas": [
            "N°236200"
@@ -3867,7 +3784,7 @@
          {
           "materia": "PRODUCCIÓN DE PLANTAS EN VIVERO",
           "docentes": [
-           "JUAN JOSÉ HEREDIA"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
            "N°236199"
@@ -3878,7 +3795,7 @@
          {
           "materia": "GRANJA FAMILIAR II",
           "docentes": [
-           "NUÑEZ MARCOS/ JUAN JOSÉ HEREDIA"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
            "N°236199"
@@ -3887,7 +3804,7 @@
          {
           "materia": "TALLER RURAL II (SOLDADURA)",
           "docentes": [
-           "AGUSTÍN VILLA"
+           "MEDINA, JORGE LUIS"
           ],
           "plazas": [
            "N°236200"
@@ -3898,7 +3815,7 @@
          {
           "materia": "GRANJA FAMILIAR II",
           "docentes": [
-           "NUÑEZ MARCOS/ JUAN JOSÉ HEREDIA"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
            "N°236199"
@@ -3916,7 +3833,7 @@
          {
           "materia": "PRODUCCIÓN DE PLANTAS EN VIVERO",
           "docentes": [
-           "JUAN JOSÉ HEREDIA"
+           "HEREDIA, JUAN JOSE"
           ],
           "plazas": [
            "N°236199"
@@ -3925,7 +3842,7 @@
          {
           "materia": "TALLER RURAL II (SOLDADURA)",
           "docentes": [
-           "AGUSTÍN VILLA"
+           "MEDINA, JORGE LUIS"
           ],
           "plazas": [
            "N°236200"
@@ -3959,7 +3876,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "MAURICIO MAIDANA"
+           "VACANTE"
           ],
           "plazas": [
            "N°181580"
@@ -3979,7 +3896,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "MAURICIO MAIDANA"
+           "VACANTE"
           ],
           "plazas": [
            "N°181580"
@@ -4014,36 +3931,24 @@
       {
        "hora": "13:10 A 13:50",
        "celdas": {
-        "LUNES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
+        "LUNES": [],
         "MARTES": [
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "ALDANA/SORIA"
+           "SORIA, NELIDA PAMELA"
           ],
           "plazas": [
            "N°201976"
           ]
          }
         ],
-        "MIERCOLES": [
-         {
-          "materia": "LIBRE DE HOARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
+        "MIERCOLES": [],
         "JUEVES": [
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "SANDRA VILLAREAL"
+           "VILLARREAL, SANDRA ISABEL"
           ],
           "plazas": [
            "N°148357"
@@ -4054,7 +3959,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "AMANI/LAZO"
+           "LAZO, VILMA NANCY"
           ],
           "plazas": [
            "N°176979"
@@ -4070,7 +3975,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "MATILDE VAQUERA"
+           "VAQUERA, MATILDE DEL CARMEN"
           ],
           "plazas": [
            "N°191277"
@@ -4081,7 +3986,7 @@
          {
           "materia": "LENGUA EXTRANJERA(INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°192066"
@@ -4092,6 +3997,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
+           "VACANTE",
            "HORACIO ORELLANA"
           ],
           "plazas": [
@@ -4103,7 +4009,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "SANDRA VILLAREAL"
+           "VILLARREAL, SANDRA ISABEL"
           ],
           "plazas": [
            "N°148357"
@@ -4114,7 +4020,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "AMANI/LAZO"
+           "LAZO, VILMA NANCY"
           ],
           "plazas": [
            "N°176979"
@@ -4130,7 +4036,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "MATILDE VAQUERA"
+           "VAQUERA, MATILDE DEL CARMEN"
           ],
           "plazas": [
            "N°191277"
@@ -4141,7 +4047,7 @@
          {
           "materia": "LENGUA EXTRANJERA(INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°192066"
@@ -4152,6 +4058,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
+           "VACANTE",
            "HORACIO ORELLANA"
           ],
           "plazas": [
@@ -4163,7 +4070,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "SANDRA VILLAREAL"
+           "VILLARREAL, SANDRA ISABEL"
           ],
           "plazas": [
            "N°148357"
@@ -4174,7 +4081,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "AMANI/LAZO"
+           "LAZO, VILMA NANCY"
           ],
           "plazas": [
            "N°176979"
@@ -4190,7 +4097,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "ALDANA/SORIA P."
+           "SORIA, NELIDA PAMELA"
           ],
           "plazas": [
            "N°201976"
@@ -4201,7 +4108,7 @@
          {
           "materia": "LENGUA EXTRANJERA(INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°192066"
@@ -4212,7 +4119,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ALBORNOZ/SUAREZ"
+           "SUAREZ, ERICA LIZET"
           ],
           "plazas": [
            "N°237267"
@@ -4223,10 +4130,10 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "MATILDE VAQUERA"
+           "VAQUERA, MATILDE DEL CARMEN"
           ],
           "plazas": [
-           "N°148357"
+           "N°191277"
           ]
          }
         ],
@@ -4234,7 +4141,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "CRISTIAN MAZA MURÚA"
+           "MAZA MURUA, CRISTIAN BERHMAN"
           ],
           "plazas": [
            "N°237760"
@@ -4250,7 +4157,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "ALDANA/SORIA P."
+           "SORIA, NELIDA PAMELA"
           ],
           "plazas": [
            "N°201976"
@@ -4261,7 +4168,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "VERÓNICA CARRIZO"
+           "CARRIZO, VERONICA BEATRIZ"
           ],
           "plazas": [
            "N°192729"
@@ -4272,7 +4179,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ALBORNOZ/SUAREZ"
+           "SUAREZ, ERICA LIZET"
           ],
           "plazas": [
            "N°237267"
@@ -4283,10 +4190,10 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "MATILDE VAQUERA"
+           "VAQUERA, MATILDE DEL CARMEN"
           ],
           "plazas": [
-           "N°148357"
+           "N°191277"
           ]
          }
         ],
@@ -4294,7 +4201,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "CRISTIAN MAZA MURÚA"
+           "MAZA MURUA, CRISTIAN BERHMAN"
           ],
           "plazas": [
            "N°237760"
@@ -4310,6 +4217,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
+           "VACANTE",
            "HORACIO ORELLANA"
           ],
           "plazas": [
@@ -4321,7 +4229,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "VERÓNICA CARRIZO"
+           "CARRIZO, VERONICA BEATRIZ"
           ],
           "plazas": [
            "N°192729"
@@ -4332,7 +4240,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "CRISTIAN MAZA MURÚA"
+           "MAZA MURUA, CRISTIAN BERHMAN"
           ],
           "plazas": [
            "N°237760"
@@ -4343,7 +4251,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "AMANI/LAZO"
+           "LAZO, VILMA NANCY"
           ],
           "plazas": [
            "N°176979"
@@ -4354,7 +4262,7 @@
          {
           "materia": "EDUCACIÓN ÉTICA Y CIUDADANA",
           "docentes": [
-           "VERÓNICA CARRIZO"
+           "CARRIZO, VERONICA BEATRIZ"
           ],
           "plazas": [
            "N°192726"
@@ -4370,6 +4278,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
+           "VACANTE",
            "HORACIO ORELLANA"
           ],
           "plazas": [
@@ -4381,7 +4290,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "VERÓNICA CARRIZO"
+           "CARRIZO, VERONICA BEATRIZ"
           ],
           "plazas": [
            "N°192729"
@@ -4392,7 +4301,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "CRISTIAN MAZA MURÚA"
+           "MAZA MURUA, CRISTIAN BERHMAN"
           ],
           "plazas": [
            "N°237760"
@@ -4403,7 +4312,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "AMANI/LAZO"
+           "LAZO, VILMA NANCY"
           ],
           "plazas": [
            "N°176979"
@@ -4414,7 +4323,7 @@
          {
           "materia": "EDUCACIÓN ÉTICA Y CIUDADANA",
           "docentes": [
-           "VERÓNICA CARRIZO"
+           "CARRIZO, VERONICA BEATRIZ"
           ],
           "plazas": [
            "N°192726"
@@ -4443,7 +4352,7 @@
          {
           "materia": "TALLER RURAL III (ELECTRICIDAD)",
           "docentes": [
-           "AGUSTÍN VILLA"
+           "MEDINA, JORGE LUIS"
           ],
           "plazas": [
            "N°236200"
@@ -4452,7 +4361,7 @@
          {
           "materia": "CLIMATOLOGÍA Y FENOLOGÍA AGRÍCOLA",
           "docentes": [
-           "MARTIN EMGE"
+           "EMGE, MARTIN LORENZ"
           ],
           "plazas": [
            "N°270493"
@@ -4464,7 +4373,7 @@
          {
           "materia": "TALLER RURAL III (ELECTRICIDAD)",
           "docentes": [
-           "AGUSTÍN VILLA"
+           "MEDINA, JORGE LUIS"
           ],
           "plazas": [
            "N°236200"
@@ -4473,7 +4382,7 @@
          {
           "materia": "CLIMATOLOGÍA Y FENOLOGÍA AGRÍCOLA",
           "docentes": [
-           "MARTIN EMGE"
+           "EMGE, MARTIN LORENZ"
           ],
           "plazas": [
            "N°270493"
@@ -4482,7 +4391,7 @@
          {
           "materia": "NUTRICIÓN ANIMAL Y FORRAJES",
           "docentes": [
-           "CANDELARIA FLORES"
+           "FLORES, JUANA CANDELARIA"
           ],
           "plazas": [
            "N°236201"
@@ -4494,7 +4403,7 @@
          {
           "materia": "NUTRICIÓN ANIMAL Y FORRAJES",
           "docentes": [
-           "CANDELARIA FLORES"
+           "FLORES, JUANA CANDELARIA"
           ],
           "plazas": [
            "N°236201"
@@ -4510,7 +4419,7 @@
          {
           "materia": "TALLER RURAL III (ELECTRICIDAD)",
           "docentes": [
-           "AGUSTÍN VILLA"
+           "MEDINA, JORGE LUIS"
           ],
           "plazas": [
            "N°236200"
@@ -4519,7 +4428,7 @@
          {
           "materia": "CLIMATOLOGÍA Y FENOLOGÍA AGRÍCOLA",
           "docentes": [
-           "MARTIN EMGE"
+           "EMGE, MARTIN LORENZ"
           ],
           "plazas": [
            "N°270493"
@@ -4531,7 +4440,7 @@
          {
           "materia": "TALLER RURAL III (ELECTRICIDAD)",
           "docentes": [
-           "AGUSTÍN VILLA"
+           "MEDINA, JORGE LUIS"
           ],
           "plazas": [
            "N°236200"
@@ -4540,7 +4449,7 @@
          {
           "materia": "CLIMATOLOGÍA Y FENOLOGÍA AGRÍCOLA",
           "docentes": [
-           "MARTIN EMGE"
+           "EMGE, MARTIN LORENZ"
           ],
           "plazas": [
            "N°270493"
@@ -4549,7 +4458,7 @@
          {
           "materia": "NUTRICIÓN ANIMAL Y FORRAJES",
           "docentes": [
-           "CANDELARIA FLORES"
+           "FLORES, JUANA CANDELARIA"
           ],
           "plazas": [
            "N°236201"
@@ -4561,7 +4470,7 @@
          {
           "materia": "NUTRICIÓN ANIMAL Y FORRAJES",
           "docentes": [
-           "CANDELARIA FLORES"
+           "FLORES, JUANA CANDELARIA"
           ],
           "plazas": [
            "N°236201"
@@ -4593,7 +4502,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "MA. JOSÉ DÍAZ FRANCHI"
+           "DIAZ FRANCHI, MARIA JOSE"
           ],
           "plazas": [
            "N°190135"
@@ -4613,7 +4522,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "MA. JOSÉ DÍAZ FRANCHI"
+           "DIAZ FRANCHI, MARIA JOSE"
           ],
           "plazas": [
            "N°190135"
@@ -4653,7 +4562,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "AMANI/VILMA LAZO"
+           "LAZO, VILMA NANCY"
           ],
           "plazas": [
            "N°140862"
@@ -4664,32 +4573,20 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "MORENO MAGDALENA/MERCEDES CAMPOS"
+           "CAMPOS, MERCEDES DEL VALLE"
           ],
           "plazas": [
            "N°191746"
           ]
          }
         ],
-        "MIERCOLES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
+        "MIERCOLES": [],
+        "JUEVES": [],
         "VIERNES": [
          {
           "materia": "LENGUA EXTRANJERA(INGLÉS)",
           "docentes": [
-           "VERÓNICA BALATTO"
+           "BALATTO, VERONICA VALERIA"
           ],
           "plazas": [
            "N°236576"
@@ -4705,7 +4602,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "AMANI/VILMA LAZO"
+           "LAZO, VILMA NANCY"
           ],
           "plazas": [
            "N°140862"
@@ -4716,7 +4613,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "MORENO MAGDALENA/MERCEDES CAMPOS"
+           "CAMPOS, MERCEDES DEL VALLE"
           ],
           "plazas": [
            "N°191746"
@@ -4727,7 +4624,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "VERÓNICA CARRIZA"
+           "CARRIZO, VERONICA BEATRIZ"
           ],
           "plazas": [
            "N°192728"
@@ -4738,7 +4635,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "VANESA RODRÍGUEZ"
+           "RODRIGUEZ, VANESA DEL VALLE"
           ],
           "plazas": [
            "N°237762"
@@ -4749,7 +4646,7 @@
          {
           "materia": "LENGUA EXTRANJERA(INGLÉS)",
           "docentes": [
-           "VERÓNICA BALATTO"
+           "BALATTO, VERONICA VALERIA"
           ],
           "plazas": [
            "N°236576"
@@ -4765,7 +4662,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "AMANI/VILMA LAZO"
+           "LAZO, VILMA NANCY"
           ],
           "plazas": [
            "N°140862"
@@ -4776,7 +4673,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "MORENO MAGDALENA/MERCEDES CAMPOS"
+           "CAMPOS, MERCEDES DEL VALLE"
           ],
           "plazas": [
            "N°191746"
@@ -4787,7 +4684,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "VERÓNICA CARRIZA"
+           "CARRIZO, VERONICA BEATRIZ"
           ],
           "plazas": [
            "N°192728"
@@ -4798,7 +4695,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "VANESA RODRÍGUEZ"
+           "RODRIGUEZ, VANESA DEL VALLE"
           ],
           "plazas": [
            "N°237762"
@@ -4809,7 +4706,7 @@
          {
           "materia": "LENGUA EXTRANJERA(INGLÉS)",
           "docentes": [
-           "VERÓNICA BALATTO"
+           "BALATTO, VERONICA VALERIA"
           ],
           "plazas": [
            "N°236576"
@@ -4825,7 +4722,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "MATILDE VAQUERA"
+           "VAQUERA, MATILDE DEL CARMEN"
           ],
           "plazas": [
            "N°191278"
@@ -4836,7 +4733,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "AMANI/VILMA LAZO"
+           "LAZO, VILMA NANCY"
           ],
           "plazas": [
            "N°140862"
@@ -4845,9 +4742,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "ÉTICA",
+          "materia": "EDUCACION ETICA Y CIUDADANA",
           "docentes": [
-           "VERÓNICA CARRIZO"
+           "CARRIZO, VERONICA BEATRIZ"
           ],
           "plazas": [
            "N°192727"
@@ -4858,7 +4755,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "MANSILLA/AGUILAR"
+           "MANSILLA, RUBEN DARIO"
           ],
           "plazas": [
            "N°371038"
@@ -4869,7 +4766,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "VERÓNICA CARRIZA"
+           "CARRIZO, VERONICA BEATRIZ"
           ],
           "plazas": [
            "N°192728"
@@ -4885,7 +4782,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "MATILDE VAQUERA"
+           "VAQUERA, MATILDE DEL CARMEN"
           ],
           "plazas": [
            "N°191278"
@@ -4896,7 +4793,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "AMANI/VILMA LAZO"
+           "LAZO, VILMA NANCY"
           ],
           "plazas": [
            "N°140862"
@@ -4905,9 +4802,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "ÉTICA",
+          "materia": "EDUCACION ETICA Y CIUDADANA",
           "docentes": [
-           "VERÓNICA CARRIZO"
+           "CARRIZO, VERONICA BEATRIZ"
           ],
           "plazas": [
            "N°192727"
@@ -4918,7 +4815,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "MANSILLA/AGUILAR"
+           "MANSILLA, RUBEN DARIO"
           ],
           "plazas": [
            "N°371038"
@@ -4929,7 +4826,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "JUAN CALAMANDREI"
+           "CALAMANDREI, JUAN JOSE GERARDO"
           ],
           "plazas": [
            "N°365790"
@@ -4945,7 +4842,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "MANSILLA/AGUILAR"
+           "MANSILLA, RUBEN DARIO"
           ],
           "plazas": [
            "N°371038"
@@ -4956,7 +4853,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "VANESA RODRÍGUEZ"
+           "RODRIGUEZ, VANESA DEL VALLE"
           ],
           "plazas": [
            "N°237762"
@@ -4967,7 +4864,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ALBORNOZ/SUAREZ"
+           "SUAREZ, ERICA LIZET"
           ],
           "plazas": [
            "N°237266"
@@ -4978,7 +4875,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "MATILDE VAQUERA"
+           "VAQUERA, MATILDE DEL CARMEN"
           ],
           "plazas": [
            "N°191278"
@@ -4989,7 +4886,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "JUAN CALAMANDREI"
+           "CALAMANDREI, JUAN JOSE GERARDO"
           ],
           "plazas": [
            "N°365790"
@@ -5005,7 +4902,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "MANSILLA/AGUILAR"
+           "MANSILLA, RUBEN DARIO"
           ],
           "plazas": [
            "N°371038"
@@ -5016,7 +4913,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "VANESA RODRÍGUEZ"
+           "RODRIGUEZ, VANESA DEL VALLE"
           ],
           "plazas": [
            "N°237762"
@@ -5027,7 +4924,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ALBORNOZ/SUAREZ"
+           "SUAREZ, ERICA LIZET"
           ],
           "plazas": [
            "N°237266"
@@ -5038,7 +4935,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "MATILDE VAQUERA"
+           "VAQUERA, MATILDE DEL CARMEN"
           ],
           "plazas": [
            "N°191278"
@@ -5049,7 +4946,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "JUAN CALAMANDREI"
+           "CALAMANDREI, JUAN JOSE GERARDO"
           ],
           "plazas": [
            "N°365790"
@@ -5078,7 +4975,7 @@
          {
           "materia": "TALLER RURAL III (ELECTRICIDAD)",
           "docentes": [
-           "AGUSTÍN VILLA"
+           "MEDINA, JORGE LUIS"
           ],
           "plazas": [
            "N°236200"
@@ -5087,7 +4984,7 @@
          {
           "materia": "CLIMATOLOGÍA Y FENOLOGÍA AGRÍCOLA",
           "docentes": [
-           "MARTIN EMGE"
+           "EMGE, MARTIN LORENZ"
           ],
           "plazas": [
            "N°270493"
@@ -5099,7 +4996,7 @@
          {
           "materia": "TALLER RURAL III (ELECTRICIDAD)",
           "docentes": [
-           "AGUSTÍN VILLA"
+           "MEDINA, JORGE LUIS"
           ],
           "plazas": [
            "N°236200"
@@ -5108,7 +5005,7 @@
          {
           "materia": "CLIMATOLOGÍA Y FENOLOGÍA AGRÍCOLA",
           "docentes": [
-           "MARTIN EMGE"
+           "EMGE, MARTIN LORENZ"
           ],
           "plazas": [
            "N°270493"
@@ -5117,7 +5014,7 @@
          {
           "materia": "NUTRICIÓN ANIMAL Y FORRAJES",
           "docentes": [
-           "CANDELARIA FLORES"
+           "FLORES, JUANA CANDELARIA"
           ],
           "plazas": [
            "N°236201"
@@ -5129,7 +5026,7 @@
          {
           "materia": "NUTRICIÓN ANIMAL Y FORRAJES",
           "docentes": [
-           "CANDELARIA FLORES"
+           "FLORES, JUANA CANDELARIA"
           ],
           "plazas": [
            "N°236201"
@@ -5145,7 +5042,7 @@
          {
           "materia": "TALLER RURAL III (ELECTRICIDAD)",
           "docentes": [
-           "AGUSTÍN VILLA"
+           "MEDINA, JORGE LUIS"
           ],
           "plazas": [
            "N°236200"
@@ -5154,7 +5051,7 @@
          {
           "materia": "CLIMATOLOGÍA Y FENOLOGÍA AGRÍCOLA",
           "docentes": [
-           "MARTIN EMGE"
+           "EMGE, MARTIN LORENZ"
           ],
           "plazas": [
            "N°270493"
@@ -5166,7 +5063,7 @@
          {
           "materia": "TALLER RURAL III (ELECTRICIDAD)",
           "docentes": [
-           "AGUSTÍN VILLA"
+           "MEDINA, JORGE LUIS"
           ],
           "plazas": [
            "N°236200"
@@ -5175,7 +5072,7 @@
          {
           "materia": "CLIMATOLOGÍA Y FENOLOGÍA AGRÍCOLA",
           "docentes": [
-           "MARTIN EMGE"
+           "EMGE, MARTIN LORENZ"
           ],
           "plazas": [
            "N°270493"
@@ -5184,7 +5081,7 @@
          {
           "materia": "NUTRICIÓN ANIMAL Y FORRAJES",
           "docentes": [
-           "CANDELARIA FLORES"
+           "FLORES, JUANA CANDELARIA"
           ],
           "plazas": [
            "N°236201"
@@ -5196,7 +5093,7 @@
          {
           "materia": "NUTRICIÓN ANIMAL Y FORRAJES",
           "docentes": [
-           "CANDELARIA FLORES"
+           "FLORES, JUANA CANDELARIA"
           ],
           "plazas": [
            "N°236201"
@@ -5226,12 +5123,13 @@
         "MIERCOLES": [],
         "JUEVES": [
          {
-          "materia": "EDUCACIÓN FÍSICA",
+          "materia": "FISICA",
           "docentes": [
-           "MA. JOSÉ DÍAZ FRANCHI"
+           "LAZO, VILMA NANCY",
+           "MA, JOSÉ DÍAZ FRANCHI"
           ],
           "plazas": [
-           "N°15263"
+           "N°140862"
           ]
          }
         ],
@@ -5246,12 +5144,13 @@
         "MIERCOLES": [],
         "JUEVES": [
          {
-          "materia": "EDUCACIÓN FÍSICA",
+          "materia": "FISICA",
           "docentes": [
-           "MA. JOSÉ DÍAZ FRANCHI"
+           "LAZO, VILMA NANCY",
+           "MA, JOSÉ DÍAZ FRANCHI"
           ],
           "plazas": [
-           "N°15263"
+           "N°140862"
           ]
          }
         ],
@@ -5288,25 +5187,19 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "LILIANA FORTINI/VACANTE"
+           "REY, NATALIA"
           ],
           "plazas": [
            "N°291820"
           ]
          }
         ],
-        "MARTES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
+        "MARTES": [],
         "MIERCOLES": [
          {
           "materia": "HISTORIA",
           "docentes": [
-           "SANDRA VILLAREAL"
+           "VILLARREAL, SANDRA ISABEL"
           ],
           "plazas": [
            "N°148326"
@@ -5317,20 +5210,14 @@
          {
           "materia": "LENGUA EXTRANJERA (INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°146542"
           ]
          }
         ],
-        "VIERNES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
+        "VIERNES": []
        }
       },
       {
@@ -5340,7 +5227,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "LILIANA FORTINI/VACANTE"
+           "REY, NATALIA"
           ],
           "plazas": [
            "N°291820"
@@ -5351,7 +5238,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "VANESA RODRÍGUEZ"
+           "RODRIGUEZ, VANESA DEL VALLE"
           ],
           "plazas": [
            "N°402712"
@@ -5362,7 +5249,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "SANDRA VILLAREAL"
+           "VILLARREAL, SANDRA ISABEL"
           ],
           "plazas": [
            "N°148326"
@@ -5373,7 +5260,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "VACANTE"
+           "COSTILLA, HILDA INES"
           ],
           "plazas": [
            "N°235671"
@@ -5384,7 +5271,7 @@
          {
           "materia": "EDAFOLOGÍA Y USOS DEL SUELO",
           "docentes": [
-           "MA. FLORENCIA BENIMELI"
+           "BENIMELI, MARIA FLORENCIA"
           ],
           "plazas": [
            "N°145573"
@@ -5400,17 +5287,20 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "LILIANA FORTINI/VACANTE",
-           "SIN PLAZA"
+           "FORTINI, LILIANA IRENE",
+           "REY, NATALIA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°237920",
+           "N°291820"
+          ]
          }
         ],
         "MARTES": [
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "VANESA RODRÍGUEZ"
+           "RODRIGUEZ, VANESA DEL VALLE"
           ],
           "plazas": [
            "N°402712"
@@ -5421,7 +5311,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "SANDRA VILLAREAL"
+           "VILLARREAL, SANDRA ISABEL"
           ],
           "plazas": [
            "N°148326"
@@ -5432,7 +5322,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "VACANTE"
+           "COSTILLA, HILDA INES"
           ],
           "plazas": [
            "N°235671"
@@ -5443,7 +5333,7 @@
          {
           "materia": "EDAFOLOGÍA Y USOS DEL SUELO",
           "docentes": [
-           "MA. FLORENCIA BENIMELI"
+           "BENIMELI, MARIA FLORENCIA"
           ],
           "plazas": [
            "N°145573"
@@ -5459,7 +5349,7 @@
          {
           "materia": "LENGUA EXTRANJERA (INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°146542"
@@ -5470,10 +5360,10 @@
          {
           "materia": "FISIOLOGÍA VEGETAL",
           "docentes": [
-           "VACANTE"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
-           "N° 237927"
+           "N°237927"
           ]
          }
         ],
@@ -5481,7 +5371,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "VACANTE"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
            "N°148527"
@@ -5492,10 +5382,10 @@
          {
           "materia": "FISIOLOGÍA VEGETAL",
           "docentes": [
-           "VACANTE"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
-           "N° 237927"
+           "N°237927"
           ]
          }
         ],
@@ -5503,7 +5393,7 @@
          {
           "materia": "EDAFOLOGÍA Y USOS DEL SUELO",
           "docentes": [
-           "MA. FLORENCIA BENIMELI"
+           "BENIMELI, MARIA FLORENCIA"
           ],
           "plazas": [
            "N°145573"
@@ -5519,7 +5409,7 @@
          {
           "materia": "LENGUA EXTRANJERA (INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°146542"
@@ -5530,10 +5420,10 @@
          {
           "materia": "FISIOLOGÍA VEGETAL",
           "docentes": [
-           "VACANTE"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
-           "N° 237927"
+           "N°237927"
           ]
          }
         ],
@@ -5541,7 +5431,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "VACANTE"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
            "N°148527"
@@ -5552,7 +5442,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "VANESA RODRÍGUEZ"
+           "RODRIGUEZ, VANESA DEL VALLE"
           ],
           "plazas": [
            "N°402712"
@@ -5563,7 +5453,7 @@
          {
           "materia": "ANATOMÍA Y FISIOLOGÍA ANIMAL",
           "docentes": [
-           "ANA GARCÍA/NOELIA PLITMAN"
+           "PAEZ, JUAN PABLO"
           ],
           "plazas": [
            "N°237913"
@@ -5579,7 +5469,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "MERCEDES CAMPOS"
+           "CAMPOS, MERCEDES DEL VALLE"
           ],
           "plazas": [
            "N°237911"
@@ -5590,7 +5480,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "MERCEDES CAMPOS"
+           "CAMPOS, MERCEDES DEL VALLE"
           ],
           "plazas": [
            "N°237911"
@@ -5601,7 +5491,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "VACANTE"
+           "COSTILLA, HILDA INES"
           ],
           "plazas": [
            "N°235671"
@@ -5612,7 +5502,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "VACANTE"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
            "N°148527"
@@ -5623,7 +5513,7 @@
          {
           "materia": "ANATOMÍA Y FISIOLOGÍA ANIMAL",
           "docentes": [
-           "ANA GARCÍA/NOELIA PLITMAN"
+           "PAEZ, JUAN PABLO"
           ],
           "plazas": [
            "N°237913"
@@ -5639,7 +5529,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "MERCEDES CAMPOS"
+           "CAMPOS, MERCEDES DEL VALLE"
           ],
           "plazas": [
            "N°237911"
@@ -5650,7 +5540,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "MERCEDES CAMPOS"
+           "CAMPOS, MERCEDES DEL VALLE"
           ],
           "plazas": [
            "N°237911"
@@ -5661,7 +5551,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "VACANTE"
+           "COSTILLA, HILDA INES"
           ],
           "plazas": [
            "N°235671"
@@ -5672,7 +5562,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "VACANTE"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
            "N°148527"
@@ -5683,7 +5573,7 @@
          {
           "materia": "ANATOMÍA Y FISIOLOGÍA ANIMAL",
           "docentes": [
-           "ANA GARCÍA/NOELIA PLITMAN"
+           "PAEZ, JUAN PABLO"
           ],
           "plazas": [
            "N°237913"
@@ -5713,7 +5603,7 @@
          {
           "materia": "AGRICULTURA GENERAL",
           "docentes": [
-           "SANCHEZ ANTONELLA"
+           "SANCHEZ, ANTONELLA DAIANA"
           ],
           "plazas": [
            "N°270494"
@@ -5724,7 +5614,7 @@
          {
           "materia": "AGRICULTURA GENERAL",
           "docentes": [
-           "SANCHEZ ANTONELLA"
+           "SANCHEZ, ANTONELLA DAIANA"
           ],
           "plazas": [
            "N°270494"
@@ -5735,7 +5625,7 @@
          {
           "materia": "ZOOLOGÍA AGRÍCOLA",
           "docentes": [
-           "MARTIN EMGE"
+           "EMGE, MARTIN LORENZ"
           ],
           "plazas": [
            "N°270493"
@@ -5744,7 +5634,7 @@
          {
           "materia": "SANIDAD Y REPRODUCCIÓN ANIMAL",
           "docentes": [
-           "CANDELARIA FLORES"
+           "FLORES, JUANA CANDELARIA"
           ],
           "plazas": [
            "N°236201"
@@ -5755,7 +5645,7 @@
          {
           "materia": "ZOOLOGÍA AGRÍCOLA",
           "docentes": [
-           "MARTIN EMGE"
+           "EMGE, MARTIN LORENZ"
           ],
           "plazas": [
            "N°270493"
@@ -5772,7 +5662,7 @@
          {
           "materia": "AGRICULTURA GENERAL",
           "docentes": [
-           "SANCHEZ ANTONELLA"
+           "SANCHEZ, ANTONELLA DAIANA"
           ],
           "plazas": [
            "N°270494"
@@ -5783,7 +5673,7 @@
          {
           "materia": "AGRICULTURA GENERAL",
           "docentes": [
-           "SANCHEZ ANTONELLA"
+           "SANCHEZ, ANTONELLA DAIANA"
           ],
           "plazas": [
            "N°270494"
@@ -5794,7 +5684,7 @@
          {
           "materia": "ZOOLOGÍA AGRÍCOLA",
           "docentes": [
-           "MARTIN EMGE"
+           "EMGE, MARTIN LORENZ"
           ],
           "plazas": [
            "N°270493"
@@ -5803,7 +5693,7 @@
          {
           "materia": "SANIDAD Y REPRODUCCIÓN ANIMAL",
           "docentes": [
-           "CANDELARIA FLORES"
+           "FLORES, JUANA CANDELARIA"
           ],
           "plazas": [
            "N°236201"
@@ -5839,12 +5729,12 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "EDUCACIÓN FÍSICA",
+          "materia": "FISICA",
           "docentes": [
-           "MAURICIO MAIDANA"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
-           "N°15263"
+           "N°148527"
           ]
          }
         ],
@@ -5859,12 +5749,12 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "EDUCACIÓN FÍSICA",
+          "materia": "FISICA",
           "docentes": [
-           "MAURICIO MAIDANA"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
-           "N°15263"
+           "N°148527"
           ]
          }
         ],
@@ -5904,7 +5794,7 @@
          {
           "materia": "FISIOLOGÍA VEGETAL",
           "docentes": [
-           "ANA GARCÍA/DAVID COSIANSI"
+           "MARTIN, ANA BELEN"
           ],
           "plazas": [
            "N°237917"
@@ -5915,7 +5805,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "SANDRA VILLAREAL"
+           "VILLARREAL, SANDRA ISABEL"
           ],
           "plazas": [
            "N°148327"
@@ -5926,27 +5816,15 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "JUAN ANTONIO BRITO"
+           "BRITO, JUAN ANTONIO"
           ],
           "plazas": [
            "N°402716"
           ]
          }
         ],
-        "JUEVES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
+        "JUEVES": [],
+        "VIERNES": []
        }
       },
       {
@@ -5956,7 +5834,7 @@
          {
           "materia": "FISIOLOGÍA VEGETAL",
           "docentes": [
-           "ANA GARCÍA/DAVID COSIANSI"
+           "MARTIN, ANA BELEN"
           ],
           "plazas": [
            "N°237917"
@@ -5967,7 +5845,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "VACANTE"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
            "N°148530"
@@ -5978,7 +5856,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "JUAN ANTONIO BRITO"
+           "BRITO, JUAN ANTONIO"
           ],
           "plazas": [
            "N°402716"
@@ -5989,7 +5867,7 @@
          {
           "materia": "LENGUA EXTRANJERA (INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°146545"
@@ -6000,7 +5878,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ANA GARCÍA/NOELIA PLITMAN"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°237915"
@@ -6016,7 +5894,7 @@
          {
           "materia": "FISIOLOGÍA VEGETAL",
           "docentes": [
-           "ANA GARCÍA/DAVID COSIANSI"
+           "MARTIN, ANA BELEN"
           ],
           "plazas": [
            "N°237917"
@@ -6027,7 +5905,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "VACANTE"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
            "N°148530"
@@ -6038,7 +5916,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "JUAN ANTONIO BRITO"
+           "BRITO, JUAN ANTONIO"
           ],
           "plazas": [
            "N°402716"
@@ -6049,7 +5927,7 @@
          {
           "materia": "LENGUA EXTRANJERA (INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°146545"
@@ -6060,7 +5938,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ANA GARCÍA/NOELIA PLITMAN"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°237915"
@@ -6076,7 +5954,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "MERCEDES CAMPOS"
+           "CAMPOS, MERCEDES DEL VALLE"
           ],
           "plazas": [
            "N°237922"
@@ -6087,7 +5965,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "MERCEDES CAMPOS"
+           "CAMPOS, MERCEDES DEL VALLE"
           ],
           "plazas": [
            "N°237922"
@@ -6098,7 +5976,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "LUCAS AGUIRRE"
+           "AGUIRRE, LUCAS JUAN JOSE"
           ],
           "plazas": [
            "N°150125"
@@ -6109,7 +5987,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "SANDRA VILLAREAL"
+           "VILLARREAL, SANDRA ISABEL"
           ],
           "plazas": [
            "N°148327"
@@ -6120,7 +5998,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ANA GARCÍA/NOELIA PLITMAN"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°237915"
@@ -6136,7 +6014,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "MERCEDES CAMPOS"
+           "CAMPOS, MERCEDES DEL VALLE"
           ],
           "plazas": [
            "N°237922"
@@ -6147,7 +6025,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "MERCEDES CAMPOS"
+           "CAMPOS, MERCEDES DEL VALLE"
           ],
           "plazas": [
            "N°237922"
@@ -6158,7 +6036,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "LUCAS AGUIRRE"
+           "AGUIRRE, LUCAS JUAN JOSE"
           ],
           "plazas": [
            "N°150125"
@@ -6169,7 +6047,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "SANDRA VILLAREAL"
+           "VILLARREAL, SANDRA ISABEL"
           ],
           "plazas": [
            "N°148327"
@@ -6180,7 +6058,7 @@
          {
           "materia": "EDAFOLOGÍA Y USOS DEL SUELO",
           "docentes": [
-           "MA. FLORENCIA BENIMELI"
+           "BENIMELI, MARIA FLORENCIA"
           ],
           "plazas": [
            "N°145574"
@@ -6196,7 +6074,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "LUCAS AGUIRRE"
+           "AGUIRRE, LUCAS JUAN JOSE"
           ],
           "plazas": [
            "N°150125"
@@ -6207,7 +6085,7 @@
          {
           "materia": "LENGUA EXTRANJERA (INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°146545"
@@ -6218,7 +6096,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "VACANTE"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
            "N°148530"
@@ -6229,17 +6107,18 @@
          {
           "materia": "ANATOMÍA Y FISIOLOGÍA ANIMAL",
           "docentes": [
-           "VACANTE",
-           "SIN PLAZA"
+           "YACUMO, MARTA DANIELA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°413173"
+          ]
          }
         ],
         "VIERNES": [
          {
           "materia": "EDAFOLOGÍA Y USOS DEL SUELO",
           "docentes": [
-           "MA. FLORENCIA BENIMELI"
+           "BENIMELI, MARIA FLORENCIA"
           ],
           "plazas": [
            "N°145574"
@@ -6255,7 +6134,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "LUCAS AGUIRRE"
+           "AGUIRRE, LUCAS JUAN JOSE"
           ],
           "plazas": [
            "N°150125"
@@ -6266,17 +6145,18 @@
          {
           "materia": "ANATOMÍA Y FISIOLOGÍA ANIMAL",
           "docentes": [
-           "VACANTE",
-           "SIN PLAZA"
+           "YACUMO, MARTA DANIELA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°413173"
+          ]
          }
         ],
         "MIERCOLES": [
          {
           "materia": "FÍSICA",
           "docentes": [
-           "VACANTE"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
            "N°148530"
@@ -6287,17 +6167,18 @@
          {
           "materia": "ANATOMÍA Y FISIOLOGÍA ANIMAL",
           "docentes": [
-           "VACANTE",
-           "SIN PLAZA"
+           "YACUMO, MARTA DANIELA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°413173"
+          ]
          }
         ],
         "VIERNES": [
          {
           "materia": "EDAFOLOGÍA Y USOS DEL SUELO",
           "docentes": [
-           "MA. FLORENCIA BENIMELI"
+           "BENIMELI, MARIA FLORENCIA"
           ],
           "plazas": [
            "N°145574"
@@ -6327,7 +6208,7 @@
          {
           "materia": "AGRICULTURA GENERAL",
           "docentes": [
-           "SANCHEZ ANTONELLA"
+           "SANCHEZ, ANTONELLA DAIANA"
           ],
           "plazas": [
            "N°270494"
@@ -6338,7 +6219,7 @@
          {
           "materia": "AGRICULTURA GENERAL",
           "docentes": [
-           "SANCHEZ ANTONELLA"
+           "SANCHEZ, ANTONELLA DAIANA"
           ],
           "plazas": [
            "N°270494"
@@ -6349,7 +6230,7 @@
          {
           "materia": "ZOOLOGÍA AGRÍCOLA",
           "docentes": [
-           "MARTIN EMGE"
+           "EMGE, MARTIN LORENZ"
           ],
           "plazas": [
            "N°270493"
@@ -6358,7 +6239,7 @@
          {
           "materia": "SANIDAD Y REPRODUCCIÓN ANIMAL",
           "docentes": [
-           "CANDELARIA FLORES"
+           "FLORES, JUANA CANDELARIA"
           ],
           "plazas": [
            "N°236201"
@@ -6369,7 +6250,7 @@
          {
           "materia": "ZOOLOGÍA AGRÍCOLA",
           "docentes": [
-           "MARTIN EMGE"
+           "EMGE, MARTIN LORENZ"
           ],
           "plazas": [
            "N°270493"
@@ -6386,7 +6267,7 @@
          {
           "materia": "AGRICULTURA GENERAL",
           "docentes": [
-           "SANCHEZ ANTONELLA"
+           "SANCHEZ, ANTONELLA DAIANA"
           ],
           "plazas": [
            "N°270494"
@@ -6397,7 +6278,7 @@
          {
           "materia": "AGRICULTURA GENERAL",
           "docentes": [
-           "SANCHEZ ANTONELLA"
+           "SANCHEZ, ANTONELLA DAIANA"
           ],
           "plazas": [
            "N°270494"
@@ -6408,7 +6289,7 @@
          {
           "materia": "ZOOLOGÍA AGRÍCOLA",
           "docentes": [
-           "MARTIN EMGE"
+           "EMGE, MARTIN LORENZ"
           ],
           "plazas": [
            "N°270493"
@@ -6417,7 +6298,7 @@
          {
           "materia": "SANIDAD Y REPRODUCCIÓN ANIMAL",
           "docentes": [
-           "CANDELARIA FLORES"
+           "FLORES, JUANA CANDELARIA"
           ],
           "plazas": [
            "N°236201"
@@ -6428,7 +6309,7 @@
          {
           "materia": "ZOOLOGÍA AGRÍCOLA",
           "docentes": [
-           "MARTIN EMGE"
+           "EMGE, MARTIN LORENZ"
           ],
           "plazas": [
            "N°270493"
@@ -6455,12 +6336,12 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "EDUCACIÓN FÍSICA",
+          "materia": "FISICA",
           "docentes": [
-           "MAURICIO MAIDANA"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
-           "N°15263"
+           "N°148530"
           ]
          }
         ],
@@ -6475,12 +6356,12 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "EDUCACIÓN FÍSICA",
+          "materia": "FISICA",
           "docentes": [
-           "MAURICIO MAIDANA"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
-           "N°15263"
+           "N°148530"
           ]
          }
         ],
@@ -6520,43 +6401,31 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "ELENA GEREZ"
+           "GEREZ, ELENA RAQUEL"
           ],
           "plazas": [
            "N°377484"
           ]
          }
         ],
-        "MARTES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
+        "MARTES": [],
         "MIERCOLES": [
          {
           "materia": "LENGUA EXTRANJERA (INGLÉS)",
           "docentes": [
-           "VERÓNICA BALATTO"
+           "BALATTO, VERONICA VALERIA"
           ],
           "plazas": [
            "N°377483"
           ]
          }
         ],
-        "JUEVES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
+        "JUEVES": [],
         "VIERNES": [
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "JUAN ANTONIO BRITO"
+           "BRITO, JUAN ANTONIO"
           ],
           "plazas": [
            "N°377482"
@@ -6572,7 +6441,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "ELENA GEREZ"
+           "GEREZ, ELENA RAQUEL"
           ],
           "plazas": [
            "N°377484"
@@ -6583,7 +6452,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "ADRIANA SALAS"
+           "CATTANEO, FRANCO LUCIANO"
           ],
           "plazas": [
            "N°377491"
@@ -6594,7 +6463,7 @@
          {
           "materia": "LENGUA EXTRANJERA (INGLÉS)",
           "docentes": [
-           "VERÓNICA BALATTO"
+           "BALATTO, VERONICA VALERIA"
           ],
           "plazas": [
            "N°377483"
@@ -6605,7 +6474,7 @@
          {
           "materia": "TECNOLOGÍA DE LOS MATERIALES",
           "docentes": [
-           "LUCIO ÁLVAREZ/VACANTE"
+           "RUIZ, SILVANA ESTHER"
           ],
           "plazas": [
            "N°377488"
@@ -6616,7 +6485,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "JUAN ANTONIO BRITO"
+           "BRITO, JUAN ANTONIO"
           ],
           "plazas": [
            "N°377482"
@@ -6632,7 +6501,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "ELENA GEREZ"
+           "GEREZ, ELENA RAQUEL"
           ],
           "plazas": [
            "N°377484"
@@ -6643,7 +6512,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "ADRIANA SALAS"
+           "CATTANEO, FRANCO LUCIANO"
           ],
           "plazas": [
            "N°377491"
@@ -6654,7 +6523,7 @@
          {
           "materia": "LENGUA EXTRANJERA (INGLÉS)",
           "docentes": [
-           "VERÓNICA BALATTO"
+           "BALATTO, VERONICA VALERIA"
           ],
           "plazas": [
            "N°377483"
@@ -6665,7 +6534,7 @@
          {
           "materia": "TECNOLOGÍA DE LOS MATERIALES",
           "docentes": [
-           "LUCIO ÁLVAREZ/VACANTE"
+           "RUIZ, SILVANA ESTHER"
           ],
           "plazas": [
            "N°377488"
@@ -6676,7 +6545,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "JUAN ANTONIO BRITO"
+           "BRITO, JUAN ANTONIO"
           ],
           "plazas": [
            "N°377482"
@@ -6692,7 +6561,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "INÉS COSTILLA"
+           "COSTILLA, HILDA INES"
           ],
           "plazas": [
            "N°377487"
@@ -6703,7 +6572,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "ADRIANA SALAS"
+           "CATTANEO, FRANCO LUCIANO"
           ],
           "plazas": [
            "N°377491"
@@ -6714,7 +6583,8 @@
          {
           "materia": "REPRESENTACIÓN GRÁFICA E INTERPRETACIÓN DE DOCUMENTACIÓN TÉCNICA",
           "docentes": [
-           "LUCIO ÁLVAREZ/DIEGO BUSTAMANTE"
+           "LUNA, FERNANDO EXEQUIEL",
+           "DIEGO BUSTAMANTE"
           ],
           "plazas": [
            "N°377490"
@@ -6725,7 +6595,8 @@
          {
           "materia": "REPRESENTACIÓN GRÁFICA E INTERPRETACIÓN DE DOCUMENTACIÓN TÉCNICA",
           "docentes": [
-           "LUCIO ÁLVAREZ/DIEGO BUSTAMANTE"
+           "LUNA, FERNANDO EXEQUIEL",
+           "DIEGO BUSTAMANTE"
           ],
           "plazas": [
            "N°377490"
@@ -6736,7 +6607,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "ADRIANA SALAS"
+           "CATTANEO, FRANCO LUCIANO"
           ],
           "plazas": [
            "N°377491"
@@ -6752,7 +6623,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "INÉS COSTILLA"
+           "COSTILLA, HILDA INES"
           ],
           "plazas": [
            "N°377487"
@@ -6763,7 +6634,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ALEJANDRA SORIA/ERICA SUAREZ"
+           "SUAREZ, ERICA LIZET"
           ],
           "plazas": [
            "N°377486"
@@ -6774,7 +6645,8 @@
          {
           "materia": "REPRESENTACIÓN GRÁFICA E INTERPRETACIÓN DE DOCUMENTACIÓN TÉCNICA",
           "docentes": [
-           "LUCIO ÁLVAREZ/DIEGO BUSTAMANTE"
+           "LUNA, FERNANDO EXEQUIEL",
+           "DIEGO BUSTAMANTE"
           ],
           "plazas": [
            "N°377490"
@@ -6785,7 +6657,8 @@
          {
           "materia": "REPRESENTACIÓN GRÁFICA E INTERPRETACIÓN DE DOCUMENTACIÓN TÉCNICA",
           "docentes": [
-           "LUCIO ÁLVAREZ/DIEGO BUSTAMANTE"
+           "LUNA, FERNANDO EXEQUIEL",
+           "DIEGO BUSTAMANTE"
           ],
           "plazas": [
            "N°377490"
@@ -6796,7 +6669,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "ADRIANA SALAS"
+           "CATTANEO, FRANCO LUCIANO"
           ],
           "plazas": [
            "N°377491"
@@ -6812,7 +6685,7 @@
          {
           "materia": "TECNOLOGÍA DE LOS MATERIALES",
           "docentes": [
-           "LUCIO ÁLVAREZ/VACANTE"
+           "RUIZ, SILVANA ESTHER"
           ],
           "plazas": [
            "N°377488"
@@ -6823,7 +6696,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ALEJANDRA SORIA/ERICA SUAREZ"
+           "SUAREZ, ERICA LIZET"
           ],
           "plazas": [
            "N°377486"
@@ -6834,7 +6707,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "INÉS COSTILLA"
+           "COSTILLA, HILDA INES"
           ],
           "plazas": [
            "N°377487"
@@ -6843,9 +6716,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
+          "materia": "TECNOLOGIA DE LA INFORMACION Y COMUNICACION",
           "docentes": [
-           "EDITH SORIA"
+           "SORIA, EDIT ALICIA"
           ],
           "plazas": [
            "N°377489"
@@ -6854,9 +6727,9 @@
         ],
         "VIERNES": [
          {
-          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
+          "materia": "TECNOLOGIA DE LA INFORMACION Y COMUNICACION",
           "docentes": [
-           "EDITH SORIA"
+           "SORIA, EDIT ALICIA"
           ],
           "plazas": [
            "N°377489"
@@ -6872,7 +6745,7 @@
          {
           "materia": "TECNOLOGÍA DE LOS MATERIALES",
           "docentes": [
-           "LUCIO ÁLVAREZ/VACANTE"
+           "RUIZ, SILVANA ESTHER"
           ],
           "plazas": [
            "N°377488"
@@ -6883,7 +6756,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ALEJANDRA SORIA/ERICA SUAREZ"
+           "SUAREZ, ERICA LIZET"
           ],
           "plazas": [
            "N°377486"
@@ -6894,7 +6767,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "INÉS COSTILLA"
+           "COSTILLA, HILDA INES"
           ],
           "plazas": [
            "N°377487"
@@ -6903,9 +6776,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
+          "materia": "TECNOLOGIA DE LA INFORMACION Y COMUNICACION",
           "docentes": [
-           "EDITH SORIA"
+           "SORIA, EDIT ALICIA"
           ],
           "plazas": [
            "N°377489"
@@ -6914,9 +6787,9 @@
         ],
         "VIERNES": [
          {
-          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
+          "materia": "TECNOLOGIA DE LA INFORMACION Y COMUNICACION",
           "docentes": [
-           "EDITH SORIA"
+           "SORIA, EDIT ALICIA"
           ],
           "plazas": [
            "N°377489"
@@ -6945,18 +6818,22 @@
         "MARTES": [],
         "MIERCOLES": [
          {
-          "materia": "FUNDAMENTOS DE ELECTRICIDAD Y ELECTRÓNICA",
+          "materia": "FUNDAMENTO DE ELECTRICIDAD Y ELECTRONICA",
           "docentes": [
-           "ROMÁN SÁNCHEZ"
+           "SANCHEZ, ROMAN MAXIMILIANO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°377492"
+          ]
          },
          {
-          "materia": "ELEMENTOS DE MÁQUINAS E INSTALACIONES AGROPECUARIAS",
+          "materia": "ELEMENTOS DE MAQUINAS E INSTALACIONES AGROPECUARIA",
           "docentes": [
-           "DARÍO ZELARAYÁN"
+           "ZELARAYAN, DARIO RAMON SILENIO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°377493"
+          ]
          },
          {
           "materia": "MATERIALES Y PROCESOS DE MECANIZADOS CON MAQUINARIAS CONVENCIONALES Y/O ASISTIDOS (CNC)",
@@ -6969,18 +6846,22 @@
         "JUEVES": [],
         "VIERNES": [
          {
-          "materia": "FUNDAMENTOS DE ELECTRICIDAD Y ELECTRÓNICA",
+          "materia": "FUNDAMENTO DE ELECTRICIDAD Y ELECTRONICA",
           "docentes": [
-           "ROMÁN SÁNCHEZ"
+           "SANCHEZ, ROMAN MAXIMILIANO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°377492"
+          ]
          },
          {
-          "materia": "ELEMENTOS DE MÁQUINAS E INSTALACIONES AGROPECUARIAS",
+          "materia": "ELEMENTOS DE MAQUINAS E INSTALACIONES AGROPECUARIA",
           "docentes": [
-           "DARÍO ZELARAYÁN"
+           "ZELARAYAN, DARIO RAMON SILENIO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°377493"
+          ]
          },
          {
           "materia": "MATERIALES Y PROCESOS DE MECANIZADOS CON MAQUINARIAS CONVENCIONALES Y/O ASISTIDOS (CNC)",
@@ -6999,18 +6880,22 @@
         "MARTES": [],
         "MIERCOLES": [
          {
-          "materia": "FUNDAMENTOS DE ELECTRICIDAD Y ELECTRÓNICA",
+          "materia": "FUNDAMENTO DE ELECTRICIDAD Y ELECTRONICA",
           "docentes": [
-           "ROMÁN SÁNCHEZ"
+           "SANCHEZ, ROMAN MAXIMILIANO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°377492"
+          ]
          },
          {
-          "materia": "ELEMENTOS DE MÁQUINAS E INSTALACIONES AGROPECUARIAS",
+          "materia": "ELEMENTOS DE MAQUINAS E INSTALACIONES AGROPECUARIA",
           "docentes": [
-           "DARÍO ZELARAYÁN"
+           "ZELARAYAN, DARIO RAMON SILENIO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°377493"
+          ]
          },
          {
           "materia": "MATERIALES Y PROCESOS DE MECANIZADOS CON MAQUINARIAS CONVENCIONALES Y/O ASISTIDOS (CNC)",
@@ -7023,18 +6908,22 @@
         "JUEVES": [],
         "VIERNES": [
          {
-          "materia": "FUNDAMENTOS DE ELECTRICIDAD Y ELECTRÓNICA",
+          "materia": "FUNDAMENTO DE ELECTRICIDAD Y ELECTRONICA",
           "docentes": [
-           "ROMÁN SÁNCHEZ"
+           "SANCHEZ, ROMAN MAXIMILIANO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°377492"
+          ]
          },
          {
-          "materia": "ELEMENTOS DE MÁQUINAS E INSTALACIONES AGROPECUARIAS",
+          "materia": "ELEMENTOS DE MAQUINAS E INSTALACIONES AGROPECUARIA",
           "docentes": [
-           "DARÍO ZELARAYÁN"
+           "ZELARAYAN, DARIO RAMON SILENIO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°377493"
+          ]
          },
          {
           "materia": "MATERIALES Y PROCESOS DE MECANIZADOS CON MAQUINARIAS CONVENCIONALES Y/O ASISTIDOS (CNC)",
@@ -7067,10 +6956,10 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "MA. JOSÉ DÍAZ FRANCHI"
+           "DIAZ FRANCHI, MARIA JOSE"
           ],
           "plazas": [
-           "N°15263"
+           "N°377485"
           ]
          }
         ],
@@ -7087,10 +6976,10 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "MA. JOSÉ DÍAZ FRANCHI"
+           "DIAZ FRANCHI, MARIA JOSE"
           ],
           "plazas": [
-           "N°15263"
+           "N°377485"
           ]
          }
         ],
@@ -7129,7 +7018,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "EDGARDO ANDRADE"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
            "N°237912"
@@ -7140,32 +7029,20 @@
          {
           "materia": "LENGUA EXTRANJERA(INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°181876"
           ]
          }
         ],
-        "MIERCOLES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
+        "MIERCOLES": [],
+        "JUEVES": [],
         "VIERNES": [
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "ADRIANA ROLDÁN"
+           "ROLDAN, ADRIANA CECILIA"
           ],
           "plazas": [
            "N°148358"
@@ -7181,7 +7058,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "EDGARDO ANDRADE"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
            "N°237923"
@@ -7192,10 +7069,10 @@
          {
           "materia": "TECNOLOGÍA DE CONTROL",
           "docentes": [
-           "MANSILLA/VACANTE"
+           "RUIZ, SILVANA ESTHER"
           ],
           "plazas": [
-           "N°15263"
+           "N°413094"
           ]
          }
         ],
@@ -7203,20 +7080,25 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "EDGARDO ANDRADE",
-           "SIN PLAZA"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°237906",
+           "N°237912",
+           "N°237923",
+           "N°248053"
+          ]
          }
         ],
         "JUEVES": [
          {
           "materia": "ENERGÍA ALTERNATIVA",
           "docentes": [
-           "VACANTE"
+           "GOMEZ, NESTOR ANTONIO"
           ],
           "plazas": [
-           "N°15263"
+           "N°402709",
+           "N°413183"
           ]
          }
         ],
@@ -7224,7 +7106,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "ADRIANA ROLDÁN"
+           "ROLDAN, ADRIANA CECILIA"
           ],
           "plazas": [
            "N°148358"
@@ -7240,7 +7122,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "EDGARDO ANDRADE"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
            "N°237906"
@@ -7251,21 +7133,21 @@
          {
           "materia": "TECNOLOGÍA DE CONTROL",
           "docentes": [
-           "MANSILLA/VACANTE"
+           "RUIZ, SILVANA ESTHER"
           ],
           "plazas": [
-           "N°15263"
+           "N°413094"
           ]
          }
         ],
         "MIERCOLES": [
          {
-          "materia": "LENGUA",
+          "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "CRISTIAN MAZA MURÚA"
+           "MAZA MURUA, CRISTIAN BERHMAN"
           ],
           "plazas": [
-           "N°15263"
+           "N°178737"
           ]
          }
         ],
@@ -7273,10 +7155,11 @@
          {
           "materia": "ENERGÍA ALTERNATIVA",
           "docentes": [
-           "VACANTE"
+           "GOMEZ, NESTOR ANTONIO"
           ],
           "plazas": [
-           "N°15263"
+           "N°402709",
+           "N°413183"
           ]
          }
         ],
@@ -7284,7 +7167,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "ADRIANA ROLDÁN"
+           "ROLDAN, ADRIANA CECILIA"
           ],
           "plazas": [
            "N°148358"
@@ -7300,7 +7183,7 @@
          {
           "materia": "MATEMÁTICA APLICADA I",
           "docentes": [
-           "ORTEGA/LAZO"
+           "MORENO, MARIA LUCIA"
           ],
           "plazas": [
            "N°174571"
@@ -7311,27 +7194,29 @@
          {
           "materia": "ELECTROTECNIA",
           "docentes": [
-           "HORACIO ORELLANA",
-           "SIN PLAZA"
+           "ORELLANA, HORACIO ENRIQUE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°390585"
+          ]
          }
         ],
         "MIERCOLES": [
          {
           "materia": "FUNDAMENTOS DE MOTORES DE COMBUSTIÓN INTERNA",
           "docentes": [
-           "VACANTE",
-           "N°"
+           "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°402698"
+          ]
          }
         ],
         "JUEVES": [
          {
           "materia": "MATEMÁTICA APLICADA I",
           "docentes": [
-           "ORTEGA/LAZO"
+           "MORENO, MARIA LUCIA"
           ],
           "plazas": [
            "N°174571"
@@ -7342,10 +7227,11 @@
          {
           "materia": "FUNDAMENTOS DE MOTORES DE COMBUSTIÓN INTERNA",
           "docentes": [
-           "VACANTE",
-           "N°"
+           "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°402698"
+          ]
          }
         ]
        }
@@ -7357,7 +7243,7 @@
          {
           "materia": "MATEMÁTICA APLICADA I",
           "docentes": [
-           "ORTEGA/LAZO"
+           "MORENO, MARIA LUCIA"
           ],
           "plazas": [
            "N°174571"
@@ -7368,27 +7254,29 @@
          {
           "materia": "ELECTROTECNIA",
           "docentes": [
-           "HORACIO ORELLANA",
-           "SIN PLAZA"
+           "ORELLANA, HORACIO ENRIQUE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°390585"
+          ]
          }
         ],
         "MIERCOLES": [
          {
           "materia": "FUNDAMENTOS DE MOTORES DE COMBUSTIÓN INTERNA",
           "docentes": [
-           "VACANTE",
-           "N°"
+           "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°402698"
+          ]
          }
         ],
         "JUEVES": [
          {
           "materia": "MATEMÁTICA APLICADA I",
           "docentes": [
-           "ORTEGA/LAZO"
+           "MORENO, MARIA LUCIA"
           ],
           "plazas": [
            "N°174571"
@@ -7399,10 +7287,11 @@
          {
           "materia": "FUNDAMENTOS DE MOTORES DE COMBUSTIÓN INTERNA",
           "docentes": [
-           "VACANTE",
-           "N°"
+           "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°402698"
+          ]
          }
         ]
        }
@@ -7414,7 +7303,7 @@
          {
           "materia": "LENGUA EXTRANJERA(INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°181876"
@@ -7425,10 +7314,11 @@
          {
           "materia": "ENERGÍA ALTERNATIVA",
           "docentes": [
-           "VACANTE"
+           "GOMEZ, NESTOR ANTONIO"
           ],
           "plazas": [
-           "N°15263"
+           "N°402709",
+           "N°413183"
           ]
          }
         ],
@@ -7436,31 +7326,32 @@
          {
           "materia": "ELECTROTECNIA",
           "docentes": [
-           "HORACIO ORELLANA",
-           "SIN PLAZA"
+           "ORELLANA, HORACIO ENRIQUE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°390585"
+          ]
          }
         ],
         "JUEVES": [
          {
           "materia": "TECNOLOGÍA DE CONTROL",
           "docentes": [
-           "MANSILLA/VACANTE"
+           "RUIZ, SILVANA ESTHER"
           ],
           "plazas": [
-           "N°15263"
+           "N°413094"
           ]
          }
         ],
         "VIERNES": [
          {
-          "materia": "LENGUA",
+          "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "CRISTIAN MAZA MURÚA"
+           "MAZA MURUA, CRISTIAN BERHMAN"
           ],
           "plazas": [
-           "N°15263"
+           "N°178737"
           ]
          }
         ]
@@ -7473,7 +7364,7 @@
          {
           "materia": "LENGUA EXTRANJERA(INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°181876"
@@ -7484,10 +7375,11 @@
          {
           "materia": "ENERGÍA ALTERNATIVA",
           "docentes": [
-           "VACANTE"
+           "GOMEZ, NESTOR ANTONIO"
           ],
           "plazas": [
-           "N°15263"
+           "N°402709",
+           "N°413183"
           ]
          }
         ],
@@ -7495,31 +7387,32 @@
          {
           "materia": "ELECTROTECNIA",
           "docentes": [
-           "HORACIO ORELLANA",
-           "SIN PLAZA"
+           "ORELLANA, HORACIO ENRIQUE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°390585"
+          ]
          }
         ],
         "JUEVES": [
          {
           "materia": "TECNOLOGÍA DE CONTROL",
           "docentes": [
-           "MANSILLA/VACANTE"
+           "RUIZ, SILVANA ESTHER"
           ],
           "plazas": [
-           "N°15263"
+           "N°413094"
           ]
          }
         ],
         "VIERNES": [
          {
-          "materia": "LENGUA",
+          "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "CRISTIAN MAZA MURÚA"
+           "MAZA MURUA, CRISTIAN BERHMAN"
           ],
           "plazas": [
-           "N°15263"
+           "N°178737"
           ]
          }
         ]
@@ -7543,7 +7436,7 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "FUNDAMENTOS DE SISTEMAS HODRÁULICOS Y NEUMÁTICOS",
+          "materia": "FUNDAMENTOS DE SISTEMAS HIDRAULICOS Y NEUMÁTICOS",
           "docentes": [
            "GUILLERMO COLLANTE"
           ],
@@ -7568,7 +7461,7 @@
         "MIERCOLES": [],
         "JUEVES": [
          {
-          "materia": "FUNDAMENTOS DE SISTEMAS HODRÁULICOS Y NEUMÁTICOS",
+          "materia": "FUNDAMENTOS DE SISTEMAS HIDRAULICOS Y NEUMÁTICOS",
           "docentes": [
            "GUILLERMO COLLANTE"
           ],
@@ -7597,7 +7490,7 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "FUNDAMENTOS DE SISTEMAS HODRÁULICOS Y NEUMÁTICOS",
+          "materia": "FUNDAMENTOS DE SISTEMAS HIDRAULICOS Y NEUMÁTICOS",
           "docentes": [
            "GUILLERMO COLLANTE"
           ],
@@ -7622,7 +7515,7 @@
         "MIERCOLES": [],
         "JUEVES": [
          {
-          "materia": "FUNDAMENTOS DE SISTEMAS HODRÁULICOS Y NEUMÁTICOS",
+          "materia": "FUNDAMENTOS DE SISTEMAS HIDRAULICOS Y NEUMÁTICOS",
           "docentes": [
            "GUILLERMO COLLANTE"
           ],
@@ -7668,12 +7561,15 @@
         "JUEVES": [],
         "VIERNES": [
          {
-          "materia": "EDUCACIÓN FÍSICA",
+          "materia": "FISICA",
           "docentes": [
-           "MAURICIO MAIDANA"
+           "VACANTE"
           ],
           "plazas": [
-           "N°15263"
+           "N°197252",
+           "N°236577",
+           "N°371035",
+           "N°371037"
           ]
          }
         ]
@@ -7688,12 +7584,15 @@
         "JUEVES": [],
         "VIERNES": [
          {
-          "materia": "EDUCACIÓN FÍSICA",
+          "materia": "FISICA",
           "docentes": [
-           "MAURICIO MAIDANA"
+           "VACANTE"
           ],
           "plazas": [
-           "N°15263"
+           "N°197252",
+           "N°236577",
+           "N°371035",
+           "N°371037"
           ]
          }
         ]
@@ -7729,10 +7628,10 @@
          {
           "materia": "MATEMÁTICA APLICADA I",
           "docentes": [
-           "ORTEGA/AGUIRRE"
+           "AGUIRRE, LUCAS JUAN JOSE"
           ],
           "plazas": [
-           "N°15263"
+           "N°365854"
           ]
          }
         ],
@@ -7740,7 +7639,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "VACANTE"
+           "ROBLES, MARIA LUZ"
           ],
           "plazas": [
            "N°237928"
@@ -7749,9 +7648,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "LENGUA",
+          "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "VANESA RODRÍGUEZ"
+           "MEDINA, MARIA BELEN"
           ],
           "plazas": [
            "N°272755"
@@ -7762,7 +7661,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "JUAN CALAMANDREI"
+           "CALAMANDREI, JUAN JOSE GERARDO"
           ],
           "plazas": [
            "N°365789"
@@ -7773,7 +7672,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "MA. FLORENCIA BENIMELI"
+           "BENIMELI, MARIA FLORENCIA"
           ],
           "plazas": [
            "N°145575"
@@ -7789,10 +7688,10 @@
          {
           "materia": "MATEMÁTICA APLICADA I",
           "docentes": [
-           "ORTEGA/AGUIRRE"
+           "AGUIRRE, LUCAS JUAN JOSE"
           ],
           "plazas": [
-           "N°15263"
+           "N°365854"
           ]
          }
         ],
@@ -7800,7 +7699,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "VACANTE"
+           "ROBLES, MARIA LUZ"
           ],
           "plazas": [
            "N°237928"
@@ -7809,9 +7708,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "LENGUA",
+          "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "VANESA RODRÍGUEZ"
+           "MEDINA, MARIA BELEN"
           ],
           "plazas": [
            "N°272755"
@@ -7822,7 +7721,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "JUAN CALAMANDREI"
+           "CALAMANDREI, JUAN JOSE GERARDO"
           ],
           "plazas": [
            "N°365789"
@@ -7833,7 +7732,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "MA. FLORENCIA BENIMELI"
+           "BENIMELI, MARIA FLORENCIA"
           ],
           "plazas": [
            "N°145575"
@@ -7849,7 +7748,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "VACANTE"
+           "ROBLES, MARIA LUZ"
           ],
           "plazas": [
            "N°237928"
@@ -7860,18 +7759,18 @@
          {
           "materia": "GENÉTICA Y BIOTECNOLOGÍA",
           "docentes": [
-           "VACANTE"
+           "ALBARRACIN, NADIA GISELLE"
           ],
           "plazas": [
-           "N°15263"
+           "N°289793"
           ]
          }
         ],
         "MIERCOLES": [
          {
-          "materia": "LENGUA",
+          "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "VANESA RODRÍGUEZ"
+           "MEDINA, MARIA BELEN"
           ],
           "plazas": [
            "N°272755"
@@ -7882,10 +7781,10 @@
          {
           "materia": "SANIDAD Y TERAPÉUTICA VEGETAL",
           "docentes": [
-           "VACANTE"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
-           "N°15263"
+           "N°289792"
           ]
          }
         ],
@@ -7893,7 +7792,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "MA. FLORENCIA BENIMELI"
+           "BENIMELI, MARIA FLORENCIA"
           ],
           "plazas": [
            "N°145575"
@@ -7909,7 +7808,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "VACANTE"
+           "ROBLES, MARIA LUZ"
           ],
           "plazas": [
            "N°237928"
@@ -7920,10 +7819,10 @@
          {
           "materia": "GENÉTICA Y BIOTECNOLOGÍA",
           "docentes": [
-           "VACANTE"
+           "ALBARRACIN, NADIA GISELLE"
           ],
           "plazas": [
-           "N°15263"
+           "N°289793"
           ]
          }
         ],
@@ -7931,10 +7830,11 @@
          {
           "materia": "APICULTURA",
           "docentes": [
-           "FORTINI/VACANTE"
+           "CHOQUE, JOSE ESTEBAN RAFAEL"
           ],
           "plazas": [
-           "N°0"
+           "N°291817",
+           "N°291822"
           ]
          }
         ],
@@ -7942,10 +7842,10 @@
          {
           "materia": "SANIDAD Y TERAPÉUTICA VEGETAL",
           "docentes": [
-           "VACANTE"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
-           "N°15263"
+           "N°289792"
           ]
          }
         ],
@@ -7953,7 +7853,7 @@
          {
           "materia": "LENGUA EXTRANJERA(INGLÉS)",
           "docentes": [
-           "SILVINA LOZA"
+           "LOZA, SILVINA EUGENIA"
           ],
           "plazas": [
            "N°272756"
@@ -7969,10 +7869,10 @@
          {
           "materia": "GENÉTICA Y BIOTECNOLOGÍA",
           "docentes": [
-           "VACANTE"
+           "ALBARRACIN, NADIA GISELLE"
           ],
           "plazas": [
-           "N°15263"
+           "N°289793"
           ]
          }
         ],
@@ -7980,10 +7880,11 @@
          {
           "materia": "APICULTURA",
           "docentes": [
-           "FORTINI/VACANTE"
+           "CHOQUE, JOSE ESTEBAN RAFAEL"
           ],
           "plazas": [
-           "N°15263"
+           "N°291817",
+           "N°291822"
           ]
          }
         ],
@@ -7991,21 +7892,21 @@
          {
           "materia": "MATEMÁTICA APLICADA I",
           "docentes": [
-           "ORTEGA/AGUIRRE"
+           "AGUIRRE, LUCAS JUAN JOSE"
           ],
           "plazas": [
-           "N°15263"
+           "N°365854"
           ]
          }
         ],
         "JUEVES": [
          {
-          "materia": "HORTICULTURA",
+          "materia": "HORTICULTURA Y PRODUCCION DE FLORES",
           "docentes": [
-           "VACANTE"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
-           "N°15263"
+           "N°291781"
           ]
          }
         ],
@@ -8013,7 +7914,7 @@
          {
           "materia": "LENGUA EXTRANJERA(INGLÉS)",
           "docentes": [
-           "SILVINA LOZA"
+           "LOZA, SILVINA EUGENIA"
           ],
           "plazas": [
            "N°272756"
@@ -8029,10 +7930,10 @@
          {
           "materia": "GENÉTICA Y BIOTECNOLOGÍA",
           "docentes": [
-           "VACANTE"
+           "ALBARRACIN, NADIA GISELLE"
           ],
           "plazas": [
-           "N°15263"
+           "N°289793"
           ]
          }
         ],
@@ -8040,10 +7941,11 @@
          {
           "materia": "APICULTURA",
           "docentes": [
-           "FORTINI/VACANTE"
+           "CHOQUE, JOSE ESTEBAN RAFAEL"
           ],
           "plazas": [
-           "N°15263"
+           "N°291817",
+           "N°291822"
           ]
          }
         ],
@@ -8051,21 +7953,21 @@
          {
           "materia": "MATEMÁTICA APLICADA I",
           "docentes": [
-           "ORTEGA/AGUIRRE"
+           "AGUIRRE, LUCAS JUAN JOSE"
           ],
           "plazas": [
-           "N°15263"
+           "N°365854"
           ]
          }
         ],
         "JUEVES": [
          {
-          "materia": "HORTICULTURA",
+          "materia": "HORTICULTURA Y PRODUCCION DE FLORES",
           "docentes": [
-           "VACANTE"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
-           "N°15263"
+           "N°291781"
           ]
          }
         ],
@@ -8073,7 +7975,7 @@
          {
           "materia": "LENGUA EXTRANJERA(INGLÉS)",
           "docentes": [
-           "SILVINA LOZA"
+           "LOZA, SILVINA EUGENIA"
           ],
           "plazas": [
            "N°272756"
@@ -8085,21 +7987,15 @@
       {
        "hora": "12:30 A 13:10",
        "celdas": {
-        "LUNES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
+        "LUNES": [],
         "MARTES": [
          {
           "materia": "SANIDAD Y TERAPÉUTICA VEGETAL",
           "docentes": [
-           "VACANTE"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
-           "N°15263"
+           "N°289792"
           ]
          }
         ],
@@ -8107,7 +8003,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "JUAN CALAMANDREI"
+           "CALAMANDREI, JUAN JOSE GERARDO"
           ],
           "plazas": [
            "N°365789"
@@ -8116,22 +8012,16 @@
         ],
         "JUEVES": [
          {
-          "materia": "HORTICULTURA",
+          "materia": "HORTICULTURA Y PRODUCCION DE FLORES",
           "docentes": [
-           "VACANTE"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
-           "N°15263"
+           "N°291781"
           ]
          }
         ],
-        "VIERNES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
+        "VIERNES": []
        }
       }
      ]
@@ -8152,9 +8042,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "PRODUCCIÓN ANIMAL (1° CUATRIMESTRE)",
+          "materia": "PRODUCCION ANIMAL I (1° CUATRIMESTRE)",
           "docentes": [
-           "MEDINA/MARRADES"
+           "MARRADES, EMILSE MARIBEL"
           ],
           "plazas": [
            "N°272754"
@@ -8163,7 +8053,8 @@
          {
           "materia": "MAQUINARIAS AGRÍCOLAS (2° CUATRIMESTRE)",
           "docentes": [
-           "MEDINA/MARRADES"
+           "MEDINA",
+           "MARRADES"
           ],
           "plazas": [
            "N°272754"
@@ -8174,7 +8065,8 @@
          {
           "materia": "HORTICULTURA (1° CUATRIMESTRE)",
           "docentes": [
-           "MEDINA/MARRADES"
+           "MEDINA",
+           "MARRADES"
           ],
           "plazas": [
            "N°272754"
@@ -8183,7 +8075,8 @@
          {
           "materia": "INDUSTRIA DE PRODUCTOS VEGETALES (2° CUATRIMESTRE)",
           "docentes": [
-           "MEDINA/MARRADES"
+           "MEDINA",
+           "MARRADES"
           ],
           "plazas": [
            "N°272754"
@@ -8192,9 +8085,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "PRODUCCIÓN ANIMAL (1° CUATRIMESTRE)",
+          "materia": "PRODUCCION ANIMAL I (1° CUATRIMESTRE)",
           "docentes": [
-           "MEDINA/MARRADES"
+           "MARRADES, EMILSE MARIBEL"
           ],
           "plazas": [
            "N°272754"
@@ -8203,7 +8096,8 @@
          {
           "materia": "MAQUINARIAS AGRÍCOLAS (2° CUATRIMESTRE)",
           "docentes": [
-           "MEDINA/MARRADES"
+           "MEDINA",
+           "MARRADES"
           ],
           "plazas": [
            "N°272754"
@@ -8214,7 +8108,8 @@
          {
           "materia": "HORTICULTURA (1° CUATRIMESTRE)",
           "docentes": [
-           "MEDINA/MARRADES"
+           "MEDINA",
+           "MARRADES"
           ],
           "plazas": [
            "N°272754"
@@ -8223,7 +8118,8 @@
          {
           "materia": "INDUSTRIA DE PRODUCTOS VEGETALES (2° CUATRIMESTRE)",
           "docentes": [
-           "MEDINA/MARRADES"
+           "MEDINA",
+           "MARRADES"
           ],
           "plazas": [
            "N°272754"
@@ -8238,9 +8134,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "PRODUCCIÓN ANIMAL (1° CUATRIMESTRE)",
+          "materia": "PRODUCCION ANIMAL I (1° CUATRIMESTRE)",
           "docentes": [
-           "MEDINA/MARRADES"
+           "MARRADES, EMILSE MARIBEL"
           ],
           "plazas": [
            "N°272754"
@@ -8249,7 +8145,8 @@
          {
           "materia": "MAQUINARIAS AGRÍCOLAS (2° CUATRIMESTRE)",
           "docentes": [
-           "MEDINA/MARRADES"
+           "MEDINA",
+           "MARRADES"
           ],
           "plazas": [
            "N°272754"
@@ -8260,7 +8157,8 @@
          {
           "materia": "HORTICULTURA (1° CUATRIMESTRE)",
           "docentes": [
-           "MEDINA/MARRADES"
+           "MEDINA",
+           "MARRADES"
           ],
           "plazas": [
            "N°272754"
@@ -8269,7 +8167,8 @@
          {
           "materia": "INDUSTRIA DE PRODUCTOS VEGETALES (2° CUATRIMESTRE)",
           "docentes": [
-           "MEDINA/MARRADES"
+           "MEDINA",
+           "MARRADES"
           ],
           "plazas": [
            "N°272754"
@@ -8278,9 +8177,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "PRODUCCIÓN ANIMAL (1° CUATRIMESTRE)",
+          "materia": "PRODUCCION ANIMAL I (1° CUATRIMESTRE)",
           "docentes": [
-           "MEDINA/MARRADES"
+           "MARRADES, EMILSE MARIBEL"
           ],
           "plazas": [
            "N°272754"
@@ -8289,7 +8188,8 @@
          {
           "materia": "MAQUINARIAS AGRÍCOLAS (2° CUATRIMESTRE)",
           "docentes": [
-           "MEDINA/MARRADES"
+           "MEDINA",
+           "MARRADES"
           ],
           "plazas": [
            "N°272754"
@@ -8300,7 +8200,8 @@
          {
           "materia": "HORTICULTURA (1° CUATRIMESTRE)",
           "docentes": [
-           "MEDINA/MARRADES"
+           "MEDINA",
+           "MARRADES"
           ],
           "plazas": [
            "N°272754"
@@ -8309,7 +8210,8 @@
          {
           "materia": "INDUSTRIA DE PRODUCTOS VEGETALES (2° CUATRIMESTRE)",
           "docentes": [
-           "MEDINA/MARRADES"
+           "MEDINA",
+           "MARRADES"
           ],
           "plazas": [
            "N°272754"
@@ -8343,10 +8245,10 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "MA. JOSÉ DÍAZ FRANCHI"
+           "DIAZ FRANCHI, MARIA JOSE"
           ],
           "plazas": [
-           "N°15263"
+           "N°272757"
           ]
          }
         ]
@@ -8363,10 +8265,10 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "MA. JOSÉ DÍAZ FRANCHI"
+           "DIAZ FRANCHI, MARIA JOSE"
           ],
           "plazas": [
-           "N°15263"
+           "N°272757"
           ]
          }
         ]
@@ -8402,7 +8304,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "FERREIRA/MEDINA"
+           "MEDINA, MARIA BELEN"
           ],
           "plazas": [
            "N°237981"
@@ -8413,7 +8315,7 @@
          {
           "materia": "ECONOMÍA Y DESARROLLO RURAL",
           "docentes": [
-           "EDITH FIGUEROA"
+           "FIGUEROA, EDITH CECILIA"
           ],
           "plazas": [
            "N°191185"
@@ -8424,7 +8326,7 @@
          {
           "materia": "CULTIVOS INDUSTRIALES",
           "docentes": [
-           "FORTINI/ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°291819"
@@ -8435,7 +8337,7 @@
          {
           "materia": "ECONOMÍA Y DESARROLLO RURAL",
           "docentes": [
-           "EDITH FIGUEROA"
+           "FIGUEROA, EDITH CECILIA"
           ],
           "plazas": [
            "N°191185"
@@ -8446,7 +8348,7 @@
          {
           "materia": "MATEMÁTICA APLICADA II",
           "docentes": [
-           "CORONEL/AGUIRRE"
+           "AGUIRRE, LUCAS JUAN JOSE"
           ],
           "plazas": [
            "N°192432"
@@ -8462,7 +8364,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "FERREIRA/MEDINA"
+           "MEDINA, MARIA BELEN"
           ],
           "plazas": [
            "N°237981"
@@ -8473,7 +8375,7 @@
          {
           "materia": "ECONOMÍA Y DESARROLLO RURAL",
           "docentes": [
-           "EDITH FIGUEROA"
+           "FIGUEROA, EDITH CECILIA"
           ],
           "plazas": [
            "N°191185"
@@ -8484,7 +8386,7 @@
          {
           "materia": "CULTIVOS INDUSTRIALES",
           "docentes": [
-           "FORTINI/ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°291819"
@@ -8495,7 +8397,7 @@
          {
           "materia": "LENGUA EXTRANJERA(INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°192065"
@@ -8506,7 +8408,7 @@
          {
           "materia": "MATEMÁTICA APLICADA II",
           "docentes": [
-           "CORONEL/AGUIRRE"
+           "AGUIRRE, LUCAS JUAN JOSE"
           ],
           "plazas": [
            "N°192432"
@@ -8522,7 +8424,7 @@
          {
           "materia": "MATEMÁTICA APLICADA II",
           "docentes": [
-           "CORONEL/AGUIRRE"
+           "AGUIRRE, LUCAS JUAN JOSE"
           ],
           "plazas": [
            "N°192432"
@@ -8533,7 +8435,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "FERREIRA/MEDINA"
+           "MEDINA, MARIA BELEN"
           ],
           "plazas": [
            "N°237981"
@@ -8544,7 +8446,7 @@
          {
           "materia": "CULTIVOS INDUSTRIALES",
           "docentes": [
-           "FORTINI/ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°291819"
@@ -8555,7 +8457,7 @@
          {
           "materia": "LENGUA EXTRANJERA(INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°192065"
@@ -8566,7 +8468,7 @@
          {
           "materia": "RELACIONES HUMANAS",
           "docentes": [
-           "MÓNICA ANTÓN"
+           "ANTON, MONICA CECILIA"
           ],
           "plazas": [
            "N°266823"
@@ -8582,7 +8484,7 @@
          {
           "materia": "MATEMÁTICA APLICADA II",
           "docentes": [
-           "CORONEL/AGUIRRE"
+           "AGUIRRE, LUCAS JUAN JOSE"
           ],
           "plazas": [
            "N°192432"
@@ -8593,7 +8495,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "FERREIRA/MEDINA"
+           "MEDINA, MARIA BELEN"
           ],
           "plazas": [
            "N°237981"
@@ -8604,7 +8506,7 @@
          {
           "materia": "AGROINDUSTRIAS DE TUCUMÁN",
           "docentes": [
-           "FORTINI/ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°291821"
@@ -8615,7 +8517,7 @@
          {
           "materia": "LENGUA EXTRANJERA(INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°192065"
@@ -8626,7 +8528,7 @@
          {
           "materia": "RELACIONES HUMANAS",
           "docentes": [
-           "MÓNICA ANTÓN"
+           "ANTON, MONICA CECILIA"
           ],
           "plazas": [
            "N°266823"
@@ -8642,7 +8544,7 @@
          {
           "materia": "FRUTICULTURA",
           "docentes": [
-           "CANDELARIA FLORES"
+           "FLORES, JUANA CANDELARIA"
           ],
           "plazas": [
            "N°206134"
@@ -8651,9 +8553,9 @@
         ],
         "MARTES": [
          {
-          "materia": "PRODUCCIÓN PECUARIA",
+          "materia": "PRODUCCION PECUARIA I",
           "docentes": [
-           "CARMEN SALINAS"
+           "SALINAS, CARMEN"
           ],
           "plazas": [
            "N°178596"
@@ -8664,7 +8566,7 @@
          {
           "materia": "AGROINDUSTRIAS DE TUCUMÁN",
           "docentes": [
-           "FORTINI/ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°291821"
@@ -8673,9 +8575,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "PRODUCCIÓN PECUARIA",
+          "materia": "PRODUCCION PECUARIA I",
           "docentes": [
-           "CARMEN SALINAS"
+           "SALINAS, CARMEN"
           ],
           "plazas": [
            "N°178596"
@@ -8686,7 +8588,7 @@
          {
           "materia": "SILVICULTURA",
           "docentes": [
-           "MA. FLORENCIA BENIMELI"
+           "BENIMELI, MARIA FLORENCIA"
           ],
           "plazas": [
            "N°227207"
@@ -8702,7 +8604,7 @@
          {
           "materia": "FRUTICULTURA",
           "docentes": [
-           "CANDELARIA FLORES"
+           "FLORES, JUANA CANDELARIA"
           ],
           "plazas": [
            "N°206134"
@@ -8711,9 +8613,9 @@
         ],
         "MARTES": [
          {
-          "materia": "PRODUCCIÓN PECUARIA",
+          "materia": "PRODUCCION PECUARIA I",
           "docentes": [
-           "CARMEN SALINAS"
+           "SALINAS, CARMEN"
           ],
           "plazas": [
            "N°178596"
@@ -8724,7 +8626,7 @@
          {
           "materia": "AGROINDUSTRIAS DE TUCUMÁN",
           "docentes": [
-           "FORTINI/ARGAÑARAZ"
+           "ARGAÑARAZ, JULIO JOSE IGNACIO"
           ],
           "plazas": [
            "N°291821"
@@ -8733,9 +8635,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "PRODUCCIÓN PECUARIA",
+          "materia": "PRODUCCION PECUARIA I",
           "docentes": [
-           "CARMEN SALINAS"
+           "SALINAS, CARMEN"
           ],
           "plazas": [
            "N°178596"
@@ -8746,7 +8648,7 @@
          {
           "materia": "SILVICULTURA",
           "docentes": [
-           "MA. FLORENCIA BENIMELI"
+           "BENIMELI, MARIA FLORENCIA"
           ],
           "plazas": [
            "N°227208"
@@ -8762,7 +8664,7 @@
          {
           "materia": "FRUTICULTURA",
           "docentes": [
-           "CANDELARIA FLORES"
+           "FLORES, JUANA CANDELARIA"
           ],
           "plazas": [
            "N°206134"
@@ -8773,25 +8675,19 @@
          {
           "materia": "FRUTICULTURA",
           "docentes": [
-           "CANDELARIA FLORES"
+           "FLORES, JUANA CANDELARIA"
           ],
           "plazas": [
            "N°206134"
           ]
          }
         ],
-        "MIERCOLES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
+        "MIERCOLES": [],
         "JUEVES": [
          {
-          "materia": "PRODUCCIÓN PECUARIA",
+          "materia": "PRODUCCION PECUARIA I",
           "docentes": [
-           "CARMEN SALINAS"
+           "SALINAS, CARMEN"
           ],
           "plazas": [
            "N°178596"
@@ -8802,7 +8698,7 @@
          {
           "materia": "SILVICULTURA",
           "docentes": [
-           "MA. FLORENCIA BENIMELI"
+           "BENIMELI, MARIA FLORENCIA"
           ],
           "plazas": [
            "N°227209"
@@ -8831,16 +8727,20 @@
          {
           "materia": "ARBORICULTURA",
           "docentes": [
-           "MENINA GÓMEZ"
+           "GOMEZ, MENINA LUCIA DEL VALLE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°270495"
+          ]
          },
          {
           "materia": "PRODUCCIÓN ANIMAL II",
           "docentes": [
-           "JUAN JOSÉ HEREDIA"
+           "HEREDIA, JUAN JOSE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°236203"
+          ]
          }
         ],
         "MARTES": [],
@@ -8848,23 +8748,29 @@
          {
           "materia": "ARBORICULTURA",
           "docentes": [
-           "MENINA GÓMEZ"
+           "GOMEZ, MENINA LUCIA DEL VALLE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°270495"
+          ]
          },
          {
           "materia": "PRODUCCIÓN ANIMAL II",
           "docentes": [
-           "JUAN JOSÉ HEREDIA"
+           "HEREDIA, JUAN JOSE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°236203"
+          ]
          },
          {
           "materia": "INDUSTRIAS DE LA CARNE Y DE LA LECHE",
           "docentes": [
-           "PAMELA SORIA"
+           "SORIA, NELIDA PAMELA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°236204"
+          ]
          }
         ],
         "JUEVES": [],
@@ -8872,9 +8778,11 @@
          {
           "materia": "INDUSTRIAS DE LA CARNE Y DE LA LECHE",
           "docentes": [
-           "PAMELA SORIA"
+           "SORIA, NELIDA PAMELA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°236204"
+          ]
          }
         ]
        }
@@ -8886,16 +8794,20 @@
          {
           "materia": "ARBORICULTURA",
           "docentes": [
-           "MENINA GÓMEZ"
+           "GOMEZ, MENINA LUCIA DEL VALLE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°270495"
+          ]
          },
          {
           "materia": "PRODUCCIÓN ANIMAL II",
           "docentes": [
-           "JUAN JOSÉ HEREDIA"
+           "HEREDIA, JUAN JOSE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°236203"
+          ]
          }
         ],
         "MARTES": [],
@@ -8903,23 +8815,29 @@
          {
           "materia": "ARBORICULTURA",
           "docentes": [
-           "MENINA GÓMEZ"
+           "GOMEZ, MENINA LUCIA DEL VALLE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°270495"
+          ]
          },
          {
           "materia": "PRODUCCIÓN ANIMAL II",
           "docentes": [
-           "JUAN JOSÉ HEREDIA"
+           "HEREDIA, JUAN JOSE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°236203"
+          ]
          },
          {
           "materia": "INDUSTRIAS DE LA CARNE Y DE LA LECHE",
           "docentes": [
-           "PAMELA SORIA"
+           "SORIA, NELIDA PAMELA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°236204"
+          ]
          }
         ],
         "JUEVES": [],
@@ -8927,9 +8845,11 @@
          {
           "materia": "INDUSTRIAS DE LA CARNE Y DE LA LECHE",
           "docentes": [
-           "PAMELA SORIA"
+           "SORIA, NELIDA PAMELA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°236204"
+          ]
          }
         ]
        }
@@ -8955,7 +8875,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "DIEGO GÓMEZ"
+           "GOMEZ, DIEGO ALFREDO"
           ],
           "plazas": [
            "N°300974"
@@ -8975,7 +8895,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "DIEGO GÓMEZ"
+           "GOMEZ, DIEGO ALFREDO"
           ],
           "plazas": [
            "N°300974"
@@ -9017,7 +8937,7 @@
          {
           "materia": "COMUNICACIÓN",
           "docentes": [
-           "DANIELA MAMANÍ"
+           "MAMANI, MARIA DANIELA"
           ],
           "plazas": [
            "N°266824"
@@ -9028,9 +8948,10 @@
          {
           "materia": "PRODUCCIÓN AGROPECUARIA DE INTERÉS LOCAL",
           "docentes": [
-           "ROCÍO PÉREZ"
+           "PEREZ, ROCIO ANAHI"
           ],
           "plazas": [
+           "N°195239",
            "N°195259"
           ]
          }
@@ -9039,9 +8960,10 @@
          {
           "materia": "PRODUCCIÓN AGROPECUARIA DE INTERÉS LOCAL",
           "docentes": [
-           "ROCÍO PÉREZ"
+           "PEREZ, ROCIO ANAHI"
           ],
           "plazas": [
+           "N°195239",
            "N°195259"
           ]
          }
@@ -9050,9 +8972,10 @@
          {
           "materia": "MATEMÁTICA APLICADA A LA EMPRESA AGROPECUARIA",
           "docentes": [
-           "FORTINI/ANDRADE"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
+           "N°291818",
            "N°292918"
           ]
          }
@@ -9061,7 +8984,7 @@
          {
           "materia": "FORMULACIÓN DE PROYECTOS PRODUCTIVOS",
           "docentes": [
-           "DANIEL MEDINA"
+           "MEDINA, DANIEL JESUS"
           ],
           "plazas": [
            "N°248052"
@@ -9077,7 +9000,7 @@
          {
           "materia": "COMUNICACIÓN",
           "docentes": [
-           "DANIELA MAMANÍ"
+           "MAMANI, MARIA DANIELA"
           ],
           "plazas": [
            "N°266824"
@@ -9088,9 +9011,10 @@
          {
           "materia": "PRODUCCIÓN AGROPECUARIA DE INTERÉS LOCAL",
           "docentes": [
-           "ROCÍO PÉREZ"
+           "PEREZ, ROCIO ANAHI"
           ],
           "plazas": [
+           "N°195239",
            "N°195259"
           ]
          }
@@ -9099,9 +9023,10 @@
          {
           "materia": "PRODUCCIÓN AGROPECUARIA DE INTERÉS LOCAL",
           "docentes": [
-           "ROCÍO PÉREZ"
+           "PEREZ, ROCIO ANAHI"
           ],
           "plazas": [
+           "N°195239",
            "N°195259"
           ]
          }
@@ -9110,9 +9035,10 @@
          {
           "materia": "MATEMÁTICA APLICADA A LA EMPRESA AGROPECUARIA",
           "docentes": [
-           "FORTINI/ANDRADE"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
+           "N°291818",
            "N°292918"
           ]
          }
@@ -9121,7 +9047,7 @@
          {
           "materia": "FORMULACIÓN DE PROYECTOS PRODUCTIVOS",
           "docentes": [
-           "DANIEL MEDINA"
+           "MEDINA, DANIEL JESUS"
           ],
           "plazas": [
            "N°248052"
@@ -9137,7 +9063,7 @@
          {
           "materia": "COMUNICACIÓN",
           "docentes": [
-           "DANIELA MAMANÍ"
+           "MAMANI, MARIA DANIELA"
           ],
           "plazas": [
            "N°266824"
@@ -9148,7 +9074,7 @@
          {
           "materia": "ORGANIZACIÓN Y GESTIÓN DE LA EMPRESA AGROPECUARIA",
           "docentes": [
-           "EDITH FIGUEROA"
+           "FIGUEROA, EDITH CECILIA"
           ],
           "plazas": [
            "N°210168"
@@ -9159,9 +9085,10 @@
          {
           "materia": "PRODUCCIÓN AGROPECUARIA DE INTERÉS LOCAL",
           "docentes": [
-           "ROCÍO PÉREZ"
+           "PEREZ, ROCIO ANAHI"
           ],
           "plazas": [
+           "N°195239",
            "N°195259"
           ]
          }
@@ -9170,7 +9097,7 @@
          {
           "materia": "ORGANIZACIÓN Y GESTIÓN DE LA EMPRESA AGROPECUARIA",
           "docentes": [
-           "EDITH FIGUEROA"
+           "FIGUEROA, EDITH CECILIA"
           ],
           "plazas": [
            "N°210168"
@@ -9181,7 +9108,7 @@
          {
           "materia": "FORMULACIÓN DE PROYECTOS PRODUCTIVOS",
           "docentes": [
-           "DANIEL MEDINA"
+           "MEDINA, DANIEL JESUS"
           ],
           "plazas": [
            "N°248052"
@@ -9197,7 +9124,7 @@
          {
           "materia": "LEGISLACIÓN AGRARIA",
           "docentes": [
-           "GARCÍA/JUÁREZ"
+           "JUAREZ, VICTOR HUGO"
           ],
           "plazas": [
            "N°237918"
@@ -9208,7 +9135,7 @@
          {
           "materia": "ORGANIZACIÓN Y GESTIÓN DE LA EMPRESA AGROPECUARIA",
           "docentes": [
-           "EDITH FIGUEROA"
+           "FIGUEROA, EDITH CECILIA"
           ],
           "plazas": [
            "N°210168"
@@ -9219,7 +9146,7 @@
          {
           "materia": "PROYECTO TECNOLÓGICO",
           "docentes": [
-           "IRIS SÁNCHEZ"
+           "SANCHEZ, IRIS SABRINA DEL VALLE"
           ],
           "plazas": [
            "N°197579"
@@ -9230,7 +9157,7 @@
          {
           "materia": "ORGANIZACIÓN Y GESTIÓN DE LA EMPRESA AGROPECUARIA",
           "docentes": [
-           "EDITH FIGUEROA"
+           "FIGUEROA, EDITH CECILIA"
           ],
           "plazas": [
            "N°210168"
@@ -9241,7 +9168,7 @@
          {
           "materia": "PROYECTO TECNOLÓGICO",
           "docentes": [
-           "IRIS SÁNCHEZ"
+           "SANCHEZ, IRIS SABRINA DEL VALLE"
           ],
           "plazas": [
            "N°197579"
@@ -9257,7 +9184,7 @@
          {
           "materia": "LEGISLACIÓN AGRARIA",
           "docentes": [
-           "GARCÍA/JUÁREZ"
+           "JUAREZ, VICTOR HUGO"
           ],
           "plazas": [
            "N°237914"
@@ -9268,7 +9195,7 @@
          {
           "materia": "FORMULACIÓN DE PROYECTOS PRODUCTIVOS",
           "docentes": [
-           "DANIEL MEDINA"
+           "MEDINA, DANIEL JESUS"
           ],
           "plazas": [
            "N°248052"
@@ -9279,7 +9206,7 @@
          {
           "materia": "PROYECTO TECNOLÓGICO",
           "docentes": [
-           "IRIS SÁNCHEZ"
+           "SANCHEZ, IRIS SABRINA DEL VALLE"
           ],
           "plazas": [
            "N°197579"
@@ -9290,7 +9217,7 @@
          {
           "materia": "LENGUA EXTRANJERA(INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°194110"
@@ -9301,7 +9228,7 @@
          {
           "materia": "PROYECTO TECNOLÓGICO",
           "docentes": [
-           "IRIS SÁNCHEZ"
+           "SANCHEZ, IRIS SABRINA DEL VALLE"
           ],
           "plazas": [
            "N°197579"
@@ -9317,7 +9244,7 @@
          {
           "materia": "LEGISLACIÓN AGRARIA",
           "docentes": [
-           "GARCÍA/JUÁREZ"
+           "JUAREZ, VICTOR HUGO"
           ],
           "plazas": [
            "N°237916"
@@ -9328,7 +9255,7 @@
          {
           "materia": "FORMULACIÓN DE PROYECTOS PRODUCTIVOS",
           "docentes": [
-           "DANIEL MEDINA"
+           "MEDINA, DANIEL JESUS"
           ],
           "plazas": [
            "N°248052"
@@ -9339,7 +9266,7 @@
          {
           "materia": "PROYECTO TECNOLÓGICO",
           "docentes": [
-           "IRIS SÁNCHEZ"
+           "SANCHEZ, IRIS SABRINA DEL VALLE"
           ],
           "plazas": [
            "N°197579"
@@ -9350,7 +9277,7 @@
          {
           "materia": "LENGUA EXTRANJERA(INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°194110"
@@ -9361,7 +9288,7 @@
          {
           "materia": "PROYECTO TECNOLÓGICO",
           "docentes": [
-           "IRIS SÁNCHEZ"
+           "SANCHEZ, IRIS SABRINA DEL VALLE"
           ],
           "plazas": [
            "N°197579"
@@ -9373,27 +9300,16 @@
       {
        "hora": "12:30 A 13:10",
        "celdas": {
-        "LUNES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "LIBRE DE HORARIO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
+        "LUNES": [],
+        "MARTES": [],
         "MIERCOLES": [
          {
           "materia": "MATEMÁTICA APLICADA A LA EMPRESA AGROPECUARIA",
           "docentes": [
-           "FORTINI/ANDRADE"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
+           "N°291818",
            "N°292918"
           ]
          }
@@ -9402,7 +9318,7 @@
          {
           "materia": "LENGUA EXTRANJERA(INGLÉS)",
           "docentes": [
-           "STELLA ISCAZATTI"
+           "ISCAZATTI, STELLA MARYS"
           ],
           "plazas": [
            "N°194110"
@@ -9413,9 +9329,10 @@
          {
           "materia": "MATEMÁTICA APLICADA A LA EMPRESA AGROPECUARIA",
           "docentes": [
-           "FORTINI/ANDRADE"
+           "ANDRADE, ANTONIO EDGARDO"
           ],
           "plazas": [
+           "N°291818",
            "N°292918"
           ]
          }
@@ -9441,11 +9358,13 @@
         "LUNES": [],
         "MARTES": [
          {
-          "materia": "TECNOLOGÍA DE MEDICIÓN Y CONTROL",
+          "materia": "TECNOLOGIA",
           "docentes": [
            "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°168852"
+          ]
          },
          {
           "materia": "AGROECOLOGÍA Y MONITOREO AMBIENTAL",
@@ -9464,27 +9383,33 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "DANIEL MEDINA",
-          "docentes": [],
+          "materia": "FORMULACION DE PROYECTOS PRODUCTIVOS",
+          "docentes": [
+           "MEDINA, DANIEL JESUS"
+          ],
           "plazas": [
-           "--------------------------"
+           "N°248052"
           ]
          },
          {
-          "materia": "DANIEL MEDINA",
-          "docentes": [],
+          "materia": "FORMULACION DE PROYECTOS PRODUCTIVOS",
+          "docentes": [
+           "MEDINA, DANIEL JESUS"
+          ],
           "plazas": [
-           "-------------------------------"
+           "N°248052"
           ]
          }
         ],
         "JUEVES": [
          {
-          "materia": "TECNOLOGÍA DE MEDICIÓN Y CONTROL",
+          "materia": "TECNOLOGIA",
           "docentes": [
            "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°168852"
+          ]
          },
          {
           "materia": "AGROECOLOGÍA Y MONITOREO AMBIENTAL",
@@ -9510,11 +9435,13 @@
         "LUNES": [],
         "MARTES": [
          {
-          "materia": "TECNOLOGÍA DE MEDICIÓN Y CONTROL",
+          "materia": "TECNOLOGIA",
           "docentes": [
            "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°168852"
+          ]
          },
          {
           "materia": "AGROECOLOGÍA Y MONITOREO AMBIENTAL",
@@ -9533,27 +9460,33 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "DANIEL MEDINA",
-          "docentes": [],
+          "materia": "FORMULACION DE PROYECTOS PRODUCTIVOS",
+          "docentes": [
+           "MEDINA, DANIEL JESUS"
+          ],
           "plazas": [
-           "--------------------------"
+           "N°248052"
           ]
          },
          {
-          "materia": "DANIEL MEDINA",
-          "docentes": [],
+          "materia": "FORMULACION DE PROYECTOS PRODUCTIVOS",
+          "docentes": [
+           "MEDINA, DANIEL JESUS"
+          ],
           "plazas": [
-           "-------------------------------"
+           "N°248052"
           ]
          }
         ],
         "JUEVES": [
          {
-          "materia": "TECNOLOGÍA DE MEDICIÓN Y CONTROL",
+          "materia": "TECNOLOGIA",
           "docentes": [
            "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°168852"
+          ]
          },
          {
           "materia": "AGROECOLOGÍA Y MONITOREO AMBIENTAL",
@@ -9597,10 +9530,10 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "MA. JOSÉ DÍAZ FRANCHI"
+           "DIAZ FRANCHI, MARIA JOSE"
           ],
           "plazas": [
-           "N°15263"
+           "N°178971"
           ]
          }
         ]
@@ -9617,10 +9550,10 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "MA. JOSÉ DÍAZ FRANCHI"
+           "DIAZ FRANCHI, MARIA JOSE"
           ],
           "plazas": [
-           "N°15263"
+           "N°178971"
           ]
          }
         ]

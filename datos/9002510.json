@@ -9,7 +9,7 @@
    "curso": "1º AÑO",
    "division": "",
    "ciclo": "",
-   "resolucion": "Nº 106/5 Med",
+   "resolucion": "Nº 106/5 MED",
    "observaciones": "",
    "tablas": [
     {
@@ -24,7 +24,7 @@
      ],
      "filas": [
       {
-       "hora": "13:20 A 14:00 hs",
+       "hora": "13:20 A 14:00 HS",
        "celdas": {
         "LUNES": [],
         "MARTES": [],
@@ -32,10 +32,10 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "STEFANIA NAIR GARCIA"
+           "GARCÍA, STEFANÍA NAIR"
           ],
           "plazas": [
-           "N° 395475"
+           "N°395475"
           ]
          }
         ],
@@ -44,16 +44,16 @@
        }
       },
       {
-       "hora": "14:00 A 14:40 hs",
+       "hora": "14:00 A 14:40 HS",
        "celdas": {
         "LUNES": [
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "LUCIANA ROLDAN"
+           "MAIDANA, MILAGROS GISEL"
           ],
           "plazas": [
-           "N° 395474"
+           "N°395474"
           ]
          }
         ],
@@ -61,10 +61,10 @@
          {
           "materia": "FISICO QUIMICA",
           "docentes": [
-           "LUCAS VISUARA"
+           "VISUARA MOLINA, LUCAS NICOLÁS"
           ],
           "plazas": [
-           "N° 395473"
+           "N°395473"
           ]
          }
         ],
@@ -72,10 +72,10 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "STEFANIA NAIR GARCIA"
+           "GARCÍA, STEFANÍA NAIR"
           ],
           "plazas": [
-           "N° 395475"
+           "N°395475"
           ]
          }
         ],
@@ -83,10 +83,10 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "NANCY G. GONZALEZ"
+           "CHAVEZ VILLAGRA, FLAVIA MICAELA"
           ],
           "plazas": [
-           "N° 395478"
+           "N°395478"
           ]
          }
         ],
@@ -94,26 +94,26 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "MERCEDE MAMANI"
+           "MAMANI, HILDA MERCEDES"
           ],
           "plazas": [
-           "N° 395477"
+           "N°395477"
           ]
          }
         ]
        }
       },
       {
-       "hora": "14:40 A 15:20 hs",
+       "hora": "14:40 A 15:20 HS",
        "celdas": {
         "LUNES": [
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "LUCIANA ROLDAN"
+           "MAIDANA, MILAGROS GISEL"
           ],
           "plazas": [
-           "N° 395474"
+           "N°395474"
           ]
          }
         ],
@@ -121,21 +121,21 @@
          {
           "materia": "FISICO QUIMICA",
           "docentes": [
-           "LUCAS VISUARA"
+           "VISUARA MOLINA, LUCAS NICOLÁS"
           ],
           "plazas": [
-           "N° 395473"
+           "N°395473"
           ]
          }
         ],
         "MIERCOLES": [
          {
-          "materia": "MATEMATICAS",
+          "materia": "MATEMATICA",
           "docentes": [
-           "CARINA E. ARROYO"
+           "ARROYO, CARINA ELIZABETH"
           ],
           "plazas": [
-           "N° 395479"
+           "N°395479"
           ]
          }
         ],
@@ -143,10 +143,10 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "NANCY G. GONZALEZ"
+           "CHAVEZ VILLAGRA, FLAVIA MICAELA"
           ],
           "plazas": [
-           "N° 395478"
+           "N°395478"
           ]
          }
         ],
@@ -154,26 +154,26 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "MERCEDE MAMANI"
+           "MAMANI, HILDA MERCEDES"
           ],
           "plazas": [
-           "N° 395477"
+           "N°395477"
           ]
          }
         ]
        }
       },
       {
-       "hora": "15:30 A 16:10 hs",
+       "hora": "15:30 A 16:10 HS",
        "celdas": {
         "LUNES": [
          {
           "materia": "LENGUA",
           "docentes": [
-           "NANCY G. GONZALEZ"
+           "CHAVEZ VILLAGRA, FLAVIA MICAELA"
           ],
           "plazas": [
-           "N° 395478"
+           "N°395478"
           ]
          }
         ],
@@ -181,21 +181,21 @@
          {
           "materia": "FISICO QUIMICA",
           "docentes": [
-           "LUCAS VISUARA"
+           "VISUARA MOLINA, LUCAS NICOLÁS"
           ],
           "plazas": [
-           "N° 395473"
+           "N°395473"
           ]
          }
         ],
         "MIERCOLES": [
          {
-          "materia": "MATEMATICAS",
+          "materia": "MATEMATICA",
           "docentes": [
-           "CARINA E. ARROYO"
+           "ARROYO, CARINA ELIZABETH"
           ],
           "plazas": [
-           "N° 395479"
+           "N°395479"
           ]
          }
         ],
@@ -203,10 +203,10 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "NANCY G. GONZALEZ"
+           "CHAVEZ VILLAGRA, FLAVIA MICAELA"
           ],
           "plazas": [
-           "N° 395478"
+           "N°395478"
           ]
          }
         ],
@@ -214,26 +214,26 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "MERCEDE MAMANI"
+           "MAMANI, HILDA MERCEDES"
           ],
           "plazas": [
-           "N° 395477"
+           "N°395477"
           ]
          }
         ]
        }
       },
       {
-       "hora": "16:10 A 16:50 hs",
+       "hora": "16:10 A 16:50 HS",
        "celdas": {
         "LUNES": [
          {
           "materia": "LENGUA",
           "docentes": [
-           "NANCY G. GONZALEZ"
+           "CHAVEZ VILLAGRA, FLAVIA MICAELA"
           ],
           "plazas": [
-           "N° 395478"
+           "N°395478"
           ]
          }
         ],
@@ -241,21 +241,21 @@
          {
           "materia": "BIOLOGIA",
           "docentes": [
-           "LUCAS VISUARA"
+           "VISUARA MOLINA, LUCAS NICOLÁS"
           ],
           "plazas": [
-           "N° 395471"
+           "N°395471"
           ]
          }
         ],
         "MIERCOLES": [
          {
-          "materia": "MATEMATICAS",
+          "materia": "MATEMATICA",
           "docentes": [
-           "CARINA E. ARROYO"
+           "ARROYO, CARINA ELIZABETH"
           ],
           "plazas": [
-           "N° 395479"
+           "N°395479"
           ]
          }
         ],
@@ -263,10 +263,10 @@
          {
           "materia": "TECNOLOGIA",
           "docentes": [
-           "MABEL HERRERA"
+           "HERRERA, CRISTINA MABEL"
           ],
           "plazas": [
-           "N° 395470"
+           "N°395470"
           ]
          }
         ],
@@ -274,26 +274,26 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "SILVIA BRAVO"
+           "FERNANDEZ, LUCIA CAROLINA"
           ],
           "plazas": [
-           "N° 395476"
+           "N°395476"
           ]
          }
         ]
        }
       },
       {
-       "hora": "17:00 A 17:40 hs",
+       "hora": "17:00 A 17:40 HS",
        "celdas": {
         "LUNES": [
          {
-          "materia": "MATEMATICAS",
+          "materia": "MATEMATICA",
           "docentes": [
-           "CARINA E. ARROYO"
+           "ARROYO, CARINA ELIZABETH"
           ],
           "plazas": [
-           "N° 395479"
+           "N°395479"
           ]
          }
         ],
@@ -301,10 +301,10 @@
          {
           "materia": "BIOLOGIA",
           "docentes": [
-           "LUCAS VISUARA"
+           "VISUARA MOLINA, LUCAS NICOLÁS"
           ],
           "plazas": [
-           "N° 395471"
+           "N°395471"
           ]
          }
         ],
@@ -312,10 +312,10 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "LUCIANA ROLDAN"
+           "MAIDANA, MILAGROS GISEL"
           ],
           "plazas": [
-           "N° 395474"
+           "N°395474"
           ]
          }
         ],
@@ -323,10 +323,10 @@
          {
           "materia": "TECNOLOGIA",
           "docentes": [
-           "MABEL HERRERA"
+           "HERRERA, CRISTINA MABEL"
           ],
           "plazas": [
-           "N° 395470"
+           "N°395470"
           ]
          }
         ],
@@ -334,26 +334,26 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "SILVIA BRAVO"
+           "FERNANDEZ, LUCIA CAROLINA"
           ],
           "plazas": [
-           "N° 395476"
+           "N°395476"
           ]
          }
         ]
        }
       },
       {
-       "hora": "17:40 A 18:20 hs",
+       "hora": "17:40 A 18:20 HS",
        "celdas": {
         "LUNES": [
          {
-          "materia": "MATEMATICAS",
+          "materia": "MATEMATICA",
           "docentes": [
-           "CARINA E. ARROYO"
+           "ARROYO, CARINA ELIZABETH"
           ],
           "plazas": [
-           "N° 395479"
+           "N°395479"
           ]
          }
         ],
@@ -361,10 +361,10 @@
          {
           "materia": "BIOLOGIA",
           "docentes": [
-           "LUCAS VISUARA"
+           "VISUARA MOLINA, LUCAS NICOLÁS"
           ],
           "plazas": [
-           "N° 395471"
+           "N°395471"
           ]
          }
         ],
@@ -372,10 +372,10 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "LUCIANA ROLDAN"
+           "MAIDANA, MILAGROS GISEL"
           ],
           "plazas": [
-           "N° 395474"
+           "N°395474"
           ]
          }
         ],
@@ -383,10 +383,10 @@
          {
           "materia": "TECNOLOGIA",
           "docentes": [
-           "MABEL HERRERA"
+           "HERRERA, CRISTINA MABEL"
           ],
           "plazas": [
-           "N° 395470"
+           "N°395470"
           ]
          }
         ],
@@ -394,10 +394,10 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "SILVIA BRAVO"
+           "FERNANDEZ, LUCIA CAROLINA"
           ],
           "plazas": [
-           "N° 395476"
+           "N°395476"
           ]
          }
         ]
@@ -417,126 +417,78 @@
      ],
      "filas": [
       {
-       "hora": "08:20 A 10:00 hs",
+       "hora": "08:20 A 12:20",
        "celdas": {
         "LUNES": [
          {
           "materia": "HUERTA FAMILIAR",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "MORAN, RICARDO RODOLFO"
+          ],
+          "plazas": [
+           "N°408919",
+           "N°415986"
+          ]
          },
          {
           "materia": "GRANJA FAMILIAR I",
-          "docentes": [],
+          "docentes": [
+           "HERNAN SOSA"
+          ],
           "plazas": []
          }
         ],
         "MARTES": [
          {
           "materia": "HUERTA FAMILIAR",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "MORAN, RICARDO RODOLFO"
+          ],
+          "plazas": [
+           "N°408919",
+           "N°415986"
+          ]
          },
          {
-          "materia": "TALLER INFORMATICA I",
-          "docentes": [],
+          "materia": "INFORMATICA I",
+          "docentes": [
+           "GUSTAVO DURANDO"
+          ],
           "plazas": []
          }
         ],
         "MIERCOLES": [
          {
           "materia": "TALLER RURAL",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "ARREGUEZ, LUIS ALFREDO"
+          ],
+          "plazas": [
+           "N°395480"
+          ]
          },
          {
           "materia": "GRANJA FAMILIAR I",
-          "docentes": [],
+          "docentes": [
+           "HERNAN SOSA"
+          ],
           "plazas": []
          }
         ],
         "JUEVES": [
          {
           "materia": "TALLER RURAL",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER INFORMATICA I",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "10:20 A 12:20 hs",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "RICARDO MORAN",
           "docentes": [
-           "MATERIA"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "HERNAN SOSA",
-          "docentes": [
-           "MATERIA"
-          ],
-          "plazas": []
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "RICARDO MORAN",
-          "docentes": [
-           "MATERIA"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "GUSTAVO DURANDO",
-          "docentes": [
-           "MATERIA"
-          ],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "LUIS ARREGUEZ",
-          "docentes": [
-           "MATERIA"
+           "ARREGUEZ, LUIS ALFREDO"
           ],
           "plazas": [
            "N°395480"
           ]
          },
          {
-          "materia": "HERNAN SOSA",
+          "materia": "INFORMATICA I",
           "docentes": [
-           "MATERIA"
-          ],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "LUIS ARREGUEZ",
-          "docentes": [
-           "MATERIA"
-          ],
-          "plazas": [
-           "N°395480"
-          ]
-         },
-         {
-          "materia": "GUSTAVO DURANDO",
-          "docentes": [
-           "MATERIA"
+           "GUSTAVO DURANDO"
           ],
           "plazas": []
          }
@@ -558,7 +510,7 @@
      ],
      "filas": [
       {
-       "hora": "10:20 A 12:20 hs",
+       "hora": "10:20 A 12:20 HS",
        "celdas": {
         "LUNES": [],
         "MARTES": [],
@@ -568,7 +520,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "LEONARDO TOLEDO"
+           "MALDONADO, SILVANA PAOLA"
           ],
           "plazas": [
            "N°395472"

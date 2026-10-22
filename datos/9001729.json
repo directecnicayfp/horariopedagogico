@@ -8,8 +8,8 @@
    "hoja": "1°AÑO A",
    "curso": "1°",
    "division": "\"A\"",
-   "ciclo": "Básico",
-   "resolucion": "1.296/5 (MEd)",
+   "ciclo": "BÁSICO",
+   "resolucion": "1.296/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -30,7 +30,7 @@
          {
           "materia": "MATEMATÍCA",
           "docentes": [
-           "CASTILLO NATALIA"
+           "AYALA, RUBEN ANGEL"
           ],
           "plazas": [
            "N°244827"
@@ -41,7 +41,7 @@
          {
           "materia": "MATEMATÍCA",
           "docentes": [
-           "CASTILLO NATALIA"
+           "AYALA, RUBEN ANGEL"
           ],
           "plazas": [
            "N°244827"
@@ -52,7 +52,8 @@
          {
           "materia": "TECNOLOGIA",
           "docentes": [
-           "DIAZ EDGARDO M."
+           "BAZÁN, CARLA ANTONELA",
+           "NUÑEZ, HERNAN JONATHAN"
           ],
           "plazas": [
            "N°263699"
@@ -63,7 +64,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "ZELARAYÁN ROBERTO"
+           "ZELARAYAN, ROBERTO ARIEL"
           ],
           "plazas": [
            "N°244269"
@@ -74,7 +75,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "ZELARAYÁN ROBERTO"
+           "ZELARAYAN, ROBERTO ARIEL"
           ],
           "plazas": [
            "N°244269"
@@ -90,7 +91,7 @@
          {
           "materia": "MATEMATÍCA",
           "docentes": [
-           "CASTILLO NATALIA"
+           "AYALA, RUBEN ANGEL"
           ],
           "plazas": [
            "N°244827"
@@ -101,7 +102,7 @@
          {
           "materia": "MATEMATÍCA",
           "docentes": [
-           "CASTILLO NATALIA"
+           "AYALA, RUBEN ANGEL"
           ],
           "plazas": [
            "N°244827"
@@ -112,7 +113,8 @@
          {
           "materia": "TECNOLOGIA",
           "docentes": [
-           "DIAZ EDGARDO M."
+           "BAZÁN, CARLA ANTONELA",
+           "NUÑEZ, HERNAN JONATHAN"
           ],
           "plazas": [
            "N°263700"
@@ -123,7 +125,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "ZELARAYÁN ROBERTO"
+           "ZELARAYAN, ROBERTO ARIEL"
           ],
           "plazas": [
            "N°244269"
@@ -134,7 +136,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "ZELARAYÁN ROBERTO"
+           "ZELARAYAN, ROBERTO ARIEL"
           ],
           "plazas": [
            "N°244269"
@@ -150,7 +152,7 @@
          {
           "materia": "MATEMATÍCA",
           "docentes": [
-           "CASTILLO NATALIA"
+           "AYALA, RUBEN ANGEL"
           ],
           "plazas": [
            "N°244827"
@@ -159,9 +161,9 @@
         ],
         "MARTES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "CONTRERAS MOIRAGUI I."
+           "CONTRERAS MOIRAGHI, IVAN"
           ],
           "plazas": [
            "N°244722"
@@ -172,7 +174,8 @@
          {
           "materia": "TECNOLOGIA",
           "docentes": [
-           "DIAZ EDGARDO M."
+           "BAZÁN, CARLA ANTONELA",
+           "NUÑEZ, HERNAN JONATHAN"
           ],
           "plazas": [
            "N°263700"
@@ -183,7 +186,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "FERNANDEZ LAURA"
+           "FERNANDEZ, LAURA CRISTINA"
           ],
           "plazas": [
            "N°244842"
@@ -194,7 +197,7 @@
          {
           "materia": "BIOLOGIA",
           "docentes": [
-           "RODRIGUEZ DIP M."
+           "PONCE, MARIA BELEN"
           ],
           "plazas": [
            "N°244710"
@@ -208,9 +211,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "CONTRERAS MOIRAGUI I."
+           "CONTRERAS MOIRAGHI, IVAN"
           ],
           "plazas": [
            "N°244722"
@@ -221,7 +224,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "REALES AMALIA"
+           "ESCOBAR, DORA ELENA"
           ],
           "plazas": [
            "N°245002"
@@ -230,9 +233,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "FISICOQUIMICA",
+          "materia": "FISICO-QUIMICA",
           "docentes": [
-           "RODRIGUEZ DIP M."
+           "BARQUET, MARIA YAZMIN"
           ],
           "plazas": [
            "N°244711"
@@ -243,7 +246,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "FERNANDEZ LAURA"
+           "FERNANDEZ, LAURA CRISTINA"
           ],
           "plazas": [
            "N°244842"
@@ -254,7 +257,7 @@
          {
           "materia": "BIOLOGIA",
           "docentes": [
-           "RODRIGUEZ DIP M."
+           "PONCE, MARIA BELEN"
           ],
           "plazas": [
            "N°244710"
@@ -268,9 +271,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "CONTRERAS MOIRAGUI I."
+           "CONTRERAS MOIRAGHI, IVAN"
           ],
           "plazas": [
            "N°244722"
@@ -281,7 +284,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "REALES AMALIA"
+           "ESCOBAR, DORA ELENA"
           ],
           "plazas": [
            "N°245002"
@@ -290,9 +293,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "FISICOQUIMICA",
+          "materia": "FISICO-QUIMICA",
           "docentes": [
-           "RODRIGUEZ DIP M."
+           "BARQUET, MARIA YAZMIN"
           ],
           "plazas": [
            "N°244711"
@@ -303,7 +306,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "FERNANDEZ LAURA"
+           "FERNANDEZ, LAURA CRISTINA"
           ],
           "plazas": [
            "N°244842"
@@ -314,7 +317,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "ROLDÁN MARINA"
+           "HEREDIA, KAREN AILIN"
           ],
           "plazas": [
            "N°244870"
@@ -330,7 +333,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "FERNANDEZ LAURA"
+           "FERNANDEZ, LAURA CRISTINA"
           ],
           "plazas": [
            "N°244842"
@@ -341,7 +344,7 @@
          {
           "materia": "BIOLOGIA",
           "docentes": [
-           "RODRIGUEZ DIP M."
+           "PONCE, MARIA BELEN"
           ],
           "plazas": [
            "N°244710"
@@ -350,9 +353,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "FISICOQUIMICA",
+          "materia": "FISICO-QUIMICA",
           "docentes": [
-           "RODRIGUEZ DIP M."
+           "BARQUET, MARIA YAZMIN"
           ],
           "plazas": [
            "N°244711"
@@ -363,7 +366,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "ROLDÁN MARINA"
+           "HEREDIA, KAREN AILIN"
           ],
           "plazas": [
            "N°244870"
@@ -374,7 +377,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "ROLDÁN MARINA"
+           "HEREDIA, KAREN AILIN"
           ],
           "plazas": [
            "N°244870"
@@ -390,7 +393,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "FERNANDEZ LAURA"
+           "FERNANDEZ, LAURA CRISTINA"
           ],
           "plazas": [
            "N°244842"
@@ -417,102 +420,14 @@
      ],
      "filas": [
       {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "MEP HOJALATERIA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "MEP HOJALATERIA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "BONFIGLIO JOSÉ",
-          "docentes": [],
-          "plazas": [
-           "N°239657"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "BONFIGLIO JOSÉ",
-          "docentes": [],
-          "plazas": [
-           "N°239657"
-          ]
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
        "hora": "13:00 A 17:15",
        "celdas": {
         "LUNES": [
          {
-          "materia": "MEP AJUSTE",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "MEP AJUSTE",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "13:00 A 17:15",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "13:00 A 17:15",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "CRUZ MIGUEL",
-          "docentes": [],
+          "materia": "AJUSTE",
+          "docentes": [
+           "CRUZ MIGUEL"
+          ],
           "plazas": [
            "N°239659"
           ]
@@ -520,10 +435,42 @@
         ],
         "MARTES": [
          {
-          "materia": "CRUZ MIGUEL",
-          "docentes": [],
+          "materia": "AJUSTE",
+          "docentes": [
+           "CRUZ MIGUEL"
+          ],
           "plazas": [
            "N°239659"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "13:30 A 17:45",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "HOJALATERIA",
+          "docentes": [
+           "BONFIGLIO JOSÉ"
+          ],
+          "plazas": [
+           "N°239657"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "HOJALATERIA",
+          "docentes": [
+           "BONFIGLIO JOSÉ"
+          ],
+          "plazas": [
+           "N°239657"
           ]
          }
         ],
@@ -555,10 +502,11 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "AGUILAR SORIA JAVIER"
+           "GRANEROS, MARIA VICTORIA"
           ],
           "plazas": [
-           "N°245246/245247"
+           "N°245246",
+           "N°245247"
           ]
          }
         ],
@@ -575,10 +523,11 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "AGUILAR SORIA JAVIER"
+           "GRANEROS, MARIA VICTORIA"
           ],
           "plazas": [
-           "N°245246/245247"
+           "N°245246",
+           "N°245247"
           ]
          }
         ],
@@ -593,8 +542,8 @@
    "hoja": "1°AÑO B",
    "curso": "1°",
    "division": "\"B\"",
-   "ciclo": "Básico",
-   "resolucion": "1.296/5 (MEd)",
+   "ciclo": "BÁSICO",
+   "resolucion": "1.296/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -613,9 +562,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "CONTRERAS MOIRAGUI I."
+           "CONTRERAS MOIRAGHI, IVAN"
           ],
           "plazas": [
            "N°244723"
@@ -626,7 +575,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "REALES AMALIA"
+           "ESCOBAR, DORA ELENA"
           ],
           "plazas": [
            "N°245003"
@@ -635,9 +584,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "FISICOQUIMICA",
+          "materia": "FISICO-QUIMICA",
           "docentes": [
-           "RODRIGUEZ DIP M."
+           "PONCE, MARIA BELEN"
           ],
           "plazas": [
            "N°244713"
@@ -648,7 +597,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "FERNANDEZ LAURA"
+           "FERNANDEZ, LAURA CRISTINA"
           ],
           "plazas": [
            "N°244843"
@@ -659,7 +608,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "VACANTE"
+           "PARRA, JUAN MARCOS"
           ],
           "plazas": [
            "N°244986"
@@ -673,9 +622,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "CONTRERAS MOIRAGUI I."
+           "CONTRERAS MOIRAGHI, IVAN"
           ],
           "plazas": [
            "N°244723"
@@ -686,7 +635,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "REALES AMALIA"
+           "ESCOBAR, DORA ELENA"
           ],
           "plazas": [
            "N°245003"
@@ -695,9 +644,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "FISICOQUIMICA",
+          "materia": "FISICO-QUIMICA",
           "docentes": [
-           "RODRIGUEZ DIP M."
+           "PONCE, MARIA BELEN"
           ],
           "plazas": [
            "N°244713"
@@ -708,7 +657,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "FERNANDEZ LAURA"
+           "FERNANDEZ, LAURA CRISTINA"
           ],
           "plazas": [
            "N°244843"
@@ -719,7 +668,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "VACANTE"
+           "PARRA, JUAN MARCOS"
           ],
           "plazas": [
            "N°244986"
@@ -735,7 +684,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "ZELARAYÁN ROBERTO"
+           "ZELARAYAN, ROBERTO ARIEL"
           ],
           "plazas": [
            "N°244270"
@@ -746,7 +695,8 @@
          {
           "materia": "TECNOLOGIA",
           "docentes": [
-           "DIAZ EDGARDO M."
+           "BAZÁN, CARLA ANTONELA",
+           "NUÑEZ, HERNAN JONATHAN"
           ],
           "plazas": [
            "N°263701"
@@ -755,9 +705,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "FISICOQUIMICA",
+          "materia": "FISICO-QUIMICA",
           "docentes": [
-           "RODRIGUEZ DIP M."
+           "PONCE, MARIA BELEN"
           ],
           "plazas": [
            "N°244713"
@@ -768,7 +718,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "TOLABA SEBASTIAN"
+           "TOLABA DELGADO, SEBASTIAN ARNALDO"
           ],
           "plazas": [
            "N°245250"
@@ -779,7 +729,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "TOLABA SEBASTIAN"
+           "TOLABA DELGADO, SEBASTIAN ARNALDO"
           ],
           "plazas": [
            "N°245250"
@@ -795,7 +745,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "ZELARAYÁN ROBERTO"
+           "ZELARAYAN, ROBERTO ARIEL"
           ],
           "plazas": [
            "N°244270"
@@ -806,7 +756,8 @@
          {
           "materia": "TECNOLOGIA",
           "docentes": [
-           "DIAZ EDGARDO M."
+           "BAZÁN, CARLA ANTONELA",
+           "NUÑEZ, HERNAN JONATHAN"
           ],
           "plazas": [
            "N°263701"
@@ -817,7 +768,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "VACANTE"
+           "PARRA, JUAN MARCOS"
           ],
           "plazas": [
            "N°244986"
@@ -828,7 +779,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "TOLABA SEBASTIAN"
+           "TOLABA DELGADO, SEBASTIAN ARNALDO"
           ],
           "plazas": [
            "N°245250"
@@ -839,7 +790,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "TOLABA SEBASTIAN"
+           "TOLABA DELGADO, SEBASTIAN ARNALDO"
           ],
           "plazas": [
            "N°245250"
@@ -855,7 +806,8 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "JUAREZ ANA MARIA."
+           "BARQUET, MARIA YAZMIN",
+           "JUAREZ ANA MARIA"
           ],
           "plazas": [
            "N°252576"
@@ -866,7 +818,8 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "JUAREZ ANA MARIA."
+           "BARQUET, MARIA YAZMIN",
+           "JUAREZ ANA MARIA"
           ],
           "plazas": [
            "N°252576"
@@ -877,7 +830,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "ZELARAYÁN ROBERTO"
+           "ZELARAYAN, ROBERTO ARIEL"
           ],
           "plazas": [
            "N°244270"
@@ -888,7 +841,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "TOLABA SEBASTIAN"
+           "TOLABA DELGADO, SEBASTIAN ARNALDO"
           ],
           "plazas": [
            "N°245250"
@@ -899,7 +852,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "FERNANDEZ LAURA"
+           "FERNANDEZ, LAURA CRISTINA"
           ],
           "plazas": [
            "N°244843"
@@ -915,7 +868,8 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "JUAREZ ANA MARIA."
+           "BARQUET, MARIA YAZMIN",
+           "JUAREZ ANA MARIA"
           ],
           "plazas": [
            "N°252576"
@@ -924,9 +878,9 @@
         ],
         "MARTES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "CONTRERAS MOIRAGUI I."
+           "CONTRERAS MOIRAGHI, IVAN"
           ],
           "plazas": [
            "N°244723"
@@ -937,7 +891,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "ZELARAYÁN ROBERTO"
+           "ZELARAYAN, ROBERTO ARIEL"
           ],
           "plazas": [
            "N°244270"
@@ -948,7 +902,8 @@
          {
           "materia": "TECNOLOGIA",
           "docentes": [
-           "DIAZ EDGARDO M."
+           "BAZÁN, CARLA ANTONELA",
+           "NUÑEZ, HERNAN JONATHAN"
           ],
           "plazas": [
            "N°263702"
@@ -959,7 +914,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "FERNANDEZ LAURA"
+           "FERNANDEZ, LAURA CRISTINA"
           ],
           "plazas": [
            "N°244843"
@@ -979,7 +934,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "FERNANDEZ LAURA"
+           "FERNANDEZ, LAURA CRISTINA"
           ],
           "plazas": [
            "N°244843"
@@ -1006,40 +961,10 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "MEP CARPINTERIA CONSTRUCCIONES BASICAS",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "MEP CARPINTERIA CONSTRUCCIONES BASICAS",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "GRANDE RODRIGO NAHUEL",
-          "docentes": [],
+          "materia": "CARPINTERIA",
+          "docentes": [
+           "GRANDE, NAHUEL RODRIGO"
+          ],
           "plazas": [
            "N°239660"
           ]
@@ -1047,8 +972,10 @@
         ],
         "MARTES": [
          {
-          "materia": "GRANDE RODRIGO NAHUEL",
-          "docentes": [],
+          "materia": "CARPINTERIA",
+          "docentes": [
+           "GRANDE, NAHUEL RODRIGO"
+          ],
           "plazas": [
            "N°239660"
           ]
@@ -1064,40 +991,10 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "MEP HERRERIA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "MEP HERRERIA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "LUNA GUSTAVO",
-          "docentes": [],
+          "materia": "HERRERIA",
+          "docentes": [
+           "LUNA AGUILAR, GUSTAVO OSCAR"
+          ],
           "plazas": [
            "N°239658"
           ]
@@ -1105,8 +1002,10 @@
         ],
         "MARTES": [
          {
-          "materia": "LUNA GUSTAVO",
-          "docentes": [],
+          "materia": "HERRERIA",
+          "docentes": [
+           "LUNA AGUILAR, GUSTAVO OSCAR"
+          ],
           "plazas": [
            "N°239658"
           ]
@@ -1139,10 +1038,11 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "AGUILAR SORIA JAVIER"
+           "MEDINA, CARLA MARIA"
           ],
           "plazas": [
-           "N°245248/245249"
+           "N°245248",
+           "N°245249"
           ]
          }
         ],
@@ -1159,10 +1059,11 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "AGUILAR SORIA JAVIER"
+           "MEDINA, CARLA MARIA"
           ],
           "plazas": [
-           "N°245248/245249"
+           "N°245248",
+           "N°245249"
           ]
          }
         ],
@@ -1178,8 +1079,8 @@
    "hoja": "2°AÑO A",
    "curso": "2°",
    "division": "\"A\"",
-   "ciclo": "Básico",
-   "resolucion": "1.296/5 (MEd)",
+   "ciclo": "BÁSICO",
+   "resolucion": "1.296/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -1200,7 +1101,8 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "JUAREZ ANA MARIA."
+           "LOPEZ, MERCEDES ALEJANDRA",
+           "JUAREZ ANA MARIA"
           ],
           "plazas": [
            "N°252580"
@@ -1211,7 +1113,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "RODRIGUEZ CARLOS"
+           "RODRIGUEZ, ANTONIO CARLOS"
           ],
           "plazas": [
            "N°252621"
@@ -1222,7 +1124,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "ZELARAYÁN ROBERTO"
+           "ZELARAYAN, ROBERTO ARIEL"
           ],
           "plazas": [
            "N°244271"
@@ -1233,7 +1135,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "RODRIGUEZ DIP M."
+           "FLORES, SILVIA LUCIANA"
           ],
           "plazas": [
            "N°244709"
@@ -1244,7 +1146,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "RODRIGUEZ DIP M."
+           "FLORES, SILVIA LUCIANA"
           ],
           "plazas": [
            "N°244709"
@@ -1260,7 +1162,8 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "JUAREZ ANA MARIA."
+           "LOPEZ, MERCEDES ALEJANDRA",
+           "JUAREZ ANA MARIA"
           ],
           "plazas": [
            "N°252580"
@@ -1271,7 +1174,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "RODRIGUEZ CARLOS"
+           "RODRIGUEZ, ANTONIO CARLOS"
           ],
           "plazas": [
            "N°252621"
@@ -1282,7 +1185,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "ZELARAYÁN ROBERTO"
+           "ZELARAYAN, ROBERTO ARIEL"
           ],
           "plazas": [
            "N°244271"
@@ -1293,7 +1196,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "RODRIGUEZ DIP M."
+           "FLORES, SILVIA LUCIANA"
           ],
           "plazas": [
            "N°244709"
@@ -1304,7 +1207,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "RODRIGUEZ DIP M."
+           "FLORES, SILVIA LUCIANA"
           ],
           "plazas": [
            "N°244709"
@@ -1318,9 +1221,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "CONTRERAS MOIRAGUI I."
+           "CONTRERAS MOIRAGHI, IVAN"
           ],
           "plazas": [
            "N°244724"
@@ -1331,7 +1234,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "RODRIGUEZ CARLOS"
+           "RODRIGUEZ, ANTONIO CARLOS"
           ],
           "plazas": [
            "N°252621"
@@ -1340,9 +1243,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "EDUC. ÉTICA Y CIUDADANIA",
+          "materia": "EDUCACION ETICA Y CIUDADANA",
           "docentes": [
-           "BONFIGLIO JOSÉ"
+           "BONFIGLIO, JOSE RAFAEL"
           ],
           "plazas": [
            "N°264520"
@@ -1353,7 +1256,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "ROLDÁN MARINA"
+           "HEREDIA, KAREN AILIN"
           ],
           "plazas": [
            "N°244871"
@@ -1364,7 +1267,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "FERNANDEZ LAURA"
+           "FERNANDEZ, LAURA CRISTINA"
           ],
           "plazas": [
            "N°244844"
@@ -1380,7 +1283,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "FERNANDEZ LAURA"
+           "FERNANDEZ, LAURA CRISTINA"
           ],
           "plazas": [
            "N°244844"
@@ -1389,9 +1292,9 @@
         ],
         "MARTES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "CONTRERAS MOIRAGUI I."
+           "CONTRERAS MOIRAGHI, IVAN"
           ],
           "plazas": [
            "N°244724"
@@ -1400,9 +1303,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "EDUC. ÉTICA Y CIUDADANIA",
+          "materia": "EDUCACION ETICA Y CIUDADANA",
           "docentes": [
-           "BONFIGLIO JOSÉ"
+           "BONFIGLIO, JOSE RAFAEL"
           ],
           "plazas": [
            "N°264520"
@@ -1413,7 +1316,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "RODRIGUEZ DIP M."
+           "RODRIGUEZ, CLAUDIA VANESA"
           ],
           "plazas": [
            "N°244714"
@@ -1424,7 +1327,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "FERNANDEZ LAURA"
+           "FERNANDEZ, LAURA CRISTINA"
           ],
           "plazas": [
            "N°244844"
@@ -1440,7 +1343,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "ZELARAYÁN ROBERTO"
+           "ZELARAYAN, ROBERTO ARIEL"
           ],
           "plazas": [
            "N°244271"
@@ -1449,9 +1352,9 @@
         ],
         "MARTES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "CONTRERAS MOIRAGUI I."
+           "CONTRERAS MOIRAGHI, IVAN"
           ],
           "plazas": [
            "N°244724"
@@ -1462,7 +1365,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "REALES AMALIA"
+           "ESCOBAR, DORA ELENA"
           ],
           "plazas": [
            "N°245004"
@@ -1473,7 +1376,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "RODRIGUEZ DIP M."
+           "RODRIGUEZ, CLAUDIA VANESA"
           ],
           "plazas": [
            "N°244714"
@@ -1484,7 +1387,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "RODRIGUEZ CARLOS"
+           "RODRIGUEZ, ANTONIO CARLOS"
           ],
           "plazas": [
            "N°252621"
@@ -1500,7 +1403,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "ZELARAYÁN ROBERTO"
+           "ZELARAYAN, ROBERTO ARIEL"
           ],
           "plazas": [
            "N°244271"
@@ -1511,7 +1414,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "ROLDÁN MARINA"
+           "HEREDIA, KAREN AILIN"
           ],
           "plazas": [
            "N°244871"
@@ -1522,7 +1425,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "REALES AMALIA"
+           "ESCOBAR, DORA ELENA"
           ],
           "plazas": [
            "N°245004"
@@ -1533,7 +1436,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "FERNANDEZ LAURA"
+           "FERNANDEZ, LAURA CRISTINA"
           ],
           "plazas": [
            "N°244844"
@@ -1544,7 +1447,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "RODRIGUEZ CARLOS"
+           "RODRIGUEZ, ANTONIO CARLOS"
           ],
           "plazas": [
            "N°252621"
@@ -1560,7 +1463,8 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "JUAREZ ANA MARIA."
+           "LOPEZ, MERCEDES ALEJANDRA",
+           "JUAREZ ANA MARIA"
           ],
           "plazas": [
            "N°252580"
@@ -1571,7 +1475,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "ROLDÁN MARINA"
+           "HEREDIA, KAREN AILIN"
           ],
           "plazas": [
            "N°244871"
@@ -1583,7 +1487,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "FERNANDEZ LAURA"
+           "FERNANDEZ, LAURA CRISTINA"
           ],
           "plazas": [
            "N°244844"
@@ -1613,40 +1517,10 @@
         "MARTES": [],
         "MIERCOLES": [
          {
-          "materia": "MEP ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "MEP ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "BONFIGLIO JOSÉ",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "BONFIGLIO, JOSE RAFAEL"
+          ],
           "plazas": [
            "N°239657"
           ]
@@ -1654,8 +1528,10 @@
         ],
         "JUEVES": [
          {
-          "materia": "BONFIGLIO JOSÉ",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "BONFIGLIO, JOSE RAFAEL"
+          ],
           "plazas": [
            "N°239657"
           ]
@@ -1671,40 +1547,10 @@
         "MARTES": [],
         "MIERCOLES": [
          {
-          "materia": "MEP HERRERIA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "MEP HERRERIA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "LUNA GUSTAVO",
-          "docentes": [],
+          "materia": "HERRERIA",
+          "docentes": [
+           "LUNA AGUILAR, GUSTAVO OSCAR"
+          ],
           "plazas": [
            "N°239658"
           ]
@@ -1712,8 +1558,10 @@
         ],
         "JUEVES": [
          {
-          "materia": "LUNA GUSTAVO",
-          "docentes": [],
+          "materia": "HERRERIA",
+          "docentes": [
+           "LUNA AGUILAR, GUSTAVO OSCAR"
+          ],
           "plazas": [
            "N°239658"
           ]
@@ -1740,9 +1588,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "ED. FISICA",
+          "materia": "EDUCACION FISICA",
           "docentes": [
-           "CHIAVENATTO ALIDA"
+           "MEDINA, CARLA MARIA"
           ],
           "plazas": [
            "N°244828"
@@ -1760,9 +1608,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "ED. FISICA",
+          "materia": "EDUCACION FISICA",
           "docentes": [
-           "CHIAVENATTO ALIDA"
+           "MEDINA, CARLA MARIA"
           ],
           "plazas": [
            "N°244828"
@@ -1783,8 +1631,8 @@
    "hoja": "2°AÑO B",
    "curso": "2°",
    "division": "\"B\"",
-   "ciclo": "Básico",
-   "resolucion": "1.296/5 (MEd)",
+   "ciclo": "BÁSICO",
+   "resolucion": "1.296/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -1805,7 +1653,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "FERNANDEZ LAURA"
+           "FERNANDEZ, LAURA CRISTINA"
           ],
           "plazas": [
            "N°244845"
@@ -1814,9 +1662,9 @@
         ],
         "MARTES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "CONTRERAS MOIRAGUI I."
+           "CONTRERAS MOIRAGHI, IVAN"
           ],
           "plazas": [
            "N°244725"
@@ -1827,6 +1675,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
+           "LOPEZ, MERCEDES ALEJANDRA",
            "JUAREZ ANA MARIA"
           ],
           "plazas": [
@@ -1838,7 +1687,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "REALES AMALIA"
+           "ESCOBAR, DORA ELENA"
           ],
           "plazas": [
            "N°245006"
@@ -1849,7 +1698,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "FERNANDEZ LAURA"
+           "FERNANDEZ, LAURA CRISTINA"
           ],
           "plazas": [
            "N°244845"
@@ -1865,7 +1714,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "FERNANDEZ LAURA"
+           "FERNANDEZ, LAURA CRISTINA"
           ],
           "plazas": [
            "N°244845"
@@ -1874,9 +1723,9 @@
         ],
         "MARTES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "CONTRERAS MOIRAGUI I."
+           "CONTRERAS MOIRAGHI, IVAN"
           ],
           "plazas": [
            "N°244725"
@@ -1887,6 +1736,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
+           "LOPEZ, MERCEDES ALEJANDRA",
            "JUAREZ ANA MARIA"
           ],
           "plazas": [
@@ -1898,7 +1748,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "REALES AMALIA"
+           "ESCOBAR, DORA ELENA"
           ],
           "plazas": [
            "N°245006"
@@ -1909,7 +1759,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "FERNANDEZ LAURA"
+           "FERNANDEZ, LAURA CRISTINA"
           ],
           "plazas": [
            "N°244845"
@@ -1925,7 +1775,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "FERNANDEZ LAURA"
+           "FERNANDEZ, LAURA CRISTINA"
           ],
           "plazas": [
            "N°244845"
@@ -1936,6 +1786,7 @@
          {
           "materia": "FISICA",
           "docentes": [
+           "LOPEZ, MERCEDES ALEJANDRA",
            "JUAREZ ANA MARIA"
           ],
           "plazas": [
@@ -1947,7 +1798,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "RODRIGUEZ CARLOS"
+           "RODRIGUEZ, ANTONIO CARLOS"
           ],
           "plazas": [
            "N°252622"
@@ -1958,7 +1809,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "ZELARAYÁN ROBERTO"
+           "ZELARAYAN, ROBERTO ARIEL"
           ],
           "plazas": [
            "N°244272"
@@ -1969,7 +1820,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "ROLDÁN MARINA"
+           "HEREDIA, KAREN AILIN"
           ],
           "plazas": [
            "N°244872"
@@ -1983,9 +1834,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "EDUC. ÉTICA Y CIUDADANIA",
+          "materia": "EDUCACION ETICA Y CIUDADANA",
           "docentes": [
-           "APUD LUIS"
+           "HEREDIA, KAREN AILIN"
           ],
           "plazas": [
            "N°245007"
@@ -1996,6 +1847,7 @@
          {
           "materia": "FISICA",
           "docentes": [
+           "LOPEZ, MERCEDES ALEJANDRA",
            "JUAREZ ANA MARIA"
           ],
           "plazas": [
@@ -2007,7 +1859,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "RODRIGUEZ CARLOS"
+           "RODRIGUEZ, ANTONIO CARLOS"
           ],
           "plazas": [
            "N°252622"
@@ -2018,7 +1870,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "ZELARAYÁN ROBERTO"
+           "ZELARAYAN, ROBERTO ARIEL"
           ],
           "plazas": [
            "N°244272"
@@ -2029,7 +1881,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "ROLDÁN MARINA"
+           "HEREDIA, KAREN AILIN"
           ],
           "plazas": [
            "N°244872"
@@ -2043,9 +1895,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "EDUC. ÉTICA Y CIUDADANIA",
+          "materia": "EDUCACION ETICA Y CIUDADANA",
           "docentes": [
-           "APUD LUIS"
+           "HEREDIA, KAREN AILIN"
           ],
           "plazas": [
            "N°245008"
@@ -2056,7 +1908,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "RODRIGUEZ CARLOS"
+           "RODRIGUEZ, ANTONIO CARLOS"
           ],
           "plazas": [
            "N°252622"
@@ -2067,7 +1919,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "RODRIGUEZ CARLOS"
+           "RODRIGUEZ, ANTONIO CARLOS"
           ],
           "plazas": [
            "N°252622"
@@ -2078,7 +1930,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "ROLDÁN MARINA"
+           "HEREDIA, KAREN AILIN"
           ],
           "plazas": [
            "N°244872"
@@ -2089,7 +1941,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "ZELARAYÁN ROBERTO"
+           "ZELARAYAN, ROBERTO ARIEL"
           ],
           "plazas": [
            "N°244272"
@@ -2103,9 +1955,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "CONTRERAS MOIRAGUI I."
+           "CONTRERAS MOIRAGHI, IVAN"
           ],
           "plazas": [
            "N°244725"
@@ -2116,7 +1968,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "RODRIGUEZ CARLOS"
+           "RODRIGUEZ, ANTONIO CARLOS"
           ],
           "plazas": [
            "N°252623"
@@ -2127,6 +1979,7 @@
          {
           "materia": "FISICA",
           "docentes": [
+           "LOPEZ, MERCEDES ALEJANDRA",
            "JUAREZ ANA MARIA"
           ],
           "plazas": [
@@ -2138,7 +1991,7 @@
          {
           "materia": "BIOLOGIA",
           "docentes": [
-           "RODRIGUEZ DIP M."
+           "PONCE, MARIA BELEN"
           ],
           "plazas": [
            "N°244715"
@@ -2149,7 +2002,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "ZELARAYÁN ROBERTO"
+           "ZELARAYAN, ROBERTO ARIEL"
           ],
           "plazas": [
            "N°244272"
@@ -2166,7 +2019,7 @@
          {
           "materia": "BIOLOGIA",
           "docentes": [
-           "RODRIGUEZ DIP M."
+           "PONCE, MARIA BELEN"
           ],
           "plazas": [
            "N°244715"
@@ -2177,6 +2030,7 @@
          {
           "materia": "FISICA",
           "docentes": [
+           "LOPEZ, MERCEDES ALEJANDRA",
            "JUAREZ ANA MARIA"
           ],
           "plazas": [
@@ -2188,7 +2042,7 @@
          {
           "materia": "BIOLOGIA",
           "docentes": [
-           "RODRIGUEZ DIP M."
+           "PONCE, MARIA BELEN"
           ],
           "plazas": [
            "N°244715"
@@ -2217,40 +2071,10 @@
         "LUNES": [],
         "MARTES": [
          {
-          "materia": "MEP INFORMATICA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "MEP INFORMATICA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "PONCE JUAN CARLOS",
-          "docentes": [],
+          "materia": "INFORMATICA",
+          "docentes": [
+           "ALVAREZ, ALBERTO FERNANDO"
+          ],
           "plazas": [
            "N°239662"
           ]
@@ -2258,8 +2082,10 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "PONCE JUAN CARLOS",
-          "docentes": [],
+          "materia": "INFORMATICA",
+          "docentes": [
+           "ALVAREZ, ALBERTO FERNANDO"
+          ],
           "plazas": [
            "N°239662"
           ]
@@ -2275,40 +2101,10 @@
         "LUNES": [],
         "MARTES": [
          {
-          "materia": "MEP CULTIVOS DE VEGETALES",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "MEP CULTIVOS DE VEGETALES",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "FARIAS PABLO IGNACIO",
-          "docentes": [],
+          "materia": "CULTIVOS DE VEGETALES",
+          "docentes": [
+           "FARIAS, PABLO IGNACIO"
+          ],
           "plazas": [
            "N°239661"
           ]
@@ -2316,8 +2112,10 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "FARIAS PABLO IGNACIO",
-          "docentes": [],
+          "materia": "CULTIVOS DE VEGETALES",
+          "docentes": [
+           "FARIAS, PABLO IGNACIO"
+          ],
           "plazas": [
            "N°239661"
           ]
@@ -2345,9 +2143,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "ED. FISICA",
+          "materia": "EDUCACION FISICA",
           "docentes": [
-           "CHIAVENATTO ALIDA"
+           "MEDINA, CARLA MARIA"
           ],
           "plazas": [
            "N°244829"
@@ -2365,9 +2163,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "ED. FISICA",
+          "materia": "EDUCACION FISICA",
           "docentes": [
-           "CHIAVENATTO ALIDA"
+           "MEDINA, CARLA MARIA"
           ],
           "plazas": [
            "N°244829"
@@ -2388,8 +2186,8 @@
    "hoja": "3°AÑO A",
    "curso": "3°",
    "division": "\"A\"",
-   "ciclo": "Básico",
-   "resolucion": "1.296/5 (MEd)",
+   "ciclo": "BÁSICO",
+   "resolucion": "1.296/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -2408,9 +2206,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "EDUC. ÉTICA Y CIUDADANIA",
+          "materia": "EDUCACION ETICA Y CIUDADANA",
           "docentes": [
-           "APUD LUIS"
+           "HEREDIA, KAREN AILIN"
           ],
           "plazas": [
            "N°245010"
@@ -2421,7 +2219,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "HERRERA ROXANA"
+           "HERRERA, ROXXANA EDITH"
           ],
           "plazas": [
            "N°244987"
@@ -2432,7 +2230,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "CANCINO JESUS"
+           "CANCINOS, JESUS ANTONIO"
           ],
           "plazas": [
            "N°252748"
@@ -2441,9 +2239,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ALBARRACIN PATRICIA"
+           "ALBARRACIN, PATRICIA ELIZABETH"
           ],
           "plazas": [
            "N°244729"
@@ -2454,7 +2252,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "PEDRAZA LAURA"
+           "MAMANI, CINTHYA ANDREA"
           ],
           "plazas": [
            "N°252635"
@@ -2468,9 +2266,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "EDUC. ÉTICA Y CIUDADANIA",
+          "materia": "EDUCACION ETICA Y CIUDADANA",
           "docentes": [
-           "APUD LUIS"
+           "HEREDIA, KAREN AILIN"
           ],
           "plazas": [
            "N°245010"
@@ -2481,7 +2279,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "HERRERA ROXANA"
+           "HERRERA, ROXXANA EDITH"
           ],
           "plazas": [
            "N°244987"
@@ -2492,7 +2290,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "CANCINO JESUS"
+           "CANCINOS, JESUS ANTONIO"
           ],
           "plazas": [
            "N°252748"
@@ -2501,9 +2299,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ALBARRACIN PATRICIA"
+           "ALBARRACIN, PATRICIA ELIZABETH"
           ],
           "plazas": [
            "N°244729"
@@ -2514,7 +2312,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "PEDRAZA LAURA"
+           "MAMANI, CINTHYA ANDREA"
           ],
           "plazas": [
            "N°289718"
@@ -2530,6 +2328,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
+           "BARQUET, MARIA YAZMIN",
            "JUAREZ ANA MARIA"
           ],
           "plazas": [
@@ -2541,7 +2340,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "HERRERA ROXANA"
+           "HERRERA, ROXXANA EDITH"
           ],
           "plazas": [
            "N°244987"
@@ -2552,7 +2351,8 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "JUAREZ ANA MARIA."
+           "LOPEZ, MERCEDES ALEJANDRA",
+           "JUAREZ ANA MARIA"
           ],
           "plazas": [
            "N°252595"
@@ -2563,7 +2363,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "PEREZ MATIAS"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°244273"
@@ -2574,7 +2374,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "PEREZ MATIAS"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°244273"
@@ -2590,6 +2390,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
+           "BARQUET, MARIA YAZMIN",
            "JUAREZ ANA MARIA"
           ],
           "plazas": [
@@ -2601,7 +2402,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "RODRIGUEZ DIP M."
+           "BARRIONUEVO, MARIA LIDIA"
           ],
           "plazas": [
            "N°244716"
@@ -2612,7 +2413,8 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "JUAREZ ANA MARIA."
+           "LOPEZ, MERCEDES ALEJANDRA",
+           "JUAREZ ANA MARIA"
           ],
           "plazas": [
            "N°252595"
@@ -2623,7 +2425,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "PEREZ MATIAS"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°244273"
@@ -2634,7 +2436,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "PEREZ MATIAS"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°244273"
@@ -2650,7 +2452,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "REALES AMALIA"
+           "ESCOBAR, DORA ELENA"
           ],
           "plazas": [
            "N°245009"
@@ -2661,7 +2463,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "RODRIGUEZ DIP M."
+           "BARRIONUEVO, MARIA LIDIA"
           ],
           "plazas": [
            "N°244716"
@@ -2672,7 +2474,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "PEDRAZA LAURA"
+           "MAMANI, CINTHYA ANDREA"
           ],
           "plazas": [
            "N°252635"
@@ -2683,6 +2485,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
+           "BARQUET, MARIA YAZMIN",
            "JUAREZ ANA MARIA"
           ],
           "plazas": [
@@ -2694,7 +2497,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "RODRIGUEZ DIP M."
+           "BARRIONUEVO, MARIA LIDIA"
           ],
           "plazas": [
            "N°244716"
@@ -2710,10 +2513,10 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "REALES AMALIA"
+           "ESCOBAR, DORA ELENA"
           ],
           "plazas": [
-           "N° 245009"
+           "N°245009"
           ]
          }
         ],
@@ -2721,7 +2524,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "CANCINO JESUS"
+           "CANCINOS, JESUS ANTONIO"
           ],
           "plazas": [
            "N°252748"
@@ -2732,7 +2535,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "PEDRAZA LAURA"
+           "MAMANI, CINTHYA ANDREA"
           ],
           "plazas": [
            "N°252635"
@@ -2743,7 +2546,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "REALES AMALIA"
+           "ESCOBAR, DORA ELENA"
           ],
           "plazas": [
            "N°245009"
@@ -2754,7 +2557,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "RODRIGUEZ DIP M."
+           "BARRIONUEVO, MARIA LIDIA"
           ],
           "plazas": [
            "N°244716"
@@ -2771,7 +2574,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "CANCINO JESUS"
+           "CANCINOS, JESUS ANTONIO"
           ],
           "plazas": [
            "N°252748"
@@ -2780,9 +2583,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ALBARRACIN PATRICIA"
+           "ALBARRACIN, PATRICIA ELIZABETH"
           ],
           "plazas": [
            "N°244729"
@@ -2794,7 +2597,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "RODRIGUEZ DIP M."
+           "BARRIONUEVO, MARIA LIDIA"
           ],
           "plazas": [
            "N°244716"
@@ -2817,64 +2620,6 @@
      ],
      "filas": [
       {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "MEP CARPINTERIA CONSTRUCCIONES BASICAS",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "MEP CARPINTERIA CONSTRUCCIONES BASICAS",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "GRANDE RODRIGO NAHUEL",
-          "docentes": [],
-          "plazas": [
-           "N°239660"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "GRANDE RODRIGO NAHUEL",
-          "docentes": [],
-          "plazas": [
-           "N°239660"
-          ]
-         }
-        ]
-       }
-      },
-      {
        "hora": "13:00 A 17:15",
        "celdas": {
         "LUNES": [],
@@ -2882,40 +2627,10 @@
         "MIERCOLES": [],
         "JUEVES": [
          {
-          "materia": "MEP ELECTRICIDAD III",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "MEP ELECTRICIDAD III",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "13:00 A 17:15",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "13:00 A 17:15",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "CRUZ ENRIQUE MIGUEL",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CRUZ, ENRIQUE MIGUEL"
+          ],
           "plazas": [
            "N°239659"
           ]
@@ -2923,10 +2638,42 @@
         ],
         "VIERNES": [
          {
-          "materia": "CRUZ ENRIQUE MIGUEL",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CRUZ, ENRIQUE MIGUEL"
+          ],
           "plazas": [
            "N°239659"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "13:30 A 17:45",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "CARPINTERIA",
+          "docentes": [
+           "GRANDE, NAHUEL RODRIGO"
+          ],
+          "plazas": [
+           "N°239660"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "CARPINTERIA",
+          "docentes": [
+           "GRANDE, NAHUEL RODRIGO"
+          ],
+          "plazas": [
+           "N°239660"
           ]
          }
         ]
@@ -2951,9 +2698,9 @@
         "LUNES": [],
         "MARTES": [
          {
-          "materia": "ED. FISICA",
+          "materia": "EDUCACION FISICA",
           "docentes": [
-           "CHIAVENATTO ALIDA"
+           "GRANEROS, MARIA VICTORIA"
           ],
           "plazas": [
            "N°244832"
@@ -2971,9 +2718,9 @@
         "LUNES": [],
         "MARTES": [
          {
-          "materia": "ED. FISICA",
+          "materia": "EDUCACION FISICA",
           "docentes": [
-           "CHIAVENATTO ALIDA"
+           "GRANEROS, MARIA VICTORIA"
           ],
           "plazas": [
            "N°244832"
@@ -2993,8 +2740,8 @@
    "hoja": "3°AÑO B",
    "curso": "3°",
    "division": "\"B\"",
-   "ciclo": "Básico",
-   "resolucion": "1.296/5 (MEd)",
+   "ciclo": "BÁSICO",
+   "resolucion": "1.296/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -3015,7 +2762,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "ZELARAYÁN ROBERTO"
+           "ZELARAYAN, ROBERTO ARIEL"
           ],
           "plazas": [
            "N°244274"
@@ -3026,7 +2773,8 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "JUAREZ ANA MARIA."
+           "LOPEZ, MERCEDES ALEJANDRA",
+           "JUAREZ ANA MARIA"
           ],
           "plazas": [
            "N°252593"
@@ -3035,9 +2783,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "EDUC. ÉTICA Y CIUDADANIA",
+          "materia": "EDUCACION ETICA Y CIUDADANA",
           "docentes": [
-           "REALES AMALIA"
+           "BONFIGLIO, JOSE RAFAEL"
           ],
           "plazas": [
            "N°245012"
@@ -3048,6 +2796,7 @@
          {
           "materia": "FISICA",
           "docentes": [
+           "BARQUET, MARIA YAZMIN",
            "JUAREZ ANA MARIA"
           ],
           "plazas": [
@@ -3059,7 +2808,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "ROLDÁN MARINA"
+           "CAJAL, VERONICA ELVIRA"
           ],
           "plazas": [
            "N°244873"
@@ -3075,7 +2824,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "ZELARAYÁN ROBERTO"
+           "ZELARAYAN, ROBERTO ARIEL"
           ],
           "plazas": [
            "N°244274"
@@ -3086,7 +2835,8 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "JUAREZ ANA MARIA."
+           "LOPEZ, MERCEDES ALEJANDRA",
+           "JUAREZ ANA MARIA"
           ],
           "plazas": [
            "N°252593"
@@ -3095,9 +2845,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "EDUC. ÉTICA Y CIUDADANIA",
+          "materia": "EDUCACION ETICA Y CIUDADANA",
           "docentes": [
-           "REALES AMALIA"
+           "BONFIGLIO, JOSE RAFAEL"
           ],
           "plazas": [
            "N°245012"
@@ -3108,6 +2858,7 @@
          {
           "materia": "FISICA",
           "docentes": [
+           "BARQUET, MARIA YAZMIN",
            "JUAREZ ANA MARIA"
           ],
           "plazas": [
@@ -3117,9 +2868,9 @@
         ],
         "VIERNES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ALBARRACIN PATRICIA"
+           "ALBARRACIN, PATRICIA ELIZABETH"
           ],
           "plazas": [
            "N°244730"
@@ -3135,7 +2886,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "LOPEZ MERCEDES A."
+           "LOPEZ, MERCEDES ALEJANDRA"
           ],
           "plazas": [
            "N°248139"
@@ -3146,10 +2897,11 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "REALES AMALIA"
+           "ESCOBAR, DORA ELENA"
           ],
           "plazas": [
-           "N° 255011"
+           "N°245011",
+           "N°255011"
           ]
          }
         ],
@@ -3157,7 +2909,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "PEDRAZA LAURA"
+           "MAMANI, CINTHYA ANDREA"
           ],
           "plazas": [
            "N°252636"
@@ -3168,6 +2920,7 @@
          {
           "materia": "FISICA",
           "docentes": [
+           "BARQUET, MARIA YAZMIN",
            "JUAREZ ANA MARIA"
           ],
           "plazas": [
@@ -3179,7 +2932,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "PEDRAZA LAURA"
+           "MAMANI, CINTHYA ANDREA"
           ],
           "plazas": [
            "N°252636"
@@ -3195,7 +2948,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "LOPEZ MERCEDES A."
+           "LOPEZ, MERCEDES ALEJANDRA"
           ],
           "plazas": [
            "N°248139"
@@ -3206,7 +2959,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "ROLDÁN MARINA"
+           "CAJAL, VERONICA ELVIRA"
           ],
           "plazas": [
            "N°244873"
@@ -3217,7 +2970,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "PEDRAZA LAURA"
+           "MAMANI, CINTHYA ANDREA"
           ],
           "plazas": [
            "N°252636"
@@ -3228,10 +2981,11 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "REALES AMALIA"
+           "ESCOBAR, DORA ELENA"
           ],
           "plazas": [
-           "N° 255011"
+           "N°245011",
+           "N°255011"
           ]
          }
         ],
@@ -3239,7 +2993,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "PEDRAZA LAURA"
+           "MAMANI, CINTHYA ANDREA"
           ],
           "plazas": [
            "N°289719"
@@ -3255,7 +3009,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "LOPEZ MERCEDES A."
+           "LOPEZ, MERCEDES ALEJANDRA"
           ],
           "plazas": [
            "N°248139"
@@ -3266,7 +3020,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "ROLDÁN MARINA"
+           "CAJAL, VERONICA ELVIRA"
           ],
           "plazas": [
            "N°244873"
@@ -3277,7 +3031,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "CANCINOS JESUS"
+           "CANCINOS, JESUS ANTONIO"
           ],
           "plazas": [
            "N°263563"
@@ -3288,10 +3042,11 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "REALES AMALIA"
+           "ESCOBAR, DORA ELENA"
           ],
           "plazas": [
-           "N° 255011"
+           "N°245011",
+           "N°255011"
           ]
          }
         ],
@@ -3299,7 +3054,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "CANCINOS JESUS"
+           "CANCINOS, JESUS ANTONIO"
           ],
           "plazas": [
            "N°263563"
@@ -3313,9 +3068,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ALBARRACIN PATRICIA"
+           "ALBARRACIN, PATRICIA ELIZABETH"
           ],
           "plazas": [
            "N°244730"
@@ -3326,6 +3081,7 @@
          {
           "materia": "FISICA",
           "docentes": [
+           "BARQUET, MARIA YAZMIN",
            "JUAREZ ANA MARIA"
           ],
           "plazas": [
@@ -3337,7 +3093,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "CANCINOS JESUS"
+           "CANCINOS, JESUS ANTONIO"
           ],
           "plazas": [
            "N°263563"
@@ -3348,7 +3104,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "ZELARAYÁN ROBERTO"
+           "ZELARAYAN, ROBERTO ARIEL"
           ],
           "plazas": [
            "N°244274"
@@ -3359,7 +3115,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "CANCINOS JESUS"
+           "CANCINOS, JESUS ANTONIO"
           ],
           "plazas": [
            "N°263563"
@@ -3373,9 +3129,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ALBARRACIN PATRICIA"
+           "ALBARRACIN, PATRICIA ELIZABETH"
           ],
           "plazas": [
            "N°244730"
@@ -3386,6 +3142,7 @@
          {
           "materia": "FISICA",
           "docentes": [
+           "BARQUET, MARIA YAZMIN",
            "JUAREZ ANA MARIA"
           ],
           "plazas": [
@@ -3398,7 +3155,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "ZELARAYÁN ROBERTO"
+           "ZELARAYAN, ROBERTO ARIEL"
           ],
           "plazas": [
            "N°244274"
@@ -3429,108 +3186,26 @@
         "MIERCOLES": [],
         "JUEVES": [
          {
-          "materia": "MEP INFORMATICA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "MEP INFORMATICA",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "PONCE JUAN CARLOS",
-          "docentes": [],
+          "materia": "INFORMATICA",
+          "docentes": [
+           "ALVAREZ, ALBERTO FERNANDO",
+           "FARIAS, PABLO IGNACIO"
+          ],
           "plazas": [
-           "N°239662"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "PONCE JUAN CARLOS",
-          "docentes": [],
-          "plazas": [
-           "N°239662"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "MEP AGROINDUSTRIA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "MEP AGROINDUSTRIA",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "FARIAS PABLO IGNACIO",
-          "docentes": [],
-          "plazas": [
+           "N°239662",
            "N°239661"
           ]
          }
         ],
         "VIERNES": [
          {
-          "materia": "FARIAS PABLO IGNACIO",
-          "docentes": [],
+          "materia": "INFORMATICA",
+          "docentes": [
+           "ALVAREZ, ALBERTO FERNANDO",
+           "FARIAS, PABLO IGNACIO"
+          ],
           "plazas": [
+           "N°239662",
            "N°239661"
           ]
          }
@@ -3556,9 +3231,9 @@
         "LUNES": [],
         "MARTES": [
          {
-          "materia": "ED. FISICA",
+          "materia": "EDUCACION FISICA",
           "docentes": [
-           "CHIAVENATTO ALIDA"
+           "GRANEROS, MARIA VICTORIA"
           ],
           "plazas": [
            "N°244833"
@@ -3576,9 +3251,9 @@
         "LUNES": [],
         "MARTES": [
          {
-          "materia": "ED. FISICA",
+          "materia": "EDUCACION FISICA",
           "docentes": [
-           "CHIAVENATTO ALIDA"
+           "GRANEROS, MARIA VICTORIA"
           ],
           "plazas": [
            "N°244833"
@@ -3599,7 +3274,7 @@
    "curso": "4°",
    "division": "\"A\"",
    "ciclo": "ORIENTADO",
-   "resolucion": "302/5(MEd)",
+   "resolucion": "302/5(MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -3620,10 +3295,11 @@
          {
           "materia": "QUIMICA III",
           "docentes": [
+           "BARQUET, MARIA YAZMIN",
            "JUAREZ ANA MARIA"
           ],
           "plazas": [
-           "N° 252592"
+           "N°252592"
           ]
          }
         ],
@@ -3631,18 +3307,19 @@
          {
           "materia": "QUIMICA III",
           "docentes": [
+           "BARQUET, MARIA YAZMIN",
            "JUAREZ ANA MARIA"
           ],
           "plazas": [
-           "N° 252592"
+           "N°252592"
           ]
          }
         ],
         "MIERCOLES": [
          {
-          "materia": "SALUD Y ADOLESCENCIAS",
+          "materia": "SALUD Y ADOLESCENCIA",
           "docentes": [
-           "RODRIGUEZ DIP. MARIA"
+           "BARQUET, MARIA YAZMIN"
           ],
           "plazas": [
            "N°247105"
@@ -3651,9 +3328,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "SALUD Y ADOLESCENCIAS",
+          "materia": "SALUD Y ADOLESCENCIA",
           "docentes": [
-           "RODRIGUEZ DIP. MARIA"
+           "BARQUET, MARIA YAZMIN"
           ],
           "plazas": [
            "N°247105"
@@ -3662,9 +3339,9 @@
         ],
         "VIERNES": [
          {
-          "materia": "MATEMATICA",
+          "materia": "MATEMATICA IV",
           "docentes": [
-           "TOLABA SEBASTIAN"
+           "TOLABA DELGADO, SEBASTIAN ARNALDO"
           ],
           "plazas": [
            "N°245251"
@@ -3680,10 +3357,11 @@
          {
           "materia": "QUIMICA III",
           "docentes": [
+           "BARQUET, MARIA YAZMIN",
            "JUAREZ ANA MARIA"
           ],
           "plazas": [
-           "N° 252592"
+           "N°252592"
           ]
          }
         ],
@@ -3691,18 +3369,19 @@
          {
           "materia": "QUIMICA III",
           "docentes": [
+           "BARQUET, MARIA YAZMIN",
            "JUAREZ ANA MARIA"
           ],
           "plazas": [
-           "N° 252592"
+           "N°252592"
           ]
          }
         ],
         "MIERCOLES": [
          {
-          "materia": "SALUD Y ADOLESCENCIAS",
+          "materia": "SALUD Y ADOLESCENCIA",
           "docentes": [
-           "RODRIGUEZ DIP. MARIA"
+           "BARQUET, MARIA YAZMIN"
           ],
           "plazas": [
            "N°247105"
@@ -3711,20 +3390,20 @@
         ],
         "JUEVES": [
          {
-          "materia": "GEOGRAFIA",
+          "materia": "GEOGRAFIA IV",
           "docentes": [
-           "REALES AMALIA"
+           "ESCOBAR, DORA ELENA"
           ],
           "plazas": [
-           "N° 252798"
+           "N°252798"
           ]
          }
         ],
         "VIERNES": [
          {
-          "materia": "MATEMATICA",
+          "materia": "MATEMATICA IV",
           "docentes": [
-           "TOLABA SEBASTIAN"
+           "TOLABA DELGADO, SEBASTIAN ARNALDO"
           ],
           "plazas": [
            "N°245251"
@@ -3740,6 +3419,7 @@
          {
           "materia": "LENGUA Y LITERATURA IV",
           "docentes": [
+           "FERNANDEZ, LAURA CRISTINA",
            "ELIANA ARGAÑARAZ"
           ],
           "plazas": [
@@ -3749,9 +3429,9 @@
         ],
         "MARTES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA IV",
           "docentes": [
-           "CONTRERAS MOIRAGUI I."
+           "CONTRERAS MOIRAGHI, IVAN"
           ],
           "plazas": [
            "N°252789"
@@ -3762,7 +3442,7 @@
          {
           "materia": "FISICA III",
           "docentes": [
-           "DIAZ EDGARGO"
+           "LOPEZ, MERCEDES ALEJANDRA"
           ],
           "plazas": [
            "N°263706"
@@ -3771,12 +3451,12 @@
         ],
         "JUEVES": [
          {
-          "materia": "GEOGRAFIA",
+          "materia": "GEOGRAFIA IV",
           "docentes": [
-           "REALES AMALIA"
+           "ESCOBAR, DORA ELENA"
           ],
           "plazas": [
-           "N° 252798"
+           "N°252798"
           ]
          }
         ],
@@ -3784,7 +3464,7 @@
          {
           "materia": "FISICA III",
           "docentes": [
-           "DIAZ EDGARGO"
+           "LOPEZ, MERCEDES ALEJANDRA"
           ],
           "plazas": [
            "N°263707"
@@ -3800,6 +3480,7 @@
          {
           "materia": "LENGUA Y LITERATURA IV",
           "docentes": [
+           "FERNANDEZ, LAURA CRISTINA",
            "ELIANA ARGAÑARAZ"
           ],
           "plazas": [
@@ -3809,9 +3490,9 @@
         ],
         "MARTES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA IV",
           "docentes": [
-           "CONTRERAS MOIRAGUI I."
+           "CONTRERAS MOIRAGHI, IVAN"
           ],
           "plazas": [
            "N°252789"
@@ -3822,7 +3503,7 @@
          {
           "materia": "FISICA III",
           "docentes": [
-           "DIAZ EDGARGO"
+           "LOPEZ, MERCEDES ALEJANDRA"
           ],
           "plazas": [
            "N°263706"
@@ -3833,7 +3514,7 @@
          {
           "materia": "BIOLOGIA IV",
           "docentes": [
-           "RODRIGUEZ DIP. MARIA"
+           "BARQUET, MARIA YAZMIN"
           ],
           "plazas": [
            "N°248138"
@@ -3844,7 +3525,7 @@
          {
           "materia": "FISICA III",
           "docentes": [
-           "DIAZ EDGARGO"
+           "LOPEZ, MERCEDES ALEJANDRA"
           ],
           "plazas": [
            "N°263707"
@@ -3858,9 +3539,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA IV",
           "docentes": [
-           "CONTRERAS MOIRAGUI I."
+           "CONTRERAS MOIRAGHI, IVAN"
           ],
           "plazas": [
            "N°252789"
@@ -3869,9 +3550,9 @@
         ],
         "MARTES": [
          {
-          "materia": "HISTORIA",
+          "materia": "HISTORIA IV",
           "docentes": [
-           "ROLDÁN MARINA"
+           "CAJAL, VERONICA ELVIRA"
           ],
           "plazas": [
            "N°252797"
@@ -3880,12 +3561,12 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "GEOGRAFIA",
+          "materia": "GEOGRAFIA IV",
           "docentes": [
-           "REALES AMALIA"
+           "ESCOBAR, DORA ELENA"
           ],
           "plazas": [
-           "N° 252798"
+           "N°252798"
           ]
          }
         ],
@@ -3893,7 +3574,7 @@
          {
           "materia": "BIOLOGIA IV",
           "docentes": [
-           "RODRIGUEZ DIP. MARIA"
+           "BARQUET, MARIA YAZMIN"
           ],
           "plazas": [
            "N°248138"
@@ -3904,6 +3585,7 @@
          {
           "materia": "LENGUA Y LITERATURA IV",
           "docentes": [
+           "FERNANDEZ, LAURA CRISTINA",
            "ELIANA ARGAÑARAZ"
           ],
           "plazas": [
@@ -3920,7 +3602,7 @@
          {
           "materia": "SISTEMAS AGROAMBIENTALES",
           "docentes": [
-           "DIAZ EDGARDO"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°263703"
@@ -3929,9 +3611,9 @@
         ],
         "MARTES": [
          {
-          "materia": "HISTORIA",
+          "materia": "HISTORIA IV",
           "docentes": [
-           "ROLDÁN MARINA"
+           "CAJAL, VERONICA ELVIRA"
           ],
           "plazas": [
            "N°252797"
@@ -3942,7 +3624,7 @@
          {
           "materia": "BIOLOGIA IV",
           "docentes": [
-           "RODRIGUEZ DIP. MARIA"
+           "BARQUET, MARIA YAZMIN"
           ],
           "plazas": [
            "N°248138"
@@ -3951,9 +3633,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "MATEMATICA",
+          "materia": "MATEMATICA IV",
           "docentes": [
-           "TOLABA SEBASTIAN"
+           "TOLABA DELGADO, SEBASTIAN ARNALDO"
           ],
           "plazas": [
            "N°245251"
@@ -3964,7 +3646,7 @@
          {
           "materia": "SISTEMAS AGROAMBIENTALES",
           "docentes": [
-           "DIAZ EDGARDO"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°263703"
@@ -3980,7 +3662,7 @@
          {
           "materia": "SISTEMAS AGROAMBIENTALES",
           "docentes": [
-           "DIAZ EDGARDO"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°263703"
@@ -3989,9 +3671,9 @@
         ],
         "MARTES": [
          {
-          "materia": "HISTORIA",
+          "materia": "HISTORIA IV",
           "docentes": [
-           "ROLDÁN MARINA"
+           "CAJAL, VERONICA ELVIRA"
           ],
           "plazas": [
            "N°252797"
@@ -4002,7 +3684,7 @@
          {
           "materia": "BIOLOGIA IV",
           "docentes": [
-           "RODRIGUEZ DIP. MARIA"
+           "BARQUET, MARIA YAZMIN"
           ],
           "plazas": [
            "N°248138"
@@ -4011,9 +3693,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "MATEMATICA",
+          "materia": "MATEMATICA IV",
           "docentes": [
-           "TOLABA SEBASTIAN"
+           "TOLABA DELGADO, SEBASTIAN ARNALDO"
           ],
           "plazas": [
            "N°245251"
@@ -4024,7 +3706,7 @@
          {
           "materia": "SISTEMAS AGROAMBIENTALES",
           "docentes": [
-           "DIAZ EDGARDO"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°263705"
@@ -4051,9 +3733,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "ED. FISICA",
+          "materia": "EDUCACION FISICA IV",
           "docentes": [
-           "CHIAVENATTO ALIDA"
+           "GRANEROS, MARIA VICTORIA"
           ],
           "plazas": [
            "N°252040"
@@ -4071,9 +3753,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "ED. FISICA",
+          "materia": "EDUCACION FISICA IV",
           "docentes": [
-           "CHIAVENATTO ALIDA"
+           "GRANEROS, MARIA VICTORIA"
           ],
           "plazas": [
            "N°252040"
@@ -4095,7 +3777,7 @@
    "curso": "4°",
    "division": "\"B\"",
    "ciclo": "ORIENTADO",
-   "resolucion": "1296/5(MEd)",
+   "resolucion": "1296/5(MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -4114,9 +3796,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "ESTRUCTURA I",
+          "materia": "ESTRUCTURAS I",
           "docentes": [
-           "QUIROGA SILVA PAMELA"
+           "QUIROGA SILVA, PAMELA LETICIA DEL VALLE"
           ],
           "plazas": [
            "N°287764"
@@ -4125,9 +3807,9 @@
         ],
         "MARTES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "CONTRERAS MOIRAGUI I."
+           "CONTRERAS MOIRAGHI, IVAN"
           ],
           "plazas": [
            "N°288623"
@@ -4138,7 +3820,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "LOPEZ ALEJANDRA"
+           "LOPEZ, MERCEDES ALEJANDRA"
           ],
           "plazas": [
            "N°288632"
@@ -4149,7 +3831,7 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "TAURIZANO FABIAN"
+           "ALBORNOZ, ROMINA JANET"
           ],
           "plazas": [
            "N°287761"
@@ -4160,7 +3842,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "DIAZ EDGARGO"
+           "LOPEZ, MERCEDES ALEJANDRA"
           ],
           "plazas": [
            "N°284658"
@@ -4174,9 +3856,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "ESTRUCTURA I",
+          "materia": "ESTRUCTURAS I",
           "docentes": [
-           "QUIROGA SILVA PAMELA"
+           "QUIROGA SILVA, PAMELA LETICIA DEL VALLE"
           ],
           "plazas": [
            "N°287764"
@@ -4185,9 +3867,9 @@
         ],
         "MARTES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "CONTRERAS MOIRAGUI I."
+           "CONTRERAS MOIRAGHI, IVAN"
           ],
           "plazas": [
            "N°288623"
@@ -4198,7 +3880,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "LOPEZ ALEJANDRA"
+           "LOPEZ, MERCEDES ALEJANDRA"
           ],
           "plazas": [
            "N°288632"
@@ -4209,7 +3891,7 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "TAURIZANO FABIAN"
+           "ALBORNOZ, ROMINA JANET"
           ],
           "plazas": [
            "N°287761"
@@ -4220,7 +3902,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "DIAZ EDGARGO"
+           "LOPEZ, MERCEDES ALEJANDRA"
           ],
           "plazas": [
            "N°284658"
@@ -4234,9 +3916,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "ESTRUCTURA I",
+          "materia": "ESTRUCTURAS I",
           "docentes": [
-           "QUIROGA SILVA PAMELA"
+           "QUIROGA SILVA, PAMELA LETICIA DEL VALLE"
           ],
           "plazas": [
            "N°287764"
@@ -4247,7 +3929,7 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "TAURIZANO FABIAN"
+           "ALBORNOZ, ROMINA JANET"
           ],
           "plazas": [
            "N°287761"
@@ -4258,7 +3940,7 @@
          {
           "materia": "ARQUITECTURA I",
           "docentes": [
-           "ARGAÑARAZ MARCOS"
+           "ARGAÑARAZ, MARCOS FABIAN"
           ],
           "plazas": [
            "N°287768"
@@ -4269,7 +3951,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "FAJURE KARINA"
+           "BUSTAMANTE, JORGE ALFREDO"
           ],
           "plazas": [
            "N°288633"
@@ -4280,7 +3962,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "CANCINO JESUS"
+           "CANCINOS, JESUS ANTONIO"
           ],
           "plazas": [
            "N°288626"
@@ -4294,9 +3976,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "CONTRERAS MOIRAGUI I."
+           "CONTRERAS MOIRAGHI, IVAN"
           ],
           "plazas": [
            "N°288623"
@@ -4307,7 +3989,7 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "TAURIZANO FABIAN"
+           "ALBORNOZ, ROMINA JANET"
           ],
           "plazas": [
            "N°287761"
@@ -4318,7 +4000,7 @@
          {
           "materia": "ARQUITECTURA I",
           "docentes": [
-           "ARGAÑARAZ MARCOS"
+           "ARGAÑARAZ, MARCOS FABIAN"
           ],
           "plazas": [
            "N°287768"
@@ -4329,7 +4011,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "FAJURE KARINA"
+           "BUSTAMANTE, JORGE ALFREDO"
           ],
           "plazas": [
            "N°288633"
@@ -4340,7 +4022,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "CANCINO JESUS"
+           "CANCINOS, JESUS ANTONIO"
           ],
           "plazas": [
            "N°288626"
@@ -4354,8 +4036,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "LENGUA Y LITERATURA IV",
+          "materia": "LENGUA Y LITERATURA",
           "docentes": [
+           "FERNANDEZ, LAURA CRISTINA",
            "ELIANA ARGAÑARAZ"
           ],
           "plazas": [
@@ -4367,7 +4050,7 @@
          {
           "materia": "ARQUITECTURA I",
           "docentes": [
-           "ARGAÑARAZ MARCOS"
+           "ARGAÑARAZ, MARCOS FABIAN"
           ],
           "plazas": [
            "N°287768"
@@ -4378,7 +4061,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "DIAZ EDGARGO"
+           "LOPEZ, MERCEDES ALEJANDRA"
           ],
           "plazas": [
            "N°263704"
@@ -4389,7 +4072,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "FAJURE KARINA"
+           "BUSTAMANTE, JORGE ALFREDO"
           ],
           "plazas": [
            "N°288633"
@@ -4400,7 +4083,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "LOPEZ ALEJANDRA"
+           "LOPEZ, MERCEDES ALEJANDRA"
           ],
           "plazas": [
            "N°288632"
@@ -4414,8 +4097,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "LENGUA Y LITERATURA IV",
+          "materia": "LENGUA Y LITERATURA",
           "docentes": [
+           "FERNANDEZ, LAURA CRISTINA",
            "ELIANA ARGAÑARAZ"
           ],
           "plazas": [
@@ -4427,7 +4111,7 @@
          {
           "materia": "ARQUITECTURA I",
           "docentes": [
-           "ARGAÑARAZ MARCOS"
+           "ARGAÑARAZ, MARCOS FABIAN"
           ],
           "plazas": [
            "N°287768"
@@ -4438,7 +4122,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "DIAZ EDGARGO"
+           "LOPEZ, MERCEDES ALEJANDRA"
           ],
           "plazas": [
            "N°263704"
@@ -4449,7 +4133,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "CANCINO JESUS"
+           "CANCINOS, JESUS ANTONIO"
           ],
           "plazas": [
            "N°288626"
@@ -4460,7 +4144,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "LOPEZ ALEJANDRA"
+           "LOPEZ, MERCEDES ALEJANDRA"
           ],
           "plazas": [
            "N°288632"
@@ -4478,7 +4162,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "DIAZ EDGARGO"
+           "LOPEZ, MERCEDES ALEJANDRA"
           ],
           "plazas": [
            "N°263704"
@@ -4489,7 +4173,7 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "CANCINO JESUS"
+           "CANCINOS, JESUS ANTONIO"
           ],
           "plazas": [
            "N°288626"
@@ -4498,8 +4182,9 @@
         ],
         "VIERNES": [
          {
-          "materia": "LENGUA Y LITERATURA IV",
+          "materia": "LENGUA Y LITERATURA",
           "docentes": [
+           "FERNANDEZ, LAURA CRISTINA",
            "ELIANA ARGAÑARAZ"
           ],
           "plazas": [
@@ -4531,48 +4216,20 @@
         "JUEVES": [
          {
           "materia": "DISEÑO DE OBRA I",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "GRANDE, NAHUEL RODRIGO"
+          ],
+          "plazas": [
+           "N°290205"
+          ]
          }
         ],
         "VIERNES": [
          {
           "materia": "DISEÑO DE OBRA I",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "08:00 A 12:15",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "08:00 A 12:15",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "ZELAYA MARCELO",
-          "docentes": [],
-          "plazas": [
-           "N°290205"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "ZELAYA MARCELO",
-          "docentes": [],
+          "docentes": [
+           "GRANDE, NAHUEL RODRIGO"
+          ],
           "plazas": [
            "N°290205"
           ]
@@ -4589,39 +4246,9 @@
         "JUEVES": [
          {
           "materia": "DISEÑO ASISTIDO",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "DISEÑO ASISTIDO",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "13:30 A 17:45",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "VACANTE",
-          "docentes": [],
+          "docentes": [
+           "QUIROGA SILVA, PAMELA LETICIA DEL VALLE"
+          ],
           "plazas": [
            "N°290204"
           ]
@@ -4629,8 +4256,10 @@
         ],
         "VIERNES": [
          {
-          "materia": "VACANTE",
-          "docentes": [],
+          "materia": "DISEÑO ASISTIDO",
+          "docentes": [
+           "QUIROGA SILVA, PAMELA LETICIA DEL VALLE"
+          ],
           "plazas": [
            "N°290204"
           ]
@@ -4656,9 +4285,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "ED. FISICA",
+          "materia": "EDUCACION FISICA",
           "docentes": [
-           "AGUILAR SORIA JAVIER"
+           "GRANEROS, MARIA VICTORIA"
           ],
           "plazas": [
            "N°288634"
@@ -4676,9 +4305,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "ED. FISICA",
+          "materia": "EDUCACION FISICA",
           "docentes": [
-           "AGUILAR SORIA JAVIER"
+           "GRANEROS, MARIA VICTORIA"
           ],
           "plazas": [
            "N°288634"
@@ -4700,7 +4329,7 @@
    "curso": "5°",
    "division": "\"A\"",
    "ciclo": "ORIENTADO",
-   "resolucion": "302/5(MEd)",
+   "resolucion": "302/5(MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -4719,9 +4348,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "HISTORIA",
+          "materia": "HISTORIA V",
           "docentes": [
-           "APUD LUIS"
+           "HEREDIA, KAREN AILIN"
           ],
           "plazas": [
            "N°264768"
@@ -4730,9 +4359,9 @@
         ],
         "MARTES": [
          {
-          "materia": "GESTION AGROAMBIENTAL",
+          "materia": "GESTION AGRO AMBIENTALES",
           "docentes": [
-           "DIAZ EDGARDO"
+           "ARRIETA, FABIANA DEL VALLE"
           ],
           "plazas": [
            "N°263716"
@@ -4743,6 +4372,7 @@
          {
           "materia": "CIENCIAS DE LA TIERRA",
           "docentes": [
+           "VACANTE",
            "GRANDE GUSTAVO"
           ],
           "plazas": [
@@ -4754,7 +4384,7 @@
          {
           "materia": "MATEMATICA V",
           "docentes": [
-           "CASTILLO NATALIA"
+           "AYALA, RUBEN ANGEL"
           ],
           "plazas": [
            "N°252815"
@@ -4765,6 +4395,7 @@
          {
           "materia": "LENGUA Y LITERATURA V",
           "docentes": [
+           "FERNANDEZ, LAURA CRISTINA",
            "ELIANA ARGAÑARAZ"
           ],
           "plazas": [
@@ -4779,9 +4410,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "HISTORIA",
+          "materia": "HISTORIA V",
           "docentes": [
-           "APUD LUIS"
+           "HEREDIA, KAREN AILIN"
           ],
           "plazas": [
            "N°264768"
@@ -4790,9 +4421,9 @@
         ],
         "MARTES": [
          {
-          "materia": "GESTION AGROAMBIENTAL",
+          "materia": "GESTION AGRO AMBIENTALES",
           "docentes": [
-           "DIAZ EDGARDO"
+           "ARRIETA, FABIANA DEL VALLE"
           ],
           "plazas": [
            "N°263716"
@@ -4803,6 +4434,7 @@
          {
           "materia": "CIENCIAS DE LA TIERRA",
           "docentes": [
+           "VACANTE",
            "GRANDE GUSTAVO"
           ],
           "plazas": [
@@ -4814,7 +4446,7 @@
          {
           "materia": "MATEMATICA V",
           "docentes": [
-           "CASTILLO NATALIA"
+           "AYALA, RUBEN ANGEL"
           ],
           "plazas": [
            "N°252815"
@@ -4825,6 +4457,7 @@
          {
           "materia": "LENGUA Y LITERATURA V",
           "docentes": [
+           "FERNANDEZ, LAURA CRISTINA",
            "ELIANA ARGAÑARAZ"
           ],
           "plazas": [
@@ -4839,9 +4472,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "HISTORIA",
+          "materia": "HISTORIA V",
           "docentes": [
-           "APUD LUIS"
+           "HEREDIA, KAREN AILIN"
           ],
           "plazas": [
            "N°306581"
@@ -4850,9 +4483,9 @@
         ],
         "MARTES": [
          {
-          "materia": "TECNOLOGIA DE LA INF.",
+          "materia": "TECNOLOGIAS DE LA INFORMACION Y DE LA COMUNICACION",
           "docentes": [
-           "GRANDE GUSTAVO"
+           "GRANDE, GUSTAVO MARTIN"
           ],
           "plazas": [
            "N°295882"
@@ -4861,9 +4494,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "TECNOLOGIA DE LA INF.",
+          "materia": "TECNOLOGIAS DE LA INFORMACION Y DE LA COMUNICACION",
           "docentes": [
-           "GRANDE GUSTAVO"
+           "GRANDE, GUSTAVO MARTIN"
           ],
           "plazas": [
            "N°295882"
@@ -4872,9 +4505,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "GESTION AGROAMBIENTAL",
+          "materia": "GESTION AGRO AMBIENTALES",
           "docentes": [
-           "DIAZ EDGARDO"
+           "ARRIETA, FABIANA DEL VALLE"
           ],
           "plazas": [
            "N°263716"
@@ -4885,6 +4518,7 @@
          {
           "materia": "LENGUA Y LITERATURA V",
           "docentes": [
+           "FERNANDEZ, LAURA CRISTINA",
            "ELIANA ARGAÑARAZ"
           ],
           "plazas": [
@@ -4901,7 +4535,7 @@
          {
           "materia": "PRODUCCION VEGETAL",
           "docentes": [
-           "DIAZ EDGARDO"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°263708"
@@ -4910,9 +4544,9 @@
         ],
         "MARTES": [
          {
-          "materia": "TECNOLOGIA DE LA INF.",
+          "materia": "TECNOLOGIAS DE LA INFORMACION Y DE LA COMUNICACION",
           "docentes": [
-           "GRANDE GUSTAVO"
+           "GRANDE, GUSTAVO MARTIN"
           ],
           "plazas": [
            "N°295882"
@@ -4921,9 +4555,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "TECNOLOGIA DE LA INF.",
+          "materia": "TECNOLOGIAS DE LA INFORMACION Y DE LA COMUNICACION",
           "docentes": [
-           "GRANDE GUSTAVO"
+           "GRANDE, GUSTAVO MARTIN"
           ],
           "plazas": [
            "N°295882"
@@ -4932,9 +4566,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "GESTION AGROAMBIENTAL",
+          "materia": "GESTION AGRO AMBIENTALES",
           "docentes": [
-           "DIAZ EDGARDO"
+           "ARRIETA, FABIANA DEL VALLE"
           ],
           "plazas": [
            "N°263717"
@@ -4945,7 +4579,7 @@
          {
           "materia": "PRODUCCION VEGETAL",
           "docentes": [
-           "DIAZ EDGARDO"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°263708"
@@ -4961,7 +4595,7 @@
          {
           "materia": "PRODUCCION VEGETAL",
           "docentes": [
-           "DIAZ EDGARDO"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°263708"
@@ -4972,6 +4606,7 @@
          {
           "materia": "CIENCIAS DE LA TIERRA",
           "docentes": [
+           "VACANTE",
            "GRANDE GUSTAVO"
           ],
           "plazas": [
@@ -4983,7 +4618,7 @@
          {
           "materia": "POLITICA Y CIUDADANIA",
           "docentes": [
-           "CAJAL VERONICA"
+           "CAJAL, VERONICA ELVIRA"
           ],
           "plazas": [
            "N°252816"
@@ -4992,9 +4627,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "GEOGRAFIA",
+          "materia": "GEOGRAFIA V",
           "docentes": [
-           "REALES AMALIA"
+           "ESCOBAR, DORA ELENA"
           ],
           "plazas": [
            "N°252800"
@@ -5005,7 +4640,7 @@
          {
           "materia": "PRODUCCION VEGETAL",
           "docentes": [
-           "DIAZ EDGARDO"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°263708"
@@ -5019,9 +4654,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA V",
           "docentes": [
-           "CONTRERAS MOIRAGUI I."
+           "CONTRERAS MOIRAGHI, IVAN"
           ],
           "plazas": [
            "N°252790"
@@ -5032,6 +4667,7 @@
          {
           "materia": "CIENCIAS DE LA TIERRA",
           "docentes": [
+           "VACANTE",
            "GRANDE GUSTAVO"
           ],
           "plazas": [
@@ -5043,7 +4679,7 @@
          {
           "materia": "POLITICA Y CIUDADANIA",
           "docentes": [
-           "CAJAL VERONICA"
+           "CAJAL, VERONICA ELVIRA"
           ],
           "plazas": [
            "N°252816"
@@ -5052,9 +4688,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "GEOGRAFIA",
+          "materia": "GEOGRAFIA V",
           "docentes": [
-           "REALES AMALIA"
+           "ESCOBAR, DORA ELENA"
           ],
           "plazas": [
            "N°252799"
@@ -5065,7 +4701,7 @@
          {
           "materia": "MATEMATICA V",
           "docentes": [
-           "CASTILLO NATALIA"
+           "AYALA, RUBEN ANGEL"
           ],
           "plazas": [
            "N°252815"
@@ -5079,9 +4715,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA V",
           "docentes": [
-           "CONTRERAS MOIRAGUI I."
+           "CONTRERAS MOIRAGHI, IVAN"
           ],
           "plazas": [
            "N°252790"
@@ -5090,9 +4726,9 @@
         ],
         "MARTES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA V",
           "docentes": [
-           "CONTRERAS MOIRAGUI I."
+           "CONTRERAS MOIRAGHI, IVAN"
           ],
           "plazas": [
            "N°252790"
@@ -5103,7 +4739,7 @@
          {
           "materia": "POLITICA Y CIUDADANIA",
           "docentes": [
-           "CAJAL VERONICA"
+           "CAJAL, VERONICA ELVIRA"
           ],
           "plazas": [
            "N°252816"
@@ -5112,9 +4748,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "GEOGRAFIA",
+          "materia": "GEOGRAFIA V",
           "docentes": [
-           "REALES AMALIA"
+           "ESCOBAR, DORA ELENA"
           ],
           "plazas": [
            "N°252799"
@@ -5125,7 +4761,7 @@
          {
           "materia": "MATEMATICA V",
           "docentes": [
-           "CASTILLO NATALIA"
+           "AYALA, RUBEN ANGEL"
           ],
           "plazas": [
            "N°252815"
@@ -5156,9 +4792,9 @@
         "JUEVES": [],
         "VIERNES": [
          {
-          "materia": "ED. FISICA",
+          "materia": "EDUCACION FISICA V",
           "docentes": [
-           "CHIAVENATTO ALIDA"
+           "MEDINA, CARLA MARIA"
           ],
           "plazas": [
            "N°252041"
@@ -5176,9 +4812,9 @@
         "JUEVES": [],
         "VIERNES": [
          {
-          "materia": "ED. FISICA",
+          "materia": "EDUCACION FISICA V",
           "docentes": [
-           "CHIAVENATTO ALIDA"
+           "MEDINA, CARLA MARIA"
           ],
           "plazas": [
            "N°252041"
@@ -5196,7 +4832,7 @@
    "curso": "5°",
    "division": "\"B\"",
    "ciclo": "ORIENTADO",
-   "resolucion": "1296/5(MEd)",
+   "resolucion": "1296/5(MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -5215,9 +4851,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "CONTRERAS MOIRAGUI I."
+           "CONTRERAS MOIRAGHI, IVAN"
           ],
           "plazas": [
            "N°287551"
@@ -5228,7 +4864,7 @@
          {
           "materia": "MATEMATICA APLICADA I",
           "docentes": [
-           "CANCINOS JESUS A."
+           "CANCINOS, JESUS ANTONIO"
           ],
           "plazas": [
            "N°282609"
@@ -5239,7 +4875,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "REALES AMALIA"
+           "ESCOBAR, DORA ELENA"
           ],
           "plazas": [
            "N°287561"
@@ -5250,7 +4886,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "REALES AMALIA"
+           "ESCOBAR, DORA ELENA"
           ],
           "plazas": [
            "N°326965"
@@ -5261,7 +4897,7 @@
          {
           "materia": "MATEMATICA APLICADA I",
           "docentes": [
-           "CANCINOS JESUS A."
+           "CANCINOS, JESUS ANTONIO"
           ],
           "plazas": [
            "N°282609"
@@ -5275,9 +4911,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "CONTRERAS MOIRAGUI I."
+           "CONTRERAS MOIRAGHI, IVAN"
           ],
           "plazas": [
            "N°287551"
@@ -5288,7 +4924,7 @@
          {
           "materia": "MATEMATICA APLICADA I",
           "docentes": [
-           "CANCINOS JESUS A."
+           "CANCINOS, JESUS ANTONIO"
           ],
           "plazas": [
            "N°282609"
@@ -5299,7 +4935,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "REALES AMALIA"
+           "ESCOBAR, DORA ELENA"
           ],
           "plazas": [
            "N°287561"
@@ -5310,7 +4946,7 @@
          {
           "materia": "ACONDICIONAMIENTO AMBIENTAL",
           "docentes": [
-           "QUIROGA PAMELA"
+           "QUIROGA SILVA, PAMELA LETICIA DEL VALLE"
           ],
           "plazas": [
            "N°282613"
@@ -5321,7 +4957,7 @@
          {
           "materia": "MATEMATICA APLICADA I",
           "docentes": [
-           "CANCINOS JESUS A."
+           "CANCINOS, JESUS ANTONIO"
           ],
           "plazas": [
            "N°282609"
@@ -5335,9 +4971,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "CONTRERAS MOIRAGUI I."
+           "CONTRERAS MOIRAGHI, IVAN"
           ],
           "plazas": [
            "N°287551"
@@ -5348,6 +4984,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
+           "FERNANDEZ, LAURA CRISTINA",
            "ARGAÑARAZ ELIANA"
           ],
           "plazas": [
@@ -5359,7 +4996,7 @@
          {
           "materia": "ARQUITECTURA Y CONSTRUCCION",
           "docentes": [
-           "ARAOZ CINTHIA"
+           "ARAOZ, CYNTHIA LORENA"
           ],
           "plazas": [
            "N°282611"
@@ -5370,7 +5007,7 @@
          {
           "materia": "ACONDICIONAMIENTO AMBIENTAL",
           "docentes": [
-           "QUIROGA PAMELA"
+           "QUIROGA SILVA, PAMELA LETICIA DEL VALLE"
           ],
           "plazas": [
            "N°282613"
@@ -5379,9 +5016,9 @@
         ],
         "VIERNES": [
          {
-          "materia": "INSTALACIONES SANITARIAS Y COMPL",
+          "materia": "INSTALACIONES SANITARIAS Y COMPLEMENTARIAS",
           "docentes": [
-           "GRAMAJO MIGUEL"
+           "GRAMAJO, MIGUEL AGUSTIN"
           ],
           "plazas": [
            "N°282614"
@@ -5397,7 +5034,7 @@
          {
           "materia": "ARQUITECTURA Y CONSTRUCCION",
           "docentes": [
-           "ARAOZ CINTHIA"
+           "ARAOZ, CYNTHIA LORENA"
           ],
           "plazas": [
            "N°282611"
@@ -5408,6 +5045,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
+           "FERNANDEZ, LAURA CRISTINA",
            "ARGAÑARAZ ELIANA"
           ],
           "plazas": [
@@ -5419,7 +5057,7 @@
          {
           "materia": "ARQUITECTURA Y CONSTRUCCION",
           "docentes": [
-           "ARAOZ CINTHIA"
+           "ARAOZ, CYNTHIA LORENA"
           ],
           "plazas": [
            "N°282611"
@@ -5430,7 +5068,7 @@
          {
           "materia": "ACONDICIONAMIENTO AMBIENTAL",
           "docentes": [
-           "QUIROGA PAMELA"
+           "QUIROGA SILVA, PAMELA LETICIA DEL VALLE"
           ],
           "plazas": [
            "N°282613"
@@ -5439,9 +5077,9 @@
         ],
         "VIERNES": [
          {
-          "materia": "INSTALACIONES SANITARIAS Y COMPL",
+          "materia": "INSTALACIONES SANITARIAS Y COMPLEMENTARIAS",
           "docentes": [
-           "GRAMAJO MIGUEL"
+           "GRAMAJO, MIGUEL AGUSTIN"
           ],
           "plazas": [
            "N°282614"
@@ -5457,7 +5095,7 @@
          {
           "materia": "ARQUITECTURA Y CONSTRUCCION",
           "docentes": [
-           "ARAOZ CINTHIA"
+           "ARAOZ, CYNTHIA LORENA"
           ],
           "plazas": [
            "N°282611"
@@ -5468,7 +5106,7 @@
          {
           "materia": "TECNOLOGIA",
           "docentes": [
-           "GRAMAJO MIGUEL"
+           "GRAMAJO, MIGUEL AGUSTIN"
           ],
           "plazas": [
            "N°282612"
@@ -5479,7 +5117,7 @@
          {
           "materia": "INFORMATICA CAD",
           "docentes": [
-           "ARGAÑARAZ MARCOS"
+           "ARGAÑARAZ, MARCOS FABIAN"
           ],
           "plazas": [
            "N°282610"
@@ -5490,7 +5128,7 @@
          {
           "materia": "ESTRUCTURA II",
           "docentes": [
-           "GRAMAJO MIGUEL"
+           "GRAMAJO, MIGUEL AGUSTIN"
           ],
           "plazas": [
            "N°282615"
@@ -5501,7 +5139,7 @@
          {
           "materia": "ESTRUCTURA II",
           "docentes": [
-           "GRAMAJO MIGUEL"
+           "GRAMAJO, MIGUEL AGUSTIN"
           ],
           "plazas": [
            "N°282615"
@@ -5515,9 +5153,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "INSTALACIONES SANITARIAS Y COMPL",
+          "materia": "INSTALACIONES SANITARIAS Y COMPLEMENTARIAS",
           "docentes": [
-           "GRAMAJO MIGUEL"
+           "GRAMAJO, MIGUEL AGUSTIN"
           ],
           "plazas": [
            "N°282614"
@@ -5528,7 +5166,7 @@
          {
           "materia": "TECNOLOGIA",
           "docentes": [
-           "GRAMAJO MIGUEL"
+           "GRAMAJO, MIGUEL AGUSTIN"
           ],
           "plazas": [
            "N°282612"
@@ -5539,7 +5177,7 @@
          {
           "materia": "INFORMATICA CAD",
           "docentes": [
-           "ARGAÑARAZ MARCOS"
+           "ARGAÑARAZ, MARCOS FABIAN"
           ],
           "plazas": [
            "N°282610"
@@ -5550,7 +5188,7 @@
          {
           "materia": "ESTRUCTURA II",
           "docentes": [
-           "GRAMAJO MIGUEL"
+           "GRAMAJO, MIGUEL AGUSTIN"
           ],
           "plazas": [
            "N°282615"
@@ -5561,6 +5199,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
+           "FERNANDEZ, LAURA CRISTINA",
            "ARGAÑARAZ ELIANA"
           ],
           "plazas": [
@@ -5575,9 +5214,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "INSTALACIONES SANITARIAS Y COMPL",
+          "materia": "INSTALACIONES SANITARIAS Y COMPLEMENTARIAS",
           "docentes": [
-           "GRAMAJO MIGUEL"
+           "GRAMAJO, MIGUEL AGUSTIN"
           ],
           "plazas": [
            "N°282614"
@@ -5588,7 +5227,7 @@
          {
           "materia": "TECNOLOGIA",
           "docentes": [
-           "GRAMAJO MIGUEL"
+           "GRAMAJO, MIGUEL AGUSTIN"
           ],
           "plazas": [
            "N°282612"
@@ -5599,7 +5238,7 @@
          {
           "materia": "INFORMATICA CAD",
           "docentes": [
-           "ARGAÑARAZ MARCOS"
+           "ARGAÑARAZ, MARCOS FABIAN"
           ],
           "plazas": [
            "N°282610"
@@ -5624,104 +5263,64 @@
      ],
      "filas": [
       {
-       "hora": "08:00 A 09:20",
+       "hora": "08:00 A 12:20",
        "celdas": {
         "LUNES": [],
         "MARTES": [
          {
           "materia": "DISEÑO DE OBRAS II",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "GRANDE, NAHUEL RODRIGO"
+          ],
+          "plazas": [
+           "N°290205"
+          ]
          },
          {
           "materia": "CONSTRUCCIONES EDILICIAS",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "ARGAÑARAZ, MARCOS FABIAN"
+          ],
+          "plazas": [
+           "N°290206"
+          ]
          },
          {
           "materia": "ESTRUCTURA I",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "VACANTE"
+          ],
+          "plazas": [
+           "N°290204"
+          ]
          }
         ],
         "MIERCOLES": [
          {
           "materia": "DISEÑO DE OBRAS II",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "GRANDE, NAHUEL RODRIGO"
+          ],
+          "plazas": [
+           "N°290205"
+          ]
          },
          {
           "materia": "CONSTRUCCIONES EDILICIAS",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "ARGAÑARAZ, MARCOS FABIAN"
+          ],
+          "plazas": [
+           "N°290206"
+          ]
          },
          {
           "materia": "ESTRUCTURA I",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "09:30 A 10:50",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "11:00 A 12:20",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "ZELAYA MARCELO",
-          "docentes": [],
+          "docentes": [
+           "YURKO ANYA VACANTE"
+          ],
           "plazas": [
-           "N°290205"
-          ]
-         },
-         {
-          "materia": "ARGAÑARAZ MARCOS",
-          "docentes": [],
-          "plazas": [
-           "N°290206"
-          ]
-         },
-         {
-          "materia": "VACANTE",
-          "docentes": [],
-          "plazas": [
-           "N° 290204"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "ZELAYA MARCELO",
-          "docentes": [],
-          "plazas": [
-           "N°290205"
-          ]
-         },
-         {
-          "materia": "ARGAÑARAZ MARCOS",
-          "docentes": [],
-          "plazas": [
-           "N°290206"
-          ]
-         },
-         {
-          "materia": "YURKO ANYA VACANTE",
-          "docentes": [],
-          "plazas": [
-           "N° 290204"
+           "N°290204"
           ]
          }
         ],
@@ -5730,104 +5329,64 @@
        }
       },
       {
-       "hora": "08:00 A 09:20",
+       "hora": "08:00 A 12:20",
        "celdas": {
         "LUNES": [],
         "MARTES": [
          {
           "materia": "DISEÑO DE OBRAS II",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "GRANDE, NAHUEL RODRIGO"
+          ],
+          "plazas": [
+           "N°290205"
+          ]
          },
          {
           "materia": "CONSTRUCCIONES EDILICIAS",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "ARGAÑARAZ, MARCOS FABIAN"
+          ],
+          "plazas": [
+           "N°290206"
+          ]
          },
          {
           "materia": "ESTRUCTURA I",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "VACANTE"
+          ],
+          "plazas": [
+           "N°290204"
+          ]
          }
         ],
         "MIERCOLES": [
          {
           "materia": "DISEÑO DE OBRAS II",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "GRANDE, NAHUEL RODRIGO"
+          ],
+          "plazas": [
+           "N°290205"
+          ]
          },
          {
           "materia": "CONSTRUCCIONES EDILICIAS",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "ARGAÑARAZ, MARCOS FABIAN"
+          ],
+          "plazas": [
+           "N°290206"
+          ]
          },
          {
           "materia": "ESTRUCTURA I",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "09:30 A 10:50",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "11:00 A 12:20",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "ZELAYA MARCELO",
-          "docentes": [],
+          "docentes": [
+           "VACANTE"
+          ],
           "plazas": [
-           "N°290205"
-          ]
-         },
-         {
-          "materia": "ARGAÑARAZ MARCOS",
-          "docentes": [],
-          "plazas": [
-           "N°290206"
-          ]
-         },
-         {
-          "materia": "VACANTE",
-          "docentes": [],
-          "plazas": [
-           "N° 290204"
-          ]
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "ZELAYA MARCELO",
-          "docentes": [],
-          "plazas": [
-           "N°290205"
-          ]
-         },
-         {
-          "materia": "ARGAÑARAZ MARCOS",
-          "docentes": [],
-          "plazas": [
-           "N°290206"
-          ]
-         },
-         {
-          "materia": "VACANTE",
-          "docentes": [],
-          "plazas": [
-           "N° 290204"
+           "N°290204"
           ]
          }
         ],
@@ -5856,9 +5415,9 @@
         "MIERCOLES": [],
         "JUEVES": [
          {
-          "materia": "ED. FISICA",
+          "materia": "EDUCACION FISICA",
           "docentes": [
-           "AGUILAR SORIA JAVIER"
+           "GRANEROS, MARIA VICTORIA"
           ],
           "plazas": [
            "N°287562"
@@ -5876,9 +5435,9 @@
         "MIERCOLES": [],
         "JUEVES": [
          {
-          "materia": "ED. FISICA",
+          "materia": "EDUCACION FISICA",
           "docentes": [
-           "AGUILAR SORIA JAVIER"
+           "GRANEROS, MARIA VICTORIA"
           ],
           "plazas": [
            "N°287562"
@@ -5897,7 +5456,7 @@
    "curso": "6°",
    "division": "\"A\"",
    "ciclo": "ORIENTADO",
-   "resolucion": "302/5(MEd)",
+   "resolucion": "302/5(MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -5918,6 +5477,7 @@
          {
           "materia": "LENGUA Y LITERATURA VI",
           "docentes": [
+           "VACANTE",
            "ARANCIBIA CAROLINA"
           ],
           "plazas": [
@@ -5929,7 +5489,7 @@
          {
           "materia": "ECONOMIA",
           "docentes": [
-           "OLMOS PEDRO SEBASTIAN"
+           "OLMOS, PEDRO SEBASTIAN"
           ],
           "plazas": [
            "N°263874"
@@ -5940,7 +5500,7 @@
          {
           "materia": "TRABAJO Y CIUDADANIA",
           "docentes": [
-           "CAJAL VERONICA"
+           "CAJAL, VERONICA ELVIRA"
           ],
           "plazas": [
            "N°263093"
@@ -5951,7 +5511,7 @@
          {
           "materia": "PROY. TECNOLOGIC. AGROP",
           "docentes": [
-           "DIAZ EDGARDO"
+           "CANCINOS, JESUS ANTONIO"
           ],
           "plazas": [
            "N°263711"
@@ -5962,7 +5522,7 @@
          {
           "materia": "FILOSOFIA",
           "docentes": [
-           "VACANTE"
+           "PANIAGUA ALDERETE, RENÉ GUSTAVO"
           ],
           "plazas": [
            "N°263092"
@@ -5978,10 +5538,11 @@
          {
           "materia": "LENGUA Y LITERATURA VI",
           "docentes": [
+           "VACANTE",
            "ARANCIBIA CAROLINA"
           ],
           "plazas": [
-           "N° 252780"
+           "N°252780"
           ]
          }
         ],
@@ -5989,7 +5550,7 @@
          {
           "materia": "ECONOMIA",
           "docentes": [
-           "OLMOS PEDRO SEBASTIAN"
+           "OLMOS, PEDRO SEBASTIAN"
           ],
           "plazas": [
            "N°263874"
@@ -6000,7 +5561,7 @@
          {
           "materia": "TRABAJO Y CIUDADANIA",
           "docentes": [
-           "CAJAL VERONICA"
+           "CAJAL, VERONICA ELVIRA"
           ],
           "plazas": [
            "N°263093"
@@ -6009,9 +5570,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "PROY. TECNOLOGIC. AGROP.",
+          "materia": "PROY. TECNOLOGIC. AGROP",
           "docentes": [
-           "DIAZ EDGARDO"
+           "CANCINOS, JESUS ANTONIO"
           ],
           "plazas": [
            "N°263711"
@@ -6022,7 +5583,7 @@
          {
           "materia": "PRODUCCION ANIMAL",
           "docentes": [
-           "PEREZ ENRIQUE MATIAS"
+           "ELÍAS, GRISELDA CAROLINA"
           ],
           "plazas": [
            "N°263059"
@@ -6036,12 +5597,14 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "PROY. TECNOLOGIC. AGROP.",
+          "materia": "PROY. TECNOLOGIC. AGROP",
           "docentes": [
-           "DIAZ EDGARDO"
+           "CANCINOS, JESUS ANTONIO"
           ],
           "plazas": [
-           "N°26371O"
+           "N°263710",
+           "N°263711",
+           "N°26371"
           ]
          }
         ],
@@ -6049,6 +5612,7 @@
          {
           "materia": "BIOTECNOLOGIA",
           "docentes": [
+           "LEZANA, RAMONA DOLORES",
            "JUAREZ ANA MARIA"
           ],
           "plazas": [
@@ -6060,7 +5624,7 @@
          {
           "materia": "TRABAJO Y CIUDADANIA",
           "docentes": [
-           "CAJAL VERONICA"
+           "CAJAL, VERONICA ELVIRA"
           ],
           "plazas": [
            "N°263093"
@@ -6069,12 +5633,12 @@
         ],
         "JUEVES": [
          {
-          "materia": "MATEMATICA",
+          "materia": "MATEMATICA VI",
           "docentes": [
-           "CANCINO JESUS"
+           "CANCINOS, JESUS ANTONIO"
           ],
           "plazas": [
-           "N° 248155"
+           "N°248155"
           ]
          }
         ],
@@ -6082,7 +5646,7 @@
          {
           "materia": "PRODUCCION ANIMAL",
           "docentes": [
-           "PEREZ ENRIQUE MATIAS"
+           "ELÍAS, GRISELDA CAROLINA"
           ],
           "plazas": [
            "N°263059"
@@ -6098,6 +5662,7 @@
          {
           "materia": "BIOTECNOLOGIA",
           "docentes": [
+           "LEZANA, RAMONA DOLORES",
            "JUAREZ ANA MARIA"
           ],
           "plazas": [
@@ -6109,6 +5674,7 @@
          {
           "materia": "BIOTECNOLOGIA",
           "docentes": [
+           "LEZANA, RAMONA DOLORES",
            "JUAREZ ANA MARIA"
           ],
           "plazas": [
@@ -6120,7 +5686,7 @@
          {
           "materia": "ECONOMIA",
           "docentes": [
-           "OLMOS PEDRO SEBASTIAN"
+           "OLMOS, PEDRO SEBASTIAN"
           ],
           "plazas": [
            "N°263874"
@@ -6131,7 +5697,7 @@
          {
           "materia": "MATEMATICA VI",
           "docentes": [
-           "CANCINO JESUS"
+           "CANCINOS, JESUS ANTONIO"
           ],
           "plazas": [
            "N°248155"
@@ -6142,7 +5708,7 @@
          {
           "materia": "PRODUCCION ANIMAL",
           "docentes": [
-           "PEREZ ENRIQUE MATIAS"
+           "ELÍAS, GRISELDA CAROLINA"
           ],
           "plazas": [
            "N°263059"
@@ -6158,6 +5724,7 @@
          {
           "materia": "BIOTECNOLOGIA",
           "docentes": [
+           "LEZANA, RAMONA DOLORES",
            "JUAREZ ANA MARIA"
           ],
           "plazas": [
@@ -6167,9 +5734,9 @@
         ],
         "MARTES": [
          {
-          "materia": "PROY. TECNOLOGIC. AGROP.",
+          "materia": "PROY. TECNOLOGIC. AGROP",
           "docentes": [
-           "DIAZ EDGARDO"
+           "CANCINOS, JESUS ANTONIO"
           ],
           "plazas": [
            "N°263710"
@@ -6178,9 +5745,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES VI",
+          "materia": "LENGUA EXTRANJERA VI",
           "docentes": [
-           "ALBARRACIN PATRICIA"
+           "ALBARRACIN, PATRICIA ELIZABETH"
           ],
           "plazas": [
            "N°263565"
@@ -6189,9 +5756,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "ARTES Y ESTETICA CONTEMPORAN",
+          "materia": "ARTE Y ESTETICA CONTEMPORANEAS",
           "docentes": [
-           "DIAZ ELBA"
+           "DIAZ, ELBA ANGELICA"
           ],
           "plazas": [
            "N°263140"
@@ -6202,7 +5769,7 @@
          {
           "materia": "FILOSOFIA",
           "docentes": [
-           "VACANTE"
+           "PANIAGUA ALDERETE, RENÉ GUSTAVO"
           ],
           "plazas": [
            "N°263092"
@@ -6218,7 +5785,7 @@
          {
           "materia": "MATEMATICA VI",
           "docentes": [
-           "CANCINO JESUS"
+           "CANCINOS, JESUS ANTONIO"
           ],
           "plazas": [
            "N°248155"
@@ -6227,9 +5794,9 @@
         ],
         "MARTES": [
          {
-          "materia": "PROY. TECNOLOGIC. AGROP.",
+          "materia": "PROY. TECNOLOGIC. AGROP",
           "docentes": [
-           "DIAZ EDGARDO"
+           "CANCINOS, JESUS ANTONIO"
           ],
           "plazas": [
            "N°263710"
@@ -6238,9 +5805,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES VI",
+          "materia": "LENGUA EXTRANJERA VI",
           "docentes": [
-           "ALBARRACIN PATRICIA"
+           "ALBARRACIN, PATRICIA ELIZABETH"
           ],
           "plazas": [
            "N°263565"
@@ -6249,9 +5816,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "ARTES Y ESTETICA CONTEMPORAN",
+          "materia": "ARTE Y ESTETICA CONTEMPORANEAS",
           "docentes": [
-           "DIAZ ELBA"
+           "DIAZ, ELBA ANGELICA"
           ],
           "plazas": [
            "N°263140"
@@ -6262,10 +5829,10 @@
          {
           "materia": "FILOSOFIA",
           "docentes": [
-           "VACANTE"
+           "PANIAGUA ALDERETE, RENÉ GUSTAVO"
           ],
           "plazas": [
-           "N° 263092"
+           "N°263092"
           ]
          }
         ]
@@ -6278,7 +5845,7 @@
          {
           "materia": "MATEMATICA VI",
           "docentes": [
-           "CANCINO JESUS"
+           "CANCINOS, JESUS ANTONIO"
           ],
           "plazas": [
            "N°248155"
@@ -6287,9 +5854,9 @@
         ],
         "MARTES": [
          {
-          "materia": "PROY. TECNOLOGIC. AGROP.",
+          "materia": "PROY. TECNOLOGIC. AGROP",
           "docentes": [
-           "DIAZ EDGARDO"
+           "CANCINOS, JESUS ANTONIO"
           ],
           "plazas": [
            "N°263710"
@@ -6298,9 +5865,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES VI",
+          "materia": "LENGUA EXTRANJERA VI",
           "docentes": [
-           "ALBARRACIN PATRICIA"
+           "ALBARRACIN, PATRICIA ELIZABETH"
           ],
           "plazas": [
            "N°263565"
@@ -6309,9 +5876,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "ARTES Y ESTETICA CONTEMPORAN",
+          "materia": "ARTE Y ESTETICA CONTEMPORANEAS",
           "docentes": [
-           "DIAZ ELBA"
+           "DIAZ, ELBA ANGELICA"
           ],
           "plazas": [
            "N°263141"
@@ -6322,7 +5889,7 @@
          {
           "materia": "FILOSOFIA",
           "docentes": [
-           "VACANTE"
+           "PANIAGUA ALDERETE, RENÉ GUSTAVO"
           ],
           "plazas": [
            "N°263092"
@@ -6353,9 +5920,9 @@
         "JUEVES": [],
         "VIERNES": [
          {
-          "materia": "ED. FISICA",
+          "materia": "EDUCACION FISICA VI",
           "docentes": [
-           "AGUILAR SORIA JAVIER"
+           "GRANEROS, MARIA VICTORIA"
           ],
           "plazas": [
            "N°252813"
@@ -6373,9 +5940,9 @@
         "JUEVES": [],
         "VIERNES": [
          {
-          "materia": "ED. FISICA",
+          "materia": "EDUCACION FISICA VI",
           "docentes": [
-           "AGUILAR SORIA JAVIER"
+           "GRANEROS, MARIA VICTORIA"
           ],
           "plazas": [
            "N°252813"
@@ -6393,7 +5960,7 @@
    "curso": "6°",
    "division": "\"B\"",
    "ciclo": "ORIENTADO",
-   "resolucion": "1296/5(MEd)",
+   "resolucion": "1296/5(MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -6412,9 +5979,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "LEGILACION DE LA CONSTRUCCION",
+          "materia": "LEGISLACION DE LA CONSTRUCCION",
           "docentes": [
-           "ARGAÑARAZ MARCOS"
+           "ARGAÑARAZ, MARCOS FABIAN"
           ],
           "plazas": [
            "N°303470"
@@ -6425,10 +5992,10 @@
          {
           "materia": "RELACIONES HUMANAS",
           "docentes": [
-           "VACANTE"
+           "MARGARIDO, NADIA RAQUEL"
           ],
           "plazas": [
-           "N° 303471"
+           "N°303471"
           ]
          }
         ],
@@ -6436,7 +6003,7 @@
          {
           "materia": "INSTALACIONES SANITARIAS",
           "docentes": [
-           "COSTAS ISMAEL"
+           "COSTA, ISMAEL DAVID"
           ],
           "plazas": [
            "N°303478"
@@ -6445,9 +6012,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "ESTRUCTURA III",
+          "materia": "ESTRUCTURAS III",
           "docentes": [
-           "GRAMAJO MIGUEL"
+           "GRAMAJO, MIGUEL AGUSTIN"
           ],
           "plazas": [
            "N°303475"
@@ -6456,9 +6023,9 @@
         ],
         "VIERNES": [
          {
-          "materia": "ESTRUCTURA III",
+          "materia": "ESTRUCTURAS III",
           "docentes": [
-           "GRAMAJO MIGUEL"
+           "GRAMAJO, MIGUEL AGUSTIN"
           ],
           "plazas": [
            "N°303475"
@@ -6472,9 +6039,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "LEGILACION DE LA CONSTRUCCION",
+          "materia": "LEGISLACION DE LA CONSTRUCCION",
           "docentes": [
-           "ARGAÑARAZ MARCOS"
+           "ARGAÑARAZ, MARCOS FABIAN"
           ],
           "plazas": [
            "N°303470"
@@ -6485,7 +6052,7 @@
          {
           "materia": "RELACIONES HUMANAS",
           "docentes": [
-           "VACANTE"
+           "MARGARIDO, NADIA RAQUEL"
           ],
           "plazas": [
            "N°303471"
@@ -6496,7 +6063,7 @@
          {
           "materia": "INSTALACIONES SANITARIAS",
           "docentes": [
-           "COSTAS ISMAEL"
+           "COSTA, ISMAEL DAVID"
           ],
           "plazas": [
            "N°303478"
@@ -6505,9 +6072,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "ESTRUCTURA III",
+          "materia": "ESTRUCTURAS III",
           "docentes": [
-           "GRAMAJO MIGUEL"
+           "GRAMAJO, MIGUEL AGUSTIN"
           ],
           "plazas": [
            "N°303475"
@@ -6516,9 +6083,9 @@
         ],
         "VIERNES": [
          {
-          "materia": "ESTRUCTURA III",
+          "materia": "ESTRUCTURAS III",
           "docentes": [
-           "GRAMAJO MIGUEL"
+           "GRAMAJO, MIGUEL AGUSTIN"
           ],
           "plazas": [
            "N°303475"
@@ -6532,9 +6099,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "ADM. Y CONDUCCION DE OBRAS",
+          "materia": "ADMINISTRACION Y CONDUCCION DE OBRA",
           "docentes": [
-           "ARGAÑARAZ MARCOS"
+           "ARGAÑARAZ, MARCOS FABIAN"
           ],
           "plazas": [
            "N°303476"
@@ -6545,7 +6112,7 @@
          {
           "materia": "COMPUTO Y PRESUPUESTO",
           "docentes": [
-           "ARGAÑARAZ MARCOS"
+           "ARGAÑARAZ, MARCOS FABIAN"
           ],
           "plazas": [
            "N°303474"
@@ -6556,7 +6123,7 @@
          {
           "materia": "INSTALACIONES SANITARIAS",
           "docentes": [
-           "COSTAS ISMAEL"
+           "COSTA, ISMAEL DAVID"
           ],
           "plazas": [
            "N°303478"
@@ -6567,7 +6134,7 @@
          {
           "materia": "MATEMATICA APLICADA II",
           "docentes": [
-           "CASTILLO NATALIA"
+           "AYALA, RUBEN ANGEL"
           ],
           "plazas": [
            "N°303469"
@@ -6578,7 +6145,7 @@
          {
           "materia": "MATEMATICA APLICADA II",
           "docentes": [
-           "CASTILLO NATALIA"
+           "AYALA, RUBEN ANGEL"
           ],
           "plazas": [
            "N°303469"
@@ -6592,9 +6159,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "ADM. Y CONDUCCION DE OBRAS",
+          "materia": "ADMINISTRACION Y CONDUCCION DE OBRA",
           "docentes": [
-           "ARGAÑARAZ MARCOS"
+           "ARGAÑARAZ, MARCOS FABIAN"
           ],
           "plazas": [
            "N°303476"
@@ -6605,7 +6172,7 @@
          {
           "materia": "COMPUTO Y PRESUPUESTO",
           "docentes": [
-           "ARGAÑARAZ MARCOS"
+           "ARGAÑARAZ, MARCOS FABIAN"
           ],
           "plazas": [
            "N°303474"
@@ -6616,7 +6183,7 @@
          {
           "materia": "TOPOGRAFÍA",
           "docentes": [
-           "GRAMAJO MIGUEL"
+           "GRAMAJO, MIGUEL AGUSTIN"
           ],
           "plazas": [
            "N°303477"
@@ -6627,7 +6194,7 @@
          {
           "materia": "MATEMATICA APLICADA II",
           "docentes": [
-           "CASTILLO NATALIA"
+           "AYALA, RUBEN ANGEL"
           ],
           "plazas": [
            "N°303469"
@@ -6638,7 +6205,7 @@
          {
           "materia": "MATEMATICA APLICADA II",
           "docentes": [
-           "CASTILLO NATALIA"
+           "AYALA, RUBEN ANGEL"
           ],
           "plazas": [
            "N°303469"
@@ -6652,9 +6219,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "ADM. Y CONDUCCION DE OBRAS",
+          "materia": "ADMINISTRACION Y CONDUCCION DE OBRA",
           "docentes": [
-           "ARGAÑARAZ MARCOS"
+           "ARGAÑARAZ, MARCOS FABIAN"
           ],
           "plazas": [
            "N°303476"
@@ -6665,6 +6232,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
+           "VACANTE",
            "ARGAÑARAZ ELIANA"
           ],
           "plazas": [
@@ -6676,7 +6244,7 @@
          {
           "materia": "TOPOGRAFÍA",
           "docentes": [
-           "GRAMAJO MIGUEL"
+           "GRAMAJO, MIGUEL AGUSTIN"
           ],
           "plazas": [
            "N°303477"
@@ -6685,9 +6253,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ALBARRACIN PATRICIA"
+           "ALBARRACIN, PATRICIA ELIZABETH"
           ],
           "plazas": [
            "N°303468"
@@ -6698,7 +6266,7 @@
          {
           "materia": "SEGURIDAD E HIGIENE INDUSTRIAL",
           "docentes": [
-           "NOGUERA F. MIGUEL"
+           "NOGUERA, FRANCISCO MIGUEL"
           ],
           "plazas": [
            "N°303473"
@@ -6714,7 +6282,7 @@
          {
           "materia": "COMPUTO Y PRESUPUESTO",
           "docentes": [
-           "ARGAÑARAZ MARCOS"
+           "ARGAÑARAZ, MARCOS FABIAN"
           ],
           "plazas": [
            "N°303474"
@@ -6725,6 +6293,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
+           "VACANTE",
            "ARGAÑARAZ ELIANA"
           ],
           "plazas": [
@@ -6736,7 +6305,7 @@
          {
           "materia": "TOPOGRAFÍA",
           "docentes": [
-           "GRAMAJO MIGUEL"
+           "GRAMAJO, MIGUEL AGUSTIN"
           ],
           "plazas": [
            "N°303477"
@@ -6745,9 +6314,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ALBARRACIN PATRICIA"
+           "ALBARRACIN, PATRICIA ELIZABETH"
           ],
           "plazas": [
            "N°303468"
@@ -6758,7 +6327,7 @@
          {
           "materia": "SEGURIDAD E HIGIENE INDUSTRIAL",
           "docentes": [
-           "NOGUERA F. MIGUEL"
+           "NOGUERA, FRANCISCO MIGUEL"
           ],
           "plazas": [
            "N°303473"
@@ -6775,6 +6344,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
+           "VACANTE",
            "ARGAÑARAZ ELIANA"
           ],
           "plazas": [
@@ -6785,8 +6355,10 @@
         "MIERCOLES": [],
         "JUEVES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
-          "docentes": [],
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "ALBARRACIN, PATRICIA ELIZABETH"
+          ],
           "plazas": [
            "N°303468"
           ]
@@ -6796,7 +6368,7 @@
          {
           "materia": "SEGURIDAD E HIGIENE INDUSTRIAL",
           "docentes": [
-           "NOGUERA F. MIGUEL"
+           "NOGUERA, FRANCISCO MIGUEL"
           ],
           "plazas": [
            "N°303473"
@@ -6819,44 +6391,14 @@
      ],
      "filas": [
       {
-       "hora": "08:00 A 12:15",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "ESTRUCTURAS METALICAS Y MADERA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "ESTRUCTURAS METALICAS Y MADERA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "08:00 A 12:16",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
        "hora": "08:00 A 12:17",
        "celdas": {
         "LUNES": [
          {
-          "materia": "ARGAÑARAZ MARCOS",
-          "docentes": [],
+          "materia": "ESTRUCTURAS METALICAS Y MADERA",
+          "docentes": [
+           "ARGAÑARAZ, MARCOS FABIAN"
+          ],
           "plazas": [
            "N°290206"
           ]
@@ -6866,8 +6408,10 @@
         "MIERCOLES": [],
         "JUEVES": [
          {
-          "materia": "ARGAÑARAZ MARCOS",
-          "docentes": [],
+          "materia": "ESTRUCTURAS METALICAS Y MADERA",
+          "docentes": [
+           "ARGAÑARAZ, MARCOS FABIAN"
+          ],
           "plazas": [
            "N°290206"
           ]
@@ -6882,39 +6426,9 @@
         "LUNES": [
          {
           "materia": "DISEÑO DE OBRA III",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "DISEÑO DE OBRA III",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "08:00 A 12:15",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "08:00 A 12:15",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "GRAMAJO MIGUEL",
-          "docentes": [],
+          "docentes": [
+           "GRAMAJO, MIGUEL AGUSTIN"
+          ],
           "plazas": [
            "N°305598"
           ]
@@ -6924,8 +6438,10 @@
         "MIERCOLES": [],
         "JUEVES": [
          {
-          "materia": "GRAMAJO MIGUEL",
-          "docentes": [],
+          "materia": "DISEÑO DE OBRA III",
+          "docentes": [
+           "GRAMAJO, MIGUEL AGUSTIN"
+          ],
           "plazas": [
            "N°305598"
           ]
@@ -6953,9 +6469,9 @@
         "LUNES": [],
         "MARTES": [
          {
-          "materia": "ED. FISICA",
+          "materia": "EDUCACION FISICA",
           "docentes": [
-           "CHIAVENATTO ALIDA"
+           "GRANEROS, MARIA VICTORIA"
           ],
           "plazas": [
            "N°303472"
@@ -6973,9 +6489,9 @@
         "LUNES": [],
         "MARTES": [
          {
-          "materia": "ED. FISICA",
+          "materia": "EDUCACION FISICA",
           "docentes": [
-           "CHIAVENATTO ALIDA"
+           "GRANEROS, MARIA VICTORIA"
           ],
           "plazas": [
            "N°303472"
@@ -6996,7 +6512,7 @@
    "curso": "7°",
    "division": "\"B\"",
    "ciclo": "ORIENTADO",
-   "resolucion": "1296/5(MEd)",
+   "resolucion": "1296/5(MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -7017,7 +6533,7 @@
          {
           "materia": "EDIFICIOS INTELIGENTES",
           "docentes": [
-           "GRAMAJO MIGUEL"
+           "GRAMAJO, MIGUEL AGUSTIN"
           ],
           "plazas": [
            "N°315655"
@@ -7028,7 +6544,7 @@
          {
           "materia": "OBRAS VIALES E HIDRAULICAS",
           "docentes": [
-           "GRAMAJO MIGUEL"
+           "GRAMAJO, MIGUEL AGUSTIN"
           ],
           "plazas": [
            "N°315656"
@@ -7037,9 +6553,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ALBARRACIN PATRICIA"
+           "ALBARRACIN, PATRICIA ELIZABETH"
           ],
           "plazas": [
            "N°315653"
@@ -7050,7 +6566,7 @@
          {
           "materia": "INSTALACIONES ELECTRICAS",
           "docentes": [
-           "ARGAÑARAZ MARCOS"
+           "ARGAÑARAZ, MARCOS FABIAN"
           ],
           "plazas": [
            "N°315659"
@@ -7061,7 +6577,7 @@
          {
           "materia": "INSTALACIONES TERMOMECANICAS",
           "docentes": [
-           "VACANTE"
+           "QUIROGA SILVA, PAMELA LETICIA DEL VALLE"
           ],
           "plazas": [
            "N°315658"
@@ -7077,7 +6593,7 @@
          {
           "materia": "EDIFICIOS INTELIGENTES",
           "docentes": [
-           "GRAMAJO MIGUEL"
+           "GRAMAJO, MIGUEL AGUSTIN"
           ],
           "plazas": [
            "N°315655"
@@ -7088,7 +6604,7 @@
          {
           "materia": "OBRAS VIALES E HIDRAULICAS",
           "docentes": [
-           "GRAMAJO MIGUEL"
+           "GRAMAJO, MIGUEL AGUSTIN"
           ],
           "plazas": [
            "N°315656"
@@ -7097,9 +6613,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ALBARRACIN PATRICIA"
+           "ALBARRACIN, PATRICIA ELIZABETH"
           ],
           "plazas": [
            "N°315653"
@@ -7110,7 +6626,7 @@
          {
           "materia": "INSTALACIONES ELECTRICAS",
           "docentes": [
-           "ARGAÑARAZ MARCOS"
+           "ARGAÑARAZ, MARCOS FABIAN"
           ],
           "plazas": [
            "N°315659"
@@ -7121,7 +6637,7 @@
          {
           "materia": "INSTALACIONES TERMOMECANICAS",
           "docentes": [
-           "VACANTE"
+           "QUIROGA SILVA, PAMELA LETICIA DEL VALLE"
           ],
           "plazas": [
            "N°315658"
@@ -7137,7 +6653,7 @@
          {
           "materia": "OBRAS VIALES E HIDRAULICAS",
           "docentes": [
-           "GRAMAJO MIGUEL"
+           "GRAMAJO, MIGUEL AGUSTIN"
           ],
           "plazas": [
            "N°315656"
@@ -7148,7 +6664,7 @@
          {
           "materia": "INSTALACIONES TERMOMECANICAS",
           "docentes": [
-           "VACANTE"
+           "QUIROGA SILVA, PAMELA LETICIA DEL VALLE"
           ],
           "plazas": [
            "N°315658"
@@ -7157,9 +6673,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "LENGUA EXTRANJ INGLES",
+          "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ALBARRACIN PATRICIA"
+           "ALBARRACIN, PATRICIA ELIZABETH"
           ],
           "plazas": [
            "N°315653"
@@ -7170,7 +6686,7 @@
          {
           "materia": "INSTALACIONES ELECTRICAS",
           "docentes": [
-           "ARGAÑARAZ MARCOS"
+           "ARGAÑARAZ, MARCOS FABIAN"
           ],
           "plazas": [
            "N°315659"
@@ -7181,7 +6697,7 @@
          {
           "materia": "COMUNICACION",
           "docentes": [
-           "PEDRAZA LAURA"
+           "PEDRAZA, MARIA LAURA"
           ],
           "plazas": [
            "N°315652"
@@ -7197,7 +6713,7 @@
          {
           "materia": "OBRAS VIALES E HIDRAULICAS",
           "docentes": [
-           "GRAMAJO MIGUEL"
+           "GRAMAJO, MIGUEL AGUSTIN"
           ],
           "plazas": [
            "N°315656"
@@ -7208,7 +6724,7 @@
          {
           "materia": "INSTALACIONES TERMOMECANICAS",
           "docentes": [
-           "VACANTE"
+           "QUIROGA SILVA, PAMELA LETICIA DEL VALLE"
           ],
           "plazas": [
            "N°315658"
@@ -7219,7 +6735,7 @@
          {
           "materia": "INSTALACIONES SANITARIAS",
           "docentes": [
-           "COSTAS ISMAEL"
+           "COSTA, ISMAEL DAVID"
           ],
           "plazas": [
            "N°315660"
@@ -7230,7 +6746,7 @@
          {
           "materia": "ORGANIZACION DE LA EMPRESA",
           "docentes": [
-           "ARGAÑARAZ MARCOS"
+           "ARGAÑARAZ, MARCOS FABIAN"
           ],
           "plazas": [
            "N°315654"
@@ -7241,7 +6757,7 @@
          {
           "materia": "COMUNICACION",
           "docentes": [
-           "PEDRAZA LAURA"
+           "PEDRAZA, MARIA LAURA"
           ],
           "plazas": [
            "N°315652"
@@ -7255,9 +6771,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "ESTRUCTURA IV",
+          "materia": "ESTRUCTURAS IV",
           "docentes": [
-           "QUIROGA PAMELA"
+           "QUIROGA SILVA, PAMELA LETICIA DEL VALLE"
           ],
           "plazas": [
            "N°315657"
@@ -7268,7 +6784,7 @@
          {
           "materia": "INSTALACIONES TERMOMECANICAS",
           "docentes": [
-           "VACANTE"
+           "QUIROGA SILVA, PAMELA LETICIA DEL VALLE"
           ],
           "plazas": [
            "N°315658"
@@ -7279,7 +6795,7 @@
          {
           "materia": "INSTALACIONES SANITARIAS",
           "docentes": [
-           "COSTAS ISMAEL"
+           "COSTA, ISMAEL DAVID"
           ],
           "plazas": [
            "N°315660"
@@ -7290,7 +6806,7 @@
          {
           "materia": "ORGANIZACION DE LA EMPRESA",
           "docentes": [
-           "ARGAÑARAZ MARCOS"
+           "ARGAÑARAZ, MARCOS FABIAN"
           ],
           "plazas": [
            "N°315654"
@@ -7301,7 +6817,7 @@
          {
           "materia": "COMUNICACION",
           "docentes": [
-           "PEDRAZA LAURA"
+           "PEDRAZA, MARIA LAURA"
           ],
           "plazas": [
            "N°315652"
@@ -7315,9 +6831,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "ESTRUCTURA IV",
+          "materia": "ESTRUCTURAS IV",
           "docentes": [
-           "QUIROGA PAMELA"
+           "QUIROGA SILVA, PAMELA LETICIA DEL VALLE"
           ],
           "plazas": [
            "N°315657"
@@ -7326,9 +6842,9 @@
         ],
         "MARTES": [
          {
-          "materia": "ESTRUCTURA IV",
+          "materia": "ESTRUCTURAS IV",
           "docentes": [
-           "QUIROGA PAMELA"
+           "QUIROGA SILVA, PAMELA LETICIA DEL VALLE"
           ],
           "plazas": [
            "N°315657"
@@ -7339,7 +6855,7 @@
          {
           "materia": "INSTALACIONES SANITARIAS",
           "docentes": [
-           "COSTAS ISMAEL"
+           "COSTA, ISMAEL DAVID"
           ],
           "plazas": [
            "N°315660"
@@ -7350,7 +6866,7 @@
          {
           "materia": "ORGANIZACION DE LA EMPRESA",
           "docentes": [
-           "ARGAÑARAZ MARCOS"
+           "ARGAÑARAZ, MARCOS FABIAN"
           ],
           "plazas": [
            "N°315654"
@@ -7361,7 +6877,7 @@
          {
           "materia": "EDIFICIOS INTELIGENTES",
           "docentes": [
-           "GRAMAJO MIGUEL"
+           "GRAMAJO, MIGUEL AGUSTIN"
           ],
           "plazas": [
            "N°315655"
@@ -7375,9 +6891,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "ESTRUCTURA IV",
+          "materia": "ESTRUCTURAS IV",
           "docentes": [
-           "QUIROGA PAMELA"
+           "QUIROGA SILVA, PAMELA LETICIA DEL VALLE"
           ],
           "plazas": [
            "N°315657"
@@ -7386,9 +6902,9 @@
         ],
         "MARTES": [
          {
-          "materia": "ESTRUCTURA IV",
+          "materia": "ESTRUCTURAS IV",
           "docentes": [
-           "QUIROGA PAMELA"
+           "QUIROGA SILVA, PAMELA LETICIA DEL VALLE"
           ],
           "plazas": [
            "N°315657"
@@ -7401,7 +6917,7 @@
          {
           "materia": "EDIFICIOS INTELIGENTES",
           "docentes": [
-           "GRAMAJO MIGUEL"
+           "GRAMAJO, MIGUEL AGUSTIN"
           ],
           "plazas": [
            "N°315655"
@@ -7428,40 +6944,10 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "DISEÑO IV",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "DISEÑO IV",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "08:00 A 12:15",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "08:00 A 12:15",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "GRAMAJO MIGUEL",
-          "docentes": [],
+          "materia": "DISEÑO DE OBRA III",
+          "docentes": [
+           "GRAMAJO, MIGUEL AGUSTIN"
+          ],
           "plazas": [
            "N°305598"
           ]
@@ -7469,76 +6955,16 @@
         ],
         "MARTES": [
          {
-          "materia": "GRAMAJO MIGUEL",
-          "docentes": [],
+          "materia": "DISEÑO DE OBRA III",
+          "docentes": [
+           "GRAMAJO, MIGUEL AGUSTIN"
+          ],
           "plazas": [
            "N°305598"
           ]
          }
         ],
         "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "PROFESOR",
-          "docentes": [],
-          "plazas": [
-           "N°15263"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "PROFESOR",
-          "docentes": [],
-          "plazas": [
-           "N°15263"
-          ]
-         },
-         {
-          "materia": "PROFESOR",
-          "docentes": [],
-          "plazas": [
-           "N°15263"
-          ]
-         },
-         {
-          "materia": "PROFESOR",
-          "docentes": [],
-          "plazas": [
-           "N°15263"
-          ]
-         }
-        ]
-       }
-      },
-      {
-       "hora": "08:00 A 12:15",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "ESTRUCTURA II",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "ESTRUCTURA II",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "08:00 A 12:15",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
         "JUEVES": [],
         "VIERNES": []
        }
@@ -7548,55 +6974,29 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "VACANTE",
+          "materia": "ESTRUCTURAS IV",
           "docentes": [
-           "N°"
+           "QUIROGA SILVA, PAMELA LETICIA DEL VALLE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°315657"
+          ]
          }
         ],
         "MARTES": [
          {
-          "materia": "VACANTE",
+          "materia": "ESTRUCTURAS IV",
           "docentes": [
-           "N°"
+           "QUIROGA SILVA, PAMELA LETICIA DEL VALLE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°315657"
+          ]
          }
         ],
         "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "PROFESOR",
-          "docentes": [],
-          "plazas": [
-           "N°15263"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "PROFESOR",
-          "docentes": [],
-          "plazas": [
-           "N°15263"
-          ]
-         },
-         {
-          "materia": "PROFESOR",
-          "docentes": [],
-          "plazas": [
-           "N°15263"
-          ]
-         },
-         {
-          "materia": "PROFESOR",
-          "docentes": [],
-          "plazas": [
-           "N°15263"
-          ]
-         }
-        ]
+        "JUEVES": [],
+        "VIERNES": []
        }
       }
      ]
@@ -7621,12 +7021,12 @@
         "JUEVES": [],
         "VIERNES": [
          {
-          "materia": "ED. FISICA",
+          "materia": "EDUCACION FISICA",
           "docentes": [
-           "GRANEROS VICTORIA"
+           "GRANEROS, MARIA VICTORIA"
           ],
           "plazas": [
-           "N° 322858"
+           "N°322858"
           ]
          }
         ]
@@ -7641,12 +7041,12 @@
         "JUEVES": [],
         "VIERNES": [
          {
-          "materia": "ED. FISICA",
+          "materia": "EDUCACION FISICA",
           "docentes": [
-           "GRANEROS VICTORIA"
+           "GRANEROS, MARIA VICTORIA"
           ],
           "plazas": [
-           "N° 322858"
+           "N°322858"
           ]
          }
         ]

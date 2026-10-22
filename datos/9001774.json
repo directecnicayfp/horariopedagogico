@@ -9,7 +9,7 @@
    "curso": "1°",
    "division": "1°",
    "ciclo": "BÁSICO",
-   "resolucion": "467/5 (MEd)",
+   "resolucion": "467/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -30,7 +30,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "COSTILLA, HÉCTOR E."
+           "COSTILLA, HECTOR ENRIQUE"
           ],
           "plazas": [
            "N°133834"
@@ -41,7 +41,7 @@
          {
           "materia": "FÍSICO QUÍMICA",
           "docentes": [
-           "AGÜERO, CÉSAR R."
+           "AGÜERO, CESAR ROLANDO"
           ],
           "plazas": [
            "N°141337"
@@ -52,7 +52,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ROVARINI, MARÍA L."
+           "ROVARINI, MARIA LAURA"
           ],
           "plazas": [
            "N°139683"
@@ -63,7 +63,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "DE HARO, EVA C."
+           "DE HARO HOHL, EVA CAROLINA"
           ],
           "plazas": [
            "N°176766"
@@ -74,7 +74,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "CAMUÑA, SILVIA"
+           "MORENO, VALERIA CARINA"
           ],
           "plazas": [
            "N°179868"
@@ -90,7 +90,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "COSTILLA, HÉCTOR E."
+           "COSTILLA, HECTOR ENRIQUE"
           ],
           "plazas": [
            "N°133834"
@@ -101,7 +101,7 @@
          {
           "materia": "FÍSICO QUÍMICA",
           "docentes": [
-           "AGÜERO, CÉSAR R."
+           "AGÜERO, CESAR ROLANDO"
           ],
           "plazas": [
            "N°141337"
@@ -112,7 +112,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ROVARINI, MARÍA L."
+           "ROVARINI, MARIA LAURA"
           ],
           "plazas": [
            "N°139683"
@@ -123,7 +123,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "DE HARO, EVA C."
+           "DE HARO HOHL, EVA CAROLINA"
           ],
           "plazas": [
            "N°176766"
@@ -134,7 +134,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "CAMUÑA, SILVIA"
+           "MORENO, VALERIA CARINA"
           ],
           "plazas": [
            "N°179868"
@@ -150,7 +150,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "DE HARO, EVA C."
+           "DE HARO HOHL, EVA CAROLINA"
           ],
           "plazas": [
            "N°176766"
@@ -161,7 +161,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "ARRABAL, CECILIA C."
+           "ARRABAL, CECILIA CELESTE"
           ],
           "plazas": [
            "N°208398"
@@ -172,7 +172,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ROMANO, MARÍA E."
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°208399"
@@ -183,7 +183,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "ARRABAL, CECILIA C."
+           "ARRABAL, CECILIA CELESTE"
           ],
           "plazas": [
            "N°208398"
@@ -192,9 +192,9 @@
         ],
         "VIERNES": [
          {
-          "materia": "DIBUTO TÉCNICO",
+          "materia": "DIBUJO TECNICO",
           "docentes": [
-           "AGÜERO, CÉSAR R."
+           "AGÜERO, CESAR ROLANDO"
           ],
           "plazas": [
            "N°176754"
@@ -210,7 +210,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "DE HARO, EVA C."
+           "DE HARO HOHL, EVA CAROLINA"
           ],
           "plazas": [
            "N°176766"
@@ -221,7 +221,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "ARRABAL, CECILIA C."
+           "ARRABAL, CECILIA CELESTE"
           ],
           "plazas": [
            "N°208398"
@@ -232,7 +232,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "CAMUÑA, SILVIA"
+           "MORENO, VALERIA CARINA"
           ],
           "plazas": [
            "N°179868"
@@ -243,7 +243,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ROVARINI, MARÍA L."
+           "ROVARINI, MARIA LAURA"
           ],
           "plazas": [
            "N°176888"
@@ -252,9 +252,9 @@
         ],
         "VIERNES": [
          {
-          "materia": "DIBUTO TÉCNICO",
+          "materia": "DIBUJO TECNICO",
           "docentes": [
-           "AGÜERO, CÉSAR R."
+           "AGÜERO, CESAR ROLANDO"
           ],
           "plazas": [
            "N°230795"
@@ -268,9 +268,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "DIBUTO TÉCNICO",
+          "materia": "DIBUJO TECNICO",
           "docentes": [
-           "AGÜERO, CÉSAR R."
+           "AGÜERO, CESAR ROLANDO"
           ],
           "plazas": [
            "N°176754"
@@ -281,7 +281,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "DE HARO, EVA C."
+           "DE HARO HOHL, EVA CAROLINA"
           ],
           "plazas": [
            "N°176766"
@@ -292,7 +292,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "CAMUÑA, SILVIA"
+           "MORENO, VALERIA CARINA"
           ],
           "plazas": [
            "N°179868"
@@ -303,7 +303,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ROMANO, MARÍA E."
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°208399"
@@ -314,7 +314,7 @@
          {
           "materia": "FÍSICO QUÍMICA",
           "docentes": [
-           "AGÜERO, CÉSAR R."
+           "AGÜERO, CESAR ROLANDO"
           ],
           "plazas": [
            "N°230791"
@@ -328,9 +328,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "DIBUTO TÉCNICO",
+          "materia": "DIBUJO TECNICO",
           "docentes": [
-           "AGÜERO, CÉSAR R."
+           "AGÜERO, CESAR ROLANDO"
           ],
           "plazas": [
            "N°176754"
@@ -341,7 +341,7 @@
          {
           "materia": "TECNOLOGÍA",
           "docentes": [
-           "CUEVAS, GUSTAVO D. S."
+           "CUEVAS, GUSTAVO DANIEL SEBASTIAN"
           ],
           "plazas": [
            "N°125167"
@@ -352,7 +352,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "CAMUÑA, SILVIA"
+           "MORENO, VALERIA CARINA"
           ],
           "plazas": [
            "N°179868"
@@ -363,7 +363,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ROMANO, MARÍA E."
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°208399"
@@ -374,7 +374,7 @@
          {
           "materia": "TECNOLOGÍA",
           "docentes": [
-           "CUEVAS, GUSTAVO D. S."
+           "CUEVAS, GUSTAVO DANIEL SEBASTIAN"
           ],
           "plazas": [
            "N°125167"
@@ -391,7 +391,7 @@
          {
           "materia": "TECNOLOGÍA",
           "docentes": [
-           "CUEVAS, GUSTAVO D. S."
+           "CUEVAS, GUSTAVO DANIEL SEBASTIAN"
           ],
           "plazas": [
            "N°125167"
@@ -427,8 +427,12 @@
          },
          {
           "materia": "CARPINTERÍA",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "GARCIA, JOSE ANTONIO"
+          ],
+          "plazas": [
+           "N°215791"
+          ]
          },
          {
           "materia": "ELECTRICIDAD",
@@ -449,8 +453,12 @@
          },
          {
           "materia": "CARPINTERÍA",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "GARCIA, JOSE ANTONIO"
+          ],
+          "plazas": [
+           "N°215791"
+          ]
          },
          {
           "materia": "ELECTRICIDAD",
@@ -483,29 +491,37 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "MEZÓN, MARCO A.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "NIEVA, JUAN ISMAEL"
+          ],
           "plazas": [
            "N°176851"
           ]
          },
          {
-          "materia": "COLLANTE, EVANGELINA G.",
-          "docentes": [],
+          "materia": "CARPINTERIA",
+          "docentes": [
+           "GARCIA, JOSE ANTONIO"
+          ],
           "plazas": [
            "N°215791"
           ]
          },
          {
-          "materia": "CAMPOS, RODRIGO S.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CAMPOS, RODRIGO SILVIO"
+          ],
           "plazas": [
            "N°154667"
           ]
          },
          {
-          "materia": "ARREGUEZ, LUIS A.",
-          "docentes": [],
+          "materia": "HERRERIA",
+          "docentes": [
+           "ARREGUEZ, LUIS ALFREDO"
+          ],
           "plazas": [
            "N°209165"
           ]
@@ -513,29 +529,37 @@
         ],
         "MARTES": [
          {
-          "materia": "MEZÓN, MARCO A.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "NIEVA, JUAN ISMAEL"
+          ],
           "plazas": [
            "N°176851"
           ]
          },
          {
-          "materia": "COLLANTE, EVANGELINA G.",
-          "docentes": [],
+          "materia": "CARPINTERIA",
+          "docentes": [
+           "GARCIA, JOSE ANTONIO"
+          ],
           "plazas": [
            "N°215791"
           ]
          },
          {
-          "materia": "CAMPOS, RODRIGO S.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CAMPOS, RODRIGO SILVIO"
+          ],
           "plazas": [
            "N°154667"
           ]
          },
          {
-          "materia": "ARREGUEZ, LUIS A.",
-          "docentes": [],
+          "materia": "HERRERIA",
+          "docentes": [
+           "ARREGUEZ, LUIS ALFREDO"
+          ],
           "plazas": [
            "N°209165"
           ]
@@ -557,8 +581,12 @@
          },
          {
           "materia": "CARPINTERÍA",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "GARCIA, JOSE ANTONIO"
+          ],
+          "plazas": [
+           "N°215791"
+          ]
          },
          {
           "materia": "ELECTRICIDAD",
@@ -579,8 +607,12 @@
          },
          {
           "materia": "CARPINTERÍA",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "GARCIA, JOSE ANTONIO"
+          ],
+          "plazas": [
+           "N°215791"
+          ]
          },
          {
           "materia": "ELECTRICIDAD",
@@ -613,29 +645,37 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "MEZÓN, MARCO A.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "NIEVA, JUAN ISMAEL"
+          ],
           "plazas": [
            "N°176851"
           ]
          },
          {
-          "materia": "COLLANTE, EVANGELINA G.",
-          "docentes": [],
+          "materia": "CARPINTERIA",
+          "docentes": [
+           "GARCIA, JOSE ANTONIO"
+          ],
           "plazas": [
            "N°215791"
           ]
          },
          {
-          "materia": "CAMPOS, RODRIGO S.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CAMPOS, RODRIGO SILVIO"
+          ],
           "plazas": [
            "N°154667"
           ]
          },
          {
-          "materia": "ARREGUEZ, LUIS A.",
-          "docentes": [],
+          "materia": "HERRERIA",
+          "docentes": [
+           "ARREGUEZ, LUIS ALFREDO"
+          ],
           "plazas": [
            "N°209165"
           ]
@@ -643,29 +683,37 @@
         ],
         "MARTES": [
          {
-          "materia": "MEZÓN, MARCO A.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "NIEVA, JUAN ISMAEL"
+          ],
           "plazas": [
            "N°176851"
           ]
          },
          {
-          "materia": "COLLANTE, EVANGELINA G.",
-          "docentes": [],
+          "materia": "CARPINTERIA",
+          "docentes": [
+           "GARCIA, JOSE ANTONIO"
+          ],
           "plazas": [
            "N°215791"
           ]
          },
          {
-          "materia": "CAMPOS, RODRIGO S.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CAMPOS, RODRIGO SILVIO"
+          ],
           "plazas": [
            "N°154667"
           ]
          },
          {
-          "materia": "ARREGUEZ, LUIS A.",
-          "docentes": [],
+          "materia": "HERRERIA",
+          "docentes": [
+           "ARREGUEZ, LUIS ALFREDO"
+          ],
           "plazas": [
            "N°209165"
           ]
@@ -699,7 +747,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "ANDRADA, LUIS F."
+           "ANDRADA, LUIS FERNANDO"
           ],
           "plazas": [
            "N°176857"
@@ -719,7 +767,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "ANDRADA, LUIS F."
+           "ANDRADA, LUIS FERNANDO"
           ],
           "plazas": [
            "N°272938"
@@ -739,7 +787,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "ANDRADA, LUIS F."
+           "ANDRADA, LUIS FERNANDO"
           ],
           "plazas": [
            "N°272938"
@@ -758,7 +806,7 @@
    "curso": "1°",
    "division": "2°",
    "ciclo": "BÁSICO",
-   "resolucion": "467/5 (MEd)",
+   "resolucion": "467/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -779,7 +827,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "YANICELLI, SARA L."
+           "YANICELLI, SARA LIA"
           ],
           "plazas": [
            "N°215715"
@@ -790,7 +838,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "YANICELLI, SARA L."
+           "YANICELLI, SARA LIA"
           ],
           "plazas": [
            "N°215715"
@@ -801,7 +849,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "MIGUELES, ALEJANDRO L."
+           "MIGUELES, ALEJANDRO LUIS"
           ],
           "plazas": [
            "N°215718"
@@ -812,7 +860,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "MIGUELES, ALEJANDRO L."
+           "MIGUELES, ALEJANDRO LUIS"
           ],
           "plazas": [
            "N°215718"
@@ -823,7 +871,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "SORIA, CARLOS M."
+           "MARTINEZ, HECTOR RUBEN"
           ],
           "plazas": [
            "N°215733"
@@ -839,7 +887,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "YANICELLI, SARA L."
+           "YANICELLI, SARA LIA"
           ],
           "plazas": [
            "N°215715"
@@ -850,7 +898,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "YANICELLI, SARA L."
+           "YANICELLI, SARA LIA"
           ],
           "plazas": [
            "N°215715"
@@ -861,7 +909,8 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "QUIROGA, ELIANA A."
+           "ROSSELL, ANDREA VALERIA",
+           "QUIROGA, ELIANA A"
           ],
           "plazas": [
            "N°215724"
@@ -872,7 +921,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "MIGUELES, ALEJANDRO L."
+           "MIGUELES, ALEJANDRO LUIS"
           ],
           "plazas": [
            "N°215718"
@@ -883,7 +932,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "SORIA, CARLOS M."
+           "MARTINEZ, HECTOR RUBEN"
           ],
           "plazas": [
            "N°215733"
@@ -899,7 +948,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "YANICELLI, SARA L."
+           "YANICELLI, SARA LIA"
           ],
           "plazas": [
            "N°215715"
@@ -910,7 +959,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "ALDERETE, PAMELA"
+           "ALDERETE, PAMELA DE LOS ANGELES"
           ],
           "plazas": [
            "N°215736"
@@ -921,7 +970,7 @@
          {
           "materia": "FÍSICO QUÍMICA",
           "docentes": [
-           "ROMANO, OLGA E."
+           "ROMANO, OLGA ESTELA"
           ],
           "plazas": [
            "N°215730"
@@ -932,7 +981,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ROMANO, OLGA E."
+           "ROMANO, OLGA ESTELA"
           ],
           "plazas": [
            "N°215727"
@@ -943,7 +992,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "ALDERETE, PAMELA"
+           "ALDERETE, PAMELA DE LOS ANGELES"
           ],
           "plazas": [
            "N°215736"
@@ -959,7 +1008,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "SORIA, CARLOS M."
+           "MARTINEZ, HECTOR RUBEN"
           ],
           "plazas": [
            "N°215733"
@@ -970,7 +1019,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "ALDERETE, PAMELA"
+           "ALDERETE, PAMELA DE LOS ANGELES"
           ],
           "plazas": [
            "N°215736"
@@ -981,7 +1030,7 @@
          {
           "materia": "FÍSICO QUÍMICA",
           "docentes": [
-           "ROMANO, OLGA E."
+           "ROMANO, OLGA ESTELA"
           ],
           "plazas": [
            "N°215730"
@@ -992,7 +1041,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ROMANO, OLGA E."
+           "ROMANO, OLGA ESTELA"
           ],
           "plazas": [
            "N°215727"
@@ -1003,7 +1052,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "ALDERETE, PAMELA"
+           "ALDERETE, PAMELA DE LOS ANGELES"
           ],
           "plazas": [
            "N°215736"
@@ -1019,7 +1068,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "SORIA, CARLOS M."
+           "MARTINEZ, HECTOR RUBEN"
           ],
           "plazas": [
            "N°215733"
@@ -1030,7 +1079,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "ALDERETE, PAMELA"
+           "ALDERETE, PAMELA DE LOS ANGELES"
           ],
           "plazas": [
            "N°215736"
@@ -1041,7 +1090,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "JUÁREZ, JORGE A."
+           "JUAREZ, JORGE ALBERTO"
           ],
           "plazas": [
            "N°215721"
@@ -1052,7 +1101,8 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "QUIROGA, ELIANA A."
+           "ROSSELL, ANDREA VALERIA",
+           "QUIROGA, ELIANA A"
           ],
           "plazas": [
            "N°215724"
@@ -1063,7 +1113,7 @@
          {
           "materia": "FÍSICO QUÍMICA",
           "docentes": [
-           "ROMANO, OLGA E."
+           "ROMANO, OLGA ESTELA"
           ],
           "plazas": [
            "N°215730"
@@ -1079,7 +1129,7 @@
          {
           "materia": "TECNOLOGÍA",
           "docentes": [
-           "MARTÍNEZ, HÉCTOR R."
+           "MARTINEZ, HECTOR RUBEN"
           ],
           "plazas": [
            "N°125168"
@@ -1090,7 +1140,7 @@
          {
           "materia": "TECNOLOGÍA",
           "docentes": [
-           "MARTÍNEZ, HÉCTOR R."
+           "MARTINEZ, HECTOR RUBEN"
           ],
           "plazas": [
            "N°125168"
@@ -1101,7 +1151,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "JUÁREZ, JORGE A."
+           "JUAREZ, JORGE ALBERTO"
           ],
           "plazas": [
            "N°215721"
@@ -1112,7 +1162,8 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "QUIROGA, ELIANA A."
+           "ROSSELL, ANDREA VALERIA",
+           "QUIROGA, ELIANA A"
           ],
           "plazas": [
            "N°215724"
@@ -1123,7 +1174,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ROMANO, OLGA E."
+           "ROMANO, OLGA ESTELA"
           ],
           "plazas": [
            "N°215727"
@@ -1139,7 +1190,7 @@
          {
           "materia": "TECNOLOGÍA",
           "docentes": [
-           "MARTÍNEZ, HÉCTOR R."
+           "MARTINEZ, HECTOR RUBEN"
           ],
           "plazas": [
            "N°125168"
@@ -1232,29 +1283,37 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "MEZÓN, MARCO A.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "NIEVA, JUAN ISMAEL"
+          ],
           "plazas": [
            "N°176851"
           ]
          },
          {
-          "materia": "COLLANTE, EVANGELINA G.",
-          "docentes": [],
+          "materia": "CARPINTERIA",
+          "docentes": [
+           "GARCIA, JOSE ANTONIO"
+          ],
           "plazas": [
            "N°215791"
           ]
          },
          {
-          "materia": "CAMPOS, RODRIGO S.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CAMPOS, RODRIGO SILVIO"
+          ],
           "plazas": [
            "N°154667"
           ]
          },
          {
-          "materia": "ARREGUEZ, LUIS A.",
-          "docentes": [],
+          "materia": "HERRERIA",
+          "docentes": [
+           "ARREGUEZ, LUIS ALFREDO"
+          ],
           "plazas": [
            "N°209165"
           ]
@@ -1262,29 +1321,37 @@
         ],
         "MARTES": [
          {
-          "materia": "MEZÓN, MARCO A.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "NIEVA, JUAN ISMAEL"
+          ],
           "plazas": [
            "N°176851"
           ]
          },
          {
-          "materia": "COLLANTE, EVANGELINA G.",
-          "docentes": [],
+          "materia": "CARPINTERIA",
+          "docentes": [
+           "GARCIA, JOSE ANTONIO"
+          ],
           "plazas": [
            "N°215791"
           ]
          },
          {
-          "materia": "CAMPOS, RODRIGO S.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CAMPOS, RODRIGO SILVIO"
+          ],
           "plazas": [
            "N°154667"
           ]
          },
          {
-          "materia": "ARREGUEZ, LUIS A.",
-          "docentes": [],
+          "materia": "HERRERIA",
+          "docentes": [
+           "ARREGUEZ, LUIS ALFREDO"
+          ],
           "plazas": [
            "N°209165"
           ]
@@ -1362,29 +1429,37 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "MEZÓN, MARCO A.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "NIEVA, JUAN ISMAEL"
+          ],
           "plazas": [
            "N°176851"
           ]
          },
          {
-          "materia": "COLLANTE, EVANGELINA G.",
-          "docentes": [],
+          "materia": "CARPINTERIA",
+          "docentes": [
+           "GARCIA, JOSE ANTONIO"
+          ],
           "plazas": [
            "N°215791"
           ]
          },
          {
-          "materia": "CAMPOS, RODRIGO S.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CAMPOS, RODRIGO SILVIO"
+          ],
           "plazas": [
            "N°154667"
           ]
          },
          {
-          "materia": "ARREGUEZ, LUIS A.",
-          "docentes": [],
+          "materia": "HERRERIA",
+          "docentes": [
+           "ARREGUEZ, LUIS ALFREDO"
+          ],
           "plazas": [
            "N°209165"
           ]
@@ -1392,29 +1467,37 @@
         ],
         "MARTES": [
          {
-          "materia": "MEZÓN, MARCO A.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "NIEVA, JUAN ISMAEL"
+          ],
           "plazas": [
            "N°176851"
           ]
          },
          {
-          "materia": "COLLANTE, EVANGELINA G.",
-          "docentes": [],
+          "materia": "CARPINTERIA",
+          "docentes": [
+           "GARCIA, JOSE ANTONIO"
+          ],
           "plazas": [
            "N°215791"
           ]
          },
          {
-          "materia": "CAMPOS, RODRIGO S.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CAMPOS, RODRIGO SILVIO"
+          ],
           "plazas": [
            "N°154667"
           ]
          },
          {
-          "materia": "ARREGUEZ, LUIS A.",
-          "docentes": [],
+          "materia": "HERRERIA",
+          "docentes": [
+           "ARREGUEZ, LUIS ALFREDO"
+          ],
           "plazas": [
            "N°209165"
           ]
@@ -1448,7 +1531,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "ARGÜELLO, MARÍA B."
+           "ARGÜELLO, MARIA BELEN"
           ],
           "plazas": [
            "N°215738"
@@ -1468,7 +1551,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "ARGÜELLO, MARÍA B."
+           "ARGÜELLO, MARIA BELEN"
           ],
           "plazas": [
            "N°215738"
@@ -1488,7 +1571,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "ARGÜELLO, MARÍA B."
+           "ARGÜELLO, MARIA BELEN"
           ],
           "plazas": [
            "N°215738"
@@ -1507,7 +1590,7 @@
    "curso": "1°",
    "division": "3°",
    "ciclo": "BÁSICO",
-   "resolucion": "467/5 (MEd)",
+   "resolucion": "467/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -1528,7 +1611,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "SARAVIA HERRERA, H. D."
+           "SARAVIA HERRERA, HUGO DARIO"
           ],
           "plazas": [
            "N°215734"
@@ -1539,7 +1622,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "DIVARVARO QUIROGA, N."
+           "DIVARVARO QUIROGA, NADIA PRISCILA"
           ],
           "plazas": [
            "N°216101"
@@ -1550,7 +1633,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "DIVARVARO QUIROGA, N."
+           "DIVARVARO QUIROGA, NADIA PRISCILA"
           ],
           "plazas": [
            "N°216102"
@@ -1561,7 +1644,7 @@
          {
           "materia": "FÍSICO QUÍMICA",
           "docentes": [
-           "ROMANO, OLGA E."
+           "ROMANO, OLGA ESTELA"
           ],
           "plazas": [
            "N°215731"
@@ -1572,7 +1655,7 @@
          {
           "materia": "TECNOLOGÍA",
           "docentes": [
-           "SIGONA, JUAN P."
+           "SIGONA, JUAN PABLO"
           ],
           "plazas": [
            "N°215787"
@@ -1588,7 +1671,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "SARAVIA HERRERA, H. D."
+           "SARAVIA HERRERA, HUGO DARIO"
           ],
           "plazas": [
            "N°215734"
@@ -1599,7 +1682,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "DIVARVARO QUIROGA, N."
+           "DIVARVARO QUIROGA, NADIA PRISCILA"
           ],
           "plazas": [
            "N°216101"
@@ -1610,7 +1693,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "DIVARVARO QUIROGA, N."
+           "DIVARVARO QUIROGA, NADIA PRISCILA"
           ],
           "plazas": [
            "N°216102"
@@ -1621,7 +1704,7 @@
          {
           "materia": "FÍSICO QUÍMICA",
           "docentes": [
-           "ROMANO, OLGA E."
+           "ROMANO, OLGA ESTELA"
           ],
           "plazas": [
            "N°215731"
@@ -1632,7 +1715,7 @@
          {
           "materia": "TECNOLOGÍA",
           "docentes": [
-           "SIGONA, JUAN P."
+           "SIGONA, JUAN PABLO"
           ],
           "plazas": [
            "N°215787"
@@ -1648,7 +1731,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "SARAVIA HERRERA, H. D."
+           "SARAVIA HERRERA, HUGO DARIO"
           ],
           "plazas": [
            "N°215734"
@@ -1659,7 +1742,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "DIVARVARO QUIROGA, N."
+           "DIVARVARO QUIROGA, NADIA PRISCILA"
           ],
           "plazas": [
            "N°216101"
@@ -1670,7 +1753,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "MORENO, VALERIA C."
+           "MORENO, VALERIA CARINA"
           ],
           "plazas": [
            "N°215717"
@@ -1681,7 +1764,7 @@
          {
           "materia": "FÍSICO QUÍMICA",
           "docentes": [
-           "ROMANO, OLGA E."
+           "ROMANO, OLGA ESTELA"
           ],
           "plazas": [
            "N°215731"
@@ -1692,10 +1775,10 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "SARAVIA HERRERA, H. D."
+           "SARAVIA HERRERA, HUGO DARIO"
           ],
           "plazas": [
-           "N°208437"
+           "N°215734"
           ]
          }
         ]
@@ -1708,7 +1791,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "DE MINGO, SEBASTIÁN"
+           "DE MINGO, SEBASTIAN"
           ],
           "plazas": [
            "N°215719"
@@ -1719,7 +1802,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "MORENO, VALERIA C."
+           "MORENO, VALERIA CARINA"
           ],
           "plazas": [
            "N°215717"
@@ -1730,7 +1813,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "MORENO, VALERIA C."
+           "MORENO, VALERIA CARINA"
           ],
           "plazas": [
            "N°215717"
@@ -1741,7 +1824,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ROMANO, OLGA E."
+           "ROMANO, OLGA ESTELA"
           ],
           "plazas": [
            "N°272945"
@@ -1752,10 +1835,10 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "CAJAL, GABRIELA S."
+           "CAJAL, GABRIELA SILVINA"
           ],
           "plazas": [
-           "N°215734"
+           "N°208437"
           ]
          }
         ]
@@ -1768,7 +1851,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "DE MINGO, SEBASTIÁN"
+           "DE MINGO, SEBASTIAN"
           ],
           "plazas": [
            "N°215719"
@@ -1779,7 +1862,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "MORENO, VALERIA C."
+           "MORENO, VALERIA CARINA"
           ],
           "plazas": [
            "N°215717"
@@ -1790,7 +1873,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "COSTILLA, HÉCTOR E."
+           "COSTILLA, HECTOR ENRIQUE"
           ],
           "plazas": [
            "N°215722"
@@ -1801,9 +1884,11 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ROMANO, OLGA E."
+           "ROMANO, OLGA ESTELA"
           ],
           "plazas": [
+           "N°215728",
+           "N°272945",
            "N°275728"
           ]
          }
@@ -1812,7 +1897,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "CAJAL, GABRIELA S."
+           "CAJAL, GABRIELA SILVINA"
           ],
           "plazas": [
            "N°208437"
@@ -1828,7 +1913,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "DE MINGO, SEBASTIÁN"
+           "DE MINGO, SEBASTIAN"
           ],
           "plazas": [
            "N°215719"
@@ -1839,7 +1924,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "MORENO, VALERIA C."
+           "MORENO, VALERIA CARINA"
           ],
           "plazas": [
            "N°215717"
@@ -1850,7 +1935,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "COSTILLA, HÉCTOR E."
+           "COSTILLA, HECTOR ENRIQUE"
           ],
           "plazas": [
            "N°215722"
@@ -1861,9 +1946,11 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ROMANO, OLGA E."
+           "ROMANO, OLGA ESTELA"
           ],
           "plazas": [
+           "N°215728",
+           "N°272945",
            "N°275728"
           ]
          }
@@ -1872,7 +1959,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "CAJAL, GABRIELA S."
+           "CAJAL, GABRIELA SILVINA"
           ],
           "plazas": [
            "N°208437"
@@ -1888,7 +1975,7 @@
          {
           "materia": "TECNOLOGÍA",
           "docentes": [
-           "SIGONA, JUAN P."
+           "SIGONA, JUAN PABLO"
           ],
           "plazas": [
            "N°215787"
@@ -1915,138 +2002,43 @@
      ],
      "filas": [
       {
-       "hora": "14.00 14.40",
+       "hora": "14.00 A 16.00",
        "celdas": {
         "LUNES": [],
         "MARTES": [
          {
           "materia": "AJUSTE",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "CARPINTERÍA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "HOJALATERÍA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "AJUSTE",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "CARPINTERÍA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "HOJALATERÍA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "AJUSTE",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "CARPINTERÍA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "HOJALATERÍA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "AJUSTE",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "CARPINTERÍA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "HOJALATERÍA",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "14.40 15.20",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "15.20 16.00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "docentes": [
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "CARPINTERÍA",
+          "docentes": [
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CAMPOS, RODRIGO SILVIO",
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "HOJALATERÍA",
+          "docentes": [
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
@@ -2054,29 +2046,38 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "AJUSTE",
+          "docentes": [
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "CARPINTERÍA",
+          "docentes": [
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CAMPOS, RODRIGO SILVIO",
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "HOJALATERÍA",
+          "docentes": [
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
@@ -2084,29 +2085,38 @@
         ],
         "JUEVES": [
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "AJUSTE",
+          "docentes": [
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "CARPINTERÍA",
+          "docentes": [
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CAMPOS, RODRIGO SILVIO",
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "HOJALATERÍA",
+          "docentes": [
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
@@ -2114,29 +2124,38 @@
         ],
         "VIERNES": [
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "AJUSTE",
+          "docentes": [
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "CARPINTERÍA",
+          "docentes": [
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CAMPOS, RODRIGO SILVIO",
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "HOJALATERÍA",
+          "docentes": [
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
@@ -2145,138 +2164,43 @@
        }
       },
       {
-       "hora": "16.20 17.00",
+       "hora": "16.20 A 18.20",
        "celdas": {
         "LUNES": [],
         "MARTES": [
          {
           "materia": "AJUSTE",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "CARPINTERÍA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "HOJALATERÍA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "AJUSTE",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "CARPINTERÍA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "HOJALATERÍA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "AJUSTE",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "CARPINTERÍA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "HOJALATERÍA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "AJUSTE",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "CARPINTERÍA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "HOJALATERÍA",
-          "docentes": [],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "17.00 17.40",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "17.40 18.20",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "docentes": [
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "CARPINTERÍA",
+          "docentes": [
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CAMPOS, RODRIGO SILVIO",
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "HOJALATERÍA",
+          "docentes": [
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
@@ -2284,29 +2208,38 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "AJUSTE",
+          "docentes": [
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "CARPINTERÍA",
+          "docentes": [
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CAMPOS, RODRIGO SILVIO",
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "HOJALATERÍA",
+          "docentes": [
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
@@ -2314,29 +2247,38 @@
         ],
         "JUEVES": [
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "AJUSTE",
+          "docentes": [
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "CARPINTERÍA",
+          "docentes": [
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CAMPOS, RODRIGO SILVIO",
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "HOJALATERÍA",
+          "docentes": [
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
@@ -2344,29 +2286,38 @@
         ],
         "VIERNES": [
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "AJUSTE",
+          "docentes": [
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "CARPINTERÍA",
+          "docentes": [
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CAMPOS, RODRIGO SILVIO",
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "HOJALATERÍA",
+          "docentes": [
+           "PÉREZ, ISIDRO A"
+          ],
           "plazas": [
            "N°215790"
           ]
@@ -2394,7 +2345,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "AMAYA, SERGIO E."
+           "AMAYA, SERGIO EDUARDO"
           ],
           "plazas": [
            "N°215739"
@@ -2414,7 +2365,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "AMAYA, SERGIO E."
+           "AMAYA, SERGIO EDUARDO"
           ],
           "plazas": [
            "N°215739"
@@ -2434,7 +2385,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "AMAYA, SERGIO E."
+           "AMAYA, SERGIO EDUARDO"
           ],
           "plazas": [
            "N°215739"
@@ -2456,7 +2407,7 @@
    "curso": "2°",
    "division": "1°",
    "ciclo": "BÁSICO",
-   "resolucion": "467/5 (MEd)",
+   "resolucion": "467/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -2477,7 +2428,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "DE HARO, EVA C."
+           "DE HARO HOHL, EVA CAROLINA"
           ],
           "plazas": [
            "N°176767"
@@ -2488,7 +2439,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "ARRABAL, CECILIA C."
+           "ARRABAL, CECILIA CELESTE"
           ],
           "plazas": [
            "N°178099"
@@ -2499,7 +2450,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "ROMANO, OLGA E."
+           "ROMANO, OLGA ESTELA"
           ],
           "plazas": [
            "N°215729"
@@ -2510,7 +2461,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "ROBLES, ANA M."
+           "ROBLES, ANA MARIA"
           ],
           "plazas": [
            "N°208415"
@@ -2521,7 +2472,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "ROMANO, OLGA E."
+           "ROMANO, OLGA ESTELA"
           ],
           "plazas": [
            "N°215729"
@@ -2537,7 +2488,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "DE HARO, EVA C."
+           "DE HARO HOHL, EVA CAROLINA"
           ],
           "plazas": [
            "N°176767"
@@ -2548,7 +2499,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "ARRABAL, CECILIA C."
+           "ARRABAL, CECILIA CELESTE"
           ],
           "plazas": [
            "N°178099"
@@ -2559,7 +2510,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "ROMANO, OLGA E."
+           "ROMANO, OLGA ESTELA"
           ],
           "plazas": [
            "N°215729"
@@ -2570,7 +2521,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "ROBLES, ANA M."
+           "ROBLES, ANA MARIA"
           ],
           "plazas": [
            "N°208415"
@@ -2581,7 +2532,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "ROMANO, OLGA E."
+           "ROMANO, OLGA ESTELA"
           ],
           "plazas": [
            "N°235839"
@@ -2597,7 +2548,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "AGÜERO, CÉSAR R."
+           "AGÜERO, CESAR ROLANDO"
           ],
           "plazas": [
            "N°192429"
@@ -2608,7 +2559,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "DE HARO, EVA C."
+           "DE HARO HOHL, EVA CAROLINA"
           ],
           "plazas": [
            "N°176767"
@@ -2619,7 +2570,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ROVARINI, MARÍA L."
+           "ROVARINI, MARIA LAURA"
           ],
           "plazas": [
            "N°139684"
@@ -2630,7 +2581,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ROVARINI, MARÍA L."
+           "ROVARINI, MARIA LAURA"
           ],
           "plazas": [
            "N°139684"
@@ -2641,7 +2592,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "MORENO, VALERIA C."
+           "MORENO, VALERIA CARINA"
           ],
           "plazas": [
            "N°179869"
@@ -2657,7 +2608,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "AGÜERO, CÉSAR R."
+           "AGÜERO, CESAR ROLANDO"
           ],
           "plazas": [
            "N°192429"
@@ -2668,7 +2619,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "DE HARO, EVA C."
+           "DE HARO HOHL, EVA CAROLINA"
           ],
           "plazas": [
            "N°176767"
@@ -2679,7 +2630,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ROVARINI, MARÍA L."
+           "ROVARINI, MARIA LAURA"
           ],
           "plazas": [
            "N°139684"
@@ -2690,7 +2641,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "DE HARO, EVA C."
+           "DE HARO HOHL, EVA CAROLINA"
           ],
           "plazas": [
            "N°176767"
@@ -2701,7 +2652,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "MORENO, VALERIA C."
+           "MORENO, VALERIA CARINA"
           ],
           "plazas": [
            "N°179869"
@@ -2717,7 +2668,7 @@
          {
           "materia": "EDUCACIÓN ÉTICA Y CIUDADANA",
           "docentes": [
-           "MONTES, NOEMÍ DEL V."
+           "ROSSELL, ANDREA VALERIA"
           ],
           "plazas": [
            "N°176759"
@@ -2728,7 +2679,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "MORENO, VALERIA C."
+           "MORENO, VALERIA CARINA"
           ],
           "plazas": [
            "N°179869"
@@ -2739,7 +2690,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ROMANO, OLGA E."
+           "ROMANO, OLGA ESTELA"
           ],
           "plazas": [
            "N°176854"
@@ -2750,7 +2701,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "AGÜERO, CÉSAR R."
+           "AGÜERO, CESAR ROLANDO"
           ],
           "plazas": [
            "N°192429"
@@ -2761,7 +2712,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "MARTÍNEZ, CLARA A."
+           "MARTINEZ, CLARA ADELAIDA"
           ],
           "plazas": [
            "N°214580"
@@ -2777,7 +2728,7 @@
          {
           "materia": "EDUCACIÓN ÉTICA Y CIUDADANA",
           "docentes": [
-           "MONTES, NOEMÍ DEL V."
+           "ROSSELL, ANDREA VALERIA"
           ],
           "plazas": [
            "N°176759"
@@ -2788,7 +2739,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "MORENO, VALERIA C."
+           "MORENO, VALERIA CARINA"
           ],
           "plazas": [
            "N°179869"
@@ -2799,7 +2750,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ROMANO, OLGA E."
+           "ROMANO, OLGA ESTELA"
           ],
           "plazas": [
            "N°176854"
@@ -2810,7 +2761,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "AGÜERO, CÉSAR R."
+           "AGÜERO, CESAR ROLANDO"
           ],
           "plazas": [
            "N°230796"
@@ -2821,7 +2772,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "MARTÍNEZ, CLARA A."
+           "MARTINEZ, CLARA ADELAIDA"
           ],
           "plazas": [
            "N°214580"
@@ -2837,7 +2788,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "ARRABAL, CECILIA C."
+           "ARRABAL, CECILIA CELESTE"
           ],
           "plazas": [
            "N°178099"
@@ -2849,7 +2800,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "MORENO, VALERIA C."
+           "MORENO, VALERIA CARINA"
           ],
           "plazas": [
            "N°179869"
@@ -2860,7 +2811,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ROMANO, OLGA E."
+           "ROMANO, OLGA ESTELA"
           ],
           "plazas": [
            "N°176854"
@@ -2896,13 +2847,21 @@
          },
          {
           "materia": "ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "NIEVA, JUAN ISMAEL"
+          ],
+          "plazas": [
+           "N°176851"
+          ]
          },
          {
           "materia": "HERRERÍA",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "ARREGUEZ, LUIS ALFREDO"
+          ],
+          "plazas": [
+           "N°209165"
+          ]
          },
          {
           "materia": "INFORMÁTICA",
@@ -2918,13 +2877,21 @@
          },
          {
           "materia": "ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "NIEVA, JUAN ISMAEL"
+          ],
+          "plazas": [
+           "N°176851"
+          ]
          },
          {
           "materia": "HERRERÍA",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "ARREGUEZ, LUIS ALFREDO"
+          ],
+          "plazas": [
+           "N°209165"
+          ]
          },
          {
           "materia": "INFORMÁTICA",
@@ -2952,29 +2919,37 @@
         "MARTES": [],
         "MIERCOLES": [
          {
-          "materia": "COLLANTE, EVANGELINA G.",
-          "docentes": [],
+          "materia": "CARPINTERIA",
+          "docentes": [
+           "GARCIA, JOSE ANTONIO"
+          ],
           "plazas": [
            "N°215791"
           ]
          },
          {
-          "materia": "MEZÓN, MARCO A.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "NIEVA, JUAN ISMAEL"
+          ],
           "plazas": [
            "N°176851"
           ]
          },
          {
-          "materia": "ARREGUEZ, LUIS A.",
-          "docentes": [],
+          "materia": "HERRERIA",
+          "docentes": [
+           "ARREGUEZ, LUIS ALFREDO"
+          ],
           "plazas": [
            "N°209165"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "OPCION INSTITUCIONAL I",
+          "docentes": [
+           "PEREZ, ISIDRO ALFREDO"
+          ],
           "plazas": [
            "N°142439"
           ]
@@ -2982,29 +2957,37 @@
         ],
         "JUEVES": [
          {
-          "materia": "COLLANTE, EVANGELINA G.",
-          "docentes": [],
+          "materia": "CARPINTERIA",
+          "docentes": [
+           "GARCIA, JOSE ANTONIO"
+          ],
           "plazas": [
            "N°215791"
           ]
          },
          {
-          "materia": "MEZÓN, MARCO A.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "NIEVA, JUAN ISMAEL"
+          ],
           "plazas": [
            "N°176851"
           ]
          },
          {
-          "materia": "ARREGUEZ, LUIS A.",
-          "docentes": [],
+          "materia": "HERRERIA",
+          "docentes": [
+           "ARREGUEZ, LUIS ALFREDO"
+          ],
           "plazas": [
            "N°209165"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "OPCION INSTITUCIONAL I",
+          "docentes": [
+           "PEREZ, ISIDRO ALFREDO"
+          ],
           "plazas": [
            "N°142439"
           ]
@@ -3026,13 +3009,21 @@
          },
          {
           "materia": "ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "NIEVA, JUAN ISMAEL"
+          ],
+          "plazas": [
+           "N°176851"
+          ]
          },
          {
           "materia": "HERRERÍA",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "ARREGUEZ, LUIS ALFREDO"
+          ],
+          "plazas": [
+           "N°209165"
+          ]
          },
          {
           "materia": "INFORMÁTICA",
@@ -3048,13 +3039,21 @@
          },
          {
           "materia": "ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "NIEVA, JUAN ISMAEL"
+          ],
+          "plazas": [
+           "N°176851"
+          ]
          },
          {
           "materia": "HERRERÍA",
-          "docentes": [],
-          "plazas": []
+          "docentes": [
+           "ARREGUEZ, LUIS ALFREDO"
+          ],
+          "plazas": [
+           "N°209165"
+          ]
          },
          {
           "materia": "INFORMÁTICA",
@@ -3082,29 +3081,37 @@
         "MARTES": [],
         "MIERCOLES": [
          {
-          "materia": "COLLANTE, EVANGELINA G.",
-          "docentes": [],
+          "materia": "CARPINTERIA",
+          "docentes": [
+           "GARCIA, JOSE ANTONIO"
+          ],
           "plazas": [
            "N°215791"
           ]
          },
          {
-          "materia": "MEZÓN, MARCO A.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "NIEVA, JUAN ISMAEL"
+          ],
           "plazas": [
            "N°176851"
           ]
          },
          {
-          "materia": "ARREGUEZ, LUIS A.",
-          "docentes": [],
+          "materia": "HERRERIA",
+          "docentes": [
+           "ARREGUEZ, LUIS ALFREDO"
+          ],
           "plazas": [
            "N°209165"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "OPCION INSTITUCIONAL I",
+          "docentes": [
+           "PEREZ, ISIDRO ALFREDO"
+          ],
           "plazas": [
            "N°142439"
           ]
@@ -3112,29 +3119,37 @@
         ],
         "JUEVES": [
          {
-          "materia": "COLLANTE, EVANGELINA G.",
-          "docentes": [],
+          "materia": "CARPINTERIA",
+          "docentes": [
+           "GARCIA, JOSE ANTONIO"
+          ],
           "plazas": [
            "N°215791"
           ]
          },
          {
-          "materia": "MEZÓN, MARCO A.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "NIEVA, JUAN ISMAEL"
+          ],
           "plazas": [
            "N°176851"
           ]
          },
          {
-          "materia": "ARREGUEZ, LUIS A.",
-          "docentes": [],
+          "materia": "HERRERIA",
+          "docentes": [
+           "ARREGUEZ, LUIS ALFREDO"
+          ],
           "plazas": [
            "N°209165"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "OPCION INSTITUCIONAL I",
+          "docentes": [
+           "PEREZ, ISIDRO ALFREDO"
+          ],
           "plazas": [
            "N°142439"
           ]
@@ -3167,7 +3182,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "AMAYA, SERGIO E."
+           "AMAYA, SERGIO EDUARDO"
           ],
           "plazas": [
            "N°176859"
@@ -3187,7 +3202,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "AMAYA, SERGIO E."
+           "AMAYA, SERGIO EDUARDO"
           ],
           "plazas": [
            "N°176859"
@@ -3207,7 +3222,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "AMAYA, SERGIO E."
+           "AMAYA, SERGIO EDUARDO"
           ],
           "plazas": [
            "N°176859"
@@ -3225,7 +3240,7 @@
    "curso": "2°",
    "division": "2°",
    "ciclo": "BÁSICO",
-   "resolucion": "467/5 (MEd)",
+   "resolucion": "467/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -3246,7 +3261,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "MIGUELES, ALEJANDRO L."
+           "MIGUELES, ALEJANDRO LUIS"
           ],
           "plazas": [
            "N°221929"
@@ -3257,7 +3272,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "COSTILLA, HÉCTOR E."
+           "COSTILLA, HECTOR ENRIQUE"
           ],
           "plazas": [
            "N°221930"
@@ -3268,7 +3283,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "YANICELLI, SARA L."
+           "YANICELLI, SARA LIA"
           ],
           "plazas": [
            "N°221928"
@@ -3279,7 +3294,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "ROSSELL, ANDREA V."
+           "ROSSELL, ANDREA VALERIA"
           ],
           "plazas": [
            "N°221931"
@@ -3290,7 +3305,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "GONZÁLEZ, SANDRA A."
+           "GONZALEZ, SANDRA ANALIA"
           ],
           "plazas": [
            "N°221935"
@@ -3306,7 +3321,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "MIGUELES, ALEJANDRO L."
+           "MIGUELES, ALEJANDRO LUIS"
           ],
           "plazas": [
            "N°221929"
@@ -3317,7 +3332,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "COSTILLA, HÉCTOR E."
+           "COSTILLA, HECTOR ENRIQUE"
           ],
           "plazas": [
            "N°221930"
@@ -3328,7 +3343,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "YANICELLI, SARA L."
+           "YANICELLI, SARA LIA"
           ],
           "plazas": [
            "N°221928"
@@ -3339,7 +3354,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "ROSSELL, ANDREA V."
+           "ROSSELL, ANDREA VALERIA"
           ],
           "plazas": [
            "N°221931"
@@ -3350,7 +3365,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "GONZÁLEZ, SANDRA A."
+           "GONZALEZ, SANDRA ANALIA"
           ],
           "plazas": [
            "N°221935"
@@ -3366,7 +3381,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "SÁNCHEZ, MONICA C."
+           "SANCHEZ, MONICA CECILIA"
           ],
           "plazas": [
            "N°221934"
@@ -3377,7 +3392,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "YANICELLI, SARA L."
+           "YANICELLI, SARA LIA"
           ],
           "plazas": [
            "N°221928"
@@ -3388,7 +3403,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "YANICELLI, SARA L."
+           "YANICELLI, SARA LIA"
           ],
           "plazas": [
            "N°221928"
@@ -3399,7 +3414,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "MIGUELES, ALEJANDRO L."
+           "MIGUELES, ALEJANDRO LUIS"
           ],
           "plazas": [
            "N°221929"
@@ -3410,7 +3425,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "GUTIÉRREZ, ALBERTO M."
+           "GUTIERREZ, ALBERTO MARCELO"
           ],
           "plazas": [
            "N°221936"
@@ -3426,7 +3441,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "SÁNCHEZ, MONICA C."
+           "SANCHEZ, MONICA CECILIA"
           ],
           "plazas": [
            "N°221934"
@@ -3437,7 +3452,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "YANICELLI, SARA L."
+           "YANICELLI, SARA LIA"
           ],
           "plazas": [
            "N°221928"
@@ -3448,7 +3463,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "ROSSELL, ANDREA V."
+           "ROSSELL, ANDREA VALERIA"
           ],
           "plazas": [
            "N°221931"
@@ -3459,7 +3474,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "GONZÁLEZ, SANDRA A."
+           "GONZALEZ, SANDRA ANALIA"
           ],
           "plazas": [
            "N°221935"
@@ -3470,7 +3485,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "GUTIÉRREZ, ALBERTO M."
+           "GUTIERREZ, ALBERTO MARCELO"
           ],
           "plazas": [
            "N°221936"
@@ -3486,7 +3501,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "SÁNCHEZ, MONICA C."
+           "SANCHEZ, MONICA CECILIA"
           ],
           "plazas": [
            "N°221934"
@@ -3497,7 +3512,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "SARAVIA HERRERA, DARIO"
+           "SARAVIA HERRERA, HUGO DARIO"
           ],
           "plazas": [
            "N°221938"
@@ -3508,7 +3523,7 @@
          {
           "materia": "EDUCACIÓN ÉTICA Y CIUDADANA",
           "docentes": [
-           "ROSSELL, ANDREA V."
+           "ROSSELL, ANDREA VALERIA"
           ],
           "plazas": [
            "N°221933"
@@ -3519,7 +3534,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "ODOVICH, OSVALDO R."
+           "ODOVICH, OSVALDO RAMON"
           ],
           "plazas": [
            "N°221937"
@@ -3530,7 +3545,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "SÁNCHEZ, MONICA C."
+           "SANCHEZ, MONICA CECILIA"
           ],
           "plazas": [
            "N°221934"
@@ -3546,7 +3561,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "GUTIÉRREZ, ALBERTO M."
+           "GUTIERREZ, ALBERTO MARCELO"
           ],
           "plazas": [
            "N°221936"
@@ -3557,7 +3572,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "SARAVIA HERRERA, DARIO"
+           "SARAVIA HERRERA, HUGO DARIO"
           ],
           "plazas": [
            "N°221938"
@@ -3568,7 +3583,7 @@
          {
           "materia": "EDUCACIÓN ÉTICA Y CIUDADANA",
           "docentes": [
-           "ROSSELL, ANDREA V."
+           "ROSSELL, ANDREA VALERIA"
           ],
           "plazas": [
            "N°221933"
@@ -3579,7 +3594,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "ODOVICH, OSVALDO R."
+           "ODOVICH, OSVALDO RAMON"
           ],
           "plazas": [
            "N°221937"
@@ -3590,7 +3605,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "SÁNCHEZ, MONICA C."
+           "SANCHEZ, MONICA CECILIA"
           ],
           "plazas": [
            "N°221934"
@@ -3606,7 +3621,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "GUTIÉRREZ, ALBERTO M."
+           "GUTIERREZ, ALBERTO MARCELO"
           ],
           "plazas": [
            "N°221936"
@@ -3617,7 +3632,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "SARAVIA HERRERA, DARIO"
+           "SARAVIA HERRERA, HUGO DARIO"
           ],
           "plazas": [
            "N°221938"
@@ -3628,7 +3643,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "SARAVIA HERRERA, DARIO"
+           "SARAVIA HERRERA, HUGO DARIO"
           ],
           "plazas": [
            "N°221938"
@@ -3721,29 +3736,37 @@
         "MARTES": [],
         "MIERCOLES": [
          {
-          "materia": "COLLANTE, EVANGELINA G.",
-          "docentes": [],
+          "materia": "CARPINTERIA",
+          "docentes": [
+           "GARCIA, JOSE ANTONIO"
+          ],
           "plazas": [
            "N°215791"
           ]
          },
          {
-          "materia": "MEZÓN, MARCO A.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "NIEVA, JUAN ISMAEL"
+          ],
           "plazas": [
            "N°176851"
           ]
          },
          {
-          "materia": "ARREGUEZ, LUIS A.",
-          "docentes": [],
+          "materia": "HERRERIA",
+          "docentes": [
+           "ARREGUEZ, LUIS ALFREDO"
+          ],
           "plazas": [
            "N°209165"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "OPCION INSTITUCIONAL I",
+          "docentes": [
+           "PEREZ, ISIDRO ALFREDO"
+          ],
           "plazas": [
            "N°142439"
           ]
@@ -3751,29 +3774,37 @@
         ],
         "JUEVES": [
          {
-          "materia": "COLLANTE, EVANGELINA G.",
-          "docentes": [],
+          "materia": "CARPINTERIA",
+          "docentes": [
+           "GARCIA, JOSE ANTONIO"
+          ],
           "plazas": [
            "N°215791"
           ]
          },
          {
-          "materia": "MEZÓN, MARCO A.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "NIEVA, JUAN ISMAEL"
+          ],
           "plazas": [
            "N°176851"
           ]
          },
          {
-          "materia": "ARREGUEZ, LUIS A.",
-          "docentes": [],
+          "materia": "HERRERIA",
+          "docentes": [
+           "ARREGUEZ, LUIS ALFREDO"
+          ],
           "plazas": [
            "N°209165"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "OPCION INSTITUCIONAL I",
+          "docentes": [
+           "PEREZ, ISIDRO ALFREDO"
+          ],
           "plazas": [
            "N°142439"
           ]
@@ -3851,29 +3882,37 @@
         "MARTES": [],
         "MIERCOLES": [
          {
-          "materia": "COLLANTE, EVANGELINA G.",
-          "docentes": [],
+          "materia": "CARPINTERIA",
+          "docentes": [
+           "GARCIA, JOSE ANTONIO"
+          ],
           "plazas": [
            "N°215791"
           ]
          },
          {
-          "materia": "MEZÓN, MARCO A.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "NIEVA, JUAN ISMAEL"
+          ],
           "plazas": [
            "N°176851"
           ]
          },
          {
-          "materia": "ARREGUEZ, LUIS A.",
-          "docentes": [],
+          "materia": "HERRERIA",
+          "docentes": [
+           "ARREGUEZ, LUIS ALFREDO"
+          ],
           "plazas": [
            "N°209165"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "OPCION INSTITUCIONAL I",
+          "docentes": [
+           "PEREZ, ISIDRO ALFREDO"
+          ],
           "plazas": [
            "N°142439"
           ]
@@ -3881,29 +3920,37 @@
         ],
         "JUEVES": [
          {
-          "materia": "COLLANTE, EVANGELINA G.",
-          "docentes": [],
+          "materia": "CARPINTERIA",
+          "docentes": [
+           "GARCIA, JOSE ANTONIO"
+          ],
           "plazas": [
            "N°215791"
           ]
          },
          {
-          "materia": "MEZÓN, MARCO A.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "NIEVA, JUAN ISMAEL"
+          ],
           "plazas": [
            "N°176851"
           ]
          },
          {
-          "materia": "ARREGUEZ, LUIS A.",
-          "docentes": [],
+          "materia": "HERRERIA",
+          "docentes": [
+           "ARREGUEZ, LUIS ALFREDO"
+          ],
           "plazas": [
            "N°209165"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "OPCION INSTITUCIONAL I",
+          "docentes": [
+           "PEREZ, ISIDRO ALFREDO"
+          ],
           "plazas": [
            "N°142439"
           ]
@@ -3932,7 +3979,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "ANDRADA, LUIS F."
+           "ANDRADA, LUIS FERNANDO"
           ],
           "plazas": [
            "N°221932"
@@ -3952,7 +3999,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "ANDRADA, LUIS F."
+           "ANDRADA, LUIS FERNANDO"
           ],
           "plazas": [
            "N°221932"
@@ -3972,7 +4019,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "ANDRADA, LUIS F."
+           "ANDRADA, LUIS FERNANDO"
           ],
           "plazas": [
            "N°221932"
@@ -3994,7 +4041,7 @@
    "curso": "3°",
    "division": "1°",
    "ciclo": "BÁSICO",
-   "resolucion": "467/5 (MEd)",
+   "resolucion": "467/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -4015,7 +4062,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ROVARINI, MARÍA L."
+           "ROVARINI, MARIA LAURA"
           ],
           "plazas": [
            "N°139685"
@@ -4026,7 +4073,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "DE HARO, EVA C."
+           "DE HARO HOHL, EVA CAROLINA"
           ],
           "plazas": [
            "N°237740"
@@ -4037,7 +4084,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "SÁNCHEZ, MALVINA S."
+           "SANCHEZ, MALVINA SOLEDAD"
           ],
           "plazas": [
            "N°208420"
@@ -4048,7 +4095,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ROVARINI, MARÍA L."
+           "ROVARINI, MARIA LAURA"
           ],
           "plazas": [
            "N°139685"
@@ -4059,7 +4106,8 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "GUTIÉRREZ, ALBERTO M."
+           "OLIVAREZ, ENRIQUE ANTONIO",
+           "GUTIÉRREZ, ALBERTO M"
           ],
           "plazas": [
            "N°214581"
@@ -4075,7 +4123,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ROVARINI, MARÍA L."
+           "ROVARINI, MARIA LAURA"
           ],
           "plazas": [
            "N°139685"
@@ -4086,7 +4134,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "DE HARO, EVA C."
+           "DE HARO HOHL, EVA CAROLINA"
           ],
           "plazas": [
            "N°237740"
@@ -4097,7 +4145,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "SÁNCHEZ, MALVINA S."
+           "SANCHEZ, MALVINA SOLEDAD"
           ],
           "plazas": [
            "N°208420"
@@ -4108,7 +4156,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "AGÜERO, CÉSAR R."
+           "AGÜERO, CESAR ROLANDO"
           ],
           "plazas": [
            "N°176755"
@@ -4119,7 +4167,8 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "GUTIÉRREZ, ALBERTO M."
+           "OLIVAREZ, ENRIQUE ANTONIO",
+           "GUTIÉRREZ, ALBERTO M"
           ],
           "plazas": [
            "N°214581"
@@ -4135,7 +4184,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "GONZÁLEZ, VANINA V."
+           "GONZALEZ, VANINA VANESA"
           ],
           "plazas": [
            "N°208419"
@@ -4146,7 +4195,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "MORENO, VALERIA C."
+           "MORENO, VALERIA CARINA"
           ],
           "plazas": [
            "N°230705"
@@ -4157,7 +4206,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "MARTÍNEZ, CLARA A."
+           "MARTINEZ, CLARA ADELAIDA"
           ],
           "plazas": [
            "N°214582"
@@ -4168,7 +4217,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "AGÜERO, CÉSAR R."
+           "AGÜERO, CESAR ROLANDO"
           ],
           "plazas": [
            "N°176755"
@@ -4179,7 +4228,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "MARTÍNEZ, CLARA A."
+           "MARTINEZ, CLARA ADELAIDA"
           ],
           "plazas": [
            "N°214582"
@@ -4195,7 +4244,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "GONZÁLEZ, VANINA V."
+           "GONZALEZ, VANINA VANESA"
           ],
           "plazas": [
            "N°208419"
@@ -4206,7 +4255,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "MORENO, VALERIA C."
+           "MORENO, VALERIA CARINA"
           ],
           "plazas": [
            "N°230705"
@@ -4217,7 +4266,8 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "GUTIÉRREZ, ALBERTO M."
+           "OLIVAREZ, ENRIQUE ANTONIO",
+           "GUTIÉRREZ, ALBERTO M"
           ],
           "plazas": [
            "N°214581"
@@ -4228,7 +4278,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "AGÜERO, CÉSAR R."
+           "AGÜERO, CESAR ROLANDO"
           ],
           "plazas": [
            "N°176755"
@@ -4239,7 +4289,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "MARTÍNEZ, CLARA A."
+           "MARTINEZ, CLARA ADELAIDA"
           ],
           "plazas": [
            "N°214582"
@@ -4255,7 +4305,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "DE HARO, EVA C."
+           "DE HARO HOHL, EVA CAROLINA"
           ],
           "plazas": [
            "N°237740"
@@ -4266,7 +4316,7 @@
          {
           "materia": "EDUCACIÓN ÉTICA Y CIUDADANA",
           "docentes": [
-           "MONTES, NOEMÍ DEL V."
+           "ROSSELL, ANDREA VALERIA"
           ],
           "plazas": [
            "N°176760"
@@ -4277,7 +4327,8 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "GUTIÉRREZ, ALBERTO M."
+           "OLIVAREZ, ENRIQUE ANTONIO",
+           "GUTIÉRREZ, ALBERTO M"
           ],
           "plazas": [
            "N°214581"
@@ -4288,7 +4339,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ROMANO, OLGA E."
+           "ROMANO, OLGA ESTELA"
           ],
           "plazas": [
            "N°235838"
@@ -4299,7 +4350,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "MORENO, VALERIA C."
+           "MORENO, VALERIA CARINA"
           ],
           "plazas": [
            "N°230705"
@@ -4315,7 +4366,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "DE HARO, EVA C."
+           "DE HARO HOHL, EVA CAROLINA"
           ],
           "plazas": [
            "N°237740"
@@ -4326,7 +4377,7 @@
          {
           "materia": "EDUCACIÓN ÉTICA Y CIUDADANA",
           "docentes": [
-           "MONTES, NOEMÍ DEL V."
+           "ROSSELL, ANDREA VALERIA"
           ],
           "plazas": [
            "N°176760"
@@ -4337,7 +4388,8 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "GUTIÉRREZ, ALBERTO M."
+           "OLIVAREZ, ENRIQUE ANTONIO",
+           "GUTIÉRREZ, ALBERTO M"
           ],
           "plazas": [
            "N°214581"
@@ -4348,7 +4400,7 @@
          {
           "materia": "BIOLOGÍA",
           "docentes": [
-           "ROMANO, OLGA E."
+           "ROMANO, OLGA ESTELA"
           ],
           "plazas": [
            "N°235838"
@@ -4359,7 +4411,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "MORENO, VALERIA C."
+           "MORENO, VALERIA CARINA"
           ],
           "plazas": [
            "N°230705"
@@ -4376,7 +4428,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "GONZÁLEZ, VANINA V."
+           "GONZALEZ, VANINA VANESA"
           ],
           "plazas": [
            "N°211307"
@@ -4387,7 +4439,7 @@
          {
           "materia": "DIBUJO TÉCNICO",
           "docentes": [
-           "AGÜERO, CÉSAR R."
+           "AGÜERO, CESAR ROLANDO"
           ],
           "plazas": [
            "N°230797"
@@ -4398,7 +4450,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "SÁNCHEZ, MALVINA S."
+           "SANCHEZ, MALVINA SOLEDAD"
           ],
           "plazas": [
            "N°208420"
@@ -4422,137 +4474,43 @@
      ],
      "filas": [
       {
-       "hora": "14.00 14.40",
+       "hora": "14.00 A 16.00",
        "celdas": {
         "LUNES": [
          {
           "materia": "ELECTRÓNICA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "INFORMÁTICA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ELECTRÓNICA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "INFORMÁTICA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "ELECTRÓNICA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "INFORMÁTICA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ELECTRÓNICA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "INFORMÁTICA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "HARDWARE",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "HARDWARE",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "HARDWARE",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "HARDWARE",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "14.40 15.20",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "15.20 16.00",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "docentes": [
+           "PEREZ, ISIDRO ALFREDO"
+          ],
           "plazas": [
            "N°142439"
           ]
          },
          {
-          "materia": "ROMANO, GRACIELA I.",
-          "docentes": [],
+          "materia": "INFORMÁTICA",
+          "docentes": [
+           "CAUCOTA, DIEGO ARMANDO",
+           "ROMANO, GRACIELA I"
+          ],
           "plazas": [
            "N°215789"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "ELECTRÓNICA",
+          "docentes": [
+           "PEREZ, ISIDRO ALFREDO"
+          ],
           "plazas": [
            "N°142439"
           ]
          },
          {
-          "materia": "ROMANO, GRACIELA I.",
-          "docentes": [],
+          "materia": "INFORMÁTICA",
+          "docentes": [
+           "CAUCOTA, DIEGO ARMANDO",
+           "ROMANO, GRACIELA I"
+          ],
           "plazas": [
            "N°215789"
           ]
@@ -4560,29 +4518,39 @@
         ],
         "MARTES": [
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "ELECTRÓNICA",
+          "docentes": [
+           "PEREZ, ISIDRO ALFREDO"
+          ],
           "plazas": [
            "N°142439"
           ]
          },
          {
-          "materia": "ROMANO, GRACIELA I.",
-          "docentes": [],
+          "materia": "INFORMÁTICA",
+          "docentes": [
+           "CAUCOTA, DIEGO ARMANDO",
+           "ROMANO, GRACIELA I"
+          ],
           "plazas": [
            "N°215789"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "ELECTRÓNICA",
+          "docentes": [
+           "PEREZ, ISIDRO ALFREDO"
+          ],
           "plazas": [
            "N°142439"
           ]
          },
          {
-          "materia": "ROMANO, GRACIELA I.",
-          "docentes": [],
+          "materia": "INFORMÁTICA",
+          "docentes": [
+           "CAUCOTA, DIEGO ARMANDO",
+           "ROMANO, GRACIELA I"
+          ],
           "plazas": [
            "N°215789"
           ]
@@ -4590,29 +4558,37 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "CAMPOS, RODRIGO S.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CAMPOS, RODRIGO SILVIO"
+          ],
           "plazas": [
            "N°154667"
           ]
          },
          {
-          "materia": "ROMANO, GRACIELA I.",
-          "docentes": [],
+          "materia": "HARDWARE",
+          "docentes": [
+           "ROMANO, GRACIELA I"
+          ],
           "plazas": [
            "N°215789"
           ]
          },
          {
-          "materia": "CAMPOS, RODRIGO S.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CAMPOS, RODRIGO SILVIO"
+          ],
           "plazas": [
            "N°154667"
           ]
          },
          {
-          "materia": "ROMANO, GRACIELA I.",
-          "docentes": [],
+          "materia": "HARDWARE",
+          "docentes": [
+           "ROMANO, GRACIELA I"
+          ],
           "plazas": [
            "N°215789"
           ]
@@ -4620,29 +4596,37 @@
         ],
         "JUEVES": [
          {
-          "materia": "CAMPOS, RODRIGO S.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CAMPOS, RODRIGO SILVIO"
+          ],
           "plazas": [
            "N°154667"
           ]
          },
          {
-          "materia": "ROMANO, GRACIELA I.",
-          "docentes": [],
+          "materia": "HARDWARE",
+          "docentes": [
+           "ROMANO, GRACIELA I"
+          ],
           "plazas": [
            "N°215789"
           ]
          },
          {
-          "materia": "CAMPOS, RODRIGO S.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CAMPOS, RODRIGO SILVIO"
+          ],
           "plazas": [
            "N°154667"
           ]
          },
          {
-          "materia": "ROMANO, GRACIELA I.",
-          "docentes": [],
+          "materia": "HARDWARE",
+          "docentes": [
+           "ROMANO, GRACIELA I"
+          ],
           "plazas": [
            "N°215789"
           ]
@@ -4652,137 +4636,43 @@
        }
       },
       {
-       "hora": "16.20 17.00",
+       "hora": "16.20 A 18.20",
        "celdas": {
         "LUNES": [
          {
           "materia": "ELECTRÓNICA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "INFORMÁTICA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ELECTRÓNICA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "INFORMÁTICA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "ELECTRÓNICA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "INFORMÁTICA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ELECTRÓNICA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "INFORMÁTICA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "HARDWARE",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "HARDWARE",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "HARDWARE",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "HARDWARE",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "17.00 17.40",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "17.40 18.20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "docentes": [
+           "PEREZ, ISIDRO ALFREDO"
+          ],
           "plazas": [
            "N°142439"
           ]
          },
          {
-          "materia": "ROMANO, GRACIELA I.",
-          "docentes": [],
+          "materia": "INFORMÁTICA",
+          "docentes": [
+           "CAUCOTA, DIEGO ARMANDO",
+           "ROMANO, GRACIELA I"
+          ],
           "plazas": [
            "N°215789"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "ELECTRÓNICA",
+          "docentes": [
+           "PEREZ, ISIDRO ALFREDO"
+          ],
           "plazas": [
            "N°142439"
           ]
          },
          {
-          "materia": "ROMANO, GRACIELA I.",
-          "docentes": [],
+          "materia": "INFORMÁTICA",
+          "docentes": [
+           "CAUCOTA, DIEGO ARMANDO",
+           "ROMANO, GRACIELA I"
+          ],
           "plazas": [
            "N°215789"
           ]
@@ -4790,29 +4680,39 @@
         ],
         "MARTES": [
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "ELECTRÓNICA",
+          "docentes": [
+           "PEREZ, ISIDRO ALFREDO"
+          ],
           "plazas": [
            "N°142439"
           ]
          },
          {
-          "materia": "ROMANO, GRACIELA I.",
-          "docentes": [],
+          "materia": "INFORMÁTICA",
+          "docentes": [
+           "CAUCOTA, DIEGO ARMANDO",
+           "ROMANO, GRACIELA I"
+          ],
           "plazas": [
            "N°215789"
           ]
          },
          {
-          "materia": "PÉREZ, ISIDRO A.",
-          "docentes": [],
+          "materia": "ELECTRÓNICA",
+          "docentes": [
+           "PEREZ, ISIDRO ALFREDO"
+          ],
           "plazas": [
            "N°142439"
           ]
          },
          {
-          "materia": "ROMANO, GRACIELA I.",
-          "docentes": [],
+          "materia": "INFORMÁTICA",
+          "docentes": [
+           "CAUCOTA, DIEGO ARMANDO",
+           "ROMANO, GRACIELA I"
+          ],
           "plazas": [
            "N°215789"
           ]
@@ -4820,29 +4720,37 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "CAMPOS, RODRIGO S.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CAMPOS, RODRIGO SILVIO"
+          ],
           "plazas": [
            "N°154667"
           ]
          },
          {
-          "materia": "ROMANO, GRACIELA I.",
-          "docentes": [],
+          "materia": "HARDWARE",
+          "docentes": [
+           "ROMANO, GRACIELA I"
+          ],
           "plazas": [
            "N°215789"
           ]
          },
          {
-          "materia": "CAMPOS, RODRIGO S.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CAMPOS, RODRIGO SILVIO"
+          ],
           "plazas": [
            "N°154667"
           ]
          },
          {
-          "materia": "ROMANO, GRACIELA I.",
-          "docentes": [],
+          "materia": "HARDWARE",
+          "docentes": [
+           "ROMANO, GRACIELA I"
+          ],
           "plazas": [
            "N°215789"
           ]
@@ -4850,29 +4758,37 @@
         ],
         "JUEVES": [
          {
-          "materia": "CAMPOS, RODRIGO S.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CAMPOS, RODRIGO SILVIO"
+          ],
           "plazas": [
            "N°154667"
           ]
          },
          {
-          "materia": "ROMANO, GRACIELA I.",
-          "docentes": [],
+          "materia": "HARDWARE",
+          "docentes": [
+           "ROMANO, GRACIELA I"
+          ],
           "plazas": [
            "N°215789"
           ]
          },
          {
-          "materia": "CAMPOS, RODRIGO S.",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CAMPOS, RODRIGO SILVIO"
+          ],
           "plazas": [
            "N°154667"
           ]
          },
          {
-          "materia": "ROMANO, GRACIELA I.",
-          "docentes": [],
+          "materia": "HARDWARE",
+          "docentes": [
+           "ROMANO, GRACIELA I"
+          ],
           "plazas": [
            "N°215789"
           ]
@@ -4905,7 +4821,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "AMAYA, SERGIO E."
+           "AMAYA, SERGIO EDUARDO"
           ],
           "plazas": [
            "N°176863"
@@ -4925,7 +4841,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "AMAYA, SERGIO E."
+           "AMAYA, SERGIO EDUARDO"
           ],
           "plazas": [
            "N°176863"
@@ -4945,7 +4861,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "AMAYA, SERGIO E."
+           "AMAYA, SERGIO EDUARDO"
           ],
           "plazas": [
            "N°176863"
@@ -4963,7 +4879,7 @@
    "curso": "4°",
    "division": "1°",
    "ciclo": "SUPERIOR",
-   "resolucion": "467/5 (MEd)",
+   "resolucion": "467/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -4984,7 +4900,7 @@
          {
           "materia": "ELECTRÓNICA I",
           "docentes": [
-           "ZELAYA, MARIO A."
+           "ZELAYA, MARIO ANTONIO"
           ],
           "plazas": [
            "N°231111"
@@ -4995,7 +4911,8 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "GUTIÉRREZ, ALBERTO M."
+           "OLIVAREZ, ENRIQUE ANTONIO",
+           "GUTIÉRREZ, ALBERTO M"
           ],
           "plazas": [
            "N°197292"
@@ -5006,7 +4923,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "MARTÍNEZ, CLARA A."
+           "MARTINEZ, CLARA ADELAIDA"
           ],
           "plazas": [
            "N°226965"
@@ -5017,7 +4934,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "ARÍAS, LUCÍA R."
+           "ARIAS, LUCIA RAQUEL"
           ],
           "plazas": [
            "N°276401"
@@ -5028,7 +4945,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "ARÍAS, LUCÍA R."
+           "ARIAS, LUCIA RAQUEL"
           ],
           "plazas": [
            "N°276401"
@@ -5044,7 +4961,7 @@
          {
           "materia": "ELECTRÓNICA I",
           "docentes": [
-           "ZELAYA, MARIO A."
+           "ZELAYA, MARIO ANTONIO"
           ],
           "plazas": [
            "N°231111"
@@ -5055,7 +4972,8 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "GUTIÉRREZ, ALBERTO M."
+           "OLIVAREZ, ENRIQUE ANTONIO",
+           "GUTIÉRREZ, ALBERTO M"
           ],
           "plazas": [
            "N°197292"
@@ -5066,7 +4984,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "MARTÍNEZ, CLARA A."
+           "MARTINEZ, CLARA ADELAIDA"
           ],
           "plazas": [
            "N°226965"
@@ -5077,7 +4995,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "ARÍAS, LUCÍA R."
+           "ARIAS, LUCIA RAQUEL"
           ],
           "plazas": [
            "N°276401"
@@ -5088,7 +5006,7 @@
          {
           "materia": "MATEMÁTICA",
           "docentes": [
-           "ARÍAS, LUCÍA R."
+           "ARIAS, LUCIA RAQUEL"
           ],
           "plazas": [
            "N°276401"
@@ -5104,7 +5022,8 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "GUTIÉRREZ, ALBERTO M."
+           "OLIVAREZ, ENRIQUE ANTONIO",
+           "GUTIÉRREZ, ALBERTO M"
           ],
           "plazas": [
            "N°197292"
@@ -5115,7 +5034,8 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "GUTIÉRREZ, ALBERTO M."
+           "OLIVAREZ, ENRIQUE ANTONIO",
+           "GUTIÉRREZ, ALBERTO M"
           ],
           "plazas": [
            "N°197292"
@@ -5126,7 +5046,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "SÁNCHEZ, MALVINA S."
+           "SANCHEZ, MALVINA SOLEDAD"
           ],
           "plazas": [
            "N°189020"
@@ -5137,7 +5057,7 @@
          {
           "materia": "ELECTRÓNICA I",
           "docentes": [
-           "ZELAYA, MARIO A."
+           "ZELAYA, MARIO ANTONIO"
           ],
           "plazas": [
            "N°231111"
@@ -5148,7 +5068,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "SALINAS, JORGELINA F."
+           "SALINAS, JORGELINA FERNANDA"
           ],
           "plazas": [
            "N°147295"
@@ -5164,7 +5084,8 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "GUTIÉRREZ, ALBERTO M."
+           "OLIVAREZ, ENRIQUE ANTONIO",
+           "GUTIÉRREZ, ALBERTO M"
           ],
           "plazas": [
            "N°197292"
@@ -5175,7 +5096,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "MARTÍNEZ, CLARA A."
+           "MARTINEZ, CLARA ADELAIDA"
           ],
           "plazas": [
            "N°226965"
@@ -5186,7 +5107,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "SÁNCHEZ, MALVINA S."
+           "SANCHEZ, MALVINA SOLEDAD"
           ],
           "plazas": [
            "N°189020"
@@ -5197,7 +5118,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "SÁNCHEZ, MALVINA S."
+           "SANCHEZ, MALVINA SOLEDAD"
           ],
           "plazas": [
            "N°189020"
@@ -5208,7 +5129,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "SALINAS, JORGELINA F."
+           "SALINAS, JORGELINA FERNANDA"
           ],
           "plazas": [
            "N°147295"
@@ -5224,7 +5145,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ROVARINI, MARÍA L."
+           "ROVARINI, MARIA LAURA"
           ],
           "plazas": [
            "N°208429"
@@ -5235,7 +5156,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "MARTÍNEZ, CLARA A."
+           "MARTINEZ, CLARA ADELAIDA"
           ],
           "plazas": [
            "N°226965"
@@ -5244,9 +5165,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
+          "materia": "TECNOLOGIAS DE LA INFORMACION Y LA COMUNICACION",
           "docentes": [
-           "AGÜERO, CÉSAR R."
+           "AGÜERO, CESAR ROLANDO"
           ],
           "plazas": [
            "N°176893"
@@ -5257,7 +5178,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ROVARINI, MARÍA L."
+           "ROVARINI, MARIA LAURA"
           ],
           "plazas": [
            "N°208429"
@@ -5268,7 +5189,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "SALINAS, JORGELINA F."
+           "SALINAS, JORGELINA FERNANDA"
           ],
           "plazas": [
            "N°147295"
@@ -5284,7 +5205,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ROVARINI, MARÍA L."
+           "ROVARINI, MARIA LAURA"
           ],
           "plazas": [
            "N°208429"
@@ -5295,7 +5216,7 @@
          {
           "materia": "INTRODUCCIÓN A LA PROGRAMACIÓN",
           "docentes": [
-           "TESEYRA, GABRIELA S."
+           "TESEYRA, GABRIELA SOLEDAD"
           ],
           "plazas": [
            "N°207303"
@@ -5304,9 +5225,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
+          "materia": "TECNOLOGIAS DE LA INFORMACION Y LA COMUNICACION",
           "docentes": [
-           "AGÜERO, CÉSAR R."
+           "AGÜERO, CESAR ROLANDO"
           ],
           "plazas": [
            "N°176890"
@@ -5317,7 +5238,7 @@
          {
           "materia": "INTRODUCCIÓN A LA PROGRAMACIÓN",
           "docentes": [
-           "TESEYRA, GABRIELA S."
+           "TESEYRA, GABRIELA SOLEDAD"
           ],
           "plazas": [
            "N°207303"
@@ -5326,9 +5247,9 @@
         ],
         "VIERNES": [
          {
-          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
+          "materia": "TECNOLOGIAS DE LA INFORMACION Y LA COMUNICACION",
           "docentes": [
-           "AGÜERO, CÉSAR R."
+           "AGÜERO, CESAR ROLANDO"
           ],
           "plazas": [
            "N°230792"
@@ -5345,7 +5266,7 @@
          {
           "materia": "INTRODUCCIÓN A LA PROGRAMACIÓN",
           "docentes": [
-           "TESEYRA, GABRIELA S."
+           "TESEYRA, GABRIELA SOLEDAD"
           ],
           "plazas": [
            "N°207303"
@@ -5357,7 +5278,7 @@
          {
           "materia": "INTRODUCCIÓN A LA PROGRAMACIÓN",
           "docentes": [
-           "TESEYRA, GABRIELA S."
+           "TESEYRA, GABRIELA SOLEDAD"
           ],
           "plazas": [
            "N°207303"
@@ -5366,9 +5287,9 @@
         ],
         "VIERNES": [
          {
-          "materia": "TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN",
+          "materia": "TECNOLOGIAS DE LA INFORMACION Y LA COMUNICACION",
           "docentes": [
-           "AGÜERO, CÉSAR R."
+           "AGÜERO, CESAR ROLANDO"
           ],
           "plazas": [
            "N°208465"
@@ -5391,115 +5312,61 @@
      ],
      "filas": [
       {
-       "hora": "14.00 14.40",
+       "hora": "14.00 A 16.00",
        "celdas": {
         "LUNES": [
          {
-          "materia": "INSTALACIÓN BÁSICA",
+          "materia": "INSTALACIÓN BÁSICA DE COMPUTADORAS",
           "docentes": [
-           "DE COMPUTADORAS"
+           "AGÜERO, CESAR ROLANDO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°345256"
+          ]
          },
          {
-          "materia": "INSTALACIÓN Y",
+          "materia": "INSTALACIÓN Y CONFIGURACIÓN DE SOFTWARE Y SISTEMA OPERATIVA",
           "docentes": [
-           "CONFIGURACIÓN DE",
-           "SOFTWARE Y",
-           "SISTEMA OPERATIVO"
+           "ALBO, SANTIAGO DAMIAN",
+           "TESEYRA, GABRIELA S"
           ],
-          "plazas": []
+          "plazas": [
+           "N°213046"
+          ]
          },
          {
-          "materia": "ASISTENCIA SOBRE",
+          "materia": "ASISTENCIA SOBRE UTILITARIOS",
           "docentes": [
-           "UTILITARIOS"
+           "SELIS, RITA M"
           ],
           "plazas": []
          }
         ],
         "MARTES": [
          {
-          "materia": "INSTALACIÓN BÁSICA",
+          "materia": "INSTALACIÓN BÁSICA DE COMPUTADORAS",
           "docentes": [
-           "DE COMPUTADORAS"
+           "AGÜERO, CESAR ROLANDO"
           ],
-          "plazas": []
-         },
-         {
-          "materia": "INSTALACIÓN Y",
-          "docentes": [
-           "CONFIGURACIÓN DE",
-           "SOFTWARE Y",
-           "SISTEMA OPERATIVO"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "ASISTENCIA SOBRE",
-          "docentes": [
-           "UTILITARIOS"
-          ],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "14.40 15.20",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "15.20 16.00",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "AGÜERO, CÉSAR R.",
-          "docentes": [],
           "plazas": [
            "N°345256"
           ]
          },
          {
-          "materia": "TESEYRA, GABRIELA S.",
-          "docentes": [],
+          "materia": "INSTALACIÓN Y CONFIGURACIÓN DE SOFTWARE Y SISTEMA OPERATIVA",
+          "docentes": [
+           "ALBO, SANTIAGO DAMIAN",
+           "TESEYRA, GABRIELA S"
+          ],
           "plazas": [
            "N°213046"
           ]
          },
          {
-          "materia": "SELIS, RITA M.",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "AGÜERO, CÉSAR R.",
-          "docentes": [],
-          "plazas": [
-           "N°345256"
-          ]
-         },
-         {
-          "materia": "TESEYRA, GABRIELA S.",
-          "docentes": [],
-          "plazas": [
-           "N°213046"
-          ]
-         },
-         {
-          "materia": "SELIS, RITA M.",
-          "docentes": [],
+          "materia": "ASISTENCIA SOBRE UTILITARIOS",
+          "docentes": [
+           "SELIS, RITA M"
+          ],
           "plazas": []
          }
         ],
@@ -5509,115 +5376,61 @@
        }
       },
       {
-       "hora": "16.20 17.00",
+       "hora": "16.20 A 18.20",
        "celdas": {
         "LUNES": [
          {
-          "materia": "INSTALACIÓN BÁSICA",
+          "materia": "INSTALACIÓN BÁSICA DE COMPUTADORAS",
           "docentes": [
-           "DE COMPUTADORAS"
+           "AGÜERO, CESAR ROLANDO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°345256"
+          ]
          },
          {
-          "materia": "INSTALACIÓN Y",
+          "materia": "INSTALACIÓN Y CONFIGURACIÓN DE SOFTWARE Y SISTEMA OPERATIVA",
           "docentes": [
-           "CONFIGURACIÓN DE",
-           "SOFTWARE Y",
-           "SISTEMA OPERATIVO"
+           "ALBO, SANTIAGO DAMIAN",
+           "TESEYRA, GABRIELA S"
           ],
-          "plazas": []
+          "plazas": [
+           "N°213046"
+          ]
          },
          {
-          "materia": "ASISTENCIA SOBRE",
+          "materia": "ASISTENCIA SOBRE UTILITARIOS",
           "docentes": [
-           "UTILITARIOS"
+           "SELIS, RITA M"
           ],
           "plazas": []
          }
         ],
         "MARTES": [
          {
-          "materia": "INSTALACIÓN BÁSICA",
+          "materia": "INSTALACIÓN BÁSICA DE COMPUTADORAS",
           "docentes": [
-           "DE COMPUTADORAS"
+           "AGÜERO, CESAR ROLANDO"
           ],
-          "plazas": []
-         },
-         {
-          "materia": "INSTALACIÓN Y",
-          "docentes": [
-           "CONFIGURACIÓN DE",
-           "SOFTWARE Y",
-           "SISTEMA OPERATIVO"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "ASISTENCIA SOBRE",
-          "docentes": [
-           "UTILITARIOS"
-          ],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "17.00 17.40",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "17.40 18.20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "AGÜERO, CÉSAR R.",
-          "docentes": [],
           "plazas": [
            "N°345256"
           ]
          },
          {
-          "materia": "TESEYRA, GABRIELA S.",
-          "docentes": [],
+          "materia": "INSTALACIÓN Y CONFIGURACIÓN DE SOFTWARE Y SISTEMA OPERATIVA",
+          "docentes": [
+           "ALBO, SANTIAGO DAMIAN",
+           "TESEYRA, GABRIELA S"
+          ],
           "plazas": [
            "N°213046"
           ]
          },
          {
-          "materia": "SELIS, RITA M.",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "AGÜERO, CÉSAR R.",
-          "docentes": [],
-          "plazas": [
-           "N°345256"
-          ]
-         },
-         {
-          "materia": "TESEYRA, GABRIELA S.",
-          "docentes": [],
-          "plazas": [
-           "N°213046"
-          ]
-         },
-         {
-          "materia": "SELIS, RITA M.",
-          "docentes": [],
+          "materia": "ASISTENCIA SOBRE UTILITARIOS",
+          "docentes": [
+           "SELIS, RITA M"
+          ],
           "plazas": []
          }
         ],
@@ -5648,7 +5461,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "ANDRADA, LUIS F."
+           "ANDRADA, LUIS FERNANDO"
           ],
           "plazas": [
            "N°208430"
@@ -5668,7 +5481,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "ANDRADA, LUIS F."
+           "ANDRADA, LUIS FERNANDO"
           ],
           "plazas": [
            "N°208430"
@@ -5688,7 +5501,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "ANDRADA, LUIS F."
+           "ANDRADA, LUIS FERNANDO"
           ],
           "plazas": [
            "N°208430"
@@ -5708,7 +5521,7 @@
    "curso": "5°",
    "division": "1°",
    "ciclo": "SUPERIOR",
-   "resolucion": "467/5 (MEd)",
+   "resolucion": "467/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -5729,7 +5542,7 @@
          {
           "materia": "MATEMÁTICA APLICADA I",
           "docentes": [
-           "DE HARO, MARÍA V."
+           "DE HARO HOHL, MARIA VALERIA"
           ],
           "plazas": [
            "N°208434"
@@ -5740,7 +5553,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "MARTÍNEZ, CLARA A."
+           "MARTINEZ, CLARA ADELAIDA"
           ],
           "plazas": [
            "N°224198"
@@ -5751,7 +5564,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "GUTIÉRREZ, ALBERTO M."
+           "GUTIERREZ, ALBERTO MARCELO"
           ],
           "plazas": [
            "N°224197"
@@ -5762,7 +5575,7 @@
          {
           "materia": "PROBABILIDAD Y ESTADÍSTICA I",
           "docentes": [
-           "ALDERETE, PAMELA"
+           "ALDERETE, PAMELA DE LOS ANGELES"
           ],
           "plazas": [
            "N°231001"
@@ -5773,7 +5586,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ROVARINI, MARÍA L."
+           "ROVARINI, MARIA LAURA"
           ],
           "plazas": [
            "N°208436"
@@ -5789,7 +5602,7 @@
          {
           "materia": "MATEMÁTICA APLICADA I",
           "docentes": [
-           "DE HARO, MARÍA V."
+           "DE HARO HOHL, MARIA VALERIA"
           ],
           "plazas": [
            "N°208434"
@@ -5800,7 +5613,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "MARTÍNEZ, CLARA A."
+           "MARTINEZ, CLARA ADELAIDA"
           ],
           "plazas": [
            "N°224198"
@@ -5811,7 +5624,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "GUTIÉRREZ, ALBERTO M."
+           "GUTIERREZ, ALBERTO MARCELO"
           ],
           "plazas": [
            "N°224197"
@@ -5822,7 +5635,7 @@
          {
           "materia": "PROBABILIDAD Y ESTADÍSTICA I",
           "docentes": [
-           "ALDERETE, PAMELA"
+           "ALDERETE, PAMELA DE LOS ANGELES"
           ],
           "plazas": [
            "N°231001"
@@ -5833,7 +5646,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ROVARINI, MARÍA L."
+           "ROVARINI, MARIA LAURA"
           ],
           "plazas": [
            "N°208436"
@@ -5849,7 +5662,7 @@
          {
           "materia": "TECNOLOGÍA DE LOS MATERIALES",
           "docentes": [
-           "PÉREZ, ISIDRO A."
+           "PEREZ, ISIDRO ALFREDO"
           ],
           "plazas": [
            "N°230974"
@@ -5860,7 +5673,7 @@
          {
           "materia": "QUÍMICA",
           "docentes": [
-           "MARTÍNEZ, CLARA A."
+           "MARTINEZ, CLARA ADELAIDA"
           ],
           "plazas": [
            "N°224198"
@@ -5871,7 +5684,7 @@
          {
           "materia": "MATEMÁTICA APLICADA I",
           "docentes": [
-           "DE HARO, MARÍA V."
+           "DE HARO HOHL, MARIA VALERIA"
           ],
           "plazas": [
            "N°208434"
@@ -5882,7 +5695,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "ROBLES, ANA M."
+           "ROBLES, ANA MARIA"
           ],
           "plazas": [
            "N°178831"
@@ -5893,7 +5706,7 @@
          {
           "materia": "PROGRAMACIÓN I",
           "docentes": [
-           "TERI, ROQUE D."
+           "RACEDO, SERGIO DANIEL"
           ],
           "plazas": [
            "N°231112"
@@ -5909,7 +5722,7 @@
          {
           "materia": "TECNOLOGÍA DE LOS MATERIALES",
           "docentes": [
-           "PÉREZ, ISIDRO A."
+           "PEREZ, ISIDRO ALFREDO"
           ],
           "plazas": [
            "N°230974"
@@ -5920,7 +5733,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "GUTIÉRREZ, ALBERTO M."
+           "GUTIERREZ, ALBERTO MARCELO"
           ],
           "plazas": [
            "N°224197"
@@ -5931,7 +5744,7 @@
          {
           "materia": "MATEMÁTICA APLICADA I",
           "docentes": [
-           "DE HARO, MARÍA V."
+           "DE HARO HOHL, MARIA VALERIA"
           ],
           "plazas": [
            "N°208434"
@@ -5942,7 +5755,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "ROBLES, ANA M."
+           "ROBLES, ANA MARIA"
           ],
           "plazas": [
            "N°178831"
@@ -5953,7 +5766,7 @@
          {
           "materia": "PROGRAMACIÓN I",
           "docentes": [
-           "TERI, ROQUE D."
+           "RACEDO, SERGIO DANIEL"
           ],
           "plazas": [
            "N°231112"
@@ -5969,7 +5782,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "YANICELLI, SARA L."
+           "YANICELLI, SARA LIA"
           ],
           "plazas": [
            "N°208433"
@@ -5980,7 +5793,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "YANICELLI, SARA L."
+           "YANICELLI, SARA LIA"
           ],
           "plazas": [
            "N°208433"
@@ -5991,7 +5804,7 @@
          {
           "materia": "PROGRAMACIÓN I",
           "docentes": [
-           "TERI, ROQUE D."
+           "RACEDO, SERGIO DANIEL"
           ],
           "plazas": [
            "N°231112"
@@ -6002,7 +5815,7 @@
          {
           "materia": "GEOGRAFÍA",
           "docentes": [
-           "ROBLES, ANA M."
+           "ROBLES, ANA MARIA"
           ],
           "plazas": [
            "N°178831"
@@ -6013,7 +5826,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "GUTIÉRREZ, ALBERTO M."
+           "GUTIERREZ, ALBERTO MARCELO"
           ],
           "plazas": [
            "N°224197"
@@ -6029,7 +5842,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "YANICELLI, SARA L."
+           "YANICELLI, SARA LIA"
           ],
           "plazas": [
            "N°208433"
@@ -6040,7 +5853,7 @@
          {
           "materia": "PROGRAMACIÓN I",
           "docentes": [
-           "TERI, ROQUE D."
+           "RACEDO, SERGIO DANIEL"
           ],
           "plazas": [
            "N°231002"
@@ -6051,7 +5864,7 @@
          {
           "materia": "PROGRAMACIÓN I",
           "docentes": [
-           "TERI, ROQUE D."
+           "RACEDO, SERGIO DANIEL"
           ],
           "plazas": [
            "N°231112"
@@ -6062,7 +5875,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ROVARINI, MARÍA L."
+           "ROVARINI, MARIA LAURA"
           ],
           "plazas": [
            "N°208436"
@@ -6073,7 +5886,7 @@
          {
           "materia": "FÍSICA",
           "docentes": [
-           "GUTIÉRREZ, ALBERTO M."
+           "GUTIERREZ, ALBERTO MARCELO"
           ],
           "plazas": [
            "N°224197"
@@ -6090,7 +5903,7 @@
          {
           "materia": "PROGRAMACIÓN I",
           "docentes": [
-           "TERI, ROQUE D."
+           "RACEDO, SERGIO DANIEL"
           ],
           "plazas": [
            "N°231002"
@@ -6101,7 +5914,7 @@
          {
           "materia": "PROBABILIDAD Y ESTADÍSTICA I",
           "docentes": [
-           "ALDERETE, PAMELA"
+           "ALDERETE, PAMELA DE LOS ANGELES"
           ],
           "plazas": [
            "N°231001"
@@ -6112,7 +5925,7 @@
          {
           "materia": "TECNOLOGÍA DE LOS MATERIALES",
           "docentes": [
-           "PÉREZ, ISIDRO A."
+           "PEREZ, ISIDRO ALFREDO"
           ],
           "plazas": [
            "N°230974"
@@ -6136,95 +5949,33 @@
      ],
      "filas": [
       {
-       "hora": "14.00 14.40",
+       "hora": "14.00 A 16.00",
        "celdas": {
         "LUNES": [],
         "MARTES": [],
         "MIERCOLES": [],
         "JUEVES": [
          {
-          "materia": "MANTENIMIENTO Y",
+          "materia": "MANTENIMIENTO Y REPARACIÓN DE DATOS",
           "docentes": [
-           "REPARACIÓN DE DATOS"
+           "TESEYRA, GABRIELA SOLEDAD"
           ],
-          "plazas": []
-         },
-         {
-          "materia": "APRECIACIÓN DE",
-          "docentes": [
-           "SISTEMAS DE",
-           "INFORMACIÓN TÍPICOS"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "ADAPTACIÓN Y",
-          "docentes": [
-           "COMPLEMENTACIÓN DE",
-           "PROGRAMAS"
-          ],
-          "plazas": []
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "MANTENIMIENTO Y",
-          "docentes": [
-           "REPARACIÓN DE DATOS"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "APRECIACIÓN DE",
-          "docentes": [
-           "SISTEMAS DE",
-           "INFORMACIÓN TÍPICOS"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "ADAPTACIÓN Y",
-          "docentes": [
-           "COMPLEMENTACIÓN DE",
-           "PROGRAMAS"
-          ],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "14.40 15.20",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "15.20 16.00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "TESEYRA, GABRIELA S.",
-          "docentes": [],
           "plazas": [
            "N°345255"
           ]
          },
          {
-          "materia": "AGÜERO, CÉSAR R.",
-          "docentes": [],
+          "materia": "APRECIACIÓN DE SISTEMAS DE INFORMACIÓN TÍPICOS",
+          "docentes": [
+           "AGÜERO, CÉSAR R"
+          ],
           "plazas": []
          },
          {
-          "materia": "SELIS, RITA M.",
-          "docentes": [],
+          "materia": "ADAPTACIÓN Y COMPLEMENTACIÓN DE PROGRAMAS",
+          "docentes": [
+           "SELIS, RITA MERCEDES"
+          ],
           "plazas": [
            "N°209164"
           ]
@@ -6232,20 +5983,26 @@
         ],
         "VIERNES": [
          {
-          "materia": "TESEYRA, GABRIELA S.",
-          "docentes": [],
+          "materia": "MANTENIMIENTO Y REPARACIÓN DE DATOS",
+          "docentes": [
+           "TESEYRA, GABRIELA SOLEDAD"
+          ],
           "plazas": [
            "N°345255"
           ]
          },
          {
-          "materia": "AGÜERO, CÉSAR R.",
-          "docentes": [],
+          "materia": "APRECIACIÓN DE SISTEMAS DE INFORMACIÓN TÍPICOS",
+          "docentes": [
+           "AGÜERO, CÉSAR R"
+          ],
           "plazas": []
          },
          {
-          "materia": "SELIS, RITA M.",
-          "docentes": [],
+          "materia": "ADAPTACIÓN Y COMPLEMENTACIÓN DE PROGRAMAS",
+          "docentes": [
+           "SELIS, RITA MERCEDES"
+          ],
           "plazas": [
            "N°209164"
           ]
@@ -6254,95 +6011,33 @@
        }
       },
       {
-       "hora": "16.20 17.00",
+       "hora": "16.20 A 18.20",
        "celdas": {
         "LUNES": [],
         "MARTES": [],
         "MIERCOLES": [],
         "JUEVES": [
          {
-          "materia": "MANTENIMIENTO Y",
+          "materia": "MANTENIMIENTO Y REPARACIÓN DE DATOS",
           "docentes": [
-           "REPARACIÓN DE DATOS"
+           "TESEYRA, GABRIELA SOLEDAD"
           ],
-          "plazas": []
-         },
-         {
-          "materia": "APRECIACIÓN DE",
-          "docentes": [
-           "SISTEMAS DE",
-           "INFORMACIÓN TÍPICOS"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "ADAPTACIÓN Y",
-          "docentes": [
-           "COMPLEMENTACIÓN DE",
-           "PROGRAMAS"
-          ],
-          "plazas": []
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "MANTENIMIENTO Y",
-          "docentes": [
-           "REPARACIÓN DE DATOS"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "APRECIACIÓN DE",
-          "docentes": [
-           "SISTEMAS DE",
-           "INFORMACIÓN TÍPICOS"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "ADAPTACIÓN Y",
-          "docentes": [
-           "COMPLEMENTACIÓN DE",
-           "PROGRAMAS"
-          ],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "17.00 17.40",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "17.40 18.20",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "TESEYRA, GABRIELA S.",
-          "docentes": [],
           "plazas": [
            "N°345255"
           ]
          },
          {
-          "materia": "AGÜERO, CÉSAR R.",
-          "docentes": [],
+          "materia": "APRECIACIÓN DE SISTEMAS DE INFORMACIÓN TÍPICOS",
+          "docentes": [
+           "AGÜERO, CÉSAR R"
+          ],
           "plazas": []
          },
          {
-          "materia": "SELIS, RITA M.",
-          "docentes": [],
+          "materia": "ADAPTACIÓN Y COMPLEMENTACIÓN DE PROGRAMAS",
+          "docentes": [
+           "SELIS, RITA MERCEDES"
+          ],
           "plazas": [
            "N°209164"
           ]
@@ -6350,20 +6045,26 @@
         ],
         "VIERNES": [
          {
-          "materia": "TESEYRA, GABRIELA S.",
-          "docentes": [],
+          "materia": "MANTENIMIENTO Y REPARACIÓN DE DATOS",
+          "docentes": [
+           "TESEYRA, GABRIELA SOLEDAD"
+          ],
           "plazas": [
            "N°345255"
           ]
          },
          {
-          "materia": "AGÜERO, CÉSAR R.",
-          "docentes": [],
+          "materia": "APRECIACIÓN DE SISTEMAS DE INFORMACIÓN TÍPICOS",
+          "docentes": [
+           "AGÜERO, CÉSAR R"
+          ],
           "plazas": []
          },
          {
-          "materia": "SELIS, RITA M.",
-          "docentes": [],
+          "materia": "ADAPTACIÓN Y COMPLEMENTACIÓN DE PROGRAMAS",
+          "docentes": [
+           "SELIS, RITA MERCEDES"
+          ],
           "plazas": [
            "N°209164"
           ]
@@ -6393,7 +6094,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "ANDRADA, LUIS F."
+           "ANDRADA, LUIS FERNANDO"
           ],
           "plazas": [
            "N°207477"
@@ -6413,7 +6114,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "ANDRADA, LUIS F."
+           "ANDRADA, LUIS FERNANDO"
           ],
           "plazas": [
            "N°207477"
@@ -6433,7 +6134,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "ANDRADA, LUIS F."
+           "ANDRADA, LUIS FERNANDO"
           ],
           "plazas": [
            "N°207477"
@@ -6453,7 +6154,7 @@
    "curso": "6°",
    "division": "1°",
    "ciclo": "SUPERIOR",
-   "resolucion": "467/5 (MEd)",
+   "resolucion": "467/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -6474,7 +6175,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "LEDESMA, SONIA R."
+           "LEDESMA, SONIA RAQUEL"
           ],
           "plazas": [
            "N°213045"
@@ -6485,7 +6186,7 @@
          {
           "materia": "ECONOMÍA",
           "docentes": [
-           "SINGH, MARÍA C."
+           "SINGH, MARIA CAROLINA"
           ],
           "plazas": [
            "N°230724"
@@ -6496,7 +6197,7 @@
          {
           "materia": "RELACIONES HUMANAS",
           "docentes": [
-           "GONZÁLEZ, SANDRA A."
+           "GONZALEZ, SANDRA ANALIA"
           ],
           "plazas": [
            "N°230723"
@@ -6507,7 +6208,7 @@
          {
           "materia": "DISEÑO GRÁFICO",
           "docentes": [
-           "SORIA, CARLOS M."
+           "GINI, HECTOR MAXIMILIANO"
           ],
           "plazas": [
            "N°209687"
@@ -6518,7 +6219,7 @@
          {
           "materia": "PROBABILIDAD Y ESTADÍSTICA II",
           "docentes": [
-           "LOZANO, MARÍA V."
+           "LOZANO, MARIA VICTORIA"
           ],
           "plazas": [
            "N°230975"
@@ -6534,7 +6235,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "LEDESMA, SONIA R."
+           "LEDESMA, SONIA RAQUEL"
           ],
           "plazas": [
            "N°213045"
@@ -6545,7 +6246,7 @@
          {
           "materia": "ECONOMÍA",
           "docentes": [
-           "SINGH, MARÍA C."
+           "SINGH, MARIA CAROLINA"
           ],
           "plazas": [
            "N°230724"
@@ -6556,7 +6257,7 @@
          {
           "materia": "RELACIONES HUMANAS",
           "docentes": [
-           "GONZÁLEZ, SANDRA A."
+           "GONZALEZ, SANDRA ANALIA"
           ],
           "plazas": [
            "N°230725"
@@ -6567,7 +6268,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ROVARINI, MARÍA L."
+           "ROVARINI, MARIA LAURA"
           ],
           "plazas": [
            "N°213043"
@@ -6578,7 +6279,7 @@
          {
           "materia": "PROBABILIDAD Y ESTADÍSTICA II",
           "docentes": [
-           "LOZANO, MARÍA V."
+           "LOZANO, MARIA VICTORIA"
           ],
           "plazas": [
            "N°230975"
@@ -6594,7 +6295,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "LEDESMA, SONIA R."
+           "LEDESMA, SONIA RAQUEL"
           ],
           "plazas": [
            "N°213045"
@@ -6603,9 +6304,9 @@
         ],
         "MARTES": [
          {
-          "materia": "MANTENIMIENTO DE HARDWARE MONOUSUARIO",
+          "materia": "MANTENIMIENTO HARDWARE MONOUSUARIO",
           "docentes": [
-           "TERI, ROQUE D."
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°208773"
@@ -6616,7 +6317,7 @@
          {
           "materia": "MARCO JURÍDICO DE LOS PROCESOS PRODUCTIVOS",
           "docentes": [
-           "SINGH, MARÍA C."
+           "SINGH, MARIA CAROLINA"
           ],
           "plazas": [
            "N°230722"
@@ -6627,7 +6328,7 @@
          {
           "materia": "MATEMÁTICA APLICADA II",
           "docentes": [
-           "ALDERETE, PAMELA"
+           "ALDERETE, PAMELA DE LOS ANGELES"
           ],
           "plazas": [
            "N°276400"
@@ -6638,7 +6339,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ROVARINI, MARÍA L."
+           "ROVARINI, MARIA LAURA"
           ],
           "plazas": [
            "N°213043"
@@ -6654,7 +6355,7 @@
          {
           "materia": "PROCESOS PRODUCTIVOS",
           "docentes": [
-           "TERI, ROQUE D."
+           "SINGH, MARIA CAROLINA"
           ],
           "plazas": [
            "N°231118"
@@ -6663,9 +6364,9 @@
         ],
         "MARTES": [
          {
-          "materia": "MANTENIMIENTO DE HARDWARE MONOUSUARIO",
+          "materia": "MANTENIMIENTO HARDWARE MONOUSUARIO",
           "docentes": [
-           "TERI, ROQUE D."
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°208773"
@@ -6676,7 +6377,7 @@
          {
           "materia": "MARCO JURÍDICO DE LOS PROCESOS PRODUCTIVOS",
           "docentes": [
-           "SINGH, MARÍA C."
+           "SINGH, MARIA CAROLINA"
           ],
           "plazas": [
            "N°230722"
@@ -6687,7 +6388,7 @@
          {
           "materia": "MATEMÁTICA APLICADA II",
           "docentes": [
-           "ALDERETE, PAMELA"
+           "ALDERETE, PAMELA DE LOS ANGELES"
           ],
           "plazas": [
            "N°276400"
@@ -6698,7 +6399,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "ROVARINI, MARÍA L."
+           "ROVARINI, MARIA LAURA"
           ],
           "plazas": [
            "N°213043"
@@ -6714,7 +6415,7 @@
          {
           "materia": "PROCESOS PRODUCTIVOS",
           "docentes": [
-           "TERI, ROQUE D."
+           "SINGH, MARIA CAROLINA"
           ],
           "plazas": [
            "N°231118"
@@ -6725,7 +6426,7 @@
          {
           "materia": "PROCESOS PRODUCTIVOS",
           "docentes": [
-           "TERI, ROQUE D."
+           "SINGH, MARIA CAROLINA"
           ],
           "plazas": [
            "N°231118"
@@ -6736,7 +6437,7 @@
          {
           "materia": "MATEMÁTICA APLICADA II",
           "docentes": [
-           "ALDERETE, PAMELA"
+           "ALDERETE, PAMELA DE LOS ANGELES"
           ],
           "plazas": [
            "N°276400"
@@ -6745,9 +6446,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "MANTENIMIENTO DE HARDWARE MONOUSUARIO",
+          "materia": "MANTENIMIENTO HARDWARE MONOUSUARIO",
           "docentes": [
-           "TERI, ROQUE D."
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°208773"
@@ -6758,7 +6459,7 @@
          {
           "materia": "DISEÑO GRÁFICO",
           "docentes": [
-           "SORIA, CARLOS M."
+           "GINI, HECTOR MAXIMILIANO"
           ],
           "plazas": [
            "N°209687"
@@ -6774,7 +6475,8 @@
          {
           "materia": "TECNOLOGÍA DE CONTROL",
           "docentes": [
-           "DE HARO, MARÍA V."
+           "CAJAL, DANIEL OMAR",
+           "DE HARO, MARÍA V"
           ],
           "plazas": [
            "N°231119"
@@ -6785,7 +6487,8 @@
          {
           "materia": "TECNOLOGÍA DE CONTROL",
           "docentes": [
-           "DE HARO, MARÍA V."
+           "CAJAL, DANIEL OMAR",
+           "DE HARO, MARÍA V"
           ],
           "plazas": [
            "N°231119"
@@ -6796,7 +6499,7 @@
          {
           "materia": "MATEMÁTICA APLICADA II",
           "docentes": [
-           "ALDERETE, PAMELA"
+           "ALDERETE, PAMELA DE LOS ANGELES"
           ],
           "plazas": [
            "N°276400"
@@ -6805,9 +6508,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "MANTENIMIENTO DE HARDWARE MONOUSUARIO",
+          "materia": "MANTENIMIENTO HARDWARE MONOUSUARIO",
           "docentes": [
-           "TERI, ROQUE D."
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°208773"
@@ -6818,7 +6521,7 @@
          {
           "materia": "DISEÑO GRÁFICO",
           "docentes": [
-           "SORIA, CARLOS M."
+           "GINI, HECTOR MAXIMILIANO"
           ],
           "plazas": [
            "N°209687"
@@ -6834,7 +6537,8 @@
          {
           "materia": "TECNOLOGÍA DE CONTROL",
           "docentes": [
-           "DE HARO, MARÍA V."
+           "CAJAL, DANIEL OMAR",
+           "DE HARO, MARÍA V"
           ],
           "plazas": [
            "N°231119"
@@ -6845,7 +6549,8 @@
          {
           "materia": "TECNOLOGÍA DE CONTROL",
           "docentes": [
-           "DE HARO, MARÍA V."
+           "CAJAL, DANIEL OMAR",
+           "DE HARO, MARÍA V"
           ],
           "plazas": [
            "N°231119"
@@ -6856,7 +6561,7 @@
          {
           "materia": "PROCESOS PRODUCTIVOS",
           "docentes": [
-           "TERI, ROQUE D."
+           "SINGH, MARIA CAROLINA"
           ],
           "plazas": [
            "N°231118"
@@ -6881,28 +6586,28 @@
      ],
      "filas": [
       {
-       "hora": "14.00 14.40",
+       "hora": "14.00 A 16.00",
        "celdas": {
         "LUNES": [],
         "MARTES": [
          {
           "materia": "PROGRAMACIÓN II",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ASISTENCIA SOBRE",
           "docentes": [
-           "APLICACIONES",
-           "ESPECÍFICAS"
+           "SORUCO, PABLO J"
           ],
           "plazas": []
          },
          {
-          "materia": "CONEXIÓN Y",
+          "materia": "ASISTENCIA SOBRE APLICACIONES ESPECÍFICAS",
           "docentes": [
-           "ADMINISTRACIÓN DE",
-           "REDES LOCALES"
+           "TERI, ROQUE D"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "CONEXIÓN Y ADMINISTRACIÓN DE REDES LOCALES",
+          "docentes": [
+           "ALBO, SANTIAGO D"
           ],
           "plazas": []
          }
@@ -6911,22 +6616,22 @@
         "JUEVES": [
          {
           "materia": "PROGRAMACIÓN II",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ASISTENCIA SOBRE",
           "docentes": [
-           "APLICACIONES",
-           "ESPECÍFICAS"
+           "SORUCO, PABLO J"
           ],
           "plazas": []
          },
          {
-          "materia": "CONEXIÓN Y",
+          "materia": "ASISTENCIA SOBRE APLICACIONES ESPECÍFICAS",
           "docentes": [
-           "ADMINISTRACIÓN DE",
-           "REDES LOCALES"
+           "TERI, ROQUE D"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "CONEXIÓN Y ADMINISTRACIÓN DE REDES LOCALES",
+          "docentes": [
+           "ALBO, SANTIAGO D"
           ],
           "plazas": []
          }
@@ -6935,80 +6640,28 @@
        }
       },
       {
-       "hora": "14.40 15.20",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "15.20 16.00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "SORUCO, PABLO J.",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TERI, ROQUE D.",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ALBO, SANTIAGO D.",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "SORUCO, PABLO J.",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TERI, ROQUE D.",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ALBO, SANTIAGO D.",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "16.20 17.00",
+       "hora": "16.20 A 18.20",
        "celdas": {
         "LUNES": [],
         "MARTES": [
          {
           "materia": "PROGRAMACIÓN II",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ASISTENCIA SOBRE",
           "docentes": [
-           "APLICACIONES",
-           "ESPECÍFICAS"
+           "SORUCO, PABLO J"
           ],
           "plazas": []
          },
          {
-          "materia": "CONEXIÓN Y",
+          "materia": "ASISTENCIA SOBRE APLICACIONES ESPECÍFICAS",
           "docentes": [
-           "ADMINISTRACIÓN DE",
-           "REDES LOCALES"
+           "TERI, ROQUE D"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "CONEXIÓN Y ADMINISTRACIÓN DE REDES LOCALES",
+          "docentes": [
+           "ALBO, SANTIAGO D"
           ],
           "plazas": []
          }
@@ -7017,75 +6670,23 @@
         "JUEVES": [
          {
           "materia": "PROGRAMACIÓN II",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ASISTENCIA SOBRE",
           "docentes": [
-           "APLICACIONES",
-           "ESPECÍFICAS"
+           "SORUCO, PABLO J"
           ],
           "plazas": []
          },
          {
-          "materia": "CONEXIÓN Y",
+          "materia": "ASISTENCIA SOBRE APLICACIONES ESPECÍFICAS",
           "docentes": [
-           "ADMINISTRACIÓN DE",
-           "REDES LOCALES"
+           "TERI, ROQUE D"
           ],
           "plazas": []
-         }
-        ],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "17.00 17.40",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "17.40 18.20",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "SORUCO, PABLO J.",
-          "docentes": [],
-          "plazas": []
          },
          {
-          "materia": "TERI, ROQUE D.",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ALBO, SANTIAGO D.",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "SORUCO, PABLO J.",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TERI, ROQUE D.",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "ALBO, SANTIAGO D.",
-          "docentes": [],
+          "materia": "CONEXIÓN Y ADMINISTRACIÓN DE REDES LOCALES",
+          "docentes": [
+           "ALBO, SANTIAGO D"
+          ],
           "plazas": []
          }
         ],
@@ -7112,7 +6713,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "ANDRADA, LUIS F."
+           "ANDRADA, LUIS FERNANDO"
           ],
           "plazas": [
            "N°213391"
@@ -7132,7 +6733,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "ANDRADA, LUIS F."
+           "ANDRADA, LUIS FERNANDO"
           ],
           "plazas": [
            "N°213391"
@@ -7152,7 +6753,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "ANDRADA, LUIS F."
+           "ANDRADA, LUIS FERNANDO"
           ],
           "plazas": [
            "N°213391"
@@ -7174,7 +6775,7 @@
    "curso": "7°",
    "division": "1°",
    "ciclo": "SUPERIOR",
-   "resolucion": "467/5 (MEd)",
+   "resolucion": "467/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -7195,7 +6796,7 @@
          {
           "materia": "PROYECTO TECNOLÓGICO",
           "docentes": [
-           "TERI, ROQUE D."
+           "TESEYRA, GABRIELA SOLEDAD"
           ],
           "plazas": [
            "N°234605"
@@ -7206,7 +6807,7 @@
          {
           "materia": "COMUNICACIÓN",
           "docentes": [
-           "MONTES, NOEMÍ DEL V."
+           "SALINAS, JORGELINA FERNANDA"
           ],
           "plazas": [
            "N°234603"
@@ -7217,7 +6818,7 @@
          {
           "materia": "PROYECTO TECNOLÓGICO",
           "docentes": [
-           "TERI, ROQUE D."
+           "TESEYRA, GABRIELA SOLEDAD"
           ],
           "plazas": [
            "N°234605"
@@ -7228,7 +6829,7 @@
          {
           "materia": "SIMULACIÓN",
           "docentes": [
-           "TERI, ROQUE D."
+           "TESEYRA, GABRIELA SOLEDAD"
           ],
           "plazas": [
            "N°234606"
@@ -7239,7 +6840,7 @@
          {
           "materia": "DISEÑO WEB",
           "docentes": [
-           "TERI, ROQUE D."
+           "TESEYRA, GABRIELA SOLEDAD"
           ],
           "plazas": [
            "N°234604"
@@ -7255,7 +6856,7 @@
          {
           "materia": "PROYECTO TECNOLÓGICO",
           "docentes": [
-           "TERI, ROQUE D."
+           "TESEYRA, GABRIELA SOLEDAD"
           ],
           "plazas": [
            "N°234605"
@@ -7266,7 +6867,7 @@
          {
           "materia": "COMUNICACIÓN",
           "docentes": [
-           "MONTES, NOEMÍ DEL V."
+           "SALINAS, JORGELINA FERNANDA"
           ],
           "plazas": [
            "N°234603"
@@ -7277,7 +6878,7 @@
          {
           "materia": "PROYECTO TECNOLÓGICO",
           "docentes": [
-           "TERI, ROQUE D."
+           "TESEYRA, GABRIELA SOLEDAD"
           ],
           "plazas": [
            "N°234605"
@@ -7288,7 +6889,7 @@
          {
           "materia": "SIMULACIÓN",
           "docentes": [
-           "TERI, ROQUE D."
+           "TESEYRA, GABRIELA SOLEDAD"
           ],
           "plazas": [
            "N°234606"
@@ -7299,7 +6900,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "VERA, CARLOS D."
+           "VERA, CARLOS DAMIAN"
           ],
           "plazas": [
            "N°215720"
@@ -7315,7 +6916,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "VERA, CARLOS D."
+           "VERA, CARLOS DAMIAN"
           ],
           "plazas": [
            "N°215720"
@@ -7326,7 +6927,7 @@
          {
           "materia": "TECNOLOGÍA DE GESTIÓN",
           "docentes": [
-           "SINGH, MARÍA C."
+           "SINGH, MARIA CAROLINA"
           ],
           "plazas": [
            "N°213039"
@@ -7337,7 +6938,7 @@
          {
           "materia": "SIMULACIÓN",
           "docentes": [
-           "TERI, ROQUE D."
+           "TESEYRA, GABRIELA SOLEDAD"
           ],
           "plazas": [
            "N°234606"
@@ -7348,7 +6949,7 @@
          {
           "materia": "DISEÑO WEB",
           "docentes": [
-           "TERI, ROQUE D."
+           "TESEYRA, GABRIELA SOLEDAD"
           ],
           "plazas": [
            "N°234604"
@@ -7359,7 +6960,7 @@
          {
           "materia": "MATEMÁTICA APLICADA III",
           "docentes": [
-           "SÁNCHEZ, MÓNICA C."
+           "SANCHEZ, MONICA CECILIA"
           ],
           "plazas": [
            "N°237745"
@@ -7375,7 +6976,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "VERA, CARLOS D."
+           "VERA, CARLOS DAMIAN"
           ],
           "plazas": [
            "N°215720"
@@ -7386,7 +6987,7 @@
          {
           "materia": "TECNOLOGÍA DE GESTIÓN",
           "docentes": [
-           "SINGH, MARÍA C."
+           "SINGH, MARIA CAROLINA"
           ],
           "plazas": [
            "N°213039"
@@ -7397,7 +6998,7 @@
          {
           "materia": "SIMULACIÓN",
           "docentes": [
-           "TERI, ROQUE D."
+           "TESEYRA, GABRIELA SOLEDAD"
           ],
           "plazas": [
            "N°234606"
@@ -7408,7 +7009,7 @@
          {
           "materia": "DISEÑO WEB",
           "docentes": [
-           "TERI, ROQUE D."
+           "TESEYRA, GABRIELA SOLEDAD"
           ],
           "plazas": [
            "N°234604"
@@ -7419,7 +7020,7 @@
          {
           "materia": "MATEMÁTICA APLICADA III",
           "docentes": [
-           "SÁNCHEZ, MÓNICA C."
+           "SANCHEZ, MONICA CECILIA"
           ],
           "plazas": [
            "N°237745"
@@ -7435,7 +7036,7 @@
          {
           "materia": "SEGURIDAD INFORMÁTICA",
           "docentes": [
-           "SORUCO, PABLO J."
+           "SORUCO, PABLO JAVIER"
           ],
           "plazas": [
            "N°231098"
@@ -7446,7 +7047,7 @@
          {
           "materia": "MANTENIMIENTO DE SOFTWARE",
           "docentes": [
-           "ALBO, SANTIAGO D."
+           "ALBO, SANTIAGO DAMIAN"
           ],
           "plazas": [
            "N°209714"
@@ -7457,7 +7058,7 @@
          {
           "materia": "TECNOLOGÍA DE GESTIÓN",
           "docentes": [
-           "SINGH, MARÍA C."
+           "SINGH, MARIA CAROLINA"
           ],
           "plazas": [
            "N°213039"
@@ -7468,7 +7069,7 @@
          {
           "materia": "MATEMÁTICA APLICADA III",
           "docentes": [
-           "SÁNCHEZ, MÓNICA C."
+           "SANCHEZ, MONICA CECILIA"
           ],
           "plazas": [
            "N°237745"
@@ -7479,7 +7080,7 @@
          {
           "materia": "MANTENIMIENTO DE SOFTWARE",
           "docentes": [
-           "ALBO, SANTIAGO D."
+           "ALBO, SANTIAGO DAMIAN"
           ],
           "plazas": [
            "N°209714"
@@ -7495,7 +7096,7 @@
          {
           "materia": "SEGURIDAD INFORMÁTICA",
           "docentes": [
-           "SORUCO, PABLO J."
+           "SORUCO, PABLO JAVIER"
           ],
           "plazas": [
            "N°231098"
@@ -7506,7 +7107,7 @@
          {
           "materia": "MANTENIMIENTO DE SOFTWARE",
           "docentes": [
-           "ALBO, SANTIAGO D."
+           "ALBO, SANTIAGO DAMIAN"
           ],
           "plazas": [
            "N°209714"
@@ -7517,7 +7118,8 @@
          {
           "materia": "INFORMÁTICA EDUCATIVA",
           "docentes": [
-           "RACEDO, SERGIO D."
+           "FLORES SANCHEZ, MARCO ANTONIO",
+           "RACEDO, SERGIO D"
           ],
           "plazas": [
            "N°237746"
@@ -7528,7 +7130,8 @@
          {
           "materia": "INFORMÁTICA EDUCATIVA",
           "docentes": [
-           "RACEDO, SERGIO D."
+           "FLORES SANCHEZ, MARCO ANTONIO",
+           "RACEDO, SERGIO D"
           ],
           "plazas": [
            "N°231099"
@@ -7539,7 +7142,7 @@
          {
           "materia": "SEGURIDAD INFORMÁTICA",
           "docentes": [
-           "SORUCO, PABLO J."
+           "SORUCO, PABLO JAVIER"
           ],
           "plazas": [
            "N°231098"
@@ -7557,7 +7160,7 @@
          {
           "materia": "COMUNICACIÓN",
           "docentes": [
-           "MONTES, NOEMÍ DEL V."
+           "SALINAS, JORGELINA FERNANDA"
           ],
           "plazas": [
            "N°234603"
@@ -7568,7 +7171,8 @@
          {
           "materia": "INFORMÁTICA EDUCATIVA",
           "docentes": [
-           "RACEDO, SERGIO D."
+           "FLORES SANCHEZ, MARCO ANTONIO",
+           "RACEDO, SERGIO D"
           ],
           "plazas": [
            "N°237746"
@@ -7579,7 +7183,7 @@
          {
           "materia": "SEGURIDAD INFORMÁTICA",
           "docentes": [
-           "SORUCO, PABLO J."
+           "SORUCO, PABLO JAVIER"
           ],
           "plazas": [
            "N°231098"
@@ -7602,90 +7206,33 @@
      ],
      "filas": [
       {
-       "hora": "14.00 14.40",
+       "hora": "14.00 A 16.00",
        "celdas": {
         "LUNES": [
          {
-          "materia": "ADAPTACIÓN EN EL",
+          "materia": "ADAPTACIÓN EN EL AMBIENTE DE TRABAJO",
           "docentes": [
-           "AMBIENTE DE TRABAJO"
+           "FERNANDEZ FERNANDEZ, DANA CAROL"
           ],
-          "plazas": []
-         },
-         {
-          "materia": "AUTOGESTIÓN EN EL",
-          "docentes": [
-           "MUNDO ECONÓMICO"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "APLICACIONES DE",
-          "docentes": [
-           "REDES INFORMÁTICAS"
-          ],
-          "plazas": []
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "ADAPTACIÓN EN EL",
-          "docentes": [
-           "AMBIENTE DE TRABAJO"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "AUTOGESTIÓN EN EL",
-          "docentes": [
-           "MUNDO ECONÓMICO"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "APLICACIONES DE",
-          "docentes": [
-           "REDES INFORMÁTICAS"
-          ],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "14.40 15.20",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "15.20 16.00",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "TERI, ROQUE D.",
-          "docentes": [],
           "plazas": [
            "N°234607"
           ]
          },
          {
-          "materia": "SORUCO, PABLO J.",
-          "docentes": [],
+          "materia": "AUTOGESTIÓN EN EL MUNDO ECONÓMICO",
+          "docentes": [
+           "SORUCO, PABLO JAVIER"
+          ],
           "plazas": [
            "N°226960"
           ]
          },
          {
-          "materia": "ALBO, SANTIAGO D.",
-          "docentes": [],
+          "materia": "APLICACIONES DE REDES INFORMÁTICAS",
+          "docentes": [
+           "RACEDO, SERGIO DANIEL",
+           "ALBO, SANTIAGO D"
+          ],
           "plazas": [
            "N°345257"
           ]
@@ -7696,22 +7243,29 @@
         "JUEVES": [],
         "VIERNES": [
          {
-          "materia": "TERI, ROQUE D.",
-          "docentes": [],
+          "materia": "ADAPTACIÓN EN EL AMBIENTE DE TRABAJO",
+          "docentes": [
+           "FERNANDEZ FERNANDEZ, DANA CAROL"
+          ],
           "plazas": [
            "N°234607"
           ]
          },
          {
-          "materia": "SORUCO, PABLO J.",
-          "docentes": [],
+          "materia": "AUTOGESTIÓN EN EL MUNDO ECONÓMICO",
+          "docentes": [
+           "SORUCO, PABLO JAVIER"
+          ],
           "plazas": [
            "N°226960"
           ]
          },
          {
-          "materia": "ALBO, SANTIAGO D.",
-          "docentes": [],
+          "materia": "APLICACIONES DE REDES INFORMÁTICAS",
+          "docentes": [
+           "RACEDO, SERGIO DANIEL",
+           "ALBO, SANTIAGO D"
+          ],
           "plazas": [
            "N°345257"
           ]
@@ -7720,90 +7274,33 @@
        }
       },
       {
-       "hora": "16.20 17.00",
+       "hora": "16.20 A 18.20",
        "celdas": {
         "LUNES": [
          {
-          "materia": "ADAPTACIÓN EN EL",
+          "materia": "ADAPTACIÓN EN EL AMBIENTE DE TRABAJO",
           "docentes": [
-           "AMBIENTE DE TRABAJO"
+           "FERNANDEZ FERNANDEZ, DANA CAROL"
           ],
-          "plazas": []
-         },
-         {
-          "materia": "AUTOGESTIÓN EN EL",
-          "docentes": [
-           "MUNDO ECONÓMICO"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "APLICACIONES DE",
-          "docentes": [
-           "REDES INFORMÁTICAS"
-          ],
-          "plazas": []
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": [
-         {
-          "materia": "ADAPTACIÓN EN EL",
-          "docentes": [
-           "AMBIENTE DE TRABAJO"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "AUTOGESTIÓN EN EL",
-          "docentes": [
-           "MUNDO ECONÓMICO"
-          ],
-          "plazas": []
-         },
-         {
-          "materia": "APLICACIONES DE",
-          "docentes": [
-           "REDES INFORMÁTICAS"
-          ],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "17.00 17.40",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "17.40 18.20",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "TERI, ROQUE D.",
-          "docentes": [],
           "plazas": [
            "N°234607"
           ]
          },
          {
-          "materia": "SORUCO, PABLO J.",
-          "docentes": [],
+          "materia": "AUTOGESTIÓN EN EL MUNDO ECONÓMICO",
+          "docentes": [
+           "SORUCO, PABLO JAVIER"
+          ],
           "plazas": [
            "N°226960"
           ]
          },
          {
-          "materia": "ALBO, SANTIAGO D.",
-          "docentes": [],
+          "materia": "APLICACIONES DE REDES INFORMÁTICAS",
+          "docentes": [
+           "RACEDO, SERGIO DANIEL",
+           "ALBO, SANTIAGO D"
+          ],
           "plazas": [
            "N°345257"
           ]
@@ -7814,22 +7311,29 @@
         "JUEVES": [],
         "VIERNES": [
          {
-          "materia": "TERI, ROQUE D.",
-          "docentes": [],
+          "materia": "ADAPTACIÓN EN EL AMBIENTE DE TRABAJO",
+          "docentes": [
+           "FERNANDEZ FERNANDEZ, DANA CAROL"
+          ],
           "plazas": [
            "N°234607"
           ]
          },
          {
-          "materia": "SORUCO, PABLO J.",
-          "docentes": [],
+          "materia": "AUTOGESTIÓN EN EL MUNDO ECONÓMICO",
+          "docentes": [
+           "SORUCO, PABLO JAVIER"
+          ],
           "plazas": [
            "N°226960"
           ]
          },
          {
-          "materia": "ALBO, SANTIAGO D.",
-          "docentes": [],
+          "materia": "APLICACIONES DE REDES INFORMÁTICAS",
+          "docentes": [
+           "RACEDO, SERGIO DANIEL",
+           "ALBO, SANTIAGO D"
+          ],
           "plazas": [
            "N°345257"
           ]
@@ -7859,7 +7363,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "AMAYA, SERGIO E."
+           "AMAYA, SERGIO EDUARDO"
           ],
           "plazas": [
            "N°215740"
@@ -7879,7 +7383,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "AMAYA, SERGIO E."
+           "AMAYA, SERGIO EDUARDO"
           ],
           "plazas": [
            "N°215740"
@@ -7899,7 +7403,7 @@
          {
           "materia": "EDUCACIÓN FÍSICA",
           "docentes": [
-           "AMAYA, SERGIO E."
+           "AMAYA, SERGIO EDUARDO"
           ],
           "plazas": [
            "N°215740"

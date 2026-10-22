@@ -24,26 +24,28 @@
      ],
      "filas": [
       {
-       "hora": "14:00 a 14:40",
+       "hora": "14:00 A 14:40",
        "celdas": {
         "LUNES": [
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "TIT. VEGA, OSVALDO",
-           "PEDRO MARTINEZ (SUP.)"
+           "MARTINEZ, PEDRO ANTONIO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°21467"
+          ]
          }
         ],
         "MARTES": [
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "TIT. VEGA, OSVALDO",
-           "PEDRO MARTINEZ (SUP.)"
+           "MARTINEZ, PEDRO ANTONIO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°21467"
+          ]
          }
         ],
         "MIERCOLES": [
@@ -61,7 +63,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "CRUZ, CECILIA"
+           "CRUZ, CECILIA CELINA"
           ],
           "plazas": [
            "N°40947"
@@ -72,7 +74,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "JUAREZ DANIEL"
+           "JUAREZ, DANIEL ALBERTO"
           ],
           "plazas": [
            "N°237216"
@@ -82,26 +84,28 @@
        }
       },
       {
-       "hora": "14:40 a 15:20",
+       "hora": "14:40 A 15:20",
        "celdas": {
         "LUNES": [
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "TIT. VEGA, OSVALDO",
-           "PEDRO MARTINEZ (SUP.)"
+           "MARTINEZ, PEDRO ANTONIO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°21467"
+          ]
          }
         ],
         "MARTES": [
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "TIT. VEGA, OSVALDO",
-           "PEDRO MARTINEZ (SUP.)"
+           "MARTINEZ, PEDRO ANTONIO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°21467"
+          ]
          }
         ],
         "MIERCOLES": [
@@ -119,7 +123,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "CRUZ, CECILIA"
+           "CRUZ, CECILIA CELINA"
           ],
           "plazas": [
            "N°40947"
@@ -130,7 +134,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "JUAREZ DANIEL"
+           "JUAREZ, DANIEL ALBERTO"
           ],
           "plazas": [
            "N°237216"
@@ -140,13 +144,13 @@
        }
       },
       {
-       "hora": "15:30 a 16:10",
+       "hora": "15:30 A 16:10",
        "celdas": {
         "LUNES": [
          {
           "materia": "HISTORIA",
           "docentes": [
-           "SUARE, LILIANA NANCY"
+           "SUAREZ, LILIANA NANCY"
           ],
           "plazas": [
            "N°177439"
@@ -157,7 +161,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "SUARE, LILIANA NANCY"
+           "SUAREZ, LILIANA NANCY"
           ],
           "plazas": [
            "N°177439"
@@ -166,10 +170,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "FISICA - QUIMICA",
+          "materia": "FISICO-QUIMICA",
           "docentes": [
-           "TIT. CARRIZO MARTA",
-           "CORONEL, JESUS ALFREDO (SUP)"
+           "CORONEL, JESUS ALFREDO JOAQUIN"
           ],
           "plazas": [
            "N°111430"
@@ -178,10 +181,9 @@
         ],
         "JUEVES": [
          {
-          "materia": "FISICA - QUIMICA",
+          "materia": "FISICO-QUIMICA",
           "docentes": [
-           "TIT. CARRIZO MARTA",
-           "CORONEL, JESUS ALFREDO (SUP)"
+           "CORONEL, JESUS ALFREDO JOAQUIN"
           ],
           "plazas": [
            "N°111430"
@@ -195,14 +197,14 @@
            "CORREA, MARIA JIMENA"
           ],
           "plazas": [
-           "N° 33772"
+           "N°33772"
           ]
          }
         ]
        }
       },
       {
-       "hora": "16:10 a 16:50",
+       "hora": "16:10 A 16:50",
        "celdas": {
         "LUNES": [
          {
@@ -219,7 +221,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "SUARE, LILIANA NANCY"
+           "SUAREZ, LILIANA NANCY"
           ],
           "plazas": [
            "N°177439"
@@ -228,10 +230,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "FISICA - QUIMICA",
+          "materia": "FISICO-QUIMICA",
           "docentes": [
-           "TIT. CARRIZO MARTA",
-           "CORONEL, JESUS ALFREDO (SUP)"
+           "CORONEL, JESUS ALFREDO JOAQUIN"
           ],
           "plazas": [
            "N°111430"
@@ -240,12 +241,13 @@
         ],
         "JUEVES": [
          {
-          "materia": "LENGUA Y LITERATURA",
+          "materia": "LENGUA",
           "docentes": [
-           "TIT. GABRIELA CRUZ",
-           "S/PROFESOR"
+           "BUSTAMANTE, MARIA GENOVEVA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°121081"
+          ]
          }
         ],
         "VIERNES": [
@@ -255,52 +257,57 @@
            "CORREA, MARIA JIMENA"
           ],
           "plazas": [
-           "N° 33772"
+           "N°33772"
           ]
          }
         ]
        }
       },
       {
-       "hora": "16:55 a 17:35",
+       "hora": "16:55 A 17:35",
        "celdas": {
         "LUNES": [
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "SANCHEZ, VANESSA SOLEDAD"
           ],
-          "plazas": []
+          "plazas": [
+           "N°111474"
+          ]
          }
         ],
         "MARTES": [
          {
-          "materia": "LENGUA Y LITERATURA",
+          "materia": "LENGUA",
           "docentes": [
-           "TIT. GABRIELA CRUZ",
-           "S/PROFESOR"
+           "BUSTAMANTE, MARIA GENOVEVA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°121081"
+          ]
          }
         ],
         "MIERCOLES": [
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "S/PROFESOR"
+           "SANCHEZ, VANESSA SOLEDAD"
           ],
-          "plazas": []
+          "plazas": [
+           "N°111474"
+          ]
          }
         ],
         "JUEVES": [
          {
-          "materia": "LENGUA Y LITERATURA",
+          "materia": "LENGUA",
           "docentes": [
-           "TIT. GABRIELA CRUZ",
-           "S/PROFESOR"
+           "BUSTAMANTE, MARIA GENOVEVA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°121081"
+          ]
          }
         ],
         "VIERNES": [
@@ -310,69 +317,74 @@
            "CORREA, MARIA JIMENA"
           ],
           "plazas": [
-           "N° 110889"
+           "N°110889"
           ]
          }
         ]
        }
       },
       {
-       "hora": "17:35 a 18:15",
+       "hora": "17:35 A 18:15",
        "celdas": {
         "LUNES": [
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "SANCHEZ, VANESSA SOLEDAD"
           ],
-          "plazas": []
+          "plazas": [
+           "N°111474"
+          ]
          }
         ],
         "MARTES": [
          {
-          "materia": "LENGUA Y LITERATURA",
+          "materia": "LENGUA",
           "docentes": [
-           "TIT. GABRIELA CRUZ",
-           "S/PROFESOR"
+           "BUSTAMANTE, MARIA GENOVEVA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°121081"
+          ]
          }
         ],
         "MIERCOLES": [
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "SANCHEZ, VANESSA SOLEDAD"
           ],
-          "plazas": []
+          "plazas": [
+           "N°111474"
+          ]
          }
         ],
         "JUEVES": [
          {
-          "materia": "LENGUA Y LITERATURA",
+          "materia": "LENGUA",
           "docentes": [
-           "TIT. GABRIELA CRUZ",
-           "S/PROFESOR"
+           "BUSTAMANTE, MARIA GENOVEVA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°121081"
+          ]
          }
         ],
         "VIERNES": []
        }
       },
       {
-       "hora": "18:15 a 18:55",
+       "hora": "18:15 A 18:55",
        "celdas": {
         "LUNES": [
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "SANCHEZ, VANESSA SOLEDAD"
           ],
-          "plazas": []
+          "plazas": [
+           "N°111474"
+          ]
          }
         ],
         "MARTES": [],
@@ -380,7 +392,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "JUAREZ DANIEL"
+           "JUAREZ, DANIEL ALBERTO"
           ],
           "plazas": [
            "N°237216"
@@ -405,79 +417,33 @@
      ],
      "filas": [
       {
-       "hora": "07:50 A 08:30",
+       "hora": "07:50 A 10:00",
        "celdas": {
         "LUNES": [],
         "MARTES": [
          {
-          "materia": "TALLER TECNOLÓGICO \"CARPINTERIA\"",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLÓGICO \"GRANJA FAMILIAR\"",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLÓGICO - HUERTA FAMILIAR",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "TALLER TECNOLÓGICO \"CARPINTERIA\"",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLÓGICO \"GRANJA FAMILIAR\"",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLÓGICO - HUERTA FAMILIAR",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "08:30 A 09:10",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "09:20 A 10:00",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "VARELA FRANCO",
-          "docentes": [],
+          "materia": "\"CARPINTERIA\"",
+          "docentes": [
+           "VARELA, FRANCO DARIO"
+          ],
           "plazas": [
            "N°234778"
           ]
          },
          {
-          "materia": "DELGADO PAOLA VALERIA",
-          "docentes": [],
+          "materia": "\"GRANJA FAMILIAR\"",
+          "docentes": [
+           "DELGADO, PAOLA VALERIA"
+          ],
           "plazas": [
            "N°234777"
           ]
          },
          {
-          "materia": "AGUILAR, ARIEL FERNANDO",
-          "docentes": [],
+          "materia": "HUERTA FAMILIAR",
+          "docentes": [
+           "AGUILAR, ARIEL FERNANDO"
+          ],
           "plazas": [
            "N°234779"
           ]
@@ -486,22 +452,28 @@
         "MIERCOLES": [],
         "JUEVES": [
          {
-          "materia": "VARELA FRANCO",
-          "docentes": [],
+          "materia": "\"CARPINTERIA\"",
+          "docentes": [
+           "VARELA, FRANCO DARIO"
+          ],
           "plazas": [
            "N°234778"
           ]
          },
          {
-          "materia": "DELGADO PAOLA VALERIA",
-          "docentes": [],
+          "materia": "\"GRANJA FAMILIAR\"",
+          "docentes": [
+           "DELGADO, PAOLA VALERIA"
+          ],
           "plazas": [
            "N°234777"
           ]
          },
          {
-          "materia": "AGUILAR, ARIEL FERNANDO",
-          "docentes": [],
+          "materia": "HUERTA FAMILIAR",
+          "docentes": [
+           "AGUILAR, ARIEL FERNANDO"
+          ],
           "plazas": [
            "N°234779"
           ]
@@ -511,125 +483,63 @@
        }
       },
       {
-       "hora": "10:00 A 10:40",
+       "hora": "10:00 A 12:05",
        "celdas": {
         "LUNES": [],
         "MARTES": [
          {
-          "materia": "TALLER TECNOLÓGICO \"CARPINTERIA\"",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLÓGICO \"GRANJA FAMILIAR\"",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLÓGICO - HUERTA FAMILIAR",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "TALLER TECNOLÓGICO \"CARPINTERIA\"",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLÓGICO \"GRANJA FAMILIAR\"",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "TALLER TECNOLÓGICO - HUERTA FAMILIAR",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "10:45 A 11:25",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "11:25 a 12:05",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "VARELA FRANCO",
-          "docentes": [],
+          "materia": "\"CARPINTERIA\"",
+          "docentes": [
+           "VARELA, FRANCO DARIO"
+          ],
           "plazas": [
            "N°234778"
           ]
          },
          {
-          "materia": "DELGADO PAOLA VALERIA",
-          "docentes": [],
+          "materia": "\"GRANJA FAMILIAR\"",
+          "docentes": [
+           "DELGADO, PAOLA VALERIA"
+          ],
           "plazas": [
            "N°234777"
           ]
          },
          {
-          "materia": "AGUILAR, ARIEL FERNANDO",
-          "docentes": [],
+          "materia": "HUERTA FAMILIAR",
+          "docentes": [
+           "AGUILAR, ARIEL FERNANDO"
+          ],
           "plazas": [
            "N°234779"
           ]
          }
         ],
-        "MIERCOLES": [
-         {
-          "materia": "PROFESOR",
-          "docentes": [],
-          "plazas": [
-           "N°15263"
-          ]
-         },
-         {
-          "materia": "PROFESOR",
-          "docentes": [],
-          "plazas": [
-           "N°15263"
-          ]
-         },
-         {
-          "materia": "PROFESOR",
-          "docentes": [],
-          "plazas": [
-           "N°15263"
-          ]
-         }
-        ],
+        "MIERCOLES": [],
         "JUEVES": [
          {
-          "materia": "VARELA FRANCO",
-          "docentes": [],
+          "materia": "\"CARPINTERIA\"",
+          "docentes": [
+           "VARELA, FRANCO DARIO"
+          ],
           "plazas": [
            "N°234778"
           ]
          },
          {
-          "materia": "DELGADO PAOLA VALERIA",
-          "docentes": [],
+          "materia": "\"GRANJA FAMILIAR\"",
+          "docentes": [
+           "DELGADO, PAOLA VALERIA"
+          ],
           "plazas": [
            "N°234777"
           ]
          },
          {
-          "materia": "AGUILAR, ARIEL FERNANDO",
-          "docentes": [],
+          "materia": "HUERTA FAMILIAR",
+          "docentes": [
+           "AGUILAR, ARIEL FERNANDO"
+          ],
           "plazas": [
            "N°234779"
           ]
@@ -652,7 +562,7 @@
      ],
      "filas": [
       {
-       "hora": "10:00 a 11:00",
+       "hora": "10:00 A 11:00",
        "celdas": {
         "LUNES": [],
         "MARTES": [],
@@ -662,7 +572,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "Dunat Ernesto"
+           "DUNAT, ERNESTO ANTONIO"
           ],
           "plazas": [
            "N°7225"
@@ -672,7 +582,7 @@
        }
       },
       {
-       "hora": "11:00 a 12:00",
+       "hora": "11:00 A 12:00",
        "celdas": {
         "LUNES": [],
         "MARTES": [],
@@ -682,7 +592,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "Dunat Ernesto"
+           "DUNAT, ERNESTO ANTONIO"
           ],
           "plazas": [
            "N°7225"
@@ -715,16 +625,17 @@
      ],
      "filas": [
       {
-       "hora": "14:00 a 14:40",
+       "hora": "14:00 A 14:40",
        "celdas": {
         "LUNES": [
          {
-          "materia": "FISICA: TIT. PASTRANA JUAN CARLOS",
+          "materia": "FISICA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "PONDAL, ROQUE VICENTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°24603"
+          ]
          }
         ],
         "MARTES": [
@@ -740,47 +651,53 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "LENGUA Y LITERATURA TIT. GABRIELA CRUZ",
+          "materia": "LENGUA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "BUSTAMANTE, MARIA GENOVEVA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°179016",
+           "N°263782"
+          ]
          }
         ],
         "JUEVES": [
          {
-          "materia": "DIBUJO TECNICO TIT. MARTINEZ PEDRO",
+          "materia": "DIBUJO TECNICO",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "PUJOL, ROBERTO JULIAN"
           ],
-          "plazas": []
+          "plazas": [
+           "N°111073",
+           "N°111163"
+          ]
          }
         ],
         "VIERNES": [
          {
           "materia": "QUIMICA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "PONDAL, ROQUE VICENTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°21215"
+          ]
          }
         ]
        }
       },
       {
-       "hora": "14:40 a 15:20",
+       "hora": "14:40 A 15:20",
        "celdas": {
         "LUNES": [
          {
-          "materia": "FISICA: TIT. PASTRANA JUAN CARLOS",
+          "materia": "FISICA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "PONDAL, ROQUE VICENTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°24603"
+          ]
          }
         ],
         "MARTES": [
@@ -796,112 +713,128 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "LENGUA Y LITERATURA TIT. GABRIELA CRUZ",
+          "materia": "LENGUA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "BUSTAMANTE, MARIA GENOVEVA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°179016",
+           "N°263782"
+          ]
          }
         ],
         "JUEVES": [
          {
-          "materia": "DIBUJO TECNICO TIT. MARTINEZ PEDRO",
+          "materia": "DIBUJO TECNICO",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "PUJOL, ROBERTO JULIAN"
           ],
-          "plazas": []
+          "plazas": [
+           "N°111073",
+           "N°111163"
+          ]
          }
         ],
         "VIERNES": [
          {
           "materia": "QUIMICA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "PONDAL, ROQUE VICENTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°21215"
+          ]
          }
         ]
        }
       },
       {
-       "hora": "15:30 a 16:10",
+       "hora": "15:30 A 16:10",
        "celdas": {
         "LUNES": [
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "SANCHEZ, VANESSA SOLEDAD"
           ],
-          "plazas": []
+          "plazas": [
+           "N°124833"
+          ]
          }
         ],
         "MARTES": [
          {
-          "materia": "LENGUA Y LITERATURA TIT. GABRIELA CRUZ",
+          "materia": "LENGUA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "BUSTAMANTE, MARIA GENOVEVA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°179016",
+           "N°263782"
+          ]
          }
         ],
         "MIERCOLES": [
          {
-          "materia": "LENGUA Y LITERATURA TIT. GABRIELA CRUZ",
+          "materia": "LENGUA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "BUSTAMANTE, MARIA GENOVEVA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°179016",
+           "N°263782"
+          ]
          }
         ],
         "JUEVES": [
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "SANCHEZ, VANESSA SOLEDAD"
           ],
-          "plazas": []
+          "plazas": [
+           "N°124833"
+          ]
          }
         ],
         "VIERNES": [
          {
-          "materia": "DIBUJO TECNICO TIT. MARTINEZ PEDRO",
+          "materia": "DIBUJO TECNICO",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "PUJOL, ROBERTO JULIAN"
           ],
-          "plazas": []
+          "plazas": [
+           "N°111073",
+           "N°111163"
+          ]
          }
         ]
        }
       },
       {
-       "hora": "16:10 a 16:50",
+       "hora": "16:10 A 16:50",
        "celdas": {
         "LUNES": [
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "SANCHEZ, VANESSA SOLEDAD"
           ],
-          "plazas": []
+          "plazas": [
+           "N°124833"
+          ]
          }
         ],
         "MARTES": [
          {
-          "materia": "LENGUA Y LITERATURA TIT. GABRIELA CRUZ",
+          "materia": "LENGUA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "BUSTAMANTE, MARIA GENOVEVA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°179016",
+           "N°263782"
+          ]
          }
         ],
         "MIERCOLES": [
@@ -919,26 +852,29 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "SANCHEZ, VANESSA SOLEDAD"
           ],
-          "plazas": []
+          "plazas": [
+           "N°124833"
+          ]
          }
         ],
         "VIERNES": [
          {
-          "materia": "DIBUJO TECNICO TIT. MARTINEZ PEDRO",
+          "materia": "DIBUJO TECNICO",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "PUJOL, ROBERTO JULIAN"
           ],
-          "plazas": []
+          "plazas": [
+           "N°111073",
+           "N°111163"
+          ]
          }
         ]
        }
       },
       {
-       "hora": "16:55 a 17:35",
+       "hora": "16:55 A 17:35",
        "celdas": {
         "LUNES": [
          {
@@ -977,26 +913,28 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "SANCHEZ, VANESSA SOLEDAD"
           ],
-          "plazas": []
+          "plazas": [
+           "N°124833"
+          ]
          }
         ],
         "VIERNES": [
          {
-          "materia": "FISICA: TIT. PASTRANA JUAN CARLOS",
+          "materia": "FISICA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "PONDAL, ROQUE VICENTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°24603"
+          ]
          }
         ]
        }
       },
       {
-       "hora": "17:35 a 18:15",
+       "hora": "17:35 A 18:15",
        "celdas": {
         "LUNES": [
          {
@@ -1033,28 +971,30 @@
         ],
         "JUEVES": [
          {
-          "materia": "EDUCACION ETICA",
+          "materia": "EDUCACION ETICA Y CIUDADANA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "SUAREZ, LILIANA NANCY"
           ],
-          "plazas": []
+          "plazas": [
+           "N°237241"
+          ]
          }
         ],
         "VIERNES": [
          {
-          "materia": "FISICA: TIT. PASTRANA JUAN CARLOS",
+          "materia": "FISICA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "PONDAL, ROQUE VICENTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°24603"
+          ]
          }
         ]
        }
       },
       {
-       "hora": "18:15 a 18:55",
+       "hora": "18:15 A 18:55",
        "celdas": {
         "LUNES": [
          {
@@ -1081,12 +1021,13 @@
         "MIERCOLES": [],
         "JUEVES": [
          {
-          "materia": "EDUCACION ETICA",
+          "materia": "EDUCACION ETICA Y CIUDADANA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "SUAREZ, LILIANA NANCY"
           ],
-          "plazas": []
+          "plazas": [
+           "N°237241"
+          ]
          }
         ],
         "VIERNES": []
@@ -1106,78 +1047,32 @@
      ],
      "filas": [
       {
-       "hora": "07:50 A 08:30",
+       "hora": "07:50 A 10:00",
        "celdas": {
         "LUNES": [
          {
-          "materia": "T.T. PRODUCCIÓN DE PLANTAS EN VIVEROS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T.GRANJA FAMILIAR",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T. HOJALATERIA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "T.T. PRODUCCIÓN DE PLANTAS EN VIVEROS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T.GRANJA FAMILIAR",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T. HOJALATERIA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "08:30 A 09:10",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "09:20 A 10:00",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "AGUILAR, ARIEL FERNANDO",
-          "docentes": [],
+          "materia": "PRODUCCIÓN DE PLANTAS EN VIVEROS",
+          "docentes": [
+           "AGUILAR, ARIEL FERNANDO"
+          ],
           "plazas": [
            "N°234779"
           ]
          },
          {
-          "materia": "DELGADO, PAOLA VALERIA",
-          "docentes": [],
+          "materia": "GRANJA FAMILIAR",
+          "docentes": [
+           "DELGADO, PAOLA VALERIA"
+          ],
           "plazas": [
            "N°234777"
           ]
          },
          {
-          "materia": "PROFESOR VARELA, FRANCO DARIO",
-          "docentes": [],
+          "materia": "HOJALATERIA",
+          "docentes": [
+           "VARELA, FRANCO DARIO"
+          ],
           "plazas": [
            "N°234778"
           ]
@@ -1186,22 +1081,28 @@
         "MARTES": [],
         "MIERCOLES": [
          {
-          "materia": "AGUILAR, ARIEL FERNANDO",
-          "docentes": [],
+          "materia": "PRODUCCIÓN DE PLANTAS EN VIVEROS",
+          "docentes": [
+           "AGUILAR, ARIEL FERNANDO"
+          ],
           "plazas": [
            "N°234779"
           ]
          },
          {
-          "materia": "DELGADO, PAOLA VALERIA",
-          "docentes": [],
+          "materia": "GRANJA FAMILIAR",
+          "docentes": [
+           "DELGADO, PAOLA VALERIA"
+          ],
           "plazas": [
            "N°234777"
           ]
          },
          {
-          "materia": "PROFESOR VARELA, FRANCO DARIO",
-          "docentes": [],
+          "materia": "HOJALATERIA",
+          "docentes": [
+           "VARELA, FRANCO DARIO"
+          ],
           "plazas": [
            "N°234778"
           ]
@@ -1212,78 +1113,32 @@
        }
       },
       {
-       "hora": "10:00 A 10:40",
+       "hora": "10:00 A 12:05",
        "celdas": {
         "LUNES": [
          {
-          "materia": "T.T. PRODUCCIÓN DE PLANTAS EN VIVEROS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T.GRANJA FAMILIAR",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T. HOJALATERIA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "T.T. PRODUCCIÓN DE PLANTAS EN VIVEROS",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T.GRANJA FAMILIAR",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T. HOJALATERIA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "10:45 A 11:25",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "11:25 a 12:05",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "AGUILAR, ARIEL FERNANDO",
-          "docentes": [],
+          "materia": "PRODUCCIÓN DE PLANTAS EN VIVEROS",
+          "docentes": [
+           "AGUILAR, ARIEL FERNANDO"
+          ],
           "plazas": [
            "N°234779"
           ]
          },
          {
-          "materia": "DELGADO, PAOLA VALERIA",
-          "docentes": [],
+          "materia": "GRANJA FAMILIAR",
+          "docentes": [
+           "DELGADO, PAOLA VALERIA"
+          ],
           "plazas": [
            "N°234777"
           ]
          },
          {
-          "materia": "PROFESOR VARELA, FRANCO DARIO",
-          "docentes": [],
+          "materia": "HOJALATERIA",
+          "docentes": [
+           "VARELA, FRANCO DARIO"
+          ],
           "plazas": [
            "N°234778"
           ]
@@ -1292,22 +1147,28 @@
         "MARTES": [],
         "MIERCOLES": [
          {
-          "materia": "AGUILAR, ARIEL FERNANDO",
-          "docentes": [],
+          "materia": "PRODUCCIÓN DE PLANTAS EN VIVEROS",
+          "docentes": [
+           "AGUILAR, ARIEL FERNANDO"
+          ],
           "plazas": [
            "N°234779"
           ]
          },
          {
-          "materia": "DELGADO, PAOLA VALERIA",
-          "docentes": [],
+          "materia": "GRANJA FAMILIAR",
+          "docentes": [
+           "DELGADO, PAOLA VALERIA"
+          ],
           "plazas": [
            "N°234777"
           ]
          },
          {
-          "materia": "PROFESOR VARELA, FRANCO DARIO",
-          "docentes": [],
+          "materia": "HOJALATERIA",
+          "docentes": [
+           "VARELA, FRANCO DARIO"
+          ],
           "plazas": [
            "N°234778"
           ]
@@ -1376,7 +1237,7 @@
   },
   {
    "hoja": "3°AÑO",
-   "curso": "3ero",
+   "curso": "3ERO",
    "division": "UNICA",
    "ciclo": "BASICO",
    "resolucion": "106/5 MED",
@@ -1394,7 +1255,7 @@
      ],
      "filas": [
       {
-       "hora": "14:00 a 14:40",
+       "hora": "14:00 A 14:40",
        "celdas": {
         "LUNES": [
          {
@@ -1409,9 +1270,9 @@
         ],
         "MARTES": [
          {
-          "materia": "LENGUA TIT. CRUZ. GABRIELA F.",
+          "materia": "LENGUA",
           "docentes": [
-           "MORENO, MARIA JOSE (SUP)"
+           "MORENO, MARIA JOSE"
           ],
           "plazas": [
            "N°263047"
@@ -1431,28 +1292,33 @@
         ],
         "JUEVES": [
          {
-          "materia": "FISICA TIT. QUINTEROS HECTOR",
+          "materia": "FISICA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "CHAILE, NURIA CELESTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°14080",
+           "N°49406",
+           "N°213442"
+          ]
          }
         ],
         "VIERNES": [
          {
-          "materia": "DIBUJO TECNICO TIR. MARTINEZ PEDRO A.",
+          "materia": "DIBUJO TECNICO",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "PUJOL, ROBERTO JULIAN"
           ],
-          "plazas": []
+          "plazas": [
+           "N°111425",
+           "N°111469"
+          ]
          }
         ]
        }
       },
       {
-       "hora": "14:40 a 15:20",
+       "hora": "14:40 A 15:20",
        "celdas": {
         "LUNES": [
          {
@@ -1467,9 +1333,9 @@
         ],
         "MARTES": [
          {
-          "materia": "LENGUA TIT. CRUZ. GABRIELA F.",
+          "materia": "LENGUA",
           "docentes": [
-           "MORENO, MARIA JOSE (SUP)"
+           "MORENO, MARIA JOSE"
           ],
           "plazas": [
            "N°263047"
@@ -1489,47 +1355,55 @@
         ],
         "JUEVES": [
          {
-          "materia": "FISICA TIT. QUINTEROS HECTOR",
+          "materia": "FISICA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "CHAILE, NURIA CELESTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°14080",
+           "N°49406",
+           "N°213442"
+          ]
          }
         ],
         "VIERNES": [
          {
-          "materia": "DIBUJO TECNICO TIR. MARTINEZ PEDRO A.",
+          "materia": "DIBUJO TECNICO",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "PUJOL, ROBERTO JULIAN"
           ],
-          "plazas": []
+          "plazas": [
+           "N°111425",
+           "N°111469"
+          ]
          }
         ]
        }
       },
       {
-       "hora": "15:30 a 16:10",
+       "hora": "15:30 A 16:10",
        "celdas": {
         "LUNES": [
          {
-          "materia": "DIBUJO TECNICO TIR. MARTINEZ PEDRO A.",
+          "materia": "DIBUJO TECNICO",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "PUJOL, ROBERTO JULIAN"
           ],
-          "plazas": []
+          "plazas": [
+           "N°111425",
+           "N°111469"
+          ]
          }
         ],
         "MARTES": [
          {
           "materia": "QUIMICA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "GONZALEZ, NICOLAS ARIEL"
           ],
-          "plazas": []
+          "plazas": [
+           "N°33190"
+          ]
          }
         ],
         "MIERCOLES": [
@@ -1545,47 +1419,54 @@
         ],
         "JUEVES": [
          {
-          "materia": "FISICA TIT. QUINTEROS HECTOR",
+          "materia": "FISICA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "CHAILE, NURIA CELESTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°14080",
+           "N°49406",
+           "N°213442"
+          ]
          }
         ],
         "VIERNES": [
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "SANCHEZ, VANESSA SOLEDAD"
           ],
-          "plazas": []
+          "plazas": [
+           "N°237234"
+          ]
          }
         ]
        }
       },
       {
-       "hora": "16:10 a 16:50",
+       "hora": "16:10 A 16:50",
        "celdas": {
         "LUNES": [
          {
-          "materia": "DIBUJO TECNICO TIR. MARTINEZ PEDRO A.",
+          "materia": "DIBUJO TECNICO",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "PUJOL, ROBERTO JULIAN"
           ],
-          "plazas": []
+          "plazas": [
+           "N°111425",
+           "N°111469"
+          ]
          }
         ],
         "MARTES": [
          {
           "materia": "QUIMICA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "GONZALEZ, NICOLAS ARIEL"
           ],
-          "plazas": []
+          "plazas": [
+           "N°33190"
+          ]
          }
         ],
         "MIERCOLES": [
@@ -1614,80 +1495,23 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "SANCHEZ, VANESSA SOLEDAD"
           ],
-          "plazas": []
+          "plazas": [
+           "N°237234"
+          ]
          }
         ]
        }
       },
       {
-       "hora": "16:55 a 17:35",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "LENGUA TIT. CRUZ. GABRIELA F.",
-          "docentes": [
-           "MORENO, MARIA JOSE (SUP)"
-          ],
-          "plazas": [
-           "N°263047"
-          ]
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "MATEMATICA",
-          "docentes": [
-           "S/PROFESOR",
-           "N°"
-          ],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "BIOLOGIA",
-          "docentes": [
-           "MENA, LILIA ELIZABETH"
-          ],
-          "plazas": [
-           "N°36058"
-          ]
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "HISTORIA",
-          "docentes": [
-           "YAPURA, GLORIA NANCY"
-          ],
-          "plazas": [
-           "N°5910"
-          ]
-         }
-        ],
-        "VIERNES": [
-         {
-          "materia": "FISICA TIT. QUINTEROS HECTOR",
-          "docentes": [
-           "S/PROFESOR",
-           "N°"
-          ],
-          "plazas": []
-         }
-        ]
-       }
-      },
-      {
-       "hora": "17:35 a 18:15",
+       "hora": "16:55 A 17:35",
        "celdas": {
         "LUNES": [
          {
           "materia": "LENGUA",
           "docentes": [
-           "MORENO, MARIA JOSE (SUP)"
+           "MORENO, MARIA JOSE"
           ],
           "plazas": [
            "N°263047"
@@ -1698,10 +1522,11 @@
          {
           "materia": "MATEMATICA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "SANCHEZ, VANESSA SOLEDAD"
           ],
-          "plazas": []
+          "plazas": [
+           "N°237234"
+          ]
          }
         ],
         "MIERCOLES": [
@@ -1728,27 +1553,93 @@
         ],
         "VIERNES": [
          {
-          "materia": "FISICA TIT. QUINTEROS HECTOR",
+          "materia": "FISICA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "CHAILE, NURIA CELESTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°14080",
+           "N°49406",
+           "N°213442"
+          ]
          }
         ]
        }
       },
       {
-       "hora": "18:15 a 18:55",
+       "hora": "17:35 A 18:15",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "MORENO, MARIA JOSE"
+          ],
+          "plazas": [
+           "N°263047"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "SANCHEZ, VANESSA SOLEDAD"
+          ],
+          "plazas": [
+           "N°237234"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "BIOLOGIA",
+          "docentes": [
+           "MENA, LILIA ELIZABETH"
+          ],
+          "plazas": [
+           "N°36058"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "YAPURA, GLORIA NANCY"
+          ],
+          "plazas": [
+           "N°5910"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "FISICA",
+          "docentes": [
+           "CHAILE, NURIA CELESTE"
+          ],
+          "plazas": [
+           "N°14080",
+           "N°49406",
+           "N°213442"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "18:15 A 18:55",
        "celdas": {
         "LUNES": [
          {
           "materia": "QUIMICA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "GONZALEZ, NICOLAS ARIEL"
           ],
-          "plazas": []
+          "plazas": [
+           "N°33190"
+          ]
          }
         ],
         "MARTES": [
@@ -1791,79 +1682,29 @@
      ],
      "filas": [
       {
-       "hora": "07:50 A 08:30",
+       "hora": "07:50 A 10:00",
        "celdas": {
         "LUNES": [
          {
-          "materia": "T.T. ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T.NUTRICION ANIMAL Y FORRAJE",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T.CLIMATOLOGIA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "T.T. ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T.NUTRICION ANIMAL Y FORRAJE",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T.CLIMATOLOGIA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "08:30 A 09:10",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "09:20 A 10:00",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "CATA CRUZ, VERONICA DAHIANA",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CATA CRUZ, VERONICA DAHIANA"
+          ],
           "plazas": [
-           "N°15263"
+           "N°236472"
           ]
          },
          {
-          "materia": "ANDRADE DANI ENRIQUE (REUB)",
+          "materia": "NUTRICION ANIMAL Y FORRAJE",
           "docentes": [
-           "N°"
+           "ANDRADE DANI ENRIQUE"
           ],
           "plazas": []
          },
          {
-          "materia": "LERA, MARIO RAUL (REUB)",
+          "materia": "CLIMATOLOGIA",
           "docentes": [
-           "N°"
+           "LERA, MARIO RAUL"
           ],
           "plazas": []
          }
@@ -1871,23 +1712,25 @@
         "MARTES": [],
         "MIERCOLES": [
          {
-          "materia": "CATA CRUZ, VERONICA DAHIANA",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CATA CRUZ, VERONICA DAHIANA"
+          ],
           "plazas": [
-           "N°15263"
+           "N°236472"
           ]
          },
          {
-          "materia": "ANDRADE DANI ENRIQUE (REUB)",
+          "materia": "NUTRICION ANIMAL Y FORRAJE",
           "docentes": [
-           "N°"
+           "ANDRADE DANI ENRIQUE"
           ],
           "plazas": []
          },
          {
-          "materia": "LERA, MARIO RAUL (REUB)",
+          "materia": "CLIMATOLOGIA",
           "docentes": [
-           "N°"
+           "LERA, MARIO RAUL"
           ],
           "plazas": []
          }
@@ -1897,79 +1740,29 @@
        }
       },
       {
-       "hora": "10:00 A 10:40",
+       "hora": "10:00 A 12:05",
        "celdas": {
         "LUNES": [
          {
-          "materia": "T.T. ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T.NUTRICION ANIMAL Y FORRAJE",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T.CLIMATOLOGIA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "T.T. ELECTRICIDAD",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T.NUTRICION ANIMAL Y FORRAJE",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T.CLIMATOLOGIA",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "10:45 A 11:25",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "11:25 a 12:05",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "CATA CRUZ, VERONICA DAHIANA",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CATA CRUZ, VERONICA DAHIANA"
+          ],
           "plazas": [
-           "N°15263"
+           "N°236472"
           ]
          },
          {
-          "materia": "ANDRADE DANI ENRIQUE (REUB)",
+          "materia": "NUTRICION ANIMAL Y FORRAJE",
           "docentes": [
-           "N°"
+           "ANDRADE DANI ENRIQUE"
           ],
           "plazas": []
          },
          {
-          "materia": "LERA, MARIO RAUL (REUB)",
+          "materia": "CLIMATOLOGIA",
           "docentes": [
-           "N°"
+           "LERA, MARIO RAUL"
           ],
           "plazas": []
          }
@@ -1977,23 +1770,25 @@
         "MARTES": [],
         "MIERCOLES": [
          {
-          "materia": "CATA CRUZ, VERONICA DAHIANA",
-          "docentes": [],
+          "materia": "ELECTRICIDAD",
+          "docentes": [
+           "CATA CRUZ, VERONICA DAHIANA"
+          ],
           "plazas": [
-           "N°15263"
+           "N°236472"
           ]
          },
          {
-          "materia": "ANDRADE DANI ENRIQUE (REUB)",
+          "materia": "NUTRICION ANIMAL Y FORRAJE",
           "docentes": [
-           "N°"
+           "ANDRADE DANI ENRIQUE"
           ],
           "plazas": []
          },
          {
-          "materia": "LERA, MARIO RAUL (REUB)",
+          "materia": "CLIMATOLOGIA",
           "docentes": [
-           "N°"
+           "LERA, MARIO RAUL"
           ],
           "plazas": []
          }
@@ -2016,7 +1811,7 @@
      ],
      "filas": [
       {
-       "hora": "10:00 a 11:00",
+       "hora": "10:00 A 11:00",
        "celdas": {
         "LUNES": [],
         "MARTES": [],
@@ -2036,7 +1831,7 @@
        }
       },
       {
-       "hora": "11:00 a 12:00",
+       "hora": "11:00 A 12:00",
        "celdas": {
         "LUNES": [],
         "MARTES": [],
@@ -2238,7 +2033,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "CAMPERO, SILVIA CAROLINA"
+           "GONZALEZ, NICOLAS ARIEL"
           ],
           "plazas": [
            "N°4769"
@@ -2298,7 +2093,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "CAMPERO, SILVIA CAROLINA"
+           "GONZALEZ, NICOLAS ARIEL"
           ],
           "plazas": [
            "N°4769"
@@ -2307,7 +2102,7 @@
         ],
         "VIERNES": [
          {
-          "materia": "FISICA TIT. GONZALEZ, GUILLERMO A.",
+          "materia": "FISICA",
           "docentes": [
            "SUÁREZ, FIDEL DANIEL"
           ],
@@ -2347,7 +2142,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "CAMPERO, SILVIA CAROLINA"
+           "GONZALEZ, NICOLAS ARIEL"
           ],
           "plazas": [
            "N°178592"
@@ -2367,7 +2162,7 @@
         ],
         "VIERNES": [
          {
-          "materia": "FISICA TIT. GONZALEZ, GUILLERMO A.",
+          "materia": "FISICA",
           "docentes": [
            "SUÁREZ, FIDEL DANIEL"
           ],
@@ -2379,7 +2174,7 @@
        }
       },
       {
-       "hora": "11:25 a 12:05",
+       "hora": "11:25 A 12:05",
        "celdas": {
         "LUNES": [
          {
@@ -2407,7 +2202,7 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "CAMPERO, SILVIA CAROLINA"
+           "GONZALEZ, NICOLAS ARIEL"
           ],
           "plazas": [
            "N°178592"
@@ -2427,7 +2222,7 @@
         ],
         "VIERNES": [
          {
-          "materia": "FISICA TIT. GONZALEZ, GUILLERMO A.",
+          "materia": "FISICA",
           "docentes": [
            "SUÁREZ, FIDEL DANIEL"
           ],
@@ -2439,7 +2234,7 @@
        }
       },
       {
-       "hora": "12:05 a 12:45",
+       "hora": "12:05 A 12:45",
        "celdas": {
         "LUNES": [],
         "MARTES": [],
@@ -2456,7 +2251,7 @@
         ],
         "JUEVES": [
          {
-          "materia": "FISICA TIT. GONZALEZ, GUILLERMO A.",
+          "materia": "FISICA",
           "docentes": [
            "SUÁREZ, FIDEL DANIEL"
           ],
@@ -2492,79 +2287,31 @@
      ],
      "filas": [
       {
-       "hora": "14:00 a 14:40",
+       "hora": "14:00 A 16:10",
        "celdas": {
         "LUNES": [],
         "MARTES": [
          {
-          "materia": "T.T. ZOOLOGIA AGRARIA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T. AGRICULTURA GENERAL",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T. SANIDAD Y REPRODUCCIÓN ANIMAL",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "T.T. ZOOLOGIA AGRARIA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T. AGRICULTURA GENERAL",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T. SANIDAD Y REPRODUCCIÓN ANIMAL",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "14:40 a 15:20",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "15:30 a 16:10",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "CRUZ, ROQUE ANTONIO",
-          "docentes": [],
+          "materia": "ZOOLOGIA AGRARIA",
+          "docentes": [
+           "VACANTE"
+          ],
           "plazas": [
            "N°236473"
           ]
          },
          {
-          "materia": "LERA, MARIO RAUL (REU.)",
+          "materia": "AGRICULTURA GENERAL",
           "docentes": [
-           "N°S/PLAZAS"
+           "LERA, MARIO RAUL"
           ],
           "plazas": []
          },
          {
-          "materia": "SUÁREZ, FIDEL DANIEL",
-          "docentes": [],
+          "materia": "SANIDAD Y REPRODUCCIÓN ANIMAL",
+          "docentes": [
+           "SUÁREZ, FIDEL DANIEL"
+          ],
           "plazas": [
            "N°234780"
           ]
@@ -2573,22 +2320,26 @@
         "MIERCOLES": [],
         "JUEVES": [
          {
-          "materia": "CRUZ, ROQUE ANTONIO",
-          "docentes": [],
+          "materia": "ZOOLOGIA AGRARIA",
+          "docentes": [
+           "VACANTE"
+          ],
           "plazas": [
            "N°236473"
           ]
          },
          {
-          "materia": "LERA, MARIO RAUL (REU.)",
+          "materia": "AGRICULTURA GENERAL",
           "docentes": [
-           "N°S/PLAZAS"
+           "LERA, MARIO RAUL"
           ],
           "plazas": []
          },
          {
-          "materia": "SUÁREZ, FIDEL DANIEL",
-          "docentes": [],
+          "materia": "SANIDAD Y REPRODUCCIÓN ANIMAL",
+          "docentes": [
+           "SUÁREZ, FIDEL DANIEL"
+          ],
           "plazas": [
            "N°234780"
           ]
@@ -2598,79 +2349,31 @@
        }
       },
       {
-       "hora": "16:10 a 16:50",
+       "hora": "16:10 A 18:15",
        "celdas": {
         "LUNES": [],
         "MARTES": [
          {
-          "materia": "T.T. ZOOLOGIA AGRARIA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T. AGRICULTURA GENERAL",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T. SANIDAD Y REPRODUCCIÓN ANIMAL",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [],
-        "JUEVES": [
-         {
-          "materia": "T.T. ZOOLOGIA AGRARIA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T. AGRICULTURA GENERAL",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T. SANIDAD Y REPRODUCCIÓN ANIMAL",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "16:55 a 17:35",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "17:35 a 18:15",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [
-         {
-          "materia": "CRUZ, ROQUE ANTONIO",
-          "docentes": [],
+          "materia": "ZOOLOGIA AGRARIA",
+          "docentes": [
+           "VACANTE"
+          ],
           "plazas": [
            "N°236473"
           ]
          },
          {
-          "materia": "LERA, MARIO RAUL (REU.)",
+          "materia": "AGRICULTURA GENERAL",
           "docentes": [
-           "N°S/PLAZAS"
+           "LERA, MARIO RAUL"
           ],
           "plazas": []
          },
          {
-          "materia": "SUÁREZ, FIDEL DANIEL",
-          "docentes": [],
+          "materia": "SANIDAD Y REPRODUCCIÓN ANIMAL",
+          "docentes": [
+           "SUÁREZ, FIDEL DANIEL"
+          ],
           "plazas": [
            "N°234780"
           ]
@@ -2679,22 +2382,26 @@
         "MIERCOLES": [],
         "JUEVES": [
          {
-          "materia": "CRUZ, ROQUE ANTONIO",
-          "docentes": [],
+          "materia": "ZOOLOGIA AGRARIA",
+          "docentes": [
+           "VACANTE"
+          ],
           "plazas": [
            "N°236473"
           ]
          },
          {
-          "materia": "LERA, MARIO RAUL (REU.)",
+          "materia": "AGRICULTURA GENERAL",
           "docentes": [
-           "N°S/PLAZAS"
+           "LERA, MARIO RAUL"
           ],
           "plazas": []
          },
          {
-          "materia": "SUÁREZ, FIDEL DANIEL",
-          "docentes": [],
+          "materia": "SANIDAD Y REPRODUCCIÓN ANIMAL",
+          "docentes": [
+           "SUÁREZ, FIDEL DANIEL"
+          ],
           "plazas": [
            "N°234780"
           ]
@@ -2795,12 +2502,13 @@
         ],
         "MARTES": [
          {
-          "materia": "APICULTURA TIT. VEGA OSVALDO ENRIQUE",
+          "materia": "APICULTURA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°178145"
+          ]
          }
         ],
         "MIERCOLES": [
@@ -2818,20 +2526,22 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "CRUZ, CECILIA CELINA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°349241"
+          ]
          }
         ],
         "VIERNES": [
          {
-          "materia": "APICULTURA TIT. VEGA OSVALDO ENRIQUE",
+          "materia": "APICULTURA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°178145"
+          ]
          }
         ]
        }
@@ -2852,12 +2562,13 @@
         ],
         "MARTES": [
          {
-          "materia": "APICULTURA TIT. VEGA OSVALDO ENRIQUE",
+          "materia": "APICULTURA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°178145"
+          ]
          }
         ],
         "MIERCOLES": [
@@ -2875,10 +2586,11 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "CRUZ, CECILIA CELINA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°349241"
+          ]
          }
         ],
         "VIERNES": [
@@ -2912,10 +2624,11 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "CRUZ, CECILIA CELINA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°349241"
+          ]
          }
         ],
         "MIERCOLES": [
@@ -3053,10 +2766,11 @@
          {
           "materia": "MATEMATICA APLICADA I",
           "docentes": [
-           "S/PROFESOR",
-           "Nº"
+           "CASTRO, VICTOR HUGO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°15063"
+          ]
          }
         ],
         "VIERNES": [
@@ -3073,14 +2787,13 @@
        }
       },
       {
-       "hora": "11:25 a 12:05",
+       "hora": "11:25 A 12:05",
        "celdas": {
         "LUNES": [
          {
           "materia": "SANIDAD Y TERAPEUTICA VEGETAL",
           "docentes": [
-           "DIAZ, LEOPOLDO DANTE (REUB),",
-           "N°S/PLAZAS"
+           "DIAZ, LEOPOLDO DANTE"
           ],
           "plazas": []
          }
@@ -3100,20 +2813,22 @@
          {
           "materia": "MATEMATICA APLICADA I",
           "docentes": [
-           "S/PROFESOR",
-           "Nº"
+           "CASTRO, VICTOR HUGO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°15063"
+          ]
          }
         ],
         "JUEVES": [
          {
           "materia": "MATEMATICA APLICADA I",
           "docentes": [
-           "S/PROFESOR",
-           "Nº"
+           "CASTRO, VICTOR HUGO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°15063"
+          ]
          }
         ],
         "VIERNES": [
@@ -3130,14 +2845,13 @@
        }
       },
       {
-       "hora": "12:05 a 12:45",
+       "hora": "12:05 A 12:45",
        "celdas": {
         "LUNES": [
          {
           "materia": "SANIDAD Y TERAPEUTICA VEGETAL",
           "docentes": [
-           "DIAZ, LEOPOLDO DANTE (REUB),",
-           "N°S/PLAZAS"
+           "DIAZ, LEOPOLDO DANTE"
           ],
           "plazas": []
          }
@@ -3146,8 +2860,7 @@
          {
           "materia": "SANIDAD Y TERAPEUTICA VEGETAL",
           "docentes": [
-           "DIAZ, LEOPOLDO DANTE (REUB),",
-           "N°S/PLAZAS"
+           "DIAZ, LEOPOLDO DANTE"
           ],
           "plazas": []
          }
@@ -3156,10 +2869,11 @@
          {
           "materia": "MATEMATICA APLICADA I",
           "docentes": [
-           "S/PROFESOR",
-           "Nº"
+           "CASTRO, VICTOR HUGO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°15063"
+          ]
          }
         ],
         "JUEVES": [],
@@ -3180,56 +2894,14 @@
      ],
      "filas": [
       {
-       "hora": "14:00 a 14:40",
+       "hora": "14:00 A 16:10",
        "celdas": {
         "LUNES": [
          {
-          "materia": "T.T. INDUSTRIAS DE PRODUCTOS VEGETALES",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "T.T.TALLER DE MAQUINARIAS AGRICOLAS",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "T.T.PRODUCCIÓN ANIMAL I",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "T.T.HORTICULTURA Y PRODUCCÓN DE FLORES",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "14:40 a 15:20",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "15:30 a 16:10",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "SEGURA, CESAREO HELIO",
-          "docentes": [],
+          "materia": "INDUSTRIAS DE PRODUCTOS VEGETALES",
+          "docentes": [
+           "SEGURA, CESAREO HELIO"
+          ],
           "plazas": [
            "N°234781"
           ]
@@ -3237,8 +2909,10 @@
         ],
         "MARTES": [
          {
-          "materia": "SEGURA, CESAREO HELIO",
-          "docentes": [],
+          "materia": "MAQUINARIAS AGRICOLAS",
+          "docentes": [
+           "SEGURA, CESAREO HELIO"
+          ],
           "plazas": [
            "N°234781"
           ]
@@ -3246,8 +2920,10 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "SEGURA, CESAREO HELIO",
-          "docentes": [],
+          "materia": "PRODUCCIÓN ANIMAL I",
+          "docentes": [
+           "SEGURA, CESAREO HELIO"
+          ],
           "plazas": [
            "N°234781"
           ]
@@ -3255,8 +2931,10 @@
         ],
         "JUEVES": [
          {
-          "materia": "SEGURA, CESAREO HELIO",
-          "docentes": [],
+          "materia": "HORTICULTURA Y PRODUCCION DE FLORES",
+          "docentes": [
+           "SEGURA, CESAREO HELIO"
+          ],
           "plazas": [
            "N°234781"
           ]
@@ -3266,56 +2944,14 @@
        }
       },
       {
-       "hora": "16:10 a 16:50",
+       "hora": "16:10 A 18:15",
        "celdas": {
         "LUNES": [
          {
-          "materia": "T.T. INDUSTRIAS DE PRODUCTOS VEGETALES",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "T.T.TALLER DE MAQUINARIAS AGRICOLAS",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "T.T.PRODUCCIÓN ANIMAL I",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "T.T.HORTICULTURA Y PRODUCCÓN DE FLORES",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "16:55 a 17:35",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "17:35 a 18:15",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "SEGURA, CESAREO HELIO",
-          "docentes": [],
+          "materia": "INDUSTRIAS DE PRODUCTOS VEGETALES",
+          "docentes": [
+           "SEGURA, CESAREO HELIO"
+          ],
           "plazas": [
            "N°234781"
           ]
@@ -3323,8 +2959,10 @@
         ],
         "MARTES": [
          {
-          "materia": "SEGURA, CESAREO HELIO",
-          "docentes": [],
+          "materia": "MAQUINARIAS AGRICOLAS",
+          "docentes": [
+           "SEGURA, CESAREO HELIO"
+          ],
           "plazas": [
            "N°234781"
           ]
@@ -3332,8 +2970,10 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "SEGURA, CESAREO HELIO",
-          "docentes": [],
+          "materia": "PRODUCCIÓN ANIMAL I",
+          "docentes": [
+           "SEGURA, CESAREO HELIO"
+          ],
           "plazas": [
            "N°234781"
           ]
@@ -3341,8 +2981,10 @@
         ],
         "JUEVES": [
          {
-          "materia": "SEGURA, CESAREO HELIO",
-          "docentes": [],
+          "materia": "HORTICULTURA Y PRODUCCION DE FLORES",
+          "docentes": [
+           "SEGURA, CESAREO HELIO"
+          ],
           "plazas": [
            "N°234781"
           ]
@@ -3437,7 +3079,7 @@
            "BALDERRAMA, MARIA BELEN"
           ],
           "plazas": [
-           "Nº 177581"
+           "N°177581"
           ]
          }
         ],
@@ -3445,10 +3087,11 @@
          {
           "materia": "RELACIONES HUMANAS",
           "docentes": [
-           "S/PROFESOR",
-           "Nº"
+           "CHEHIN, EMA CONSTANZA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°37587"
+          ]
          }
         ],
         "MIERCOLES": [
@@ -3458,7 +3101,7 @@
            "JUAREZ, DANIEL ALBERTO"
           ],
           "plazas": [
-           "Nº 237221"
+           "N°237221"
           ]
          }
         ],
@@ -3469,18 +3112,19 @@
            "BALDERRAMA, MARIA BELEN"
           ],
           "plazas": [
-           "Nº 177581"
+           "N°177581"
           ]
          }
         ],
         "VIERNES": [
          {
-          "materia": "MATEMATICA APLICADA II TIT. GONZALEZ GUILLERMO",
+          "materia": "MATEMATICA APLICADA II",
           "docentes": [
-           "S/PROFESOR",
-           "Nº"
+           "MOYA, GERARDO GUSTAVO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°234783"
+          ]
          }
         ]
        }
@@ -3495,7 +3139,7 @@
            "BALDERRAMA, MARIA BELEN"
           ],
           "plazas": [
-           "Nº 177581"
+           "N°177581"
           ]
          }
         ],
@@ -3503,10 +3147,11 @@
          {
           "materia": "RELACIONES HUMANAS",
           "docentes": [
-           "S/PROFESOR",
-           "Nº"
+           "CHEHIN, EMA CONSTANZA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°37587"
+          ]
          }
         ],
         "MIERCOLES": [
@@ -3516,7 +3161,7 @@
            "JUAREZ, DANIEL ALBERTO"
           ],
           "plazas": [
-           "Nº 237221"
+           "N°237221"
           ]
          }
         ],
@@ -3527,18 +3172,19 @@
            "BALDERRAMA, MARIA BELEN"
           ],
           "plazas": [
-           "Nº 177581"
+           "N°177581"
           ]
          }
         ],
         "VIERNES": [
          {
-          "materia": "MATEMATICA APLICADA II TIT. GONZALEZ GUILLERMO",
+          "materia": "MATEMATICA APLICADA II",
           "docentes": [
-           "S/PROFESOR",
-           "Nº"
+           "MOYA, GERARDO GUSTAVO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°234783"
+          ]
          }
         ]
        }
@@ -3548,52 +3194,59 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "AGROINDUSTRIAS DE TUCUMAN TIT. VEGA OSVALDO",
+          "materia": "AGROINDUSTRIAS DE TUCUMAN",
           "docentes": [
-           "S/PROFESOR",
-           "Nº"
+           "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°21463",
+           "N°355109"
+          ]
          }
         ],
         "MARTES": [
          {
           "materia": "ECONOMIA Y DESARROLLO RURAL",
           "docentes": [
-           "S/PROFESOR",
-           "Nº"
+           "VILLARREAL ZUÑIGA, SANTIAGO FAVIO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°196288",
+           "N°196289"
+          ]
          }
         ],
         "MIERCOLES": [
          {
           "materia": "CULTIVOS INDUSTRIALES",
           "docentes": [
-           "S/PROFESOR",
-           "Nº"
+           "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°355110"
+          ]
          }
         ],
         "JUEVES": [
          {
-          "materia": "SILVICULTURA TIT. VEGA OSVALOO",
+          "materia": "SILVICULTURA",
           "docentes": [
-           "Vera Mirta",
-           "Nº"
+           "VERA, MIRTA LUCIA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°234782"
+          ]
          }
         ],
         "VIERNES": [
          {
-          "materia": "MATEMATICA APLICADA II TIT. GONZALEZ GUILLERMO",
+          "materia": "MATEMATICA APLICADA II",
           "docentes": [
-           "S/PROFESOR",
-           "Nº"
+           "MOYA, GERARDO GUSTAVO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°234783"
+          ]
          }
         ]
        }
@@ -3603,42 +3256,49 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "AGROINDUSTRIAS DE TUCUMAN TIT. VEGA OSVALDO",
+          "materia": "AGROINDUSTRIAS DE TUCUMAN",
           "docentes": [
-           "S/PROFESOR",
-           "Nº"
+           "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°21463",
+           "N°355109"
+          ]
          }
         ],
         "MARTES": [
          {
           "materia": "ECONOMIA Y DESARROLLO RURAL",
           "docentes": [
-           "S/PROFESOR",
-           "Nº"
+           "VILLARREAL ZUÑIGA, SANTIAGO FAVIO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°196288",
+           "N°196289"
+          ]
          }
         ],
         "MIERCOLES": [
          {
-          "materia": "AGROINDUSTRIAS DE TUCUMAN TIT. VEGA OSVALDO",
+          "materia": "AGROINDUSTRIAS DE TUCUMAN",
           "docentes": [
-           "S/PROFESOR",
-           "Nº"
+           "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°21463",
+           "N°355109"
+          ]
          }
         ],
         "JUEVES": [
          {
-          "materia": "SILVICULTURA TIT. VEGA OSVALOO",
+          "materia": "SILVICULTURA",
           "docentes": [
-           "Vera Mirta",
-           "Nº"
+           "VERA, MIRTA LUCIA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°234782"
+          ]
          }
         ],
         "VIERNES": [
@@ -3648,7 +3308,7 @@
            "JUAREZ, DANIEL ALBERTO"
           ],
           "plazas": [
-           "Nº 237221"
+           "N°237221"
           ]
          }
         ]
@@ -3659,22 +3319,28 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "PRODUCCIÓN PECUARIA TIT. VEGA OSVALDO ENRIQUE",
+          "materia": "PRODUCCION PECUARIA I",
           "docentes": [
-           "S/PROFESOR",
-           "Nº"
+           "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°21465",
+           "N°52612",
+           "N°236326",
+           "N°355111"
+          ]
          }
         ],
         "MARTES": [
          {
           "materia": "ECONOMIA Y DESARROLLO RURAL",
           "docentes": [
-           "S/PROFESOR",
-           "Nº"
+           "VILLARREAL ZUÑIGA, SANTIAGO FAVIO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°196288",
+           "N°196289"
+          ]
          }
         ],
         "MIERCOLES": [
@@ -3690,47 +3356,57 @@
         ],
         "JUEVES": [
          {
-          "materia": "SILVICULTURA TIT. VEGA OSVALOO",
+          "materia": "SILVICULTURA",
           "docentes": [
-           "Vera Mirta",
-           "Nº"
+           "VERA, MIRTA LUCIA"
           ],
-          "plazas": []
+          "plazas": [
+           "N°234782"
+          ]
          }
         ],
         "VIERNES": [
          {
           "materia": "CULTIVOS INDUSTRIALES",
           "docentes": [
-           "S/PROFESOR",
-           "Nº"
+           "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°355110"
+          ]
          }
         ]
        }
       },
       {
-       "hora": "11:25 a 12:05",
+       "hora": "11:25 A 12:05",
        "celdas": {
         "LUNES": [
          {
-          "materia": "PRODUCCIÓN PECUARIA TIT. VEGA OSVALDO ENRIQUE",
+          "materia": "PRODUCCION PECUARIA I",
           "docentes": [
-           "S/PROFESOR",
-           "Nº"
+           "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°21465",
+           "N°52612",
+           "N°236326",
+           "N°355111"
+          ]
          }
         ],
         "MARTES": [
          {
-          "materia": "PRODUCCIÓN PECUARIA TIT. VEGA OSVALDO ENRIQUE",
+          "materia": "PRODUCCION PECUARIA I",
           "docentes": [
-           "S/PROFESOR",
-           "Nº"
+           "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°21465",
+           "N°52612",
+           "N°236326",
+           "N°355111"
+          ]
          }
         ],
         "MIERCOLES": [
@@ -3759,45 +3435,55 @@
          {
           "materia": "CULTIVOS INDUSTRIALES",
           "docentes": [
-           "S/PROFESOR",
-           "Nº"
+           "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°355110"
+          ]
          }
         ]
        }
       },
       {
-       "hora": "12:05 a 12:45",
+       "hora": "12:05 A 12:45",
        "celdas": {
         "LUNES": [
          {
-          "materia": "PRODUCCIÓN PECUARIA TIT. VEGA OSVALDO ENRIQUE",
+          "materia": "PRODUCCION PECUARIA I",
           "docentes": [
-           "S/PROFESOR",
-           "Nº"
+           "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°21465",
+           "N°52612",
+           "N°236326",
+           "N°355111"
+          ]
          }
         ],
         "MARTES": [
          {
-          "materia": "PRODUCCIÓN PECUARIA TIT. VEGA OSVALDO ENRIQUE",
+          "materia": "PRODUCCION PECUARIA I",
           "docentes": [
-           "S/PROFESOR",
-           "Nº"
+           "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°21465",
+           "N°52612",
+           "N°236326",
+           "N°355111"
+          ]
          }
         ],
         "MIERCOLES": [
          {
-          "materia": "MATEMATICA APLICADA II TIT. GONZALEZ GUILLERMO",
+          "materia": "MATEMATICA APLICADA II",
           "docentes": [
-           "S/PROFESOR",
-           "Nº"
+           "MOYA, GERARDO GUSTAVO"
           ],
-          "plazas": []
+          "plazas": [
+           "N°234783"
+          ]
          }
         ],
         "JUEVES": [
@@ -3828,79 +3514,31 @@
      ],
      "filas": [
       {
-       "hora": "14:00 a 14:40",
+       "hora": "14:00 A 16:10",
        "celdas": {
         "LUNES": [
          {
-          "materia": "T.T. ARBORICULTURA Y FRUTICULTURA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T. INDUSTRIAS DE LA CARNE Y DE LA LECHE",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T PRODUCCIÓN ANIMAL",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "T.T. ARBORICULTURA Y FRUTICULTURA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T. INDUSTRIAS DE LA CARNE Y DE LA LECHE",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T PRODUCCIÓN ANIMAL",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "14:40 a 15:20",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "15:30 a 16:10",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "DELGADO, PAOLA VALERIA",
-          "docentes": [],
+          "materia": "ARBORICULTURA Y FRUTICULTURA",
+          "docentes": [
+           "DELGADO, PAOLA VALERIA"
+          ],
           "plazas": [
            "N°381954"
           ]
          },
          {
-          "materia": "CRUZ, ROQUE ANTONIO",
-          "docentes": [],
+          "materia": "INDUSTRIAS DE LA CARNE Y DE LA LECHE",
+          "docentes": [
+           "VACANTE"
+          ],
           "plazas": [
            "N°236473"
           ]
          },
          {
-          "materia": "LERA, MARIO RAUL (REUB)",
+          "materia": "PRODUCCIÓN ANIMAL",
           "docentes": [
-           "Nº S/PLAZAS"
+           "LERA, MARIO RAUL"
           ],
           "plazas": []
          }
@@ -3908,23 +3546,27 @@
         "MARTES": [],
         "MIERCOLES": [
          {
-          "materia": "DELGADO, PAOLA VALERIA",
-          "docentes": [],
+          "materia": "ARBORICULTURA Y FRUTICULTURA",
+          "docentes": [
+           "DELGADO, PAOLA VALERIA"
+          ],
           "plazas": [
            "N°381954"
           ]
          },
          {
-          "materia": "CRUZ, ROQUE ANTONIO",
-          "docentes": [],
+          "materia": "INDUSTRIAS DE LA CARNE Y DE LA LECHE",
+          "docentes": [
+           "VACANTE"
+          ],
           "plazas": [
            "N°236473"
           ]
          },
          {
-          "materia": "LERA, MARIO RAUL (REUB)",
+          "materia": "PRODUCCIÓN ANIMAL",
           "docentes": [
-           "Nº S/PLAZAS"
+           "LERA, MARIO RAUL"
           ],
           "plazas": []
          }
@@ -3934,79 +3576,31 @@
        }
       },
       {
-       "hora": "16:10 a 16:50",
+       "hora": "16:10 A 18:15",
        "celdas": {
         "LUNES": [
          {
-          "materia": "T.T. ARBORICULTURA Y FRUTICULTURA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T. INDUSTRIAS DE LA CARNE Y DE LA LECHE",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T PRODUCCIÓN ANIMAL",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [],
-        "MIERCOLES": [
-         {
-          "materia": "T.T. ARBORICULTURA Y FRUTICULTURA",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T. INDUSTRIAS DE LA CARNE Y DE LA LECHE",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T PRODUCCIÓN ANIMAL",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "16:55 a 17:35",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "17:35 a 18:15",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "DELGADO, PAOLA VALERIA",
-          "docentes": [],
+          "materia": "ARBORICULTURA Y FRUTICULTURA",
+          "docentes": [
+           "DELGADO, PAOLA VALERIA"
+          ],
           "plazas": [
            "N°381954"
           ]
          },
          {
-          "materia": "CRUZ, ROQUE ANTONIO",
-          "docentes": [],
+          "materia": "INDUSTRIAS DE LA CARNE Y DE LA LECHE",
+          "docentes": [
+           "VACANTE"
+          ],
           "plazas": [
            "N°236473"
           ]
          },
          {
-          "materia": "LERA, MARIO RAUL (REUB)",
+          "materia": "PRODUCCIÓN ANIMAL",
           "docentes": [
-           "Nº S/PLAZAS"
+           "LERA, MARIO RAUL"
           ],
           "plazas": []
          }
@@ -4014,23 +3608,27 @@
         "MARTES": [],
         "MIERCOLES": [
          {
-          "materia": "DELGADO, PAOLA VALERIA",
-          "docentes": [],
+          "materia": "ARBORICULTURA Y FRUTICULTURA",
+          "docentes": [
+           "DELGADO, PAOLA VALERIA"
+          ],
           "plazas": [
            "N°381954"
           ]
          },
          {
-          "materia": "CRUZ, ROQUE ANTONIO",
-          "docentes": [],
+          "materia": "INDUSTRIAS DE LA CARNE Y DE LA LECHE",
+          "docentes": [
+           "VACANTE"
+          ],
           "plazas": [
            "N°236473"
           ]
          },
          {
-          "materia": "LERA, MARIO RAUL (REUB)",
+          "materia": "PRODUCCIÓN ANIMAL",
           "docentes": [
-           "Nº S/PLAZAS"
+           "LERA, MARIO RAUL"
           ],
           "plazas": []
          }
@@ -4053,7 +3651,7 @@
      ],
      "filas": [
       {
-       "hora": "14:00 a 15:20",
+       "hora": "14:00 A 15:20",
        "celdas": {
         "LUNES": [],
         "MARTES": [],
@@ -4113,7 +3711,7 @@
          {
           "materia": "ORGANIZACION Y GESTION DE LA EMPRESA AGROPECUARIA",
           "docentes": [
-           "SUÁREZ, FIDEL DANIEL (SUP)"
+           "SUÁREZ, FIDEL DANIEL"
           ],
           "plazas": [
            "N°185443"
@@ -4124,20 +3722,22 @@
          {
           "materia": "PROYECTO TECNOLOGICO",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°15478"
+          ]
          }
         ],
         "JUEVES": [
          {
-          "materia": "FORMULACION DE PROYECTOS PRODUCTIVOS TIT. VEGA OSVALDO ENRIQUE",
+          "materia": "FORMULACION DE PROYECTOS PRODUCTIVOS",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "SUÁREZ, FIDEL DANIEL"
           ],
-          "plazas": []
+          "plazas": [
+           "N°21466"
+          ]
          }
         ],
         "VIERNES": [
@@ -4171,7 +3771,7 @@
          {
           "materia": "ORGANIZACION Y GESTION DE LA EMPRESA AGROPECUARIA",
           "docentes": [
-           "SUÁREZ, FIDEL DANIEL (SUP)"
+           "SUÁREZ, FIDEL DANIEL"
           ],
           "plazas": [
            "N°185443"
@@ -4182,20 +3782,22 @@
          {
           "materia": "PROYECTO TECNOLOGICO",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°15478"
+          ]
          }
         ],
         "JUEVES": [
          {
-          "materia": "FORMULACION DE PROYECTOS PRODUCTIVOS TIT. VEGA OSVALDO ENRIQUE",
+          "materia": "FORMULACION DE PROYECTOS PRODUCTIVOS",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "SUÁREZ, FIDEL DANIEL"
           ],
-          "plazas": []
+          "plazas": [
+           "N°21466"
+          ]
          }
         ],
         "VIERNES": [
@@ -4218,7 +3820,7 @@
          {
           "materia": "ORGANIZACION Y GESTION DE LA EMPRESA AGROPECUARIA",
           "docentes": [
-           "SUÁREZ, FIDEL DANIEL (SUP)"
+           "SUÁREZ, FIDEL DANIEL"
           ],
           "plazas": [
            "N°185443"
@@ -4229,10 +3831,11 @@
          {
           "materia": "FORMULACION DE PROYECTOS PRODUCTIVOS",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "SUÁREZ, FIDEL DANIEL"
           ],
-          "plazas": []
+          "plazas": [
+           "N°21466"
+          ]
          }
         ],
         "MIERCOLES": [
@@ -4277,7 +3880,7 @@
          {
           "materia": "ORGANIZACION Y GESTION DE LA EMPRESA AGROPECUARIA",
           "docentes": [
-           "SUÁREZ, FIDEL DANIEL (SUP)"
+           "SUÁREZ, FIDEL DANIEL"
           ],
           "plazas": [
            "N°185443"
@@ -4288,10 +3891,11 @@
          {
           "materia": "FORMULACION DE PROYECTOS PRODUCTIVOS",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "SUÁREZ, FIDEL DANIEL"
           ],
-          "plazas": []
+          "plazas": [
+           "N°21466"
+          ]
          }
         ],
         "MIERCOLES": [
@@ -4347,10 +3951,11 @@
          {
           "materia": "FORMULACION DE PROYECTOS PRODUCTIVOS",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "SUÁREZ, FIDEL DANIEL"
           ],
-          "plazas": []
+          "plazas": [
+           "N°21466"
+          ]
          }
         ],
         "MIERCOLES": [
@@ -4389,7 +3994,7 @@
        }
       },
       {
-       "hora": "11:25 a 12:05",
+       "hora": "11:25 A 12:05",
        "celdas": {
         "LUNES": [
          {
@@ -4406,10 +4011,11 @@
          {
           "materia": "PROYECTO TECNOLOGICO",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°15478"
+          ]
          }
         ],
         "MIERCOLES": [
@@ -4438,26 +4044,28 @@
          {
           "materia": "PROYECTO TECNOLOGICO",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°15478"
+          ]
          }
         ]
        }
       },
       {
-       "hora": "12:05 a 12:45",
+       "hora": "12:05 A 12:45",
        "celdas": {
         "LUNES": [],
         "MARTES": [
          {
           "materia": "PROYECTO TECNOLOGICO",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°15478"
+          ]
          }
         ],
         "MIERCOLES": [],
@@ -4476,10 +4084,11 @@
          {
           "materia": "PROYECTO TECNOLOGICO",
           "docentes": [
-           "S/PROFESOR",
-           "N°"
+           "VACANTE"
           ],
-          "plazas": []
+          "plazas": [
+           "N°15478"
+          ]
          }
         ]
        }
@@ -4498,66 +4107,14 @@
      ],
      "filas": [
       {
-       "hora": "14:00 a 14:40",
+       "hora": "14:00 A 16:10",
        "celdas": {
         "LUNES": [
          {
-          "materia": "T.T. MEDICION Y CONTROL",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "T.T. EXTENSION Y DESARROLLO LOCAL",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T. AGROECOLOGIA Y MONITOREO AMBIENTAL",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "T.T. MEDICION Y CONTROL",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "T.T. EXTENSION Y DESARROLLO LOCAL",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T. AGROECOLOGIA Y MONITOREO AMBIENTAL",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "14:40 a 15:20",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "15:30 a 16:10",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "SUAREZ, FIDEL",
-          "docentes": [],
+          "materia": "MEDICION Y CONTROL",
+          "docentes": [
+           "SUÁREZ, FIDEL DANIEL"
+          ],
           "plazas": [
            "N°234780"
           ]
@@ -4565,15 +4122,17 @@
         ],
         "MARTES": [
          {
-          "materia": "ANDRADE DANNY ENRIQUE (REUB)",
+          "materia": "EXTENSION Y DESARROLLO LOCAL",
           "docentes": [
-           "N°S/PLAZAS"
+           "ANDRADE DANNY ENRIQUE"
           ],
           "plazas": []
          },
          {
-          "materia": "DELGADO, VALERIA",
-          "docentes": [],
+          "materia": "AGROECOLOGIA Y MONITOREO AMBIENTAL",
+          "docentes": [
+           "DELGADO, VALERIA"
+          ],
           "plazas": [
            "N°381954"
           ]
@@ -4581,8 +4140,10 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "SUAREZ, FIDEL",
-          "docentes": [],
+          "materia": "MEDICION Y CONTROL",
+          "docentes": [
+           "SUÁREZ, FIDEL DANIEL"
+          ],
           "plazas": [
            "N°234780"
           ]
@@ -4590,15 +4151,17 @@
         ],
         "JUEVES": [
          {
-          "materia": "ANDRADE DANNY ENRIQUE (REUB)",
+          "materia": "EXTENSION Y DESARROLLO LOCAL",
           "docentes": [
-           "N°S/PLAZAS"
+           "ANDRADE DANNY ENRIQUE"
           ],
           "plazas": []
          },
          {
-          "materia": "DELGADO, VALERIA",
-          "docentes": [],
+          "materia": "AGROECOLOGIA Y MONITOREO AMBIENTAL",
+          "docentes": [
+           "DELGADO, VALERIA"
+          ],
           "plazas": [
            "N°381954"
           ]
@@ -4608,66 +4171,14 @@
        }
       },
       {
-       "hora": "16:10 a 16:50",
+       "hora": "16:10 A 18:15",
        "celdas": {
         "LUNES": [
          {
-          "materia": "T.T. MEDICION Y CONTROL",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MARTES": [
-         {
-          "materia": "T.T. EXTENSION Y DESARROLLO LOCAL",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T. AGROECOLOGIA Y MO NITORIEO AMBIENTAL",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "MIERCOLES": [
-         {
-          "materia": "T.T. MEDICION Y CONTROL",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "JUEVES": [
-         {
-          "materia": "T.T. EXTENSION Y DESARROLLO LOCAL",
-          "docentes": [],
-          "plazas": []
-         },
-         {
-          "materia": "T.T. AGROECOLOGIA Y MONITOREO AMBIENTAL",
-          "docentes": [],
-          "plazas": []
-         }
-        ],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "16:55 a 17:35",
-       "celdas": {
-        "LUNES": [],
-        "MARTES": [],
-        "MIERCOLES": [],
-        "JUEVES": [],
-        "VIERNES": []
-       }
-      },
-      {
-       "hora": "17:35 a 18:15",
-       "celdas": {
-        "LUNES": [
-         {
-          "materia": "SUAREZ, FIDEL",
-          "docentes": [],
+          "materia": "MEDICION Y CONTROL",
+          "docentes": [
+           "SUÁREZ, FIDEL DANIEL"
+          ],
           "plazas": [
            "N°234780"
           ]
@@ -4675,15 +4186,17 @@
         ],
         "MARTES": [
          {
-          "materia": "ANDRADE DANNY ENRIQUE (REUB)",
+          "materia": "EXTENSION Y DESARROLLO LOCAL",
           "docentes": [
-           "N°S/PLAZAS"
+           "ANDRADE DANNY ENRIQUE"
           ],
           "plazas": []
          },
          {
-          "materia": "DELGADO, VALERIA",
-          "docentes": [],
+          "materia": "AGROECOLOGIA Y MO NITORIEO AMBIENTAL",
+          "docentes": [
+           "DELGADO, VALERIA"
+          ],
           "plazas": [
            "N°381954"
           ]
@@ -4691,8 +4204,10 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "SUAREZ, FIDEL",
-          "docentes": [],
+          "materia": "MEDICION Y CONTROL",
+          "docentes": [
+           "SUÁREZ, FIDEL DANIEL"
+          ],
           "plazas": [
            "N°234780"
           ]
@@ -4700,15 +4215,17 @@
         ],
         "JUEVES": [
          {
-          "materia": "ANDRADE DANNY ENRIQUE (REUB)",
+          "materia": "EXTENSION Y DESARROLLO LOCAL",
           "docentes": [
-           "N°S/PLAZAS"
+           "ANDRADE DANNY ENRIQUE"
           ],
           "plazas": []
          },
          {
-          "materia": "DELGADO, VALERIA",
-          "docentes": [],
+          "materia": "AGROECOLOGIA Y MONITOREO AMBIENTAL",
+          "docentes": [
+           "DELGADO, VALERIA"
+          ],
           "plazas": [
            "N°381954"
           ]
@@ -4741,10 +4258,10 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "DUNAT ERNESTO"
+           "DUNAT, ERNESTO ANTONIO"
           ],
           "plazas": [
-           "Nº13336"
+           "N°13336"
           ]
          }
         ]
@@ -4761,10 +4278,10 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "DUNAT ERNESTO"
+           "DUNAT, ERNESTO ANTONIO"
           ],
           "plazas": [
-           "Nº13336"
+           "N°13336"
           ]
          }
         ]

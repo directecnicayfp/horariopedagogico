@@ -1,0 +1,5828 @@
+{
+ "id": "9000634",
+ "escuela": "ESCUELA AGROTÉCNICA MARIANO RAMOS",
+ "cue": "9000634",
+ "pin": "1234",
+ "cursos": [
+  {
+   "hoja": "1°AÑO A",
+   "curso": "1°AÑO",
+   "division": "A",
+   "ciclo": "",
+   "resolucion": "",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "13:00 -13:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "GEOGRAFIA",
+          "docentes": [
+           "SANCHEZ, YOHANA JORGELINA"
+          ],
+          "plazas": [
+           "N°97655"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "FISICO-QUIMICA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°239819"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°28573"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DELGADO, ALBA LUZ"
+          ],
+          "plazas": [
+           "N°22661"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "PONCE, FLAVIA MELINA"
+          ],
+          "plazas": [
+           "N°213633"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "13:40-14:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "GEOGRAFIA",
+          "docentes": [
+           "SANCHEZ, YOHANA JORGELINA"
+          ],
+          "plazas": [
+           "N°97655"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "FISICO-QUIMICA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°239819"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°28573"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DELGADO, ALBA LUZ"
+          ],
+          "plazas": [
+           "N°22661"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "PONCE, FLAVIA MELINA"
+          ],
+          "plazas": [
+           "N°51036"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "14:30-15:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°28573"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "FISICO-QUIMICA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°239819"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°210341"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°210341",
+           "N°210342"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "PONCE, FLAVIA MELINA"
+          ],
+          "plazas": [
+           "N°125343"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "15:10-15:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "TECNOLOGÍA",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°158085"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°15448"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°210341"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°210342"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DELGADO, ALBA LUZ"
+          ],
+          "plazas": [
+           "N°22661"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "16:00-16:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "TECNOLOGÍA",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°158085"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°15448"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "ISLA, MARIANA JIMENA"
+          ],
+          "plazas": [
+           "N°227063"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "ISLA, MARIANA JIMENA"
+          ],
+          "plazas": [
+           "N°227063"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DELGADO, ALBA LUZ"
+          ],
+          "plazas": [
+           "N°22661"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "16:40-17:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "TECNOLOGÍA",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°158085"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°15448"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "ISLA, MARIANA JIMENA"
+          ],
+          "plazas": [
+           "N°227063"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "ISLA, MARIANA JIMENA"
+          ],
+          "plazas": [
+           "N°227063"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMATICA",
+          "docentes": [
+           "DELGADO, ALBA LUZ"
+          ],
+          "plazas": [
+           "N°22661"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "17:20-18:00",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "ISLA, MARIANA JIMENA"
+          ],
+          "plazas": [
+           "N°227063"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "8:10 A 10:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "GRANJA FAMILIAR I",
+          "docentes": [
+           "CASTILLO, HILDA VIVIANA"
+          ],
+          "plazas": [
+           "N°252226"
+          ]
+         },
+         {
+          "materia": "HUERTA FAMILIAR",
+          "docentes": [
+           "PALACIOS, JULIO EDUARDO"
+          ],
+          "plazas": [
+           "N°240828"
+          ]
+         },
+         {
+          "materia": "TALLER RURAL I",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°240829"
+          ]
+         },
+         {
+          "materia": "INFORMÁTICA",
+          "docentes": [
+           "MEDINA, MARIA SILVIA"
+          ],
+          "plazas": [
+           "N°371603"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "GRANJA FAMILIAR I",
+          "docentes": [
+           "CASTILLO, HILDA VIVIANA"
+          ],
+          "plazas": [
+           "N°252226"
+          ]
+         },
+         {
+          "materia": "HUERTA FAMILIAR I",
+          "docentes": [
+           "PALACIOS, JULIO EDUARDO"
+          ],
+          "plazas": [
+           "N°240828"
+          ]
+         },
+         {
+          "materia": "TALLER RURAL I",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°240829"
+          ]
+         },
+         {
+          "materia": "INFORMÁTICA",
+          "docentes": [
+           "MEDINA, MARIA SILVIA"
+          ],
+          "plazas": [
+           "N°371603"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "10:30 A 12:30",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "GRANJA FAMILIAR I",
+          "docentes": [
+           "CASTILLO, HILDA VIVIANA"
+          ],
+          "plazas": [
+           "N°252226"
+          ]
+         },
+         {
+          "materia": "HUERTA FAMILIAR I",
+          "docentes": [
+           "PALACIOS, JULIO EDUARDO"
+          ],
+          "plazas": [
+           "N°240828"
+          ]
+         },
+         {
+          "materia": "TALLER RURAL I",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°240829"
+          ]
+         },
+         {
+          "materia": "INFORMÁTICA",
+          "docentes": [
+           "MEDINA, MARIA SILVIA"
+          ],
+          "plazas": [
+           "N°371603"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "GRANJA FAMILIAR I",
+          "docentes": [
+           "CASTILLO, HILDA VIVIANA"
+          ],
+          "plazas": [
+           "N°252226"
+          ]
+         },
+         {
+          "materia": "HUERTA FAMILIAR",
+          "docentes": [
+           "PALACIOS, JULIO EDUARDO"
+          ],
+          "plazas": [
+           "N°240828"
+          ]
+         },
+         {
+          "materia": "TALLER RURAL I",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°240829"
+          ]
+         },
+         {
+          "materia": "INFORMÁTICA",
+          "docentes": [
+           "MEDINA, MARIA SILVIA"
+          ],
+          "plazas": [
+           "N°371603"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "8:10 - 8:50",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "EDUCACION FISICA",
+          "docentes": [
+           "PAZ, CLAUDIO RUBEN"
+          ],
+          "plazas": [
+           "N°236917"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "9:00 - 9:40 9:40 - 10: 20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "EDUCACION FISICA",
+          "docentes": [
+           "PAZ, CLAUDIO RUBEN"
+          ],
+          "plazas": [
+           "N°236917"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "1° AÑO B",
+   "curso": "1°AÑO",
+   "division": "B",
+   "ciclo": "",
+   "resolucion": "",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "13:00 -13:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°15447"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "ZELAYA, MARIA ELINA"
+          ],
+          "plazas": [
+           "N°184773"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°15615"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "ISLA, MARIANA JIMENA"
+          ],
+          "plazas": [
+           "N°227064"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°15616"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "13:40-14:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°15447"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "ZELAYA, MARIA ELINA"
+          ],
+          "plazas": [
+           "N°184773"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°15615"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "ISLA, MARIANA JIMENA"
+          ],
+          "plazas": [
+           "N°227064"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°15616"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "14:30-15:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "SANCHEZ, YOHANA JORGELINA"
+          ],
+          "plazas": [
+           "N°236956"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "JUAREZ, LUCIANA DEL VALLE"
+          ],
+          "plazas": [
+           "N°183723"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "ISLA, MARIANA JIMENA"
+          ],
+          "plazas": [
+           "N°227065"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "ISLA, MARIANA JIMENA"
+          ],
+          "plazas": [
+           "N°227064"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "FISICO-QUIMICA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°237058"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "15:10-15:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "SANCHEZ, YOHANA JORGELINA"
+          ],
+          "plazas": [
+           "N°236956"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "JUAREZ, LUCIANA DEL VALLE"
+          ],
+          "plazas": [
+           "N°183723"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "ISLA, MARIANA JIMENA"
+          ],
+          "plazas": [
+           "N°227066"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "ZELAYA, MARIA ELINA"
+          ],
+          "plazas": [
+           "N°184773"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "JUAREZ, LUCIANA DEL VALLE"
+          ],
+          "plazas": [
+           "N°213634"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "16:00-16:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°15447"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "FISICO-QUIMICA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°237058"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "TECNOLOGÍA",
+          "docentes": [
+           "ORSE, MARIA PAULA",
+           "CASTILLO, HILDA VIVIANA"
+          ],
+          "plazas": [
+           "N°179401"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "ZELAYA, MARIA ELINA"
+          ],
+          "plazas": [
+           "N°184773"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°15362"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "16:40 A 18:00",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "TECNOLOGÍA",
+          "docentes": [
+           "ORSE, MARIA PAULA",
+           "CASTILLO, HILDA VIVIANA"
+          ],
+          "plazas": [
+           "N°209613"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "FISICO-QUIMICA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°237058"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "TECNOLOGÍA",
+          "docentes": [
+           "ORSE, MARIA PAULA",
+           "CASTILLO, HILDA VIVIANA"
+          ],
+          "plazas": [
+           "N°179401"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "ZELAYA, MARIA ELINA"
+          ],
+          "plazas": [
+           "N°184773"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°15362"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "8:10 A 10:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "GRANJA FAMILIAR I",
+          "docentes": [
+           "CASTILLO, HILDA VIVIANA"
+          ],
+          "plazas": [
+           "N°252226"
+          ]
+         },
+         {
+          "materia": "HUERTA FAMILIAR",
+          "docentes": [
+           "PALACIOS, JULIO EDUARDO"
+          ],
+          "plazas": [
+           "N°240828"
+          ]
+         },
+         {
+          "materia": "TALLER RURAL I",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°240829"
+          ]
+         },
+         {
+          "materia": "INFORMÁTICA",
+          "docentes": [
+           "MEDINA, MARIA SILVIA"
+          ],
+          "plazas": [
+           "N°371603"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "GRANJA FAMILIAR I",
+          "docentes": [
+           "CASTILLO VIVIANA"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "HUERTA FAMILIAR",
+          "docentes": [
+           "SANTILLÁN DANIEL"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "TALLER RURAL I",
+          "docentes": [
+           "VILLAFAÑE ELIO"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "LABORATORIO DE INFORMATICA",
+          "docentes": [
+           "VILLAFAÑEZ, PEDRO CARLOS",
+           "MEDINA MARIA SILVIA"
+          ],
+          "plazas": [
+           "N°212686"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "10:30 A 12:30",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "GRANJA FAMILIAR I",
+          "docentes": [
+           "CASTILLO, HILDA VIVIANA"
+          ],
+          "plazas": [
+           "N°252226"
+          ]
+         },
+         {
+          "materia": "HUERTA FAMILIAR",
+          "docentes": [
+           "PALACIOS, JULIO EDUARDO"
+          ],
+          "plazas": [
+           "N°240828"
+          ]
+         },
+         {
+          "materia": "TALLER RURAL I",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°240829"
+          ]
+         },
+         {
+          "materia": "INFORMÁTICA",
+          "docentes": [
+           "MEDINA, MARIA SILVIA"
+          ],
+          "plazas": [
+           "N°371603"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "GRANJA FAMILIAR I",
+          "docentes": [
+           "CASTILLO, HILDA VIVIANA"
+          ],
+          "plazas": [
+           "N°252226"
+          ]
+         },
+         {
+          "materia": "HUERTA FAMILIAR",
+          "docentes": [
+           "PALACIOS, JULIO EDUARDO"
+          ],
+          "plazas": [
+           "N°240828"
+          ]
+         },
+         {
+          "materia": "TALLER RURAL I",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°240829"
+          ]
+         },
+         {
+          "materia": "INFORMÁTICA",
+          "docentes": [
+           "MEDINA, MARIA SILVIA"
+          ],
+          "plazas": [
+           "N°371603"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "10:30 - 11:10",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "EDUCACION FISICA",
+          "docentes": [
+           "BRANDAN, MARIA MARCELINA"
+          ],
+          "plazas": [
+           "N°213635"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11:10 - 11:50 11:50 -12:30",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "EDUCACION FISICA",
+          "docentes": [
+           "BRANDAN, MARIA MARCELINA"
+          ],
+          "plazas": [
+           "N°142444"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "2°AÑO A",
+   "curso": "2°AÑO",
+   "division": "A",
+   "ciclo": "",
+   "resolucion": "",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "13:00 -13:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "RAMIREZ PLAZA, FLAVIO GUSTAVO"
+          ],
+          "plazas": [
+           "N°160111"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DELGADO, ALBA LUZ"
+          ],
+          "plazas": [
+           "N°32702"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "MATTA, MARIA TERESA"
+          ],
+          "plazas": [
+           "N°198131"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°197620"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DELGADO, ALBA LUZ"
+          ],
+          "plazas": [
+           "N°32702"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "13:40-14:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "RAMIREZ PLAZA, FLAVIO GUSTAVO"
+          ],
+          "plazas": [
+           "N°160111"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DELGADO, ALBA LUZ"
+          ],
+          "plazas": [
+           "N°32702"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "MATTA, MARIA TERESA"
+          ],
+          "plazas": [
+           "N°198131"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°197620"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DELGADO, ALBA LUZ"
+          ],
+          "plazas": [
+           "N°32702"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "14:30-15:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "ISLA, MARIANA JIMENA"
+          ],
+          "plazas": [
+           "N°125650"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DELGADO, ALBA LUZ"
+          ],
+          "plazas": [
+           "N°32702"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°17926"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "MATTA, MARIA TERESA"
+          ],
+          "plazas": [
+           "N°198131"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "EDUCACION ETICA Y CIUDADANA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°197629"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "15:10-15:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "ISLA, MARIANA JIMENA"
+          ],
+          "plazas": [
+           "N°125650"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°17926"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°17926"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "MATTA, MARIA TERESA"
+          ],
+          "plazas": [
+           "N°197583"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "EDUCACION ETICA Y CIUDADANA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°197629"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "16:00-16:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "ISLA, MARIANA JIMENA"
+          ],
+          "plazas": [
+           "N°125650"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "ISLA, MARIANA JIMENA"
+          ],
+          "plazas": [
+           "N°125649"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°15617"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "ZARATE, CLAUDIA VANESA"
+          ],
+          "plazas": [
+           "N°196881"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°15453"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "16:40-17:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "TAPIA, ALVARO LEONEL"
+          ],
+          "plazas": [
+           "N°5893"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "ISLA, MARIANA JIMENA"
+          ],
+          "plazas": [
+           "N°125649"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°15617"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "ZARATE, CLAUDIA VANESA"
+          ],
+          "plazas": [
+           "N°196881"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°15453"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "17:20-18:00",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "TAPIA, ALVARO LEONEL"
+          ],
+          "plazas": [
+           "N°5893"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "INGLES",
+          "docentes": [
+           "ZÁRATE C"
+          ],
+          "plazas": [
+           "N°1196881"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°15453"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "8:10 A 10:20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "PRODUCCIÓN DE PLANTAS EN VIVERO",
+          "docentes": [
+           "SANTILLÁN DANIEL"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "GRANJA FAMILIAR II",
+          "docentes": [
+           "CASTILLO, HILDA VIVIANA"
+          ],
+          "plazas": [
+           "N°252226"
+          ]
+         },
+         {
+          "materia": "TALLER RURAL II",
+          "docentes": [
+           "RODRIGUEZ, JOSE MIGUEL"
+          ],
+          "plazas": [
+           "N°255555"
+          ]
+         },
+         {
+          "materia": "INFORMÁTICA II",
+          "docentes": [
+           "MEDINA, MARIA SILVIA"
+          ],
+          "plazas": [
+           "N°371603"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "PRODUCCIÓN DE PLANTAS EN VIVERO",
+          "docentes": [
+           "SANTILLÁN DANIEL"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "GRANJA FAMILIAR II",
+          "docentes": [
+           "CASTILLO, HILDA VIVIANA"
+          ],
+          "plazas": [
+           "N°252226"
+          ]
+         },
+         {
+          "materia": "TALLER RURAL II",
+          "docentes": [
+           "RODRIGUEZ, JOSE MIGUEL"
+          ],
+          "plazas": [
+           "N°255555"
+          ]
+         },
+         {
+          "materia": "INFORMÁTICA II",
+          "docentes": [
+           "MEDINA, MARIA SILVIA"
+          ],
+          "plazas": [
+           "N°371603"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "10:30 A 12:30",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "PRODUCCIÓN DE PLANTAS EN VIVERO",
+          "docentes": [
+           "SANTILLÁN DANIEL"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "GRANJA FAMILIAR II",
+          "docentes": [
+           "CASTILLO, HILDA VIVIANA"
+          ],
+          "plazas": [
+           "N°252226"
+          ]
+         },
+         {
+          "materia": "TALLER RURAL II",
+          "docentes": [
+           "RODRIGUEZ, JOSE MIGUEL"
+          ],
+          "plazas": [
+           "N°255555"
+          ]
+         },
+         {
+          "materia": "INFORMÁTICA II",
+          "docentes": [
+           "MEDINA, MARIA SILVIA"
+          ],
+          "plazas": [
+           "N°371603"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "PRODUCCIÓN DE PLANTAS EN VIVERO",
+          "docentes": [
+           "SANTILLÁN DANIEL"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "GRANJA FAMILIAR II",
+          "docentes": [
+           "CASTILLO, HILDA VIVIANA"
+          ],
+          "plazas": [
+           "N°252226"
+          ]
+         },
+         {
+          "materia": "TALLER RURAL II",
+          "docentes": [
+           "RODRIGUEZ, JOSE MIGUEL"
+          ],
+          "plazas": [
+           "N°255555"
+          ]
+         },
+         {
+          "materia": "INFORMÁTICA II",
+          "docentes": [
+           "MEDINA, MARIA SILVIA"
+          ],
+          "plazas": [
+           "N°371603"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "8:10 - 8:50",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "EDUCACION FISICA",
+          "docentes": [
+           "BRANDAN, MARIA MARCELINA"
+          ],
+          "plazas": [
+           "N°344776"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "9:00 - 9:40 9:40 - 10:20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "EDUCACION FISICA",
+          "docentes": [
+           "BRANDAN, MARIA MARCELINA"
+          ],
+          "plazas": [
+           "N°344776"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "2°AÑO B",
+   "curso": "2°AÑO",
+   "division": "B",
+   "ciclo": "",
+   "resolucion": "",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "13:00 -13:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "CORDOBA, VIVIANA ELENA"
+          ],
+          "plazas": [
+           "N°104422"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "JUAREZ, LUCIANA DEL VALLE"
+          ],
+          "plazas": [
+           "N°196884"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "RAMIREZ PLAZA, FLAVIO GUSTAVO"
+          ],
+          "plazas": [
+           "N°236957"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "MATTA, MARIA TERESA"
+          ],
+          "plazas": [
+           "N°197584"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°197836"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "13:40-14:30",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "CORDOBA, VIVIANA ELENA"
+          ],
+          "plazas": [
+           "N°104422"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "JUAREZ, LUCIANA DEL VALLE"
+          ],
+          "plazas": [
+           "N°196884"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "RAMIREZ PLAZA, FLAVIO GUSTAVO"
+          ],
+          "plazas": [
+           "N°236958"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "MATTA, MARIA TERESA"
+          ],
+          "plazas": [
+           "N°197584"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°197836"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "14:30-15:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°15449"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°15449"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "MATTA, MARIA TERESA"
+          ],
+          "plazas": [
+           "N°33066"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DELGADO, ALBA LUZ"
+          ],
+          "plazas": [
+           "N°101813"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "EDUCACION ETICA Y CIUDADANA",
+          "docentes": [
+           "MENDOZA VERON, LOURDES IVANNA"
+          ],
+          "plazas": [
+           "N°150899"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "15:10-15:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°15449"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DELGADO, ALBA LUZ"
+          ],
+          "plazas": [
+           "N°101813"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "MATTA, MARIA TERESA"
+          ],
+          "plazas": [
+           "N°33066"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DELGADO, ALBA LUZ"
+          ],
+          "plazas": [
+           "N°101813"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "EDUCACION ETICA Y CIUDADANA",
+          "docentes": [
+           "MENDOZA VERON, LOURDES IVANNA"
+          ],
+          "plazas": [
+           "N°150899"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "16:00-16:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°17925"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DELGADO, ALBA LUZ"
+          ],
+          "plazas": [
+           "N°101813"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "CORDOBA, VIVIANA ELENA"
+          ],
+          "plazas": [
+           "N°104422"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°197626"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "JUAREZ, LUCIANA DEL VALLE"
+          ],
+          "plazas": [
+           "N°196884"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "16:40-17:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°17925"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DELGADO, ALBA LUZ"
+          ],
+          "plazas": [
+           "N°101813"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "CORDOBA, VIVIANA ELENA"
+          ],
+          "plazas": [
+           "N°104422"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°197626"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°5737"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "17:20-18:00",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°17925"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "CORDOBA, VIVIANA ELENA"
+          ],
+          "plazas": [
+           "N°104422"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°197626"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "8:10 A 10:20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "PRODUCCIÓN DE PLANTAS EN VIVERO",
+          "docentes": [
+           "SANTILLÁN DANIEL"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "GRANJA FAMILIAR II",
+          "docentes": [
+           "CASTILLO, HILDA VIVIANA"
+          ],
+          "plazas": [
+           "N°252226"
+          ]
+         },
+         {
+          "materia": "TALLER RURAL II",
+          "docentes": [
+           "RODRIGUEZ, JOSE MIGUEL"
+          ],
+          "plazas": [
+           "N°255555"
+          ]
+         },
+         {
+          "materia": "INFORMÁTICA",
+          "docentes": [
+           "MEDINA, MARIA SILVIA"
+          ],
+          "plazas": [
+           "N°371603"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "PRODUCCIÓN DE PLANTAS EN VIVERO",
+          "docentes": [
+           "SANTILLÁN DANIEL"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "GRANJA FAMILIAR II",
+          "docentes": [
+           "CASTILLO VIVIANA"
+          ],
+          "plazas": [
+           "N°222526"
+          ]
+         },
+         {
+          "materia": "TALLER RURAL II",
+          "docentes": [
+           "RODRIGUEZ, JOSE MIGUEL"
+          ],
+          "plazas": [
+           "N°255555"
+          ]
+         },
+         {
+          "materia": "INFORMÁTICA II",
+          "docentes": [
+           "MEDINA, MARIA SILVIA"
+          ],
+          "plazas": [
+           "N°371603"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "10:30 A 12:30",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "PRODUCCIÓN DE PLANTAS EN VIVERO",
+          "docentes": [
+           "SANTILLÁN DANIEL"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "GRANJA FAMILIAR II",
+          "docentes": [
+           "CASTILLO, HILDA VIVIANA"
+          ],
+          "plazas": [
+           "N°252226"
+          ]
+         },
+         {
+          "materia": "TALLER RURAL II",
+          "docentes": [
+           "RODRIGUEZ, JOSE MIGUEL"
+          ],
+          "plazas": [
+           "N°255555"
+          ]
+         },
+         {
+          "materia": "INFORMÁTICA",
+          "docentes": [
+           "MEDINA, MARIA SILVIA"
+          ],
+          "plazas": [
+           "N°371603"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "PRODUCCIÓN DE PLANTAS EN VIVERO",
+          "docentes": [
+           "SANTILLÁN DANIEL"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "GRANJA FAMILIAR II",
+          "docentes": [
+           "CASTILLO, HILDA VIVIANA"
+          ],
+          "plazas": [
+           "N°252226"
+          ]
+         },
+         {
+          "materia": "TALLER RURAL II",
+          "docentes": [
+           "RODRIGUEZ, JOSE MIGUEL"
+          ],
+          "plazas": [
+           "N°255555"
+          ]
+         },
+         {
+          "materia": "INFORMÁTICA II",
+          "docentes": [
+           "MEDINA, MARIA SILVIA"
+          ],
+          "plazas": [
+           "N°371603"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "8:10 - 8:50",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "EDUCACION FISICA",
+          "docentes": [
+           "BRANDAN, MARIA MARCELINA"
+          ],
+          "plazas": [
+           "N°344775"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "8:50 - 9:00 10:30 - 11:50",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "EDUCACION FISICA",
+          "docentes": [
+           "BRANDAN, MARIA MARCELINA"
+          ],
+          "plazas": [
+           "N°344775"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "3°AÑO",
+   "curso": "3°AÑO",
+   "division": "",
+   "ciclo": "",
+   "resolucion": "",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "13:00-13:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°236959"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "EDUCACION ETICA Y CIUDADANA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°150900"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "DIAZ, PROSPERO EXEQUIEL"
+          ],
+          "plazas": [
+           "N°236891"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "DIAZ, PROSPERO EXEQUIEL"
+          ],
+          "plazas": [
+           "N°236891"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "ZELAYA, MARIA ELINA"
+          ],
+          "plazas": [
+           "N°230174"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "13:40-14.20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°236959"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "EDUCACION ETICA Y CIUDADANA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°150900"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "DIAZ, PROSPERO EXEQUIEL"
+          ],
+          "plazas": [
+           "N°236891"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°28545"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "ZELAYA, MARIA ELINA"
+          ],
+          "plazas": [
+           "N°230174"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "14:30-15:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "CORDOBA, VIVIANA ELENA"
+          ],
+          "plazas": [
+           "N°236874"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "ZELAYA, MARIA ELINA"
+          ],
+          "plazas": [
+           "N°230174"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "CÓRDOBA V"
+          ],
+          "plazas": [
+           "N°236884"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°28545"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°236764"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "15:10-15:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "CORDOBA, VIVIANA ELENA"
+          ],
+          "plazas": [
+           "N°236874"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "ZELAYA, MARIA ELINA"
+          ],
+          "plazas": [
+           "N°230174"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA",
+          "docentes": [
+           "CÓRDOBA V"
+          ],
+          "plazas": [
+           "N°236884"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°28545"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°236764"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "16:00-16:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "GEOGRAFIA",
+          "docentes": [
+           "SANCHEZ, YOHANA JORGELINA"
+          ],
+          "plazas": [
+           "N°124802"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "JUAREZ, LUCIANA DEL VALLE"
+          ],
+          "plazas": [
+           "N°196885"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "MATTA, MARIA TERESA"
+          ],
+          "plazas": [
+           "N°20856"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "MATTA M"
+          ],
+          "plazas": []
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°236764"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "16:40-17:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "GEOGRAFIA",
+          "docentes": [
+           "SANCHEZ, YOHANA JORGELINA"
+          ],
+          "plazas": [
+           "N°124802"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "JUAREZ, LUCIANA DEL VALLE"
+          ],
+          "plazas": [
+           "N°196885"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "MATTA, MARIA TERESA"
+          ],
+          "plazas": [
+           "N°20856"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "MATTA M"
+          ],
+          "plazas": []
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "JUAREZ, LUCIANA DEL VALLE"
+          ],
+          "plazas": [
+           "N°196885"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "17:20-18:00",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "GEOGRAFIA",
+          "docentes": [
+           "SANCHEZ, YOHANA JORGELINA"
+          ],
+          "plazas": [
+           "N°124802"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "DIBUJO TÉCNICO",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°236764"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "MATTA M"
+          ],
+          "plazas": []
+         }
+        ],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "8:10 A 10:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "CLIMATOLOGIA Y FENOLOGIA AGRARIA",
+          "docentes": [
+           "MAYOL ORTIZ, CAROLINE SILVANA"
+          ],
+          "plazas": [
+           "N°240827"
+          ]
+         },
+         {
+          "materia": "REPARACION Y MANTENIMIENTO",
+          "docentes": [
+           "RODRIGUEZ, JOSE MIGUEL"
+          ],
+          "plazas": [
+           "N°255555"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "NUTRICION ANIMAL Y FORRAJES",
+          "docentes": [
+           "MAYOL ORTIZ, CAROLINE SILVANA"
+          ],
+          "plazas": [
+           "N°240827"
+          ]
+         },
+         {
+          "materia": "TALLER RURAL III",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°240829"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "CLIMATOLOGIA FENOLOGIA AGRARIA",
+          "docentes": [
+           "MAYOL ORTIZ, CAROLINE SILVANA"
+          ],
+          "plazas": [
+           "N°240827"
+          ]
+         },
+         {
+          "materia": "REPARACION Y MANTENIMIENTO",
+          "docentes": [
+           "RODRIGUEZ, JOSE MIGUEL"
+          ],
+          "plazas": [
+           "N°255555"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "NUTRICION ANIMAL Y FORRAJES",
+          "docentes": [
+           "MAYOL ORTIZ, CAROLINE SILVANA"
+          ],
+          "plazas": [
+           "N°240827"
+          ]
+         },
+         {
+          "materia": "TALLER RURAL III",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°240829"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "10:30 A 12:30",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "CLIMATOLOGIA Y FENOLOGIA AGRICOLA",
+          "docentes": [
+           "MAYOL ORTIZ, CAROLINE SILVANA"
+          ],
+          "plazas": [
+           "N°240827"
+          ]
+         },
+         {
+          "materia": "REPARACION Y MANTENIMIENTO",
+          "docentes": [
+           "RODRIGUEZ, JOSE MIGUEL"
+          ],
+          "plazas": [
+           "N°255555"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "NUTRICION ANIMAL Y FORRAJES",
+          "docentes": [
+           "MAYOL ORTIZ, CAROLINE SILVANA"
+          ],
+          "plazas": [
+           "N°240827"
+          ]
+         },
+         {
+          "materia": "TALLER RURAL III",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°240829"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "CLIMATOLOGIA Y FENOLOGIA AGRARIA",
+          "docentes": [
+           "MAYOL ORTIZ, CAROLINE SILVANA"
+          ],
+          "plazas": [
+           "N°240827"
+          ]
+         },
+         {
+          "materia": "REPARACION Y MANTENIMIENTO",
+          "docentes": [
+           "RODRIGUEZ, JOSE MIGUEL"
+          ],
+          "plazas": [
+           "N°255555"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "NUTRICION ANIMAL Y FORRAJES",
+          "docentes": [
+           "MAYOL ORTIZ, CAROLINE SILVANA"
+          ],
+          "plazas": [
+           "N°240827"
+          ]
+         },
+         {
+          "materia": "TALLER RURAL III",
+          "docentes": [
+           "VILLAFAÑE, ELIO ALDO"
+          ],
+          "plazas": [
+           "N°240829"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "10:30 - 11:10",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "EDUCACION FISICA",
+          "docentes": [
+           "PAZ, CLAUDIO RUBEN"
+          ],
+          "plazas": [
+           "N°133495"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "11:10 - 11:50 11:50 - 12:30",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "EDUCACION FISICA",
+          "docentes": [
+           "PAZ, CLAUDIO RUBEN"
+          ],
+          "plazas": [
+           "N°133495"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "4°AÑO",
+   "curso": "4°AÑO",
+   "division": "",
+   "ciclo": "",
+   "resolucion": "",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "7:30 -8:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "MARTINEZ, CAROLINA ELIZABETH"
+          ],
+          "plazas": [
+           "N°15363"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DELGADO, ALBA LUZ"
+          ],
+          "plazas": [
+           "N°101927"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "MARTINEZ, CAROLINA ELIZABETH"
+          ],
+          "plazas": [
+           "N°15363"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "BARRIONUEVO MARIA"
+          ],
+          "plazas": [
+           "N°3409972"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "8:10-8:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ANATOMIA Y FISIOLOGIA ANIMAL",
+          "docentes": [
+           "VACANTE"
+          ],
+          "plazas": [
+           "N°28558"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DELGADO, ALBA LUZ"
+          ],
+          "plazas": [
+           "N°101927"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "BIOLOGÍA",
+          "docentes": [
+           "MARTINEZ, CAROLINA ELIZABETH"
+          ],
+          "plazas": [
+           "N°15363"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°237008"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "BARRIONUEVO MARIA"
+          ],
+          "plazas": [
+           "N°3409972"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "9:00-9:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ANATOMIA Y FISIOLOGIA ANIMAL",
+          "docentes": [
+           "VACANTE"
+          ],
+          "plazas": [
+           "N°28558"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "MARTIN, MIRTA GRACIELA"
+          ],
+          "plazas": [
+           "N°97096"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "FISIOLOGÍA VEGETAL",
+          "docentes": [
+           "LATIFE, JORGE GUSTAVO"
+          ],
+          "plazas": [
+           "N°377510"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°198130"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DELGADO, ALBA LUZ"
+          ],
+          "plazas": [
+           "N°101927"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "9:40-10:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ANATOMIA Y FISIOLOGIA ANIMAL",
+          "docentes": [
+           "VACANTE"
+          ],
+          "plazas": [
+           "N°28558"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "MARTIN, MIRTA GRACIELA"
+          ],
+          "plazas": [
+           "N°97049"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "FISIOLOGÍA VEGETAL",
+          "docentes": [
+           "LATIFE, JORGE GUSTAVO"
+          ],
+          "plazas": [
+           "N°377510"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "BARRIONUEVO MARIA"
+          ],
+          "plazas": [
+           "N°3409974"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMÁTICA",
+          "docentes": [
+           "DELGADO, ALBA LUZ"
+          ],
+          "plazas": [
+           "N°101927"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "10:30-11:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "EDAFOLOGIA Y USOS DEL SUELO",
+          "docentes": [
+           "LATIFE, JORGE GUSTAVO"
+          ],
+          "plazas": [
+           "N°13393",
+           "N°135952"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "HISTORIA",
+          "docentes": [
+           "MARTIN, MIRTA GRACIELA"
+          ],
+          "plazas": [
+           "N°97049"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "FISIOLOGÍA VEGETAL",
+          "docentes": [
+           "LATIFE, JORGE GUSTAVO"
+          ],
+          "plazas": [
+           "N°377510"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "BARRIONUEVO MARIA"
+          ],
+          "plazas": [
+           "N°3409972"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "VACANTE (TITULAR CON LICENCIA)"
+          ],
+          "plazas": [
+           "N°14738"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11:10-11:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "EDAFOLOGIA Y USOS DEL SUELO",
+          "docentes": [
+           "LATIFE, JORGE GUSTAVO"
+          ],
+          "plazas": [
+           "N°13393"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°198130"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "CORDOBA, VIVIANA ELENA"
+          ],
+          "plazas": [
+           "N°236875"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "CORDOBA, VIVIANA ELENA"
+          ],
+          "plazas": [
+           "N°236875"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "VACANTE (TITULAR CON LICENCIA)"
+          ],
+          "plazas": [
+           "N°14738"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11:50-12:30",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "EDAFOLOGIA Y USOS DEL SUELO",
+          "docentes": [
+           "LATIFE, JORGE GUSTAVO"
+          ],
+          "plazas": [
+           "N°135952"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°198130"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "CORDOBA, VIVIANA ELENA"
+          ],
+          "plazas": [
+           "N°236875"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "VACANTE (TITULAR CON LICENCIA)"
+          ],
+          "plazas": [
+           "N°14738"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "13:00 A 15:10",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "AGRICULTURA GENERAL",
+          "docentes": [
+           "SANTILLAN DANIEL"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "SANIDAD Y REPROD. ANIMAL",
+          "docentes": [
+           "OLIVERA, RICARDO ALFREDO"
+          ],
+          "plazas": [
+           "N°240830"
+          ]
+         },
+         {
+          "materia": "ZOOLOGIA AGRICOLA",
+          "docentes": [
+           "ALMONTE, MARIA FLORENCIA"
+          ],
+          "plazas": [
+           "N°381388"
+          ]
+         },
+         {
+          "materia": "PRODUCCION DE CITRUS",
+          "docentes": [
+           "NAVARRO RUBEN"
+          ],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "AGRICULTURA GENERAL",
+          "docentes": [
+           "SANTILLAN DANIEL"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "SANIDAD Y REPROD. ANIMAL",
+          "docentes": [
+           "OLIVERA, RICARDO ALFREDO"
+          ],
+          "plazas": [
+           "N°240830",
+           "N°240870"
+          ]
+         },
+         {
+          "materia": "ZOOLOGIA AGRARIA",
+          "docentes": [
+           "VACANTE"
+          ],
+          "plazas": [
+           "N°381338"
+          ]
+         },
+         {
+          "materia": "PRODUCCION DE CITRUS",
+          "docentes": [
+           "NAVARRO RUBEN"
+          ],
+          "plazas": []
+         }
+        ]
+       }
+      },
+      {
+       "hora": "15:10 A 17:20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "AGRICULTURA GENERAL",
+          "docentes": [
+           "SANTILLAN DANIEL"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "SANIDAD Y REPRO. ANIMAL",
+          "docentes": [
+           "OLIVERA, RICARDO ALFREDO"
+          ],
+          "plazas": [
+           "N°240830",
+           "N°240870"
+          ]
+         },
+         {
+          "materia": "ZOOLOGIA AGRICOLA",
+          "docentes": [
+           "ALMONTE, MARIA FLORENCIA"
+          ],
+          "plazas": [
+           "N°381388"
+          ]
+         },
+         {
+          "materia": "PRODUCCION DE CITRUS",
+          "docentes": [
+           "NAVARRO RUBEN"
+          ],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "AGRICULTURA GENERAL",
+          "docentes": [
+           "SANTILLAN DANIEL"
+          ],
+          "plazas": []
+         },
+         {
+          "materia": "SANIDAD Y REPROD. ANIMAL",
+          "docentes": [
+           "OLIVERA, RICARDO ALFREDO"
+          ],
+          "plazas": [
+           "N°240830",
+           "N°240870"
+          ]
+         },
+         {
+          "materia": "ZOOLOGIA AGRICOLA",
+          "docentes": [
+           "ALMONTE, MARIA FLORENCIA"
+          ],
+          "plazas": [
+           "N°381388"
+          ]
+         },
+         {
+          "materia": "PRODUCCION DE CITRUS",
+          "docentes": [
+           "NAVARRO RUBEN"
+          ],
+          "plazas": []
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "13:00 - 13:40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "EDUCACION FISICA",
+          "docentes": [
+           "PAZ, CLAUDIO RUBEN"
+          ],
+          "plazas": [
+           "N°198268"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "13:40 - 14:20 14:30 - 15:10",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "EDUCACION FISICA",
+          "docentes": [
+           "PAZ, CLAUDIO RUBEN"
+          ],
+          "plazas": [
+           "N°198268"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "5°AÑO",
+   "curso": "5°AÑO",
+   "division": "",
+   "ciclo": "",
+   "resolucion": "",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "7:30 -8:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "SANIDAD Y TERAP VG",
+          "docentes": [
+           "DIAZ P"
+          ],
+          "plazas": []
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "APICULTURA",
+          "docentes": [
+           "OLIVERA, RICARDO ALFREDO"
+          ],
+          "plazas": [
+           "N°21178"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "CORDOBA, VIVIANA ELENA"
+          ],
+          "plazas": [
+           "N°197642"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "8:10-8:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "SANIDAD Y TERAP VG",
+          "docentes": [
+           "DIAZ P"
+          ],
+          "plazas": []
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "CORDOBA, VIVIANA ELENA"
+          ],
+          "plazas": [
+           "N°197642"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "APICULTURA",
+          "docentes": [
+           "OLIVERA, RICARDO ALFREDO"
+          ],
+          "plazas": [
+           "N°21178"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "CORDOBA, VIVIANA ELENA"
+          ],
+          "plazas": [
+           "N°197642"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "CORDOBA, VIVIANA ELENA"
+          ],
+          "plazas": [
+           "N°197642"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "9:00-9:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "GENETICA Y BIOTECNOLOGIA",
+          "docentes": [
+           "DEL GOBBO, LUCIANA MELISA"
+          ],
+          "plazas": [
+           "N°377518"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMATICA APLICADA I",
+          "docentes": [
+           "DELGADO, ALBA LUZ"
+          ],
+          "plazas": [
+           "N°101931"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "APICULTURA",
+          "docentes": [
+           "OLIVERA, RICARDO ALFREDO"
+          ],
+          "plazas": [
+           "N°21178"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "CORDOBA, VIVIANA ELENA"
+          ],
+          "plazas": [
+           "N°197642"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "CORDOBA, VIVIANA ELENA"
+          ],
+          "plazas": [
+           "N°197642"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "9:40-10:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "GENETICA Y BIOTECNOLOGIA",
+          "docentes": [
+           "DEL GOBBO, LUCIANA MELISA"
+          ],
+          "plazas": [
+           "N°377518"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMATICA APLICADA I",
+          "docentes": [
+           "DELGADO, ALBA LUZ"
+          ],
+          "plazas": [
+           "N°101931"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "HORTICULTURA Y PRODUCCION DE FLORES",
+          "docentes": [
+           "AVILA, MARCELA ELIZABETH"
+          ],
+          "plazas": [
+           "N°237061"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°237024"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°237024"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "10:30-11:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "RAMIREZ PLAZA, FLAVIO GUSTAVO"
+          ],
+          "plazas": [
+           "N°35709"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "GENETICA Y BIOTECNOLOGIA",
+          "docentes": [
+           "DEL GOBBO, LUCIANA MELISA"
+          ],
+          "plazas": [
+           "N°377518"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "HORTICULTURA Y PRODUCCION DE FLORES",
+          "docentes": [
+           "AVILA, MARCELA ELIZABETH"
+          ],
+          "plazas": [
+           "N°237061"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "DÍAZ P"
+          ],
+          "plazas": []
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "QUÍMICA",
+          "docentes": [
+           "BAIGORRIA, DIEGO JOAQUIN"
+          ],
+          "plazas": [
+           "N°237024"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11:10-11:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "RAMIREZ PLAZA, FLAVIO GUSTAVO"
+          ],
+          "plazas": [
+           "N°35709"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "GENETICA Y BIOTECNOLOGIA",
+          "docentes": [
+           "DEL GOBBO, LUCIANA MELISA"
+          ],
+          "plazas": [
+           "N°377518"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "HORTICULTURA Y PRODUCCION DE FLORES",
+          "docentes": [
+           "AVILA, MARCELA ELIZABETH"
+          ],
+          "plazas": [
+           "N°237061"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "DÍAZ P"
+          ],
+          "plazas": []
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMATICA APLICADA I",
+          "docentes": [
+           "DELGADO, ALBA LUZ"
+          ],
+          "plazas": [
+           "N°101931"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11:50-12:30",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "GEOGRAFÍA",
+          "docentes": [
+           "RAMIREZ PLAZA, FLAVIO GUSTAVO"
+          ],
+          "plazas": [
+           "N°35709"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "SANIDAD Y TERAP VG",
+          "docentes": [
+           "DIAZ P"
+          ],
+          "plazas": []
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [],
+          "plazas": []
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FÍSICA",
+          "docentes": [
+           "DÍAZ P"
+          ],
+          "plazas": []
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "MATEMATICA APLICADA I",
+          "docentes": [
+           "DELGADO, ALBA LUZ"
+          ],
+          "plazas": [
+           "N°101931"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "13:00 A 15:10",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "MAQUINARIAS AGRICOLAS",
+          "docentes": [
+           "VACANTE (TITULAR CON LICENCIA)"
+          ],
+          "plazas": [
+           "N°367975"
+          ]
+         },
+         {
+          "materia": "HORTICULTURA Y PRODUCCION DE FLORES",
+          "docentes": [
+           "AVILA, MARCELA ELIZABETH"
+          ],
+          "plazas": [
+           "N°237061"
+          ]
+         },
+         {
+          "materia": "INDUSTRIA DE LA PROD. VEGETAL",
+          "docentes": [
+           "CASTILLO, YVANA GRACIELA DEL CARMEN"
+          ],
+          "plazas": [
+           "N°376961"
+          ]
+         },
+         {
+          "materia": "PRODUCCION ANIMAL I",
+          "docentes": [
+           "NESTASIO, BRUNO CONSTANTINO"
+          ],
+          "plazas": [
+           "N°252227"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "MAQUINARIAS AGRICOLAS",
+          "docentes": [
+           "VACANTE (TITULAR CON LICENCIA)"
+          ],
+          "plazas": [
+           "N°367975"
+          ]
+         },
+         {
+          "materia": "HORTICULTURA Y PRODUCCION DE FLORES",
+          "docentes": [
+           "AVILA, MARCELA ELIZABETH"
+          ],
+          "plazas": [
+           "N°237061"
+          ]
+         },
+         {
+          "materia": "INDUSTRIA DE LA PROD.VEGETAL",
+          "docentes": [
+           "CASTILLO, YVANA GRACIELA DEL CARMEN"
+          ],
+          "plazas": [
+           "N°376961"
+          ]
+         },
+         {
+          "materia": "PRODUCCION ANIMAL I",
+          "docentes": [
+           "NESTASIO, BRUNO CONSTANTINO"
+          ],
+          "plazas": [
+           "N°252227"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "15:10 A 17:20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "MAQUINARIAS AGRICOLAS",
+          "docentes": [
+           "VACANTE (TITULAR CON LICENCIA)"
+          ],
+          "plazas": [
+           "N°367975"
+          ]
+         },
+         {
+          "materia": "HORTICULTURA Y PRODUCCION DE FLORES",
+          "docentes": [
+           "AVILA, MARCELA ELIZABETH"
+          ],
+          "plazas": [
+           "N°237061"
+          ]
+         },
+         {
+          "materia": "INDUSTRIA DE LA PROD. VEGETAL",
+          "docentes": [
+           "CASTILLO, YVANA GRACIELA DEL CARMEN"
+          ],
+          "plazas": [
+           "N°376961"
+          ]
+         },
+         {
+          "materia": "PRODUCCION ANIMAL I",
+          "docentes": [
+           "NESTASIO, BRUNO CONSTANTINO"
+          ],
+          "plazas": [
+           "N°252227"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "MAQUINARIAS AGRICOLAS",
+          "docentes": [
+           "VACANTE (TITULAR CON LICENCIA)"
+          ],
+          "plazas": [
+           "N°367975"
+          ]
+         },
+         {
+          "materia": "HORTICULTURA Y PRODUCCION DE FLORES",
+          "docentes": [
+           "AVILA, MARCELA ELIZABETH"
+          ],
+          "plazas": [
+           "N°237061"
+          ]
+         },
+         {
+          "materia": "INDUSTRIA DE LA PROD. VEGETAL",
+          "docentes": [
+           "CASTILLO, YVANA GRACIELA DEL CARMEN"
+          ],
+          "plazas": [
+           "N°376961"
+          ]
+         },
+         {
+          "materia": "PRODUCCION ANIMAL I",
+          "docentes": [
+           "NESTASIO, BRUNO CONSTANTINO"
+          ],
+          "plazas": [
+           "N°252227"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "13:00 - 13:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "EDUCACION FISICA",
+          "docentes": [
+           "BRANDAN, MARIA MARCELINA"
+          ],
+          "plazas": [
+           "N°22738"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "13:40 - 14:20 14:30 - 15:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "EDUCACION FISICA",
+          "docentes": [
+           "BRANDAN, MARIA MARCELINA"
+          ],
+          "plazas": [
+           "N°22738"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "6°AÑO",
+   "curso": "6°AÑO",
+   "division": "",
+   "ciclo": "",
+   "resolucion": "",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "7:30 -8:10",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "MATEMATICA APLICADA II",
+          "docentes": [
+           "POLO, ANA TRINIDAD"
+          ],
+          "plazas": [
+           "N°166236"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "JUAREZ, PAOLA DEL CARMEN"
+          ],
+          "plazas": [
+           "N°236954"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMATICA APLICADA II",
+          "docentes": [
+           "POLO, ANA TRINIDAD"
+          ],
+          "plazas": [
+           "N°166236"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "JUAREZ, PAOLA DEL CARMEN"
+          ],
+          "plazas": [
+           "N°236955"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "8:10-8:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ECONOMIA Y DESARROLLO RURAL",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°237057"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMATICA APLICADA II",
+          "docentes": [
+           "POLO, ANA TRINIDAD"
+          ],
+          "plazas": [
+           "N°166236"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "JUAREZ, PAOLA DEL CARMEN"
+          ],
+          "plazas": [
+           "N°236954",
+           "N°296954"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "MATEMATICA APLICADA II",
+          "docentes": [
+           "POLO, ANA TRINIDAD"
+          ],
+          "plazas": [
+           "N°236893"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "PRODUCCION PECUARIA I",
+          "docentes": [
+           "OLIVERA, RICARDO ALFREDO"
+          ],
+          "plazas": [
+           "N°196699"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "9:00-9:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ECONOMIA Y DESARROLLO RURAL",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°197425"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "VACANTE (TITULAR CON LICENCIA)"
+          ],
+          "plazas": [
+           "N°14746"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "LENGUA Y LITERATURA",
+          "docentes": [
+           "JUAREZ, PAOLA DEL CARMEN"
+          ],
+          "plazas": [
+           "N°236954",
+           "N°296954"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FRUTICULTURA",
+          "docentes": [
+           "DIAZ, PROSPERO EXEQUIEL"
+          ],
+          "plazas": [
+           "N°344772"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "PRODUCCION PECUARIA I",
+          "docentes": [
+           "OLIVERA, RICARDO ALFREDO"
+          ],
+          "plazas": [
+           "N°196699"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "9:40-10:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ECONOMIA Y DESARROLLO RURAL",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°197425"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "VACANTE (TITULAR CON LICENCIA)"
+          ],
+          "plazas": [
+           "N°14746"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "AGROINDUSTRIAS",
+          "docentes": [
+           "CABRERA E"
+          ],
+          "plazas": [
+           "N°344772"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FRUTICULTURA",
+          "docentes": [
+           "DIAZ, PROSPERO EXEQUIEL"
+          ],
+          "plazas": [
+           "N°344772"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "VACANTE (TITULAR CON LICENCIA)"
+          ],
+          "plazas": [
+           "N°98952"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "10:30-11:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "FRUTICULTURA",
+          "docentes": [
+           "DIAZ P"
+          ],
+          "plazas": [
+           "N°237060"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "PRODUCCION PECUARIA I",
+          "docentes": [
+           "OLIVERA, RICARDO ALFREDO"
+          ],
+          "plazas": [
+           "N°196699"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "AGROINDUSTRIAS",
+          "docentes": [
+           "CABRERA E"
+          ],
+          "plazas": [
+           "N°344772"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "CULTIVOS INDUSTRIALES",
+          "docentes": [
+           "VACANTE"
+          ],
+          "plazas": [
+           "N°166237"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "SILVICULTURA",
+          "docentes": [
+           "BOLOMO, NATALIA JUDITH"
+          ],
+          "plazas": [
+           "N°344773"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11:10-11:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "FRUTICULTURA",
+          "docentes": [
+           "DIAZ P"
+          ],
+          "plazas": [
+           "N°237060"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "PRODUCCION PECUARIA I",
+          "docentes": [
+           "OLIVERA, RICARDO ALFREDO"
+          ],
+          "plazas": [
+           "N°196699"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "AGROINDUSTRIAS DE TUCUMAN",
+          "docentes": [
+           "MONTEROS, NAZARENO NICOLAS"
+          ],
+          "plazas": [
+           "N°237060"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "CULTIVOS INDUSTRIALES",
+          "docentes": [
+           "VACANTE"
+          ],
+          "plazas": [
+           "N°166237"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "SILVICULTURA",
+          "docentes": [
+           "BOLOMO, NATALIA JUDITH"
+          ],
+          "plazas": [
+           "N°344773"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11:50-12:30",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "AGROINDUSTRIAS DE TUCUMAN",
+          "docentes": [
+           "MONTEROS, NAZARENO NICOLAS"
+          ],
+          "plazas": [
+           "N°237060"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "PRODUCCION PECUARIA I",
+          "docentes": [
+           "OLIVERA, RICARDO ALFREDO"
+          ],
+          "plazas": [
+           "N°196699"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "RELACIONES HUMANAS",
+          "docentes": [
+           "MARTIN M"
+          ],
+          "plazas": [
+           "N°166236"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "CULTIVOS INDUSTRIALES",
+          "docentes": [
+           "VACANTE"
+          ],
+          "plazas": [
+           "N°166237"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "SILVICULTURA",
+          "docentes": [
+           "BOLOMO, NATALIA JUDITH"
+          ],
+          "plazas": [
+           "N°344773"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "13:00 A 15:10",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "IND. DE CARNE Y LECHE",
+          "docentes": [
+           "MAYOL ORTIZ, CAROLINE SILVANA"
+          ],
+          "plazas": [
+           "N°240831"
+          ]
+         },
+         {
+          "materia": "PRODUCCION ANIMAL II",
+          "docentes": [
+           "OLIVERA, RICARDO ALFREDO"
+          ],
+          "plazas": [
+           "N°240830"
+          ]
+         },
+         {
+          "materia": "ARBORICULTURA Y FRUTICULTURA",
+          "docentes": [
+           "LATIFE, JORGE GUSTAVO"
+          ],
+          "plazas": [
+           "N°240832"
+          ]
+         },
+         {
+          "materia": "PRODUCCION DE CEREALES",
+          "docentes": [
+           "ALMONTE, MARIA FLORENCIA"
+          ],
+          "plazas": [
+           "N°381388"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "IND. DE CARNE Y LECHE",
+          "docentes": [
+           "MAYOL ORTIZ, CAROLINE SILVANA"
+          ],
+          "plazas": [
+           "N°240831"
+          ]
+         },
+         {
+          "materia": "PRODUCCION ANIMAL II",
+          "docentes": [
+           "OLIVERA, RICARDO ALFREDO"
+          ],
+          "plazas": [
+           "N°240830"
+          ]
+         },
+         {
+          "materia": "ARBORICULTURA Y FRUTICULTURA",
+          "docentes": [
+           "LATIFE, JORGE GUSTAVO"
+          ],
+          "plazas": [
+           "N°240832"
+          ]
+         },
+         {
+          "materia": "PRODUCCION DE CEREALES",
+          "docentes": [
+           "ALMONTE, MARIA FLORENCIA"
+          ],
+          "plazas": [
+           "N°381388"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "15:10 A 17:20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "IND. DE CARNE Y LECHE",
+          "docentes": [
+           "MAYOL ORTIZ, CAROLINE SILVANA"
+          ],
+          "plazas": [
+           "N°240831"
+          ]
+         },
+         {
+          "materia": "PRODUCCION ANIMAL LL",
+          "docentes": [
+           "OLIVERA, RICARDO ALFREDO"
+          ],
+          "plazas": [
+           "N°240830"
+          ]
+         },
+         {
+          "materia": "ARBORICULTURA Y FRUTICULTURA",
+          "docentes": [
+           "LATIFE, JORGE GUSTAVO"
+          ],
+          "plazas": [
+           "N°240832"
+          ]
+         },
+         {
+          "materia": "PRODUCCION DE CEREALES",
+          "docentes": [
+           "ALMONTE, MARIA FLORENCIA"
+          ],
+          "plazas": [
+           "N°381388"
+          ]
+         }
+        ],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "IND. DE LA LECHE Y LA CARNE",
+          "docentes": [
+           "MAYOL ORTIZ, CAROLINE SILVANA"
+          ],
+          "plazas": [
+           "N°240831"
+          ]
+         },
+         {
+          "materia": "PRODUCCION ANIMAL II",
+          "docentes": [
+           "OLIVERA, RICARDO ALFREDO"
+          ],
+          "plazas": [
+           "N°240830"
+          ]
+         },
+         {
+          "materia": "ARBORICULTURA Y FRUTICULTURA",
+          "docentes": [
+           "LATIFE, JORGE GUSTAVO"
+          ],
+          "plazas": [
+           "N°240832"
+          ]
+         },
+         {
+          "materia": "PRODUCCION DE CEREALES",
+          "docentes": [
+           "ALMONTE, MARIA FLORENCIA"
+          ],
+          "plazas": [
+           "N°381388"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "13:00 - 13:40",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "EDUCACION FISICA",
+          "docentes": [
+           "BRANDAN, MARIA MARCELINA"
+          ],
+          "plazas": [
+           "N°22739"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "13:40 - 14:20 14:30 - 15:10",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [],
+        "VIERNES": [
+         {
+          "materia": "EDUCACION FISICA",
+          "docentes": [
+           "BRANDAN, MARIA MARCELINA"
+          ],
+          "plazas": [
+           "N°22739"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "hoja": "7°AÑO",
+   "curso": "7°AÑO",
+   "division": "",
+   "ciclo": "",
+   "resolucion": "",
+   "observaciones": "",
+   "tablas": [
+    {
+     "titulo": "Horario de clases",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "7:30 -8:10",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [
+         {
+          "materia": "MATEMATICA APLICADA A LA EMPRESA AGROPECUARIA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°98290"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMATICA APLICADA A LA EMPRESA AGROPECUARIA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°98290"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FORMULACIÓN DE PROYEC",
+          "docentes": [
+           "AGRAMUNT, MARIA GIANNINA"
+          ],
+          "plazas": [
+           "N°197841"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "8:10-8:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "PROYECTO TECNOLÓGICO",
+          "docentes": [
+           "MARTINEZ, CAROLINA ELIZABETH"
+          ],
+          "plazas": [
+           "N°344771"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "MATEMATICA APLICADA A LA EMPRESA AGROPECUARIA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°98290"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "MATEMATICA APLICADA A LA EMPRESA AGROPECUARIA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°98290"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FORMULACIÓN DE PROYEC",
+          "docentes": [
+           "AGRAMUNT, MARIA GIANNINA"
+          ],
+          "plazas": [
+           "N°197841"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "ORGANIZACION Y GESTION DE LA EMPRESA AGROPECUARIA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°344774"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "9:00-9:40",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "PROYECTO TECNOLÓGICO",
+          "docentes": [
+           "MARTINEZ, CAROLINA ELIZABETH"
+          ],
+          "plazas": [
+           "N°344771"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "FORMULACIÓN DE PROYEC",
+          "docentes": [
+           "AGRAMUNT, MARIA GIANNINA"
+          ],
+          "plazas": [
+           "N°197841",
+           "N°197871"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "PROYECTO TECNOLÓGICO",
+          "docentes": [
+           "MARTINEZ, CAROLINA ELIZABETH"
+          ],
+          "plazas": [
+           "N°344771"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "FORMULACIÓN DE PROYEC",
+          "docentes": [
+           "AGRAMUNT, MARIA GIANNINA"
+          ],
+          "plazas": [
+           "N°197841"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "ORGANIZACION Y GESTION DE LA EMPRESA AGROPECUARIA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°344774"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "9:40-10:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "PROYECTO TECNOLÓGICO",
+          "docentes": [
+           "MARTINEZ, CAROLINA ELIZABETH"
+          ],
+          "plazas": [
+           "N°344771"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "FORMULACIÓN DE PROYEC",
+          "docentes": [
+           "AGRAMUNT, MARIA GIANNINA"
+          ],
+          "plazas": [
+           "N°197841",
+           "N°197871"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "PROYECTO TECNOLÓGICO",
+          "docentes": [
+           "MARTINEZ, CAROLINA ELIZABETH"
+          ],
+          "plazas": [
+           "N°344771"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "COMUNICACIÓN",
+          "docentes": [
+           "CORDOBA, VIVIANA ELENA"
+          ],
+          "plazas": [
+           "N°236877"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "LEGISLACIÓN AGRARIA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°5655"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "10:30-11:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ORGANIZACION Y GESTION DE LA EMPRESA AGROPECUARIA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°344774"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "VACANTE (TITULAR CON LICENCIA)"
+          ],
+          "plazas": [
+           "N°39089"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "PROYECTO TECNOLÓGICO",
+          "docentes": [
+           "MARTINEZ, CAROLINA ELIZABETH"
+          ],
+          "plazas": [
+           "N°344771"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "COMUNICACIÓN",
+          "docentes": [
+           "CORDOBA, VIVIANA ELENA"
+          ],
+          "plazas": [
+           "N°236877"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "PRODUCCION AGROPECUARIA DE INTERES LOCAL",
+          "docentes": [
+           "VACANTE"
+          ],
+          "plazas": [
+           "N°237404"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11:10-11:50",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "ORGANIZACION Y GESTION DE LA EMPRESA AGROPECUARIA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°344774"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "VACANTE (TITULAR CON LICENCIA)"
+          ],
+          "plazas": [
+           "N°39089"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "PRODUCCION AGROPECUARIA DE INTERES LOCAL",
+          "docentes": [
+           "VACANTE"
+          ],
+          "plazas": [
+           "N°237404"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LEGISLACIÓN AGRARIA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°5655"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "PRODUCCION AGROPECUARIA DE INTERES LOCAL",
+          "docentes": [
+           "VACANTE"
+          ],
+          "plazas": [
+           "N°237404"
+          ]
+         }
+        ]
+       }
+      },
+      {
+       "hora": "11:50-12:30",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "COMUNICACIÓN",
+          "docentes": [
+           "CORDOBA, VIVIANA ELENA"
+          ],
+          "plazas": [
+           "N°236876"
+          ]
+         }
+        ],
+        "MARTES": [
+         {
+          "materia": "LENGUA EXTRANJERA",
+          "docentes": [
+           "VACANTE (TITULAR CON LICENCIA)"
+          ],
+          "plazas": [
+           "N°39089"
+          ]
+         }
+        ],
+        "MIERCOLES": [
+         {
+          "materia": "PRODUCCION AGROPECUARIA DE INTERES LOCAL",
+          "docentes": [
+           "VACANTE"
+          ],
+          "plazas": [
+           "N°237404"
+          ]
+         }
+        ],
+        "JUEVES": [
+         {
+          "materia": "LEGISLACIÓN AGRARIA",
+          "docentes": [
+           "DE MINGO, ANDRES"
+          ],
+          "plazas": [
+           "N°5655"
+          ]
+         }
+        ],
+        "VIERNES": [
+         {
+          "materia": "PRODUCCION AGROPECUARIA DE INTERES LOCAL",
+          "docentes": [
+           "VACANTE"
+          ],
+          "plazas": [
+           "N°237404"
+          ]
+         }
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Taller Tecnológico",
+     "tipo": "taller",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "13:00 A 15:10",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "AGROECOLOGIA Y MONI. AMB",
+          "docentes": [
+           "MAYOL ORTIZ, CAROLINE SILVANA"
+          ],
+          "plazas": [
+           "N°240831"
+          ]
+         },
+         {
+          "materia": "EXTENSION Y DESARR. LOCAL",
+          "docentes": [
+           "NESTASIO, BRUNO CONSTANTINO"
+          ],
+          "plazas": [
+           "N°252227"
+          ]
+         },
+         {
+          "materia": "TECNOLOGIA Y MEDICION Y CON",
+          "docentes": [
+           "LATIFE, JORGE GUSTAVO"
+          ],
+          "plazas": [
+           "N°240832"
+          ]
+         },
+         {
+          "materia": "PRODUCCION ANIMAL III",
+          "docentes": [
+           "CASTILLO, YVANA GRACIELA DEL CARMEN"
+          ],
+          "plazas": [
+           "N°376961"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "AGROECOLOGIA Y MONI. AMB",
+          "docentes": [
+           "MAYOL ORTIZ, CAROLINE SILVANA"
+          ],
+          "plazas": [
+           "N°240831"
+          ]
+         },
+         {
+          "materia": "EXTENSION Y DESARR. LOCAL",
+          "docentes": [
+           "NESTASIO, BRUNO CONSTANTINO"
+          ],
+          "plazas": [
+           "N°252227"
+          ]
+         },
+         {
+          "materia": "TECNOLOGIA DE MEDICION Y CON",
+          "docentes": [
+           "LATIFE, JORGE GUSTAVO"
+          ],
+          "plazas": [
+           "N°240832"
+          ]
+         },
+         {
+          "materia": "PRODUCCION ANIMAL III",
+          "docentes": [
+           "CASTILLO, YVANA GRACIELA DEL CARMEN"
+          ],
+          "plazas": [
+           "N°376961"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "15:10 A 17:20",
+       "celdas": {
+        "LUNES": [
+         {
+          "materia": "AGROECOLOGIA Y MONI. AMB",
+          "docentes": [
+           "MAYOL ORTIZ, CAROLINE SILVANA"
+          ],
+          "plazas": [
+           "N°240831"
+          ]
+         },
+         {
+          "materia": "EXTENSION Y DESARR. LOCAL",
+          "docentes": [
+           "NESTASIO, BRUNO CONSTANTINO"
+          ],
+          "plazas": [
+           "N°252227"
+          ]
+         },
+         {
+          "materia": "TECNOLOGIA DE MEDICION Y CON",
+          "docentes": [
+           "LATIFE, JORGE GUSTAVO"
+          ],
+          "plazas": [
+           "N°240832"
+          ]
+         },
+         {
+          "materia": "PRODUCCION ANIMAL III",
+          "docentes": [
+           "CASTILLO, YVANA GRACIELA DEL CARMEN"
+          ],
+          "plazas": [
+           "N°376961"
+          ]
+         }
+        ],
+        "MARTES": [],
+        "MIERCOLES": [
+         {
+          "materia": "AGROECOLOGIA Y MONI. AMB",
+          "docentes": [
+           "MAYOL ORTIZ, CAROLINE SILVANA"
+          ],
+          "plazas": [
+           "N°240831"
+          ]
+         },
+         {
+          "materia": "EXTENSION Y DESARR. LOCAL",
+          "docentes": [
+           "NESTASIO, BRUNO CONSTANTINO"
+          ],
+          "plazas": [
+           "N°252227"
+          ]
+         },
+         {
+          "materia": "TECNOLOGIA DE MEDICION Y CON",
+          "docentes": [
+           "LATIFE, JORGE GUSTAVO"
+          ],
+          "plazas": [
+           "N°240832"
+          ]
+         },
+         {
+          "materia": "PRODUCCION ANIMAL III",
+          "docentes": [
+           "CASTILLO, YVANA GRACIELA DEL CARMEN"
+          ],
+          "plazas": [
+           "N°376961"
+          ]
+         }
+        ],
+        "JUEVES": [],
+        "VIERNES": []
+       }
+      }
+     ]
+    },
+    {
+     "titulo": "Educación Física",
+     "tipo": "grid",
+     "dias": [
+      "LUNES",
+      "MARTES",
+      "MIERCOLES",
+      "JUEVES",
+      "VIERNES"
+     ],
+     "filas": [
+      {
+       "hora": "15:10 - 15:50",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "EDUCACION FISICA",
+          "docentes": [
+           "PAZ, CLAUDIO RUBEN"
+          ],
+          "plazas": [
+           "N°127611"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      },
+      {
+       "hora": "16:00 - 16:40 16:40 - 17:20",
+       "celdas": {
+        "LUNES": [],
+        "MARTES": [],
+        "MIERCOLES": [],
+        "JUEVES": [
+         {
+          "materia": "EDUCACION FISICA",
+          "docentes": [
+           "PAZ, CLAUDIO RUBEN"
+          ],
+          "plazas": [
+           "N°210141"
+          ]
+         }
+        ],
+        "VIERNES": []
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

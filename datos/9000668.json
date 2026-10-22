@@ -5,11 +5,11 @@
  "pin": "1234",
  "cursos": [
   {
-   "hoja": "1º C.B. 1ra Div.",
+   "hoja": "1º C.B. 1RA DIV.",
    "curso": "1º AÑO CICLO BASICO",
-   "division": "1ra",
+   "division": "1RA",
    "ciclo": "",
-   "resolucion": "50/5 (MEd)",
+   "resolucion": "50/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -30,7 +30,7 @@
         "MARTES": [],
         "MIERCOLES": [
          {
-          "materia": "FISICO-QUIMICA",
+          "materia": "FISICA Y QUIMICA",
           "docentes": [
            "NIETO, ROMINA NOELIA"
           ],
@@ -48,7 +48,7 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "FISICO-QUIMICA",
+          "materia": "FISICA Y QUIMICA",
           "docentes": [
            "NIETO, ROMINA NOELIA"
           ],
@@ -61,7 +61,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "OCARANZA, LAURA GUADALUPE"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°91734"
@@ -72,8 +72,7 @@
          {
           "materia": "TECNOLOGIA",
           "docentes": [
-           "SALTO, CONRADO MIGUEL",
-           "GONZALEZ, ADRIÁN EUDORO"
+           "GONZALEZ, ADRIAN EUDORO"
           ],
           "plazas": [
            "N°232355"
@@ -84,7 +83,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "AGUIRRE, ANGEL ROQUE"
+           "AGUIRRE, ÁNGEL ROQUE"
           ],
           "plazas": [
            "N°197744"
@@ -95,7 +94,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "OCARANZA, LAURA GUADALUPE"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°91734"
@@ -109,7 +108,7 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "FISICO-QUIMICA",
+          "materia": "FISICA Y QUIMICA",
           "docentes": [
            "NIETO, ROMINA NOELIA"
           ],
@@ -122,7 +121,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "OCARANZA, LAURA GUADALUPE"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°91734"
@@ -144,7 +143,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "AGUIRRE, ANGEL ROQUE"
+           "AGUIRRE, ÁNGEL ROQUE"
           ],
           "plazas": [
            "N°197744"
@@ -155,7 +154,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "OCARANZA, LAURA GUADALUPE"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°114803"
@@ -193,8 +192,7 @@
          {
           "materia": "TECNOLOGIA",
           "docentes": [
-           "SALTO, CONRADO MIGUEL",
-           "GONZALEZ, ADRIÁN EUDORO"
+           "GONZALEZ, ADRIAN EUDORO"
           ],
           "plazas": [
            "N°93929"
@@ -205,7 +203,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "AGUIRRE, ANGEL ROQUE"
+           "AGUIRRE, ÁNGEL ROQUE"
           ],
           "plazas": [
            "N°197743"
@@ -216,7 +214,7 @@
          {
           "materia": "LENGUA",
           "docentes": [
-           "OCARANZA, LAURA GUADALUPE"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°114803"
@@ -254,8 +252,7 @@
          {
           "materia": "TECNOLOGIA",
           "docentes": [
-           "SALTO, CONRADO MIGUEL",
-           "GONZALEZ, ADRIÁN EUDORO"
+           "GONZALEZ, ADRIAN EUDORO"
           ],
           "plazas": [
            "N°93929"
@@ -266,7 +263,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "BLANCO SALTO CLAUDIA VANESA",
+           "BLANCO SALTO, CLAUDIA VANESSA",
            "BARBA, MICAELA AYELEN"
           ],
           "plazas": [
@@ -305,7 +302,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "BLANCO SALTO CLAUDIA VANESA",
+           "BLANCO SALTO, CLAUDIA VANESSA",
            "BARBA, MICAELA AYELEN"
           ],
           "plazas": [
@@ -366,7 +363,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "BLANCO SALTO CLAUDIA VANESA",
+           "BLANCO SALTO, CLAUDIA VANESSA",
            "BARBA, MICAELA AYELEN"
           ],
           "plazas": [
@@ -423,7 +420,7 @@
      ],
      "filas": [
       {
-       "hora": "7:50 a 9:50",
+       "hora": "7:50 A 9:50",
        "celdas": {
         "LUNES": [
          {
@@ -438,7 +435,7 @@
          {
           "materia": "HOJALATERIA",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL"
+           "VACANTE"
           ],
           "plazas": [
            "N°197693"
@@ -458,7 +455,7 @@
          {
           "materia": "HOJALATERIA",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL"
+           "VACANTE"
           ],
           "plazas": [
            "N°197693"
@@ -472,16 +469,16 @@
            "OCAMPO, JORGE LUIS"
           ],
           "plazas": [
-           "Nº 276822"
+           "N°197165"
           ]
          },
          {
           "materia": "AJUSTE",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL"
+           "VACANTE"
           ],
           "plazas": [
-           "Nº 197693"
+           "N°197693"
           ]
          }
         ],
@@ -492,13 +489,13 @@
            "OCAMPO, JORGE LUIS"
           ],
           "plazas": [
-           "N°276822"
+           "N°197165"
           ]
          },
          {
           "materia": "AJUSTE",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL"
+           "VACANTE"
           ],
           "plazas": [
            "N°197693"
@@ -524,7 +521,7 @@
          {
           "materia": "HOJALATERIA",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL"
+           "VACANTE"
           ],
           "plazas": [
            "N°197693"
@@ -544,7 +541,7 @@
          {
           "materia": "HOJALATERIA",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL"
+           "VACANTE"
           ],
           "plazas": [
            "N°197693"
@@ -558,13 +555,13 @@
            "OCAMPO, JORGE LUIS"
           ],
           "plazas": [
-           "N°276822"
+           "N°197165"
           ]
          },
          {
           "materia": "AJUSTE",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL"
+           "VACANTE"
           ],
           "plazas": [
            "N°197693"
@@ -578,13 +575,13 @@
            "OCAMPO, JORGE LUIS"
           ],
           "plazas": [
-           "N°276822"
+           "N°197165"
           ]
          },
          {
           "materia": "AJUSTE",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL"
+           "VACANTE"
           ],
           "plazas": [
            "N°197693"
@@ -672,11 +669,11 @@
    ]
   },
   {
-   "hoja": "1ro C.B. 2da Div.",
+   "hoja": "1RO C.B. 2DA DIV.",
    "curso": "1º AÑO CICLO BASICO",
-   "division": "2da",
+   "division": "2DA",
    "ciclo": "",
-   "resolucion": "50/5 (MEd)",
+   "resolucion": "50/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -726,7 +723,7 @@
         ],
         "MARTES": [
          {
-          "materia": "FISICO-QUIMICA",
+          "materia": "FISICA Y QUIMICA",
           "docentes": [
            "NIETO, ROMINA NOELIA"
           ],
@@ -750,7 +747,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "CONTRERA, CECILIA VERONICA"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°181512"
@@ -786,7 +783,7 @@
         ],
         "MARTES": [
          {
-          "materia": "FISICO-QUIMICA",
+          "materia": "FISICA Y QUIMICA",
           "docentes": [
            "NIETO, ROMINA NOELIA"
           ],
@@ -799,7 +796,7 @@
          {
           "materia": "TECNOLOGIA",
           "docentes": [
-           "GARCIA, DOMINGO ANTONIO"
+           "VACANTE"
           ],
           "plazas": [
            "N°178967"
@@ -810,7 +807,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "CONTRERA, CECILIA VERONICA"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°181512"
@@ -968,7 +965,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "CONTRERA, CECILIA VERONICA"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°181512"
@@ -979,7 +976,7 @@
          {
           "materia": "TECNOLOGIA",
           "docentes": [
-           "GARCIA, DOMINGO ANTONIO"
+           "VACANTE"
           ],
           "plazas": [
            "N°178967"
@@ -1026,12 +1023,12 @@
         ],
         "MARTES": [
          {
-          "materia": "FISICO-QUIMICA",
+          "materia": "FISICA Y QUIMICA",
           "docentes": [
            "NIETO, ROMINA NOELIA"
           ],
           "plazas": [
-           "N° 25516"
+           "N°25516"
           ]
          }
         ],
@@ -1039,7 +1036,7 @@
          {
           "materia": "TECNOLOGIA",
           "docentes": [
-           "GARCIA, DOMINGO ANTONIO"
+           "VACANTE"
           ],
           "plazas": [
            "N°178967"
@@ -1084,7 +1081,7 @@
      ],
      "filas": [
       {
-       "hora": "7:50 a 9:50",
+       "hora": "7:50 A 9:50",
        "celdas": {
         "LUNES": [
          {
@@ -1099,7 +1096,7 @@
          {
           "materia": "HOJALATERIA",
           "docentes": [
-           "SEVERO, HECTOR M"
+           "VACANTE"
           ],
           "plazas": [
            "N°197693"
@@ -1119,7 +1116,7 @@
          {
           "materia": "HOJALATERIA",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL"
+           "VACANTE"
           ],
           "plazas": [
            "N°197693"
@@ -1133,13 +1130,13 @@
            "OCAMPO, JORGE LUIS"
           ],
           "plazas": [
-           "N°276822"
+           "N°197165"
           ]
          },
          {
           "materia": "AJUSTE",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL"
+           "VACANTE"
           ],
           "plazas": [
            "N°197693"
@@ -1153,13 +1150,13 @@
            "OCAMPO, JORGE LUIS"
           ],
           "plazas": [
-           "N°276822"
+           "N°197165"
           ]
          },
          {
           "materia": "AJUSTE",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL"
+           "VACANTE"
           ],
           "plazas": [
            "N°197693"
@@ -1185,7 +1182,7 @@
          {
           "materia": "HOJALATERIA",
           "docentes": [
-           "SEVERO, HECTOR M"
+           "VACANTE"
           ],
           "plazas": [
            "N°197693"
@@ -1205,7 +1202,7 @@
          {
           "materia": "HOJALATERIA",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL"
+           "VACANTE"
           ],
           "plazas": [
            "N°197693"
@@ -1219,13 +1216,13 @@
            "OCAMPO, JORGE LUIS"
           ],
           "plazas": [
-           "N°276822"
+           "N°197165"
           ]
          },
          {
           "materia": "AJUSTE",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL"
+           "VACANTE"
           ],
           "plazas": [
            "N°197693"
@@ -1239,13 +1236,13 @@
            "OCAMPO, JORGE LUIS"
           ],
           "plazas": [
-           "N°276822"
+           "N°197165"
           ]
          },
          {
           "materia": "AJUSTE",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL"
+           "VACANTE"
           ],
           "plazas": [
            "N°197693"
@@ -1279,7 +1276,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "PEREZ, MARIA PIA"
+           "PEREZ, MARÍA PÍA"
           ],
           "plazas": [
            "N°114823"
@@ -1299,7 +1296,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "PEREZ, MARIA PIA"
+           "PEREZ, MARÍA PÍA"
           ],
           "plazas": [
            "N°114823"
@@ -1319,7 +1316,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "PEREZ, MARIA PIA"
+           "PEREZ, MARÍA PÍA"
           ],
           "plazas": [
            "N°114823"
@@ -1333,11 +1330,11 @@
    ]
   },
   {
-   "hoja": "2º C.B. 1ra Div.",
+   "hoja": "2º C.B. 1RA DIV.",
    "curso": "2º AÑO CICLO BASICO",
    "division": "1RA",
    "ciclo": "",
-   "resolucion": "50/5 (MEd)",
+   "resolucion": "50/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -1358,7 +1355,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "CONTRERAS JORGE ANTONIO"
+           "CONTRERAS, JORGE ANTONIO"
           ],
           "plazas": [
            "N°42933"
@@ -1420,7 +1417,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "CONTRERAS JORGE ANTONIO"
+           "CONTRERAS, JORGE ANTONIO"
           ],
           "plazas": [
            "N°115155"
@@ -1480,7 +1477,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "CONTRERAS JORGE ANTONIO"
+           "CONTRERAS, JORGE ANTONIO"
           ],
           "plazas": [
            "N°115155"
@@ -1639,7 +1636,6 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "SALTO CONRADO MIGUEL",
            "BRITO, JOSE RUBEN"
           ],
           "plazas": [
@@ -1651,7 +1647,6 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "SALTO CONRADO MIGUEL",
            "BRITO, JOSE RUBEN"
           ],
           "plazas": [
@@ -1702,7 +1697,6 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "SALTO CONRADO MIGUEL",
            "BRITO, JOSE RUBEN"
           ],
           "plazas": [
@@ -1714,7 +1708,6 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "SALTO CONRADO MIGUEL",
            "BRITO, JOSE RUBEN"
           ],
           "plazas": [
@@ -1772,7 +1765,7 @@
      ],
      "filas": [
       {
-       "hora": "7:50 a 9:50",
+       "hora": "7:50 A 9:50",
        "celdas": {
         "LUNES": [
          {
@@ -1805,7 +1798,7 @@
          {
           "materia": "ADMINISTRACION Y GESTION",
           "docentes": [
-           "GONZALEZ LUISA DEL VALLE"
+           "GONZALEZ, LUISA DEL VALLE"
           ],
           "plazas": [
            "N°266533"
@@ -1843,7 +1836,7 @@
          {
           "materia": "ADMINISTRACION Y GESTION",
           "docentes": [
-           "GONZALEZ LUISA DEL VALLE"
+           "GONZALEZ, LUISA DEL VALLE"
           ],
           "plazas": [
            "N°266533"
@@ -1889,7 +1882,7 @@
          {
           "materia": "ADMINISTRACION Y GESTION",
           "docentes": [
-           "GONZALEZ LUISA DEL VALLE"
+           "GONZALEZ, LUISA DEL VALLE"
           ],
           "plazas": [
            "N°266533"
@@ -1927,7 +1920,7 @@
          {
           "materia": "ADMINISTRACION Y GESTION",
           "docentes": [
-           "GONZALEZ LUISA DEL VALLE"
+           "GONZALEZ, LUISA DEL VALLE"
           ],
           "plazas": [
            "N°266533"
@@ -1961,8 +1954,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "FERNANDEZ, SERGIO FABIAN",
-           "FUSTÉ, ANA ROBERTA"
+           "FUSTE, ANA ROBERTA"
           ],
           "plazas": [
            "N°198522"
@@ -1982,8 +1974,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "FERNANDEZ, SERGIO FABIAN",
-           "FUSTÉ, ANA ROBERTA"
+           "FUSTE, ANA ROBERTA"
           ],
           "plazas": [
            "N°198522"
@@ -2003,8 +1994,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "FERNANDEZ, SERGIO FABIAN",
-           "FUSTÉ, ANA ROBERTA"
+           "FUSTE, ANA ROBERTA"
           ],
           "plazas": [
            "N°198522"
@@ -2037,7 +2027,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "CONTRERAS JORGE ANTONIO"
+           "CONTRERAS, JORGE ANTONIO"
           ],
           "plazas": [
            "N°42933"
@@ -2057,7 +2047,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "CONTRERAS JORGE ANTONIO"
+           "CONTRERAS, JORGE ANTONIO"
           ],
           "plazas": [
            "N°115155"
@@ -2077,7 +2067,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "CONTRERAS JORGE ANTONIO"
+           "CONTRERAS, JORGE ANTONIO"
           ],
           "plazas": [
            "N°115155"
@@ -2093,11 +2083,11 @@
    ]
   },
   {
-   "hoja": "2º C.B. 2da Div.",
+   "hoja": "2º C.B. 2DA DIV.",
    "curso": "2º AÑO CICLO BASICO",
    "division": "2DA",
    "ciclo": "",
-   "resolucion": "50/5 (MEd)",
+   "resolucion": "50/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -2120,7 +2110,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "CONTRERAS JORGE ANTONIO"
+           "CONTRERAS, JORGE ANTONIO"
           ],
           "plazas": [
            "N°115153"
@@ -2131,7 +2121,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "CONTRERAS JORGE ANTONIO"
+           "CONTRERAS, JORGE ANTONIO"
           ],
           "plazas": [
            "N°115153"
@@ -2142,7 +2132,7 @@
          {
           "materia": "BIOLOGIA",
           "docentes": [
-           "LAZARTE, FRANCISCO JOSE"
+           "NIETO, ROMINA NOELIA"
           ],
           "plazas": [
            "N°197115"
@@ -2158,7 +2148,6 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL",
            "BRITO, JOSE RUBEN"
           ],
           "plazas": [
@@ -2181,7 +2170,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "PIZARRO, JULIO JOSE"
+           "RIVADENEIRA, RITA DEL MILAGRO"
           ],
           "plazas": [
            "N°197211"
@@ -2220,7 +2209,6 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL",
            "BRITO, JOSE RUBEN"
           ],
           "plazas": [
@@ -2243,7 +2231,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "PIZARRO, JULIO JOSE"
+           "RIVADENEIRA, RITA DEL MILAGRO"
           ],
           "plazas": [
            "N°197211"
@@ -2304,7 +2292,7 @@
          {
           "materia": "EDUCACION ETICA Y CIUDADANA",
           "docentes": [
-           "GALIAN, LIDIA ISABEL"
+           "GUTIERREZ, GUSTAVO ADRIAN"
           ],
           "plazas": [
            "N°25291"
@@ -2314,7 +2302,9 @@
         "JUEVES": [
          {
           "materia": "BIOLOGIA",
-          "docentes": [],
+          "docentes": [
+           "NIETO, ROMINA NOELIA"
+          ],
           "plazas": [
            "N°197109"
           ]
@@ -2362,7 +2352,7 @@
          {
           "materia": "EDUCACION ETICA Y CIUDADANA",
           "docentes": [
-           "GALIAN, LIDIA ISABEL"
+           "GUTIERREZ, GUSTAVO ADRIAN"
           ],
           "plazas": [
            "N°25291"
@@ -2373,7 +2363,7 @@
          {
           "materia": "BIOLOGIA",
           "docentes": [
-           "LAZARTE, FRANCISCO JOSE"
+           "NIETO, ROMINA NOELIA"
           ],
           "plazas": [
            "N°197109"
@@ -2434,7 +2424,6 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL",
            "BRITO, JOSE RUBEN"
           ],
           "plazas": [
@@ -2495,7 +2484,6 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL",
            "BRITO, JOSE RUBEN"
           ],
           "plazas": [
@@ -2530,7 +2518,7 @@
      ],
      "filas": [
       {
-       "hora": "7:50 a 9:50",
+       "hora": "7:50 A 9:50",
        "celdas": {
         "LUNES": [
          {
@@ -2545,7 +2533,7 @@
          {
           "materia": "HERRERIA",
           "docentes": [
-           "SALTO, DARIO"
+           "SALTO, DANIEL DARIO"
           ],
           "plazas": [
            "N°196944"
@@ -2554,7 +2542,7 @@
          {
           "materia": "INFORMATICA",
           "docentes": [
-           "CABRERA, DIEGO"
+           "CABRERA, DIEGO JOSE"
           ],
           "plazas": [
            "N°234750"
@@ -2563,7 +2551,7 @@
          {
           "materia": "ADMINISTRACION Y GESTION",
           "docentes": [
-           "LUISA GONZALEZ"
+           "GONZALEZ, LUISA DEL VALLE"
           ],
           "plazas": [
            "N°266533"
@@ -2583,7 +2571,7 @@
          {
           "materia": "HERRERIA",
           "docentes": [
-           "SALTO, Dario"
+           "SALTO, DANIEL DARIO"
           ],
           "plazas": [
            "N°196944"
@@ -2592,7 +2580,7 @@
          {
           "materia": "INFORMATICA",
           "docentes": [
-           "CABRERA, Diego"
+           "CABRERA, DIEGO JOSE"
           ],
           "plazas": [
            "N°234750"
@@ -2601,7 +2589,7 @@
          {
           "materia": "ADMINISTRACION Y GESTION",
           "docentes": [
-           "LUISA GONZALEZ"
+           "GONZALEZ, LUISA DEL VALLE"
           ],
           "plazas": [
            "N°266533"
@@ -2629,7 +2617,7 @@
          {
           "materia": "HERRERIA",
           "docentes": [
-           "SALTO, DARIO"
+           "SALTO, DANIEL DARIO"
           ],
           "plazas": [
            "N°196944"
@@ -2638,7 +2626,7 @@
          {
           "materia": "INFORMATICA",
           "docentes": [
-           "CABRERA, DIEGO"
+           "CABRERA, DIEGO JOSE"
           ],
           "plazas": [
            "N°234750"
@@ -2647,7 +2635,7 @@
          {
           "materia": "ADMINISTRACION Y GESTION",
           "docentes": [
-           "LUISA GONZALEZ"
+           "GONZALEZ, LUISA DEL VALLE"
           ],
           "plazas": [
            "N°266533"
@@ -2667,7 +2655,7 @@
          {
           "materia": "HERRERIA",
           "docentes": [
-           "SALTO, Dario"
+           "SALTO, DANIEL DARIO"
           ],
           "plazas": [
            "N°196944"
@@ -2676,7 +2664,7 @@
          {
           "materia": "INFORMATICA",
           "docentes": [
-           "CABRERA, Diego"
+           "CABRERA, DIEGO JOSE"
           ],
           "plazas": [
            "N°234750"
@@ -2685,7 +2673,7 @@
          {
           "materia": "ADMINISTRACION Y GESTION",
           "docentes": [
-           "LUISA GONZALEZ"
+           "GONZALEZ, LUISA DEL VALLE"
           ],
           "plazas": [
            "N°266533"
@@ -2792,7 +2780,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "CONTRERAS JORGE ANTONIO"
+           "CONTRERAS, JORGE ANTONIO"
           ],
           "plazas": [
            "N°115153"
@@ -2812,7 +2800,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "CONTRERAS JORGE ANTONIO"
+           "CONTRERAS, JORGE ANTONIO"
           ],
           "plazas": [
            "N°115153"
@@ -2832,7 +2820,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "CONTRERAS JORGE ANTONIO"
+           "CONTRERAS, JORGE ANTONIO"
           ],
           "plazas": [
            "N°115153"
@@ -2848,11 +2836,11 @@
    ]
   },
   {
-   "hoja": "3º C.B. 1ra Div.",
+   "hoja": "3º C.B. 1RA DIV.",
    "curso": "3º CICLO BASICO",
    "division": "1RA",
    "ciclo": "",
-   "resolucion": "50/5 (MEd)",
+   "resolucion": "50/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -2874,7 +2862,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "OSORES, MARIA SOLEDAD"
+           "VACANTE"
           ],
           "plazas": [
            "N°276819"
@@ -2885,7 +2873,6 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "TELLO FONTS, CECILIA",
            "LA BRUNA, JORGE SEBASTIAN"
           ],
           "plazas": [
@@ -2897,7 +2884,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "OSORES, MARIA SOLEDAD"
+           "VACANTE"
           ],
           "plazas": [
            "N°276819"
@@ -2914,9 +2901,10 @@
          {
           "materia": "EDUCACION ETICA Y CIUDADANA",
           "docentes": [
-           "GUTIERREZ, GUSTAVO"
+           "GUTIERREZ, GUSTAVO ADRIAN"
           ],
           "plazas": [
+           "N°179617",
            "N°197617"
           ]
          }
@@ -2925,7 +2913,6 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "SALTO, CONRADO MIGUEL",
            "BRITO, JOSE RUBEN"
           ],
           "plazas": [
@@ -2937,7 +2924,6 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "TELLO FONTS, CECILIA",
            "LA BRUNA, JORGE SEBASTIAN"
           ],
           "plazas": [
@@ -2960,7 +2946,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "OSORES, MARIA SOLEDAD"
+           "VACANTE"
           ],
           "plazas": [
            "N°276819"
@@ -2976,9 +2962,10 @@
          {
           "materia": "EDUCACION ETICA Y CIUDADANA",
           "docentes": [
-           "GUTIERREZ, GUSTAVO"
+           "GUTIERREZ, GUSTAVO ADRIAN"
           ],
           "plazas": [
+           "N°179617",
            "N°197617"
           ]
          }
@@ -2987,7 +2974,6 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "SALTO, CONRADO MIGUEL",
            "BRITO, JOSE RUBEN"
           ],
           "plazas": [
@@ -2999,7 +2985,6 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "TELLO FONTS, CECILIA",
            "LA BRUNA, JORGE SEBASTIAN"
           ],
           "plazas": [
@@ -3022,7 +3007,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "OSORES, MARIA SOLEDAD"
+           "VACANTE"
           ],
           "plazas": [
            "N°276819"
@@ -3038,7 +3023,6 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "SALTO, CONRADO MIGUEL",
            "BRITO, JOSE RUBEN"
           ],
           "plazas": [
@@ -3072,8 +3056,8 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "BLANCO SALTO, CLAUDIA VANESSA",
-           "SAAVEDRA, ARIEL FABIO"
+           "SAAVEDRA, ARIEL FABIO",
+           "BLANCO SALTO, CLAUDIA VANESSA"
           ],
           "plazas": [
            "N°196969"
@@ -3084,7 +3068,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "OSORES, MARIA SOLEDAD"
+           "VACANTE"
           ],
           "plazas": [
            "N°276819"
@@ -3100,7 +3084,6 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "SALTO, CONRADO MIGUEL",
            "BRITO, JOSE RUBEN"
           ],
           "plazas": [
@@ -3194,8 +3177,8 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "BLANCO SALTO, CLAUDIA VANESSA",
-           "SAAVEDRA, ARIEL FABIO"
+           "SAAVEDRA, ARIEL FABIO",
+           "BLANCO SALTO, CLAUDIA VANESSA"
           ],
           "plazas": [
            "N°196969"
@@ -3255,8 +3238,8 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "BLANCO SALTO, CLAUDIA VANESSA",
-           "SAAVEDRA, ARIEL FABIO"
+           "SAAVEDRA, ARIEL FABIO",
+           "BLANCO SALTO, CLAUDIA VANESSA"
           ],
           "plazas": [
            "N°196969"
@@ -3290,7 +3273,7 @@
      ],
      "filas": [
       {
-       "hora": "7:50 a 9:50",
+       "hora": "7:50 A 9:50",
        "celdas": {
         "LUNES": [],
         "MARTES": [],
@@ -3299,7 +3282,7 @@
          {
           "materia": "ELECTRICIDAD",
           "docentes": [
-           "DIAZ, MARIA R"
+           "DIAZ, MARIA RAFAELA"
           ],
           "plazas": [
            "N°197164"
@@ -3317,7 +3300,7 @@
          {
           "materia": "INFORMATICA",
           "docentes": [
-           "CABRERA, DIEGO J"
+           "CABRERA, DIEGO JOSE"
           ],
           "plazas": [
            "N°234750"
@@ -3326,7 +3309,7 @@
          {
           "materia": "ADMINISTRACION Y GESTION",
           "docentes": [
-           "GONZALEZ, LUISA DEL V"
+           "GONZALEZ, LUISA DEL VALLE"
           ],
           "plazas": [
            "N°266533"
@@ -3337,7 +3320,7 @@
          {
           "materia": "ELECTRICIDAD",
           "docentes": [
-           "DIAZ, MARIA R"
+           "DIAZ, MARIA RAFAELA"
           ],
           "plazas": [
            "N°197164"
@@ -3355,7 +3338,7 @@
          {
           "materia": "INFORMATICA",
           "docentes": [
-           "CABRERA, DIEGO J"
+           "CABRERA, DIEGO JOSE"
           ],
           "plazas": [
            "N°234750"
@@ -3364,7 +3347,7 @@
          {
           "materia": "ADMINISTRACION Y GESTION",
           "docentes": [
-           "GONZALEZ, LUISA DEL V"
+           "GONZALEZ, LUISA DEL VALLE"
           ],
           "plazas": [
            "N°266533"
@@ -3383,7 +3366,7 @@
          {
           "materia": "ELECTRICIDAD",
           "docentes": [
-           "DIAZ, MARIA R"
+           "DIAZ, MARIA RAFAELA"
           ],
           "plazas": [
            "N°197164"
@@ -3401,7 +3384,7 @@
          {
           "materia": "INFORMATICA",
           "docentes": [
-           "CABRERA, DIEGO J"
+           "CABRERA, DIEGO JOSE"
           ],
           "plazas": [
            "N°234750"
@@ -3410,7 +3393,7 @@
          {
           "materia": "ADMINISTRACION Y GESTION",
           "docentes": [
-           "GONZALEZ, LUISA DEL V"
+           "GONZALEZ, LUISA DEL VALLE"
           ],
           "plazas": [
            "N°266533"
@@ -3421,7 +3404,7 @@
          {
           "materia": "ELECTRICIDAD",
           "docentes": [
-           "DIAZ, MARIA R"
+           "DIAZ, MARIA RAFAELA"
           ],
           "plazas": [
            "N°197164"
@@ -3439,7 +3422,7 @@
          {
           "materia": "INFORMATICA",
           "docentes": [
-           "CABRERA, DIEGO J"
+           "CABRERA, DIEGO JOSE"
           ],
           "plazas": [
            "N°234750"
@@ -3448,7 +3431,7 @@
          {
           "materia": "ADMINISTRACION Y GESTION",
           "docentes": [
-           "GONZALEZ, LUISA DEL V"
+           "GONZALEZ, LUISA DEL VALLE"
           ],
           "plazas": [
            "N°266533"
@@ -3479,8 +3462,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "FERNANDEZ, SERGIO FABIAN",
-           "FUSTÉ, ANA ROBERTA"
+           "FUSTE, ANA ROBERTA"
           ],
           "plazas": [
            "N°198526"
@@ -3500,8 +3482,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "FERNANDEZ, SERGIO FABIAN",
-           "FUSTÉ, ANA ROBERTA"
+           "FUSTE, ANA ROBERTA"
           ],
           "plazas": [
            "N°198526"
@@ -3521,8 +3502,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "FERNANDEZ, SERGIO FABIAN",
-           "FUSTÉ, ANA ROBERTA"
+           "FUSTE, ANA ROBERTA"
           ],
           "plazas": [
            "N°198526"
@@ -3555,7 +3535,6 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "TELLO FONTS, CECILIA",
            "LA BRUNA, JORGE SEBASTIAN"
           ],
           "plazas": [
@@ -3576,7 +3555,6 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "TELLO FONTS, CECILIA",
            "LA BRUNA, JORGE SEBASTIAN"
           ],
           "plazas": [
@@ -3597,7 +3575,6 @@
          {
           "materia": "QUIMICA",
           "docentes": [
-           "TELLO FONTS, CECILIA",
            "LA BRUNA, JORGE SEBASTIAN"
           ],
           "plazas": [
@@ -3614,11 +3591,11 @@
    ]
   },
   {
-   "hoja": "3° C.B. 2da Div.",
+   "hoja": "3° C.B. 2DA DIV.",
    "curso": "3º AÑO CICLO BASICO",
    "division": "2DA",
    "ciclo": "",
-   "resolucion": "50/5 (MEd)",
+   "resolucion": "50/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -3640,8 +3617,7 @@
          {
           "materia": "EDUCACION ETICA Y CIUDADANA",
           "docentes": [
-           "DERBICHI, FATIMA DEL CARMEN",
-           "MONTEROS, MONICA ADRIANA"
+           "MONTEROS, MÓNICA ADRIANA"
           ],
           "plazas": [
            "N°114888"
@@ -3663,7 +3639,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "NUÑEZ, MARIA SONIA"
+           "GUTIERREZ, GUSTAVO ADRIAN"
           ],
           "plazas": [
            "N°127957"
@@ -3680,8 +3656,8 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "BLANCO SALTO, CLAUDIA VANESSA",
-           "CONTRERA, CECILIA VERONICA"
+           "CONTRERA, CECILIA VERONICA",
+           "BLANCO SALTO, CLAUDIA VANESSA"
           ],
           "plazas": [
            "N°196970"
@@ -3692,8 +3668,7 @@
          {
           "materia": "EDUCACION ETICA Y CIUDADANA",
           "docentes": [
-           "DERBICHI, FATIMA DEL CARMEN",
-           "MONTEROS, MONICA ADRIANA"
+           "MONTEROS, MÓNICA ADRIANA"
           ],
           "plazas": [
            "N°114888"
@@ -3742,8 +3717,8 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "BLANCO SALTO, CLAUDIA VANESSA",
-           "CONTRERA, CECILIA VERONICA"
+           "CONTRERA, CECILIA VERONICA",
+           "BLANCO SALTO, CLAUDIA VANESSA"
           ],
           "plazas": [
            "N°196970"
@@ -3814,7 +3789,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "NUÑEZ, MARIA SONIA"
+           "GUTIERREZ, GUSTAVO ADRIAN"
           ],
           "plazas": [
            "N°127957"
@@ -3825,7 +3800,7 @@
          {
           "materia": "BIOLOGIA",
           "docentes": [
-           "PIZARRO, JULIO JOSE"
+           "VACANTE"
           ],
           "plazas": [
            "N°197210"
@@ -3863,8 +3838,8 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "BLANCO SALTO, CLAUDIA VANESSA",
-           "CONTRERA, CECILIA VERONICA"
+           "CONTRERA, CECILIA VERONICA",
+           "BLANCO SALTO, CLAUDIA VANESSA"
           ],
           "plazas": [
            "N°196970"
@@ -3875,7 +3850,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "NUÑEZ, MARIA SONIA"
+           "GUTIERREZ, GUSTAVO ADRIAN"
           ],
           "plazas": [
            "N°127957"
@@ -3886,7 +3861,7 @@
          {
           "materia": "BIOLOGIA",
           "docentes": [
-           "PIZARRO, JULIO JOSE"
+           "VACANTE"
           ],
           "plazas": [
            "N°197210"
@@ -3908,7 +3883,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "OSORES, MARIA SOLEDAD"
+           "VACANTE"
           ],
           "plazas": [
            "N°276820"
@@ -3924,7 +3899,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "OSORES, MARIA SOLEDAD"
+           "VACANTE"
           ],
           "plazas": [
            "N°276820"
@@ -3957,7 +3932,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "OSORES, MARIA SOLEDAD"
+           "VACANTE"
           ],
           "plazas": [
            "N°276820"
@@ -3984,7 +3959,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "OSORES, MARIA SOLEDAD"
+           "VACANTE"
           ],
           "plazas": [
            "N°276820"
@@ -4017,7 +3992,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "OSORES, MARIA SOLEDAD"
+           "VACANTE"
           ],
           "plazas": [
            "N°276820"
@@ -4051,7 +4026,7 @@
      ],
      "filas": [
       {
-       "hora": "7:50 a 9:50",
+       "hora": "7:50 A 9:50",
        "celdas": {
         "LUNES": [],
         "MARTES": [],
@@ -4060,7 +4035,7 @@
          {
           "materia": "ELECTRICIDAD",
           "docentes": [
-           "DIAZ, MARIA R"
+           "DIAZ, MARIA RAFAELA"
           ],
           "plazas": [
            "N°197164"
@@ -4078,7 +4053,7 @@
          {
           "materia": "INFORMATICA",
           "docentes": [
-           "CABRERA, DIEGO J"
+           "CABRERA, DIEGO JOSE"
           ],
           "plazas": [
            "N°234750"
@@ -4087,7 +4062,7 @@
          {
           "materia": "ADMINISTRACION Y GESTION",
           "docentes": [
-           "GONZALEZ, LUISA DEL V"
+           "GONZALEZ, LUISA DEL VALLE"
           ],
           "plazas": [
            "N°266533"
@@ -4098,7 +4073,7 @@
          {
           "materia": "ELECTRICIDAD",
           "docentes": [
-           "DIAZ, MARIA R"
+           "DIAZ, MARIA RAFAELA"
           ],
           "plazas": [
            "N°197164"
@@ -4116,7 +4091,7 @@
          {
           "materia": "INFORMATICA",
           "docentes": [
-           "CABRERA, DIEGO J"
+           "CABRERA, DIEGO JOSE"
           ],
           "plazas": [
            "N°234750"
@@ -4125,7 +4100,7 @@
          {
           "materia": "ADMINISTRACION Y GESTION",
           "docentes": [
-           "GONZALEZ, LUISA DEL V"
+           "GONZALEZ, LUISA DEL VALLE"
           ],
           "plazas": [
            "N°266533"
@@ -4144,7 +4119,7 @@
          {
           "materia": "ELECTRICIDAD",
           "docentes": [
-           "DIAZ, MARIA R"
+           "DIAZ, MARIA RAFAELA"
           ],
           "plazas": [
            "N°197164"
@@ -4162,7 +4137,7 @@
          {
           "materia": "INFORMATICA",
           "docentes": [
-           "CABRERA, DIEGO J"
+           "CABRERA, DIEGO JOSE"
           ],
           "plazas": [
            "N°234750"
@@ -4171,7 +4146,7 @@
          {
           "materia": "ADMINISTRACION Y GESTION",
           "docentes": [
-           "GONZALEZ, LUISA DEL V"
+           "GONZALEZ, LUISA DEL VALLE"
           ],
           "plazas": [
            "N°266533"
@@ -4182,7 +4157,7 @@
          {
           "materia": "ELECTRICIDAD",
           "docentes": [
-           "DIAZ, MARIA R"
+           "DIAZ, MARIA RAFAELA"
           ],
           "plazas": [
            "N°197164"
@@ -4200,7 +4175,7 @@
          {
           "materia": "INFORMATICA",
           "docentes": [
-           "CABRERA, DIEGO J"
+           "CABRERA, DIEGO JOSE"
           ],
           "plazas": [
            "N°234750"
@@ -4209,7 +4184,7 @@
          {
           "materia": "ADMINISTRACION Y GESTION",
           "docentes": [
-           "GONZALEZ, LUISA DEL V"
+           "GONZALEZ, LUISA DEL VALLE"
           ],
           "plazas": [
            "N°266533"
@@ -4240,8 +4215,7 @@
          {
           "materia": "EDUCACION ETICA Y CIUDADANA",
           "docentes": [
-           "DERBICHI, FATIMA DEL CARMEN",
-           "MONTEROS, MONICA ADRIANA"
+           "MONTEROS, MÓNICA ADRIANA"
           ],
           "plazas": [
            "N°114888"
@@ -4261,8 +4235,7 @@
          {
           "materia": "EDUCACION ETICA Y CIUDADANA",
           "docentes": [
-           "DERBICHI, FATIMA DEL CARMEN",
-           "MONTEROS, MONICA ADRIANA"
+           "MONTEROS, MÓNICA ADRIANA"
           ],
           "plazas": [
            "N°114888"
@@ -4282,7 +4255,7 @@
          {
           "materia": "HISTORIA",
           "docentes": [
-           "NUÑEZ, MARIA SONIA"
+           "GUTIERREZ, GUSTAVO ADRIAN"
           ],
           "plazas": [
            "N°127957"
@@ -4362,7 +4335,7 @@
    "curso": "4º AÑO C. SUP. E.I.E.",
    "division": "1RA",
    "ciclo": "",
-   "resolucion": "1277/5 (MEd)",
+   "resolucion": "1277/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -4423,7 +4396,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "VILLAREAL, MARIA DEL CARMEN"
+           "VILLARREAL, MARIA DEL CARMEN"
           ],
           "plazas": [
            "N°198457"
@@ -4432,9 +4405,9 @@
         ],
         "MARTES": [
          {
-          "materia": "ESTATICA Y RES. DE MATERIALES",
+          "materia": "ESTATICA Y RESISTENCIA DE MATERIALES",
           "docentes": [
-           "DIAZ, MANUEL OSCAR"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°198003"
@@ -4467,7 +4440,7 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "CONTRERAS JORGE ANTONIO"
+           "CONTRERAS, JORGE ANTONIO"
           ],
           "plazas": [
            "N°52173"
@@ -4483,7 +4456,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "VILLAREAL, MARIA DEL CARMEN"
+           "VILLARREAL, MARIA DEL CARMEN"
           ],
           "plazas": [
            "N°198457"
@@ -4492,9 +4465,9 @@
         ],
         "MARTES": [
          {
-          "materia": "ESTATICA Y RES. DE MATERIALES",
+          "materia": "ESTATICA Y RESISTENCIA DE MATERIALES",
           "docentes": [
-           "DIAZ, MANUEL OSCAR"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°129385"
@@ -4527,7 +4500,7 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "CONTRERAS JORGE ANTONIO"
+           "CONTRERAS, JORGE ANTONIO"
           ],
           "plazas": [
            "N°52173"
@@ -4543,8 +4516,8 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "BLANCO SALTO, CLAUDIA VANESSA",
-           "SAAVEDRA, ARIEL FABIO"
+           "SAAVEDRA, ARIEL FABIO",
+           "BLANCO SALTO, CLAUDIA VANESSA"
           ],
           "plazas": [
            "N°196971"
@@ -4555,7 +4528,7 @@
          {
           "materia": "ELECTROTECNIA I",
           "docentes": [
-           "DIAZ, MANUEL OSCAR"
+           "AGUIRRE, ÁNGEL ROQUE"
           ],
           "plazas": [
            "N°197975"
@@ -4566,7 +4539,7 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "CONTRERAS JORGE ANTONIO"
+           "CONTRERAS, JORGE ANTONIO"
           ],
           "plazas": [
            "N°52173"
@@ -4577,7 +4550,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "VILLAREAL, MARIA DEL CARMEN"
+           "VILLARREAL, MARIA DEL CARMEN"
           ],
           "plazas": [
            "N°198458"
@@ -4586,9 +4559,9 @@
         ],
         "VIERNES": [
          {
-          "materia": "ESTATICA Y RES. DE MATERIALES",
+          "materia": "ESTATICA Y RESISTENCIA DE MATERIALES",
           "docentes": [
-           "DIAZ, MANUEL OSCAR"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°129385"
@@ -4604,7 +4577,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "VILLAREAL, MARIA DEL CARMEN"
+           "VILLARREAL, MARIA DEL CARMEN"
           ],
           "plazas": [
            "N°221334"
@@ -4615,7 +4588,7 @@
          {
           "materia": "ELECTROTECNIA I",
           "docentes": [
-           "DIAZ, MANUEL OSCAR"
+           "AGUIRRE, ÁNGEL ROQUE"
           ],
           "plazas": [
            "N°197975"
@@ -4626,7 +4599,7 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "CONTRERAS JORGE ANTONIO"
+           "CONTRERAS, JORGE ANTONIO"
           ],
           "plazas": [
            "N°52173"
@@ -4637,7 +4610,7 @@
          {
           "materia": "FISICA",
           "docentes": [
-           "VILLAREAL, MARIA DEL CARMEN"
+           "VILLARREAL, MARIA DEL CARMEN"
           ],
           "plazas": [
            "N°198458"
@@ -4646,9 +4619,9 @@
         ],
         "VIERNES": [
          {
-          "materia": "ESTATICA Y RES. DE MATERIALES",
+          "materia": "ESTATICA Y RESISTENCIA DE MATERIALES",
           "docentes": [
-           "DIAZ, MANUEL OSCAR"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°129385"
@@ -4664,8 +4637,8 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "BLANCO SALTO, CLAUDIA VANESSA",
-           "SAAVEDRA, ARIEL FABIO"
+           "SAAVEDRA, ARIEL FABIO",
+           "BLANCO SALTO, CLAUDIA VANESSA"
           ],
           "plazas": [
            "N°196971"
@@ -4709,7 +4682,7 @@
          {
           "materia": "ELECTROTECNIA I",
           "docentes": [
-           "DIAZ, MANUEL OSCAR"
+           "AGUIRRE, ÁNGEL ROQUE"
           ],
           "plazas": [
            "N°197975"
@@ -4725,8 +4698,8 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "BLANCO SALTO, CLAUDIA VANESSA",
-           "SAAVEDRA, ARIEL FABIO"
+           "SAAVEDRA, ARIEL FABIO",
+           "BLANCO SALTO, CLAUDIA VANESSA"
           ],
           "plazas": [
            "N°196971"
@@ -4770,7 +4743,7 @@
          {
           "materia": "ELECTROTECNIA I",
           "docentes": [
-           "DIAZ, MANUEL OSCAR"
+           "AGUIRRE, ÁNGEL ROQUE"
           ],
           "plazas": [
            "N°197975"
@@ -4793,20 +4766,20 @@
      ],
      "filas": [
       {
-       "hora": "7:50 a 9:50",
+       "hora": "7:50 A 9:50",
        "celdas": {
         "LUNES": [
          {
           "materia": "HERRERIA DE OBRA",
           "docentes": [
-           "BRITO, JOSE RUBEN"
+           "GOMEZ CONTRERAS, ROBERTO ANTONIO"
           ],
           "plazas": [
            "N°234751"
           ]
          },
          {
-          "materia": "INSTRUMENTOS Y MEDICION EN CONTINUA",
+          "materia": "INSTRUMENTOS Y MEDICIONES EN CONTINUA",
           "docentes": [
            "RESOLA, JULIO ANTONIO"
           ],
@@ -4815,10 +4788,9 @@
           ]
          },
          {
-          "materia": "MAQUINA DE CORRIENTE CONTINUA",
+          "materia": "MAQUINAS DE CORRIENTE CONTINUA",
           "docentes": [
-           "YANES, LUIS CHRISTIAN",
-           "MARIO, MOISES KARIN"
+           "YANES, LUIS CHRISTIAN"
           ],
           "plazas": [
            "N°197987"
@@ -4827,7 +4799,6 @@
          {
           "materia": "MAQUINAS HERRAMIENTAS I",
           "docentes": [
-           "SALTO, CONRADO MIGUEL",
            "DE LA VEGA, JOSE ALBERTO"
           ],
           "plazas": [
@@ -4839,14 +4810,14 @@
          {
           "materia": "HERRERIA DE OBRA",
           "docentes": [
-           "BRITO, JOSE RUBEN"
+           "GOMEZ CONTRERAS, ROBERTO ANTONIO"
           ],
           "plazas": [
            "N°234751"
           ]
          },
          {
-          "materia": "INSTRUMENTOS Y MEDICION EN CONTINUA",
+          "materia": "INSTRUMENTOS Y MEDICIONES EN CONTINUA",
           "docentes": [
            "RESOLA, JULIO ANTONIO"
           ],
@@ -4855,19 +4826,17 @@
           ]
          },
          {
-          "materia": "MAQUINA DE CORRIENTE CONTINUA",
+          "materia": "MAQUINAS DE CORRIENTE CONTINUA",
           "docentes": [
-           "YANES, LUIS CHRISTIAN",
-           "MARIO, MOISES KARIN"
+           "YANES, LUIS CHRISTIAN"
           ],
           "plazas": [
            "N°197987"
           ]
          },
          {
-          "materia": "MAQUINAS Y HERRAMIENTAS I",
+          "materia": "MAQUINAS HERRAMIENTAS I",
           "docentes": [
-           "SALTO, CONRADO MIGUEL",
            "DE LA VEGA, JOSE ALBERTO"
           ],
           "plazas": [
@@ -4887,14 +4856,14 @@
          {
           "materia": "HERRERIA DE OBRA",
           "docentes": [
-           "BRITO, JOSE RUBEN"
+           "GOMEZ CONTRERAS, ROBERTO ANTONIO"
           ],
           "plazas": [
            "N°234751"
           ]
          },
          {
-          "materia": "INSTRUMENTOS Y MEDICION EN CONTINUA",
+          "materia": "INSTRUMENTOS Y MEDICIONES EN CONTINUA",
           "docentes": [
            "RESOLA, JULIO ANTONIO"
           ],
@@ -4903,10 +4872,9 @@
           ]
          },
          {
-          "materia": "MAQUINA DE CORRIENTE CONTINUA",
+          "materia": "MAQUINAS DE CORRIENTE CONTINUA",
           "docentes": [
-           "YANES, LUIS CHRISTIAN",
-           "MARIO, MOISES KARIN"
+           "YANES, LUIS CHRISTIAN"
           ],
           "plazas": [
            "N°197987"
@@ -4915,7 +4883,6 @@
          {
           "materia": "MAQUINAS HERRAMIENTAS I",
           "docentes": [
-           "SALTO, CONRADO MIGUEL",
            "DE LA VEGA, JOSE ALBERTO"
           ],
           "plazas": [
@@ -4927,14 +4894,14 @@
          {
           "materia": "HERRERIA DE OBRA",
           "docentes": [
-           "BRITO, JOSE RUBEN"
+           "GOMEZ CONTRERAS, ROBERTO ANTONIO"
           ],
           "plazas": [
            "N°234751"
           ]
          },
          {
-          "materia": "INSTRUMENTOS Y MEDICION EN CONTINUA",
+          "materia": "INSTRUMENTOS Y MEDICIONES EN CONTINUA",
           "docentes": [
            "RESOLA, JULIO ANTONIO"
           ],
@@ -4943,19 +4910,17 @@
           ]
          },
          {
-          "materia": "MAQUINA DE CORRIENTE CONTINUA",
+          "materia": "MAQUINAS DE CORRIENTE CONTINUA",
           "docentes": [
-           "YANES, LUIS CHRISTIAN",
-           "MARIO, MOISES KARIN"
+           "YANES, LUIS CHRISTIAN"
           ],
           "plazas": [
            "N°197987"
           ]
          },
          {
-          "materia": "MAQUINAS Y HERRAMIENTAS I",
+          "materia": "MAQUINAS HERRAMIENTAS I",
           "docentes": [
-           "SALTO, CONRADO MIGUEL",
            "DE LA VEGA, JOSE ALBERTO"
           ],
           "plazas": [
@@ -4991,7 +4956,6 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "FERNANDEZ, SERGIO FABIAN",
            "ZAYAS, PATRICIA ELIZABETH"
           ],
           "plazas": [
@@ -5012,7 +4976,6 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "FERNANDEZ, SERGIO FABIAN",
            "ZAYAS, PATRICIA ELIZABETH"
           ],
           "plazas": [
@@ -5033,7 +4996,6 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "FERNANDEZ, SERGIO FABIAN",
            "ZAYAS, PATRICIA ELIZABETH"
           ],
           "plazas": [
@@ -5067,7 +5029,7 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "CONTRERAS JORGE ANTONIO"
+           "CONTRERAS, JORGE ANTONIO"
           ],
           "plazas": [
            "N°52173"
@@ -5087,7 +5049,7 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "CONTRERAS JORGE ANTONIO"
+           "CONTRERAS, JORGE ANTONIO"
           ],
           "plazas": [
            "N°52173"
@@ -5107,7 +5069,7 @@
          {
           "materia": "DIBUJO TECNICO",
           "docentes": [
-           "CONTRERAS JORGE ANTONIO"
+           "CONTRERAS, JORGE ANTONIO"
           ],
           "plazas": [
            "N°52173"
@@ -5126,7 +5088,7 @@
    "curso": "4º AÑO C. SUP. GAO",
    "division": "1RA",
    "ciclo": "",
-   "resolucion": "50/5 (MEd)",
+   "resolucion": "50/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -5159,7 +5121,7 @@
          {
           "materia": "ECONOMIA I",
           "docentes": [
-           "PALAVECINO, MIGUEL ANGEL"
+           "HERRERA, ANDREA VIVIANA"
           ],
           "plazas": [
            "N°198795"
@@ -5218,7 +5180,7 @@
         ],
         "JUEVES": [
          {
-          "materia": "SISTEMAS DE INFORMACION CONTABLE",
+          "materia": "SISTEMAS DE INFORMACION CONTABLE I",
           "docentes": [
            "BARRAZA, ELIANA MELINA"
           ],
@@ -5258,7 +5220,7 @@
          {
           "materia": "ADMINISTRACION I",
           "docentes": [
-           "PEREIRA, GLORIA"
+           "PEREIRA, GLORIA RAMONA DE LOS ANGELES"
           ],
           "plazas": [
            "N°232214"
@@ -5278,7 +5240,7 @@
         ],
         "JUEVES": [
          {
-          "materia": "SISTEMAS DE INFORMACION CONTABLE",
+          "materia": "SISTEMAS DE INFORMACION CONTABLE I",
           "docentes": [
            "BARRAZA, ELIANA MELINA"
           ],
@@ -5349,7 +5311,7 @@
         ],
         "VIERNES": [
          {
-          "materia": "SISTEMAS DE INFORMACION CONTABLE",
+          "materia": "SISTEMAS DE INFORMACION CONTABLE I",
           "docentes": [
            "BARRAZA, ELIANA MELINA"
           ],
@@ -5400,7 +5362,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "CONTRERA, CECILIA VERONICA"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°196973"
@@ -5409,7 +5371,7 @@
         ],
         "VIERNES": [
          {
-          "materia": "SISTEMAS DE INFORMACION CONTABLE",
+          "materia": "SISTEMAS DE INFORMACION CONTABLE I",
           "docentes": [
            "BARRAZA, ELIANA MELINA"
           ],
@@ -5427,7 +5389,7 @@
          {
           "materia": "ADMINISTRACION I",
           "docentes": [
-           "PEREIRA, GLORIA RAMONA"
+           "PEREIRA, GLORIA RAMONA DE LOS ANGELES"
           ],
           "plazas": [
            "N°93981"
@@ -5438,7 +5400,7 @@
          {
           "materia": "ECONOMIA I",
           "docentes": [
-           "SIN DOCENTE"
+           "HERRERA, ANDREA VIVIANA"
           ],
           "plazas": [
            "N°198795"
@@ -5460,7 +5422,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "CONTRERA, CECILIA VERONICA"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°196973"
@@ -5487,7 +5449,7 @@
          {
           "materia": "ADMINISTRACION I",
           "docentes": [
-           "PEREIRA, GLORIA RAMONA"
+           "PEREIRA, GLORIA RAMONA DE LOS ANGELES"
           ],
           "plazas": [
            "N°93981"
@@ -5498,7 +5460,7 @@
          {
           "materia": "ECONOMIA I",
           "docentes": [
-           "SIN DOCENTE"
+           "HERRERA, ANDREA VIVIANA"
           ],
           "plazas": [
            "N°198795"
@@ -5520,7 +5482,7 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "CONTRERA, CECILIA VERONICA"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°196973"
@@ -5554,25 +5516,31 @@
      ],
      "filas": [
       {
-       "hora": "7:50 a 9:50",
+       "hora": "7:50 A 9:50",
        "celdas": {
         "LUNES": [
          {
           "materia": "PRACTICA CONTABLE I",
           "docentes": [
-           "PALAVECINO, Miguel Angel"
+           "VACANTE"
           ],
           "plazas": [
-           "198781-198782-198783-198789"
+           "N°198781",
+           "N°198789",
+           "N°198782",
+           "N°198783"
           ]
          },
          {
           "materia": "PRACTICA ORGANIZACIONAL",
           "docentes": [
-           "PALAVECINO, Miguel Angel"
+           "VACANTE"
           ],
           "plazas": [
-           "198781-198782-198783-198789"
+           "N°198781",
+           "N°198789",
+           "N°198782",
+           "N°198783"
           ]
          }
         ],
@@ -5580,19 +5548,25 @@
          {
           "materia": "PRACTICA CONTABLE I",
           "docentes": [
-           "PALAVECINO, Miguel Angel"
+           "VACANTE"
           ],
           "plazas": [
-           "198781-198782-198783-198789"
+           "N°198781",
+           "N°198789",
+           "N°198782",
+           "N°198783"
           ]
          },
          {
           "materia": "PRACTICA ORGANIZACIONAL",
           "docentes": [
-           "PALAVECINO, Miguel Angel"
+           "VACANTE"
           ],
           "plazas": [
-           "198781-198782-198783-198789"
+           "N°198781",
+           "N°198789",
+           "N°198782",
+           "N°198783"
           ]
          }
         ],
@@ -5608,19 +5582,25 @@
          {
           "materia": "PRACTICA CONTABLE I",
           "docentes": [
-           "PALAVECINO, Miguel Angel"
+           "VACANTE"
           ],
           "plazas": [
-           "198781-198782-198783-198789"
+           "N°198781",
+           "N°198789",
+           "N°198782",
+           "N°198783"
           ]
          },
          {
           "materia": "PRACTICA ORGANIZACIONAL",
           "docentes": [
-           "PALAVECINO, Miguel Angel"
+           "VACANTE"
           ],
           "plazas": [
-           "198781-198782-198783-198789"
+           "N°198781",
+           "N°198789",
+           "N°198782",
+           "N°198783"
           ]
          }
         ],
@@ -5628,19 +5608,25 @@
          {
           "materia": "PRACTICA CONTABLE I",
           "docentes": [
-           "PALAVECINO, Miguel Angel"
+           "VACANTE"
           ],
           "plazas": [
-           "198781-198782-198783-198789"
+           "N°198781",
+           "N°198789",
+           "N°198782",
+           "N°198783"
           ]
          },
          {
           "materia": "PRACTICA ORGANIZACIONAL",
           "docentes": [
-           "PALAVECINO, Miguel Angel"
+           "VACANTE"
           ],
           "plazas": [
-           "198781-198782-198783-198789"
+           "N°198781",
+           "N°198789",
+           "N°198782",
+           "N°198783"
           ]
          }
         ],
@@ -5672,8 +5658,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "ROLDAN, LILIANA ROSA",
-           "ARIAS, JORGE DANIEL"
+           "ROLDAN, LILIANA ROSA DEL ROSARIO"
           ],
           "plazas": [
            "N°115024"
@@ -5693,8 +5678,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "ROLDAN, LILIANA ROSA",
-           "ARIAS, JORGE DANIEL"
+           "ROLDAN, LILIANA ROSA DEL ROSARIO"
           ],
           "plazas": [
            "N°115024"
@@ -5714,8 +5698,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "ROLDAN, LILIANA ROSA",
-           "ARIAS, JORGE DANIEL"
+           "ROLDAN, LILIANA ROSA DEL ROSARIO"
           ],
           "plazas": [
            "N°115024"
@@ -5807,7 +5790,7 @@
    "curso": "5º AÑO C. SUP. EIE",
    "division": "1RA",
    "ciclo": "",
-   "resolucion": "1277/5 (MEd)",
+   "resolucion": "1277/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -5827,9 +5810,9 @@
         "LUNES": [],
         "MARTES": [
          {
-          "materia": "METALURGIA Y TECNOLOGIA MECANICA",
+          "materia": "METALURGICA Y TECNOLOGIA MECANICA",
           "docentes": [
-           "SIN DOCENTE"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°127799"
@@ -5850,7 +5833,7 @@
         ],
         "VIERNES": [
          {
-          "materia": "ELEMENTOS DE MAQUINAS",
+          "materia": "ELEMENTOS DE MAQUINA",
           "docentes": [
            "CONTRERAS, JORGE ANTONIO"
           ],
@@ -5877,9 +5860,9 @@
         ],
         "MARTES": [
          {
-          "materia": "METALURGIA Y TECNOLOGIA MECANICA",
+          "materia": "METALURGICA Y TECNOLOGIA MECANICA",
           "docentes": [
-           "SIN DOCENTE"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°127799"
@@ -5899,7 +5882,7 @@
         ],
         "JUEVES": [
          {
-          "materia": "ELEMENTOS DE MAQUINAS",
+          "materia": "ELEMENTOS DE MAQUINA",
           "docentes": [
            "CONTRERAS, JORGE ANTONIO"
           ],
@@ -5912,7 +5895,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "PIZARRO, JULIO JOSE"
+           "VACANTE"
           ],
           "plazas": [
            "N°226734"
@@ -5937,9 +5920,9 @@
         ],
         "MARTES": [
          {
-          "materia": "METALURGIA Y TECNOLOGIA MECANICA",
+          "materia": "METALURGICA Y TECNOLOGIA MECANICA",
           "docentes": [
-           "SIN DOCENTE"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°127799"
@@ -5959,7 +5942,7 @@
         ],
         "JUEVES": [
          {
-          "materia": "ELEMENTOS DE MAQUINAS",
+          "materia": "ELEMENTOS DE MAQUINA",
           "docentes": [
            "CONTRERAS, JORGE ANTONIO"
           ],
@@ -5972,7 +5955,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "PIZARRO, JULIO JOSE"
+           "VACANTE"
           ],
           "plazas": [
            "N°226734"
@@ -5999,7 +5982,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "OCARANZA, LAURA GUADALUPE"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°115038"
@@ -6032,7 +6015,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "PIZARRO, JULIO JOSE"
+           "VACANTE"
           ],
           "plazas": [
            "N°226734"
@@ -6048,7 +6031,7 @@
          {
           "materia": "ELECTROTECNIA II",
           "docentes": [
-           "ALDERETE, ALBERTO"
+           "ALDERETE, ALBERTO ANTONIO"
           ],
           "plazas": [
            "N°232546"
@@ -6059,7 +6042,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "OCARANZA, LAURA GUADALUPE"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°115038"
@@ -6092,7 +6075,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "OCARANZA, LAURA GUADALUPE"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°115040"
@@ -6130,8 +6113,7 @@
          {
           "materia": "ORGANIZACIÓN INDUSTRIAL I",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL",
-           "GONZALEZ LUCIANA BELEN"
+           "GONZALEZ, LUCIANA BELEN"
           ],
           "plazas": [
            "N°224289"
@@ -6191,8 +6173,7 @@
          {
           "materia": "ORGANIZACIÓN INDUSTRIAL I",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL",
-           "GONZALEZ LUCIANA BELEN"
+           "GONZALEZ, LUCIANA BELEN"
           ],
           "plazas": [
            "N°224289"
@@ -6237,7 +6218,7 @@
      ],
      "filas": [
       {
-       "hora": "7:50 a 9:50",
+       "hora": "7:50 A 9:50",
        "celdas": {
         "LUNES": [],
         "MARTES": [],
@@ -6247,15 +6228,12 @@
           "docentes": [
            "RESOLA, JULIO A"
           ],
-          "plazas": [
-           "N°15263"
-          ]
+          "plazas": []
          },
          {
-          "materia": "MAQUINAS Y HERRAMIENTAS III",
+          "materia": "MAQUINAS HERRAMIENTAS I",
           "docentes": [
-           "SALTO, CONRADO M",
-           "DE LA VEGA, JOSE A."
+           "DE LA VEGA, JOSE ALBERTO"
           ],
           "plazas": [
            "N°100084"
@@ -6264,20 +6242,19 @@
          {
           "materia": "MAQUINAS DE CORRIENTE ALTERNA",
           "docentes": [
-           "YANES, LUIS C",
-           "MARIO, MOISES KARIN"
+           "YANES, LUIS CHRISTIAN"
           ],
           "plazas": [
            "N°197987"
           ]
          },
          {
-          "materia": "OPERACIONES MANT. ENS. EQ. ELECTRON.",
+          "materia": "OPERACIONES MANT. ENS. EQ. ELECTRON",
           "docentes": [
-           "BRITO, JOSE"
+           "BRITO, JOSE RUBEN"
           ],
           "plazas": [
-           "N°234751"
+           "N°309219"
           ]
          }
         ],
@@ -6288,15 +6265,12 @@
           "docentes": [
            "RESOLA, JULIO A"
           ],
-          "plazas": [
-           "N°15263"
-          ]
+          "plazas": []
          },
          {
-          "materia": "MAQUINAS Y HERRAMIENTAS III",
+          "materia": "MAQUINAS HERRAMIENTAS I",
           "docentes": [
-           "SALTO, CONRADO M",
-           "DE LA VEGA, JOSE A."
+           "DE LA VEGA, JOSE ALBERTO"
           ],
           "plazas": [
            "N°100084"
@@ -6305,20 +6279,19 @@
          {
           "materia": "MAQUINAS DE CORRIENTE ALTERNA",
           "docentes": [
-           "YANES, LUIS C",
-           "MARIO, MOISES KARIN"
+           "YANES, LUIS CHRISTIAN"
           ],
           "plazas": [
            "N°197987"
           ]
          },
          {
-          "materia": "OPERACIONES MANT. ENS. EQ. ELECTRON.",
+          "materia": "OPERACIONES MANT. ENS. EQ. ELECTRON",
           "docentes": [
-           "BRITO, JOSE"
+           "BRITO, JOSE RUBEN"
           ],
           "plazas": [
-           "N°234751"
+           "N°309219"
           ]
          }
         ]
@@ -6335,15 +6308,12 @@
           "docentes": [
            "RESOLA, JULIO A"
           ],
-          "plazas": [
-           "N°15263"
-          ]
+          "plazas": []
          },
          {
-          "materia": "MAQUINAS Y HERRAMIENTAS III",
+          "materia": "MAQUINAS HERRAMIENTAS I",
           "docentes": [
-           "SALTO, CONRADO M",
-           "DE LA VEGA, JOSE A."
+           "DE LA VEGA, JOSE ALBERTO"
           ],
           "plazas": [
            "N°100084"
@@ -6352,20 +6322,19 @@
          {
           "materia": "MAQUINAS DE CORRIENTE ALTERNA",
           "docentes": [
-           "YANES, LUIS C",
-           "MARIO, MOISES KARIN"
+           "YANES, LUIS CHRISTIAN"
           ],
           "plazas": [
            "N°197987"
           ]
          },
          {
-          "materia": "OPERACIONES MANT. ENS. EQ. ELECTRON.",
+          "materia": "OPERACIONES MANT. ENS. EQ. ELECTRON",
           "docentes": [
-           "BRITO, JOSE"
+           "BRITO, JOSE RUBEN"
           ],
           "plazas": [
-           "N°234751"
+           "N°309219"
           ]
          }
         ],
@@ -6376,15 +6345,12 @@
           "docentes": [
            "RESOLA, JULIO A"
           ],
-          "plazas": [
-           "N°15263"
-          ]
+          "plazas": []
          },
          {
-          "materia": "MAQUINAS Y HERRAMIENTAS III",
+          "materia": "MAQUINAS HERRAMIENTAS I",
           "docentes": [
-           "SALTO, CONRADO M",
-           "DE LA VEGA, JOSE A."
+           "DE LA VEGA, JOSE ALBERTO"
           ],
           "plazas": [
            "N°100084"
@@ -6393,20 +6359,19 @@
          {
           "materia": "MAQUINAS DE CORRIENTE ALTERNA",
           "docentes": [
-           "YANES, LUIS C",
-           "MARIO, MOISES KARIN"
+           "YANES, LUIS CHRISTIAN"
           ],
           "plazas": [
            "N°197987"
           ]
          },
          {
-          "materia": "OPERACIONES MANT. ENS. EQ. ELECTRON.",
+          "materia": "OPERACIONES MANT. ENS. EQ. ELECTRON",
           "docentes": [
-           "BRITO, JOSE"
+           "BRITO, JOSE RUBEN"
           ],
           "plazas": [
-           "N°234751"
+           "N°309219"
           ]
          }
         ]
@@ -6435,7 +6400,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "PEREZ, MARIA PIA"
+           "PEREZ, MARÍA PÍA"
           ],
           "plazas": [
            "N°198121"
@@ -6455,7 +6420,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "PEREZ, MARIA PIA"
+           "PEREZ, MARÍA PÍA"
           ],
           "plazas": [
            "N°198121"
@@ -6475,7 +6440,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "PEREZ, MARIA PIA"
+           "PEREZ, MARÍA PÍA"
           ],
           "plazas": [
            "N°198121"
@@ -6506,7 +6471,7 @@
    "curso": "5º AÑO C. SUP GAO",
    "division": "1RA",
    "ciclo": "",
-   "resolucion": "50/5 (MEd)",
+   "resolucion": "50/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -6529,7 +6494,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "PIZARRO, JULIO JOSE"
+           "RIVADENEIRA, RITA DEL MILAGRO"
           ],
           "plazas": [
            "N°226735"
@@ -6567,7 +6532,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "OCARANZA, LAURA GUADALUPE"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°115069"
@@ -6578,8 +6543,8 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "BLANCO SALTO, CLAUDIA VANESSA",
-           "SAAVEDRA, ARIEL FABIO"
+           "SAAVEDRA, ARIEL FABIO",
+           "BLANCO SALTO, CLAUDIA VANESSA"
           ],
           "plazas": [
            "N°25606"
@@ -6590,7 +6555,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "OCARANZA, LAURA GUADALUPE"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°115069"
@@ -6601,8 +6566,8 @@
          {
           "materia": "DERECHO COMERCIAL",
           "docentes": [
-           "ROBLES LEZANA, LORENA DEL HUERTO",
-           "LEDESMA, MARCELA DEL VALLE"
+           "LEDESMA, MARCELA DEL VALLE",
+           "ROBLES LEZANA, LORENA DEL HUERTO"
           ],
           "plazas": [
            "N°92810"
@@ -6629,7 +6594,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "OCARANZA, LAURA GUADALUPE"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°115069"
@@ -6662,8 +6627,8 @@
          {
           "materia": "DERECHO COMERCIAL",
           "docentes": [
-           "ROBLES LEZANA, LORENA DEL HUERTO",
-           "LEDESMA, MARCELA DEL VALLE"
+           "LEDESMA, MARCELA DEL VALLE",
+           "ROBLES LEZANA, LORENA DEL HUERTO"
           ],
           "plazas": [
            "N°92810"
@@ -6690,7 +6655,6 @@
          {
           "materia": "SISTEMAS DE INFORMACION CONTABLE II",
           "docentes": [
-           "MOLINA, RAQUEL DEL VALLE",
            "BARRAZA, ELIANA MELINA"
           ],
           "plazas": [
@@ -6702,8 +6666,8 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "BLANCO SALTO, CLAUDIA VANESSA",
-           "SAAVEDRA, ARIEL FABIO"
+           "SAAVEDRA, ARIEL FABIO",
+           "BLANCO SALTO, CLAUDIA VANESSA"
           ],
           "plazas": [
            "N°25606"
@@ -6714,7 +6678,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "PIZARRO, JULIO JOSE"
+           "RIVADENEIRA, RITA DEL MILAGRO"
           ],
           "plazas": [
            "N°226735"
@@ -6725,11 +6689,10 @@
          {
           "materia": "COMERCIALIZACION",
           "docentes": [
-           "JACOBO, CECILIA MABEL",
-           "A CUBRIR"
+           "JACOBO, CECILIA MABEL"
           ],
           "plazas": [
-           "N° 226732"
+           "N°226732"
           ]
          }
         ],
@@ -6753,7 +6716,6 @@
          {
           "materia": "SISTEMAS DE INFORMACION CONTABLE II",
           "docentes": [
-           "MOLINA, RAQUEL DEL VALLE",
            "BARRAZA, ELIANA MELINA"
           ],
           "plazas": [
@@ -6765,8 +6727,8 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "BLANCO SALTO, CLAUDIA VANESSA",
-           "SAAVEDRA, ARIEL FABIO"
+           "SAAVEDRA, ARIEL FABIO",
+           "BLANCO SALTO, CLAUDIA VANESSA"
           ],
           "plazas": [
            "N°25606"
@@ -6777,7 +6739,7 @@
          {
           "materia": "GEOGRAFIA",
           "docentes": [
-           "PIZARRO, JULIO JOSE"
+           "RIVADENEIRA, RITA DEL MILAGRO"
           ],
           "plazas": [
            "N°226735"
@@ -6788,11 +6750,10 @@
          {
           "materia": "COMERCIALIZACION",
           "docentes": [
-           "JACOBO, CECILIA MABEL",
-           "A CUBRIR"
+           "JACOBO, CECILIA MABEL"
           ],
           "plazas": [
-           "N° 226732"
+           "N°226732"
           ]
          }
         ],
@@ -6820,7 +6781,7 @@
            "BARRAZA, ELIANA MELINA"
           ],
           "plazas": [
-           "N° 226732"
+           "N°226732"
           ]
          }
         ],
@@ -6828,8 +6789,8 @@
          {
           "materia": "DERECHO COMERCIAL",
           "docentes": [
-           "ROBLES LEZANA, LORENA DEL HUERTO",
-           "LEDESMA, MARCELA DEL VALLE"
+           "LEDESMA, MARCELA DEL VALLE",
+           "ROBLES LEZANA, LORENA DEL HUERTO"
           ],
           "plazas": [
            "N°94003"
@@ -6862,7 +6823,6 @@
          {
           "materia": "SISTEMAS DE INFORMACION CONTABLE II",
           "docentes": [
-           "MOLINA, RAQUEL DEL VALLE",
            "BARRAZA, ELIANA MELINA"
           ],
           "plazas": [
@@ -6883,7 +6843,7 @@
            "BARRAZA, ELIANA MELINA"
           ],
           "plazas": [
-           "N° 226732"
+           "N°226732"
           ]
          }
         ],
@@ -6891,8 +6851,8 @@
          {
           "materia": "DERECHO COMERCIAL",
           "docentes": [
-           "ROBLES LEZANA, LORENA DEL HUERTO",
-           "LEDESMA, MARCELA DEL VALLE"
+           "LEDESMA, MARCELA DEL VALLE",
+           "ROBLES LEZANA, LORENA DEL HUERTO"
           ],
           "plazas": [
            "N°94003"
@@ -6925,7 +6885,6 @@
          {
           "materia": "SISTEMAS DE INFORMACION CONTABLE II",
           "docentes": [
-           "MOLINA, RAQUEL DEL VALLE",
            "BARRAZA, ELIANA MELINA"
           ],
           "plazas": [
@@ -6949,7 +6908,7 @@
      ],
      "filas": [
       {
-       "hora": "7:50 a 9:50",
+       "hora": "7:50 A 9:50",
        "celdas": {
         "LUNES": [
          {
@@ -7170,7 +7129,7 @@
    "curso": "6º C.S. EIE",
    "division": "1RA",
    "ciclo": "",
-   "resolucion": "1277/5 (MEd)",
+   "resolucion": "1277/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -7190,7 +7149,7 @@
         "LUNES": [],
         "MARTES": [
          {
-          "materia": "EQUIPOS Y APARATOS PARA MANIOBRAS Y TRANSPORTE",
+          "materia": "EQUIPOS Y APARATOS PARA MANIOBRA Y TRANSPORTE",
           "docentes": [
            "CONTRERAS, JORGE ANTONIO"
           ],
@@ -7203,7 +7162,7 @@
          {
           "materia": "INSTALACIONES INDUSTRIALES",
           "docentes": [
-           "GAON, AGUSTIN EXEQUIEL"
+           "MARQUEZ, CARLOS ALBERTO"
           ],
           "plazas": [
            "N°232544"
@@ -7253,7 +7212,7 @@
          {
           "materia": "INSTALACIONES INDUSTRIALES",
           "docentes": [
-           "GAON, AGUSTIN EXEQUIEL"
+           "MARQUEZ, CARLOS ALBERTO"
           ],
           "plazas": [
            "N°232544"
@@ -7264,8 +7223,8 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "BLANCO SALTO, CLAUDIA VANESSA",
-           "SAAVEDRA, ARIEL FABIO"
+           "SAAVEDRA, ARIEL FABIO",
+           "BLANCO SALTO, CLAUDIA VANESSA"
           ],
           "plazas": [
            "N°101033"
@@ -7303,8 +7262,8 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "BLANCO SALTO, CLAUDIA VANESSA",
-           "SAAVEDRA, ARIEL FABIO"
+           "SAAVEDRA, ARIEL FABIO",
+           "BLANCO SALTO, CLAUDIA VANESSA"
           ],
           "plazas": [
            "N°135763"
@@ -7315,7 +7274,7 @@
          {
           "materia": "INSTALACIONES INDUSTRIALES",
           "docentes": [
-           "GAON, AGUSTIN EXEQUIEL"
+           "MARQUEZ, CARLOS ALBERTO"
           ],
           "plazas": [
            "N°232544"
@@ -7326,8 +7285,8 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "BLANCO SALTO, CLAUDIA VANESSA",
-           "SAAVEDRA, ARIEL FABIO"
+           "SAAVEDRA, ARIEL FABIO",
+           "BLANCO SALTO, CLAUDIA VANESSA"
           ],
           "plazas": [
            "N°101033"
@@ -7365,7 +7324,7 @@
          {
           "materia": "MAQUINAS ELECTRICAS Y ENSAYOS",
           "docentes": [
-           "MENDOZA, MARIO RAUL ANTONO"
+           "MENDOZA, MARIO RAÚL ANTONIO"
           ],
           "plazas": [
            "N°232543"
@@ -7374,7 +7333,7 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "ORGANIZACIÓN INDUSTRIAL III",
+          "materia": "ORGANIZACION INDUSTRIAL II",
           "docentes": [
            "GONZALEZ, LUCIANA BELEN"
           ],
@@ -7398,8 +7357,7 @@
          {
           "materia": "MANTENIMIENTO Y REPARACION DE EQUIPOS",
           "docentes": [
-           "SALTO, CONRADO MIGUEL",
-           "OCARANZA, ERNESTO"
+           "OCARANZA, ERNESTO NICOLAS"
           ],
           "plazas": [
            "N°232356"
@@ -7426,7 +7384,7 @@
          {
           "materia": "MAQUINAS ELECTRICAS Y ENSAYOS",
           "docentes": [
-           "MENDOZA, MARIO RAUL ANTONO"
+           "MENDOZA, MARIO RAÚL ANTONIO"
           ],
           "plazas": [
            "N°232543"
@@ -7435,7 +7393,7 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "ORGANIZACIÓN INDUSTRIAL III",
+          "materia": "ORGANIZACION INDUSTRIAL II",
           "docentes": [
            "GONZALEZ, LUCIANA BELEN"
           ],
@@ -7459,7 +7417,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "SORIA , PATRICIA SUSANA"
+           "SORIA, PATRICIA SUSANA"
           ],
           "plazas": [
            "N°197112"
@@ -7475,7 +7433,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "SORIA , PATRICIA SUSANA"
+           "SORIA, PATRICIA SUSANA"
           ],
           "plazas": [
            "N°197112"
@@ -7486,8 +7444,8 @@
          {
           "materia": "MANTENIMIENTO Y REPARACION DE EQUIPOS",
           "docentes": [
-           "SALTO, CONRADO MIGUEL",
-           "OCARANZA, ERNESTO NICOLAS"
+           "OCARANZA, ERNESTO NICOLAS",
+           "SALTO, CONRADO MIGUEL"
           ],
           "plazas": [
            "N°198451"
@@ -7498,7 +7456,7 @@
          {
           "materia": "MAQUINAS ELECTRICAS Y ENSAYOS",
           "docentes": [
-           "MENDOZA, MARIO RAUL ANTONIO"
+           "MENDOZA, MARIO RAÚL ANTONIO"
           ],
           "plazas": [
            "N°232543"
@@ -7509,7 +7467,7 @@
          {
           "materia": "RELACIONES HUMANAS",
           "docentes": [
-           "SIN DOCENTE"
+           "CONTRERA, ANA GABRIELA"
           ],
           "plazas": [
            "N°193790"
@@ -7518,7 +7476,7 @@
         ],
         "VIERNES": [
          {
-          "materia": "EQUIPOS Y APARATOS PARA MANIOBRAS Y TRANSPORTE",
+          "materia": "EQUIPOS Y APARATOS PARA MANIOBRA Y TRANSPORTE",
           "docentes": [
            "CONTRERAS, JORGE ANTONIO"
           ],
@@ -7536,7 +7494,7 @@
          {
           "materia": "LENGUA Y LITERATURA",
           "docentes": [
-           "SORIA , PATRICIA SUSANA"
+           "SORIA, PATRICIA SUSANA"
           ],
           "plazas": [
            "N°197112"
@@ -7547,8 +7505,8 @@
          {
           "materia": "MANTENIMIENTO Y REPARACION DE EQUIPOS",
           "docentes": [
-           "SALTO, CONRADO MIGUEL",
-           "OCARANZA, ERNESTO NICOLAS"
+           "OCARANZA, ERNESTO NICOLAS",
+           "SALTO, CONRADO MIGUEL"
           ],
           "plazas": [
            "N°198451"
@@ -7559,7 +7517,7 @@
          {
           "materia": "MAQUINAS ELECTRICAS Y ENSAYOS",
           "docentes": [
-           "MENDOZA, MARIO RAUL ANTONIO"
+           "MENDOZA, MARIO RAÚL ANTONIO"
           ],
           "plazas": [
            "N°232542"
@@ -7570,7 +7528,7 @@
          {
           "materia": "RELACIONES HUMANAS",
           "docentes": [
-           "SIN DOCENTE"
+           "CONTRERA, ANA GABRIELA"
           ],
           "plazas": [
            "N°193790"
@@ -7579,7 +7537,7 @@
         ],
         "VIERNES": [
          {
-          "materia": "EQUIPOS Y APARATOS PARA MANIOBRAS Y TRANSPORTE",
+          "materia": "EQUIPOS Y APARATOS PARA MANIOBRA Y TRANSPORTE",
           "docentes": [
            "CONTRERAS, JORGE ANTONIO"
           ],
@@ -7604,11 +7562,11 @@
      ],
      "filas": [
       {
-       "hora": "7:50 a 9:50",
+       "hora": "7:50 A 9:50",
        "celdas": {
         "LUNES": [
          {
-          "materia": "OPERACIONES, MATENIMIENTO Y ENSAYO DE EQUIPOS ELECTROMECANICOS",
+          "materia": "OPERACIONES, MANTENIMIENTO Y ENSAYO DE EQUIPOS ELECTROMECANICOS",
           "docentes": [
            "ACOSTA, EXEQUIEL ROLANDO"
           ],
@@ -7617,7 +7575,7 @@
           ]
          },
          {
-          "materia": "OPERACIONES, MATENIMIENTO Y ENSAYO DE DE ACTUADORES NEUMATICOS",
+          "materia": "OPERACIÓN. MANT. Y ENSAYO DE ACTUADORES NEUMATICOS",
           "docentes": [
            "OCARANZA, ERNESTO NICOLAS"
           ],
@@ -7628,7 +7586,7 @@
         ],
         "MARTES": [
          {
-          "materia": "OPERACIONES, MATENIMIENTO Y ENSAYO DE EQUIPOS ELECTROMECANICOS",
+          "materia": "OPERACIONES, MANTENIMIENTO Y ENSAYO DE EQUIPOS ELECTROMECANICOS",
           "docentes": [
            "ACOSTA, EXEQUIEL ROLANDO"
           ],
@@ -7637,7 +7595,7 @@
           ]
          },
          {
-          "materia": "OPERACIONES, MATENIMIENTO Y ENSAYO DE DE ACTUADORES NEUMATICOS",
+          "materia": "OPERACIÓN. MANT. Y ENSAYO DE ACTUADORES NEUMATICOS",
           "docentes": [
            "OCARANZA, ERNESTO NICOLAS"
           ],
@@ -7648,9 +7606,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "MAQUINAS Y HERRAMIENTAS III",
+          "materia": "MAQUINAS HERRAMIENTAS III",
           "docentes": [
-           "ACOSTA, EXEQUIEL ROLANDO"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°234753"
@@ -7659,7 +7617,7 @@
          {
           "materia": "SISTEMA CONTROL MAQUINAS CORRIENTE CONTINUA Y CORRIENTE ALTERNA",
           "docentes": [
-           "A CUBRIR"
+           "SANCHEZ RAMIREZ, FERNANDO SEBASTIAN"
           ],
           "plazas": [
            "N°234754"
@@ -7669,9 +7627,9 @@
         "JUEVES": [],
         "VIERNES": [
          {
-          "materia": "MAQUINAS Y HERRAMIENTAS III",
+          "materia": "MAQUINAS HERRAMIENTAS III",
           "docentes": [
-           "ACOSTA, EXEQUIEL ROLANDO"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°234753"
@@ -7680,7 +7638,7 @@
          {
           "materia": "SISTEMA CONTROL MAQUINAS CORRIENTE CONTINUA Y CORRIENTE ALTERNA",
           "docentes": [
-           "A CUBRIR"
+           "SANCHEZ RAMIREZ, FERNANDO SEBASTIAN"
           ],
           "plazas": [
            "N°234754"
@@ -7694,7 +7652,7 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "OPERACIONES, MATENIMIENTO Y ENSAYO DE EQUIPOS ELECTROMECANICOS",
+          "materia": "OPERACIONES, MANTENIMIENTO Y ENSAYO DE EQUIPOS ELECTROMECANICOS",
           "docentes": [
            "ACOSTA, EXEQUIEL ROLANDO"
           ],
@@ -7703,7 +7661,7 @@
           ]
          },
          {
-          "materia": "OPERACIONES, MATENIMIENTO Y ENSAYO DE DE ACTUADORES NEUMATICOS",
+          "materia": "OPERACIÓN. MANT. Y ENSAYO DE ACTUADORES NEUMATICOS",
           "docentes": [
            "OCARANZA, ERNESTO NICOLAS"
           ],
@@ -7714,7 +7672,7 @@
         ],
         "MARTES": [
          {
-          "materia": "OPERACIONES, MATENIMIENTO Y ENSAYO DE EQUIPOS ELECTROMECANICOS",
+          "materia": "OPERACIONES, MANTENIMIENTO Y ENSAYO DE EQUIPOS ELECTROMECANICOS",
           "docentes": [
            "ACOSTA, EXEQUIEL ROLANDO"
           ],
@@ -7723,7 +7681,7 @@
           ]
          },
          {
-          "materia": "OPERACIONES, MATENIMIENTO Y ENSAYO DE DE ACTUADORES NEUMATICOS",
+          "materia": "OPERACIÓN. MANT. Y ENSAYO DE ACTUADORES NEUMATICOS",
           "docentes": [
            "OCARANZA, ERNESTO NICOLAS"
           ],
@@ -7734,9 +7692,9 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "MAQUINAS Y HERRAMIENTAS III",
+          "materia": "MAQUINAS HERRAMIENTAS III",
           "docentes": [
-           "ACOSTA, EXEQUIEL ROLANDO"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°234753"
@@ -7745,7 +7703,7 @@
          {
           "materia": "SISTEMA CONTROL MAQUINAS CORRIENTE CONTINUA Y CORRIENTE ALTERNA",
           "docentes": [
-           "A CUBRIR"
+           "SANCHEZ RAMIREZ, FERNANDO SEBASTIAN"
           ],
           "plazas": [
            "N°234754"
@@ -7755,9 +7713,9 @@
         "JUEVES": [],
         "VIERNES": [
          {
-          "materia": "MAQUINAS Y HERRAMIENTAS III",
+          "materia": "MAQUINAS HERRAMIENTAS III",
           "docentes": [
-           "ACOSTA, EXEQUIEL ROLANDO"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°234753"
@@ -7766,7 +7724,7 @@
          {
           "materia": "SISTEMA CONTROL MAQUINAS CORRIENTE CONTINUA Y CORRIENTE ALTERNA",
           "docentes": [
-           "A CUBRIR"
+           "SANCHEZ RAMIREZ, FERNANDO SEBASTIAN"
           ],
           "plazas": [
            "N°234754"
@@ -7798,7 +7756,6 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "FERNANDEZ, SERGIO",
            "ZAYAS, PATRICIA ELIZABETH"
           ],
           "plazas": [
@@ -7819,7 +7776,6 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "FERNANDEZ, SERGIO",
            "ZAYAS, PATRICIA ELIZABETH"
           ],
           "plazas": [
@@ -7840,7 +7796,6 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "FERNANDEZ, SERGIO",
            "ZAYAS, PATRICIA ELIZABETH"
           ],
           "plazas": [
@@ -7872,7 +7827,7 @@
         "MIERCOLES": [],
         "JUEVES": [
          {
-          "materia": "EQUIPOS Y APARATOS PARA MANIOBRAS Y TRANSPORTE",
+          "materia": "EQUIPOS Y APARATOS PARA MANIOBRA Y TRANSPORTE",
           "docentes": [
            "CONTRERAS, JORGE ANTONIO"
           ],
@@ -7892,7 +7847,7 @@
         "MIERCOLES": [],
         "JUEVES": [
          {
-          "materia": "EQUIPOS Y APARATOS PARA MANIOBRAS Y TRANSPORTE",
+          "materia": "EQUIPOS Y APARATOS PARA MANIOBRA Y TRANSPORTE",
           "docentes": [
            "CONTRERAS, JORGE ANTONIO"
           ],
@@ -7912,7 +7867,7 @@
         "MIERCOLES": [],
         "JUEVES": [
          {
-          "materia": "EQUIPOS Y APARATOS PARA MANIOBRAS Y TRANSPORTE",
+          "materia": "EQUIPOS Y APARATOS PARA MANIOBRA Y TRANSPORTE",
           "docentes": [
            "CONTRERAS, JORGE ANTONIO"
           ],
@@ -7933,7 +7888,7 @@
    "curso": "6º AÑO C.SUP. GAO",
    "division": "1RA",
    "ciclo": "",
-   "resolucion": "50/5 (MEd)",
+   "resolucion": "50/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -7994,7 +7949,7 @@
          {
           "materia": "CALCULO FINANCIERO",
           "docentes": [
-           "PEREIRA, GLORIA RAMONA"
+           "PEREIRA, GLORIA RAMONA DE LOS ANGELES"
           ],
           "plazas": [
            "N°25552"
@@ -8005,8 +7960,8 @@
          {
           "materia": "ESTADOS CONTABLES",
           "docentes": [
-           "MOLINA, ADRIANA MERCEDES",
-           "SIN DOCENTE"
+           "VACANTE",
+           "MOLINA, ADRIANA MERCEDES"
           ],
           "plazas": [
            "N°25550"
@@ -8055,7 +8010,7 @@
          {
           "materia": "CALCULO FINANCIERO",
           "docentes": [
-           "PEREIRA, GLORIA RAMONA"
+           "PEREIRA, GLORIA RAMONA DE LOS ANGELES"
           ],
           "plazas": [
            "N°25552"
@@ -8066,8 +8021,8 @@
          {
           "materia": "ESTADOS CONTABLES",
           "docentes": [
-           "MOLINA, ADRIANA MERCEDES",
-           "SIN DOCENTE"
+           "VACANTE",
+           "MOLINA, ADRIANA MERCEDES"
           ],
           "plazas": [
            "N°25550"
@@ -8116,8 +8071,8 @@
          {
           "materia": "ESTADOS CONTABLES",
           "docentes": [
-           "MOLINA, ADRIANA MERCEDES",
-           "SIN DOCENTE"
+           "VACANTE",
+           "MOLINA, ADRIANA MERCEDES"
           ],
           "plazas": [
            "N°230384"
@@ -8128,7 +8083,7 @@
          {
           "materia": "IMPOSITIVA I",
           "docentes": [
-           "PEREIRA, GLORIA RAMONA"
+           "PEREIRA, GLORIA RAMONA DE LOS ANGELES"
           ],
           "plazas": [
            "N°232213"
@@ -8177,8 +8132,8 @@
          {
           "materia": "ESTADOS CONTABLES",
           "docentes": [
-           "MOLINA, ADRIANA MERCEDES",
-           "SIN DOCENTE"
+           "VACANTE",
+           "MOLINA, ADRIANA MERCEDES"
           ],
           "plazas": [
            "N°25550"
@@ -8189,7 +8144,7 @@
          {
           "materia": "IMPOSITIVA I",
           "docentes": [
-           "PEREIRA, GLORIA RAMONA"
+           "PEREIRA, GLORIA RAMONA DE LOS ANGELES"
           ],
           "plazas": [
            "N°232213"
@@ -8236,9 +8191,9 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "ECONOMIA III",
+          "materia": "ECONOMIA II",
           "docentes": [
-           "PALAVECINO, MIGUEL ANGEL"
+           "HERRERA, ANDREA VIVIANA"
           ],
           "plazas": [
            "N°198794"
@@ -8249,7 +8204,7 @@
          {
           "materia": "CALCULO FINANCIERO",
           "docentes": [
-           "PEREIRA, GLORIA RAMONA"
+           "PEREIRA, GLORIA RAMONA DE LOS ANGELES"
           ],
           "plazas": [
            "N°25552"
@@ -8260,7 +8215,7 @@
          {
           "materia": "IMPOSITIVA I",
           "docentes": [
-           "PEREIRA, GLORIA RAMONA"
+           "PEREIRA, GLORIA RAMONA DE LOS ANGELES"
           ],
           "plazas": [
            "N°232213"
@@ -8297,7 +8252,7 @@
        "celdas": {
         "LUNES": [
          {
-          "materia": "ECONOMIA III",
+          "materia": "ECONOMIA II",
           "docentes": [
            "HERRERA, ANDREA VIVIANA"
           ],
@@ -8310,7 +8265,7 @@
          {
           "materia": "CALCULO FINANCIERO",
           "docentes": [
-           "PEREIRA, GLORIA RAMONA"
+           "PEREIRA, GLORIA RAMONA DE LOS ANGELES"
           ],
           "plazas": [
            "N°230388"
@@ -8321,7 +8276,7 @@
          {
           "materia": "IMPOSITIVA I",
           "docentes": [
-           "PEREIRA, GLORIA RAMONA"
+           "PEREIRA, GLORIA RAMONA DE LOS ANGELES"
           ],
           "plazas": [
            "N°232213"
@@ -8367,7 +8322,7 @@
      ],
      "filas": [
       {
-       "hora": "7:50 a 9:50",
+       "hora": "7:50 A 9:50",
        "celdas": {
         "LUNES": [
          {
@@ -8380,13 +8335,13 @@
           ]
          },
          {
-          "materia": "MICROEMPRENDIMIENTOS",
+          "materia": "MICROEMPRENDIMIENTO",
           "docentes": [
            "JACOBO, CECILIA MABEL",
            "NAVARRO, NORMA DEL CARMEN"
           ],
           "plazas": [
-           "N° 234756"
+           "N°234756"
           ]
          }
         ],
@@ -8401,13 +8356,13 @@
           ]
          },
          {
-          "materia": "MICROEMPRENDIMIENTOS",
+          "materia": "MICROEMPRENDIMIENTO",
           "docentes": [
            "JACOBO, CECILIA MABEL",
            "NAVARRO, NORMA DEL CARMEN"
           ],
           "plazas": [
-           "N° 234756"
+           "N°234756"
           ]
          }
         ],
@@ -8430,7 +8385,7 @@
            "ABREGU, LUIS ANTONIO"
           ],
           "plazas": [
-           "N° 234756"
+           "N°234758"
           ]
          }
         ]
@@ -8450,13 +8405,13 @@
           ]
          },
          {
-          "materia": "MICROEMPRENDIMIENTOS",
+          "materia": "MICROEMPRENDIMIENTO",
           "docentes": [
            "JACOBO, CECILIA MABEL",
            "NAVARRO, NORMA DEL CARMEN"
           ],
           "plazas": [
-           "N° 234756"
+           "N°234756"
           ]
          }
         ],
@@ -8471,13 +8426,13 @@
           ]
          },
          {
-          "materia": "MICROEMPRENDIMIENTOS",
+          "materia": "MICROEMPRENDIMIENTO",
           "docentes": [
            "JACOBO, CECILIA MABEL",
            "NAVARRO, NORMA DEL CARMEN"
           ],
           "plazas": [
-           "N° 234756"
+           "N°234756"
           ]
          }
         ],
@@ -8500,7 +8455,7 @@
            "ABREGU, LUIS ANTONIO"
           ],
           "plazas": [
-           "N° 234756"
+           "N°234758"
           ]
          }
         ]
@@ -8588,7 +8543,7 @@
    "curso": "7º AÑO C. SUP. EIE",
    "division": "1RA",
    "ciclo": "",
-   "resolucion": "1277/5 (MEd)",
+   "resolucion": "1277/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -8609,7 +8564,6 @@
          {
           "materia": "COMUNICACIÓN",
           "docentes": [
-           "GOMEZ CONTRERAS, MARIA ANGELICA",
            "OCARANZA, LAURA GUADALUPE"
           ],
           "plazas": [
@@ -8621,8 +8575,8 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "BLANCO SALTO, CLAUDIA VANESSA",
-           "CONTRERA, CECILIA VERONICA"
+           "CONTRERA, CECILIA VERONICA",
+           "BLANCO SALTO, CLAUDIA VANESSA"
           ],
           "plazas": [
            "N°234746"
@@ -8631,9 +8585,8 @@
         ],
         "JUEVES": [
          {
-          "materia": "TECNOLOGIA DE LA FABRICACIÓN",
+          "materia": "TECNOLOGIA DE FABRICACION",
           "docentes": [
-           "SALTO, CONRADO MIGUEL",
            "HERNANDEZ, GUILLERMO RAUL"
           ],
           "plazas": [
@@ -8650,7 +8603,6 @@
          {
           "materia": "MANTENIMIENTO INDUSTRIAL",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL",
            "SALTO, CONRADO MIGUEL"
           ],
           "plazas": [
@@ -8662,7 +8614,7 @@
          {
           "materia": "ENERGIAS ALTERNATIVAS",
           "docentes": [
-           "A CUBRIR"
+           "CAMPERO, SILVIA CAROLINA"
           ],
           "plazas": [
            "N°286676"
@@ -8673,8 +8625,8 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "BLANCO SALTO, CLAUDIA VANESSA",
-           "CONTRERA, CECILIA VERONICA"
+           "CONTRERA, CECILIA VERONICA",
+           "BLANCO SALTO, CLAUDIA VANESSA"
           ],
           "plazas": [
            "N°234746"
@@ -8685,7 +8637,6 @@
          {
           "materia": "MANTENIMIENTO INDUSTRIAL",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL",
            "SALTO, CONRADO MIGUEL"
           ],
           "plazas": [
@@ -8695,10 +8646,9 @@
         ],
         "VIERNES": [
          {
-          "materia": "CNC, CAD Y CAM APLICADOS",
+          "materia": "CNC Y CAD CAM APLICADOS",
           "docentes": [
-           "SALTO, CONRADO M",
-           "A CUBRIR"
+           "SALTO, CONRADO MIGUEL"
           ],
           "plazas": [
            "N°32926"
@@ -8714,7 +8664,6 @@
          {
           "materia": "MANTENIMIENTO INDUSTRIAL",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL",
            "SALTO, CONRADO MIGUEL"
           ],
           "plazas": [
@@ -8726,7 +8675,7 @@
          {
           "materia": "ENERGIAS ALTERNATIVAS",
           "docentes": [
-           "A CUBRIR"
+           "CAMPERO, SILVIA CAROLINA"
           ],
           "plazas": [
            "N°286676"
@@ -8737,8 +8686,8 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "BLANCO SALTO, CLAUDIA VANESSA",
-           "CONTRERA, CECILIA VERONICA"
+           "CONTRERA, CECILIA VERONICA",
+           "BLANCO SALTO, CLAUDIA VANESSA"
           ],
           "plazas": [
            "N°234746"
@@ -8749,7 +8698,6 @@
          {
           "materia": "MANTENIMIENTO INDUSTRIAL",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL",
            "SALTO, CONRADO MIGUEL"
           ],
           "plazas": [
@@ -8759,10 +8707,9 @@
         ],
         "VIERNES": [
          {
-          "materia": "CNC, CAD Y CAM APLICADOS",
+          "materia": "CNC Y CAD CAM APLICADOS",
           "docentes": [
-           "SALTO, CONRADO MIGUEL",
-           "A CUBRIR"
+           "SALTO, CONRADO MIGUEL"
           ],
           "plazas": [
            "N°32926"
@@ -8778,7 +8725,7 @@
          {
           "materia": "ENERGIAS ALTERNATIVAS",
           "docentes": [
-           "A CUBRIR"
+           "CAMPERO, SILVIA CAROLINA"
           ],
           "plazas": [
            "N°232452"
@@ -8798,10 +8745,10 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "CND, CAD Y CAM APLICADOS",
+          "materia": "CNC Y CAD CAM APLICADOS",
           "docentes": [
-           "SALTO, CONRADO MIGUEL",
-           "ABREGU JUAN CARLOS"
+           "ABREGU, JUAN CARLOS",
+           "SALTO, CONRADO MIGUEL"
           ],
           "plazas": [
            "N°32926"
@@ -8812,8 +8759,7 @@
          {
           "materia": "TECNOLOGIA DE FABRICACION",
           "docentes": [
-           "SALTO, CONRADO MIGUEL",
-           "A CUBRIR"
+           "HERNANDEZ, GUILLERMO RAUL"
           ],
           "plazas": [
            "N°197981"
@@ -8824,8 +8770,7 @@
          {
           "materia": "PROYECTO TECNOLOGICO",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL",
-           "DIAZ MARIA RAFAELA"
+           "DIAZ, MARIA RAFAELA"
           ],
           "plazas": [
            "N°102623"
@@ -8841,7 +8786,7 @@
          {
           "materia": "ENERGIAS ALTERNATIVAS",
           "docentes": [
-           "A CUBRIR"
+           "CAMPERO, SILVIA CAROLINA"
           ],
           "plazas": [
            "N°221329"
@@ -8861,10 +8806,10 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "CNC, CAD Y CAM APLICADOS",
+          "materia": "CNC Y CAD CAM APLICADOS",
           "docentes": [
-           "SALTO, CONRADO MIGUEL",
-           "ABREGU, JUAN CARLOS"
+           "ABREGU, JUAN CARLOS",
+           "SALTO, CONRADO MIGUEL"
           ],
           "plazas": [
            "N°32926"
@@ -8875,8 +8820,7 @@
          {
           "materia": "TECNOLOGIA DE FABRICACION",
           "docentes": [
-           "SALTO, CONRADO MIGUEL",
-           "A CUBRIR"
+           "HERNANDEZ, GUILLERMO RAUL"
           ],
           "plazas": [
            "N°197981"
@@ -8887,8 +8831,7 @@
          {
           "materia": "PROYECTO TECNOLOGICO",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL",
-           "A CUBRIR"
+           "DIAZ, MARIA RAFAELA"
           ],
           "plazas": [
            "N°102623"
@@ -8926,8 +8869,7 @@
          {
           "materia": "PROYECTO TECNOLOGICO",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL",
-           "A CUBRIR"
+           "DIAZ, MARIA RAFAELA"
           ],
           "plazas": [
            "N°102623"
@@ -8938,7 +8880,6 @@
          {
           "materia": "COMUNICACION",
           "docentes": [
-           "GOMEZ CONTRERAS, MARIA ANGELICA",
            "OCARANZA, LAURA GUADALUPE"
           ],
           "plazas": [
@@ -8988,8 +8929,7 @@
          {
           "materia": "PROYECTO TECNOLOGICO",
           "docentes": [
-           "SEVERO, HECTOR MIGUEL",
-           "A CUBRIR"
+           "DIAZ, MARIA RAFAELA"
           ],
           "plazas": [
            "N°102623"
@@ -9000,7 +8940,6 @@
          {
           "materia": "COMUNICACIÓN",
           "docentes": [
-           "GOMEZ CONTRERAS, MARIA ANGELICA",
            "OCARANZA, LAURA GUADALUPE"
           ],
           "plazas": [
@@ -9035,7 +8974,7 @@
      ],
      "filas": [
       {
-       "hora": "7:50 a 9:50",
+       "hora": "7:50 A 9:50",
        "celdas": {
         "LUNES": [
          {
@@ -9079,18 +9018,18 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "MAQUINA Y HERRAMIENTAS IV",
+          "materia": "MAQUINAS HERRAMIENTAS IV",
           "docentes": [
-           "GRAMAJO, CESAR AUGUSTO"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°234755"
           ]
          },
          {
-          "materia": "PLC Y MICROCONTROLADORES",
+          "materia": "SISTEMAS DE CONTROL CON PLC Y MICROCONTROLADORES",
           "docentes": [
-           "A CUBRIR"
+           "SANCHEZ RAMIREZ, FERNANDO SEBASTIAN"
           ],
           "plazas": [
            "N°234754"
@@ -9100,18 +9039,18 @@
         "JUEVES": [],
         "VIERNES": [
          {
-          "materia": "MAQUINA Y HERRAMIENTAS IV",
+          "materia": "MAQUINAS HERRAMIENTAS IV",
           "docentes": [
-           "GRAMAJO, CESAR AUGUSTO"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°234755"
           ]
          },
          {
-          "materia": "PLC Y MICROCONTROLADORES",
+          "materia": "SISTEMAS DE CONTROL CON PLC Y MICROCONTROLADORES",
           "docentes": [
-           "A CUBRIR"
+           "SANCHEZ RAMIREZ, FERNANDO SEBASTIAN"
           ],
           "plazas": [
            "N°234754"
@@ -9165,18 +9104,18 @@
         ],
         "MIERCOLES": [
          {
-          "materia": "MAQUINA Y HERRAMIENTAS IV",
+          "materia": "MAQUINAS HERRAMIENTAS IV",
           "docentes": [
-           "GRAMAJO, CESAR AUGUSTO"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°234755"
           ]
          },
          {
-          "materia": "PLC Y MICROCONTROLADORES",
+          "materia": "SISTEMAS DE CONTROL CON PLC Y MICROCONTROLADORES",
           "docentes": [
-           "A CUBRIR"
+           "SANCHEZ RAMIREZ, FERNANDO SEBASTIAN"
           ],
           "plazas": [
            "N°234754"
@@ -9186,18 +9125,18 @@
         "JUEVES": [],
         "VIERNES": [
          {
-          "materia": "MAQUINA Y HERRAMIENTAS IV",
+          "materia": "MAQUINAS HERRAMIENTAS IV",
           "docentes": [
-           "GRAMAJO, CESAR AUGUSTO"
+           "VACANTE (TITULAR CON LICENCIA)"
           ],
           "plazas": [
            "N°234755"
           ]
          },
          {
-          "materia": "PLC Y MICROCONTROLADORES",
+          "materia": "SISTEMAS DE CONTROL CON PLC Y MICROCONTROLADORES",
           "docentes": [
-           "A CUBRIR"
+           "SANCHEZ RAMIREZ, FERNANDO SEBASTIAN"
           ],
           "plazas": [
            "N°234754"
@@ -9229,7 +9168,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "PEREZ, MARIA PIA"
+           "PEREZ, MARÍA PÍA"
           ],
           "plazas": [
            "N°198120"
@@ -9249,7 +9188,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "PEREZ, MARIA PIA"
+           "PEREZ, MARÍA PÍA"
           ],
           "plazas": [
            "N°198120"
@@ -9269,7 +9208,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "PEREZ, MARIA PIA"
+           "PEREZ, MARÍA PÍA"
           ],
           "plazas": [
            "N°198120"
@@ -9300,7 +9239,7 @@
    "curso": "7º AÑO C. SUP. GAO",
    "division": "1RA",
    "ciclo": "",
-   "resolucion": "50/5 (MEd)",
+   "resolucion": "50/5 (MED)",
    "observaciones": "",
    "tablas": [
     {
@@ -9321,8 +9260,7 @@
          {
           "materia": "IMPOSITIVA II",
           "docentes": [
-           "MOLINA RAQUEL DEL VALLE",
-           "PEREIRA, GLORIA RAMONA"
+           "PEREIRA, GLORIA RAMONA DE LOS ANGELES"
           ],
           "plazas": [
            "N°229959"
@@ -9333,8 +9271,8 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "BLANCO SALTO, CLAUDIA VANESA",
-           "CONTRERA, CECILIA VERONICA"
+           "CONTRERA, CECILIA VERONICA",
+           "BLANCO SALTO, CLAUDIA VANESSA"
           ],
           "plazas": [
            "N°234747"
@@ -9345,8 +9283,7 @@
          {
           "materia": "COMUNICACIÓN",
           "docentes": [
-           "GOMEZ CONTRERAS, MARIA ANGELICA",
-           "OCARANZA LAURA GUADALUPE"
+           "OCARANZA, LAURA GUADALUPE"
           ],
           "plazas": [
            "N°128053"
@@ -9466,7 +9403,7 @@
          {
           "materia": "INFORMATICA II",
           "docentes": [
-           "ELIAS, E"
+           "ELIAS, ESTEBAN DANIEL"
           ],
           "plazas": [
            "N°286672"
@@ -9482,8 +9419,7 @@
          {
           "materia": "IMPOSITIVA II",
           "docentes": [
-           "MOLINA, RAQUEL DEL VALLE",
-           "PEREIRA, GLORIA RAMONA"
+           "PEREIRA, GLORIA RAMONA DE LOS ANGELES"
           ],
           "plazas": [
            "N°230385"
@@ -9494,8 +9430,8 @@
          {
           "materia": "ESTADISTICA",
           "docentes": [
-           "MOLINA, ADRIANA MERCEDES",
-           "PAEZ, ZULMA"
+           "PAEZ, ZULMA GABRIELA",
+           "MOLINA, ADRIANA MERCEDES"
           ],
           "plazas": [
            "N°124643"
@@ -9506,7 +9442,6 @@
          {
           "materia": "COMUNICACION",
           "docentes": [
-           "GOMEZ CONTRERAS, MARIA ANGELICA",
            "OCARANZA, LAURA GUADALUPE"
           ],
           "plazas": [
@@ -9518,8 +9453,8 @@
          {
           "materia": "ESTADISTICA",
           "docentes": [
-           "MOLINA, ADRIANA MERCEDES",
-           "PAEZ, ZULMA"
+           "PAEZ, ZULMA GABRIELA",
+           "MOLINA, ADRIANA MERCEDES"
           ],
           "plazas": [
            "N°129569"
@@ -9546,8 +9481,7 @@
          {
           "materia": "IMPOSITIVA II",
           "docentes": [
-           "MOLINA, RAQUEL DEL VALLE",
-           "PEREIRA, GLORIA RAMONA"
+           "PEREIRA, GLORIA RAMONA DE LOS ANGELES"
           ],
           "plazas": [
            "N°230389"
@@ -9558,8 +9492,8 @@
          {
           "materia": "ESTADISTICA",
           "docentes": [
-           "MOLINA, ADRIANA MERCEDES",
-           "PAEZ, ZULMA"
+           "PAEZ, ZULMA GABRIELA",
+           "MOLINA, ADRIANA MERCEDES"
           ],
           "plazas": [
            "N°124643"
@@ -9570,7 +9504,6 @@
          {
           "materia": "COMUNICACIÓN",
           "docentes": [
-           "GOMEZ CONTRERAS, MARIA ANGELICA",
            "OCARANZA, LAURA GUADALUPE"
           ],
           "plazas": [
@@ -9582,8 +9515,8 @@
          {
           "materia": "ESTADISTICA",
           "docentes": [
-           "MOLINA, ADRIANA MERCEDES",
-           "PAEZ, ZULMA"
+           "PAEZ, ZULMA GABRIELA",
+           "MOLINA, ADRIANA MERCEDES"
           ],
           "plazas": [
            "N°129569"
@@ -9594,7 +9527,7 @@
          {
           "materia": "ADMINISTRACION DE RRHH",
           "docentes": [
-           "MOLINA, ADRIANA MERDECES",
+           "MOLINA, ADRIANA MERCEDES",
            "GODOY, CARLOS JAVIER"
           ],
           "plazas": [
@@ -9633,8 +9566,8 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "BLANCO SALTO, CLAUDIA VANESSA",
-           "CONTRERA, CECILIA VERONICA"
+           "CONTRERA, CECILIA VERONICA",
+           "BLANCO SALTO, CLAUDIA VANESSA"
           ],
           "plazas": [
            "N°234747"
@@ -9656,7 +9589,7 @@
          {
           "materia": "ADMINISTRACION DE RRHH",
           "docentes": [
-           "MOLINA, ADRIANA MERDECES",
+           "MOLINA, ADRIANA MERCEDES",
            "GODOY, CARLOS JAVIER"
           ],
           "plazas": [
@@ -9695,8 +9628,8 @@
          {
           "materia": "LENGUA EXTRANJERA",
           "docentes": [
-           "BLANCO SALTO, CLAUDIA VANESSA",
-           "CONTRERA, CECILIA VERONICA"
+           "CONTRERA, CECILIA VERONICA",
+           "BLANCO SALTO, CLAUDIA VANESSA"
           ],
           "plazas": [
            "N°234747"
@@ -9718,7 +9651,7 @@
          {
           "materia": "ADMINISTRACION DE RRHH",
           "docentes": [
-           "MOLINA, ADRIANA MERDECES",
+           "MOLINA, ADRIANA MERCEDES",
            "GODOY, CARLOS JAVIER"
           ],
           "plazas": [
@@ -9742,12 +9675,13 @@
      ],
      "filas": [
       {
-       "hora": "7:50 a 9:50",
+       "hora": "7:50 A 9:50",
        "celdas": {
         "LUNES": [
          {
           "materia": "PRACTICA IMPOSITIVA Y DE AUDITORIA",
           "docentes": [
+           "LUNA, ANDREA GISELLE",
            "KOLLRICH, FRANCISCO MARTIN"
           ],
           "plazas": [
@@ -9759,6 +9693,7 @@
          {
           "materia": "PRACTICA IMPOSITIVA Y DE AUDITORIA",
           "docentes": [
+           "LUNA, ANDREA GISELLE",
            "KOLLRICH, FRANCISCO MARTIN"
           ],
           "plazas": [
@@ -9770,15 +9705,17 @@
          {
           "materia": "GESTION FINANCIERA Y DE CONTROL",
           "docentes": [
+           "VACANTE",
            "KOLLRICH, FRANCISCO MARTIN"
           ],
           "plazas": [
-           "N°15263"
+           "N°309467"
           ]
          },
          {
           "materia": "GESTION DE RRHH",
           "docentes": [
+           "LUNA, ANDREA GISELLE",
            "KOLLRICH, FRANCISCO MARTIN"
           ],
           "plazas": [
@@ -9791,15 +9728,17 @@
          {
           "materia": "GESTION FINANCIERA Y DE CONTROL",
           "docentes": [
+           "VACANTE",
            "KOLLRICH, FRANCISCO MARTIN"
           ],
           "plazas": [
-           "N°15263"
+           "N°309467"
           ]
          },
          {
           "materia": "GESTION DE RRHH",
           "docentes": [
+           "LUNA, ANDREA GISELLE",
            "KOLLRICH, FRANCISCO MARTIN"
           ],
           "plazas": [
@@ -9816,6 +9755,7 @@
          {
           "materia": "PRACTICA IMPOSITIVA Y DE AUDITORIA",
           "docentes": [
+           "LUNA, ANDREA GISELLE",
            "KOLLRICH, FRANCISCO MARTIN"
           ],
           "plazas": [
@@ -9827,6 +9767,7 @@
          {
           "materia": "PRACTICA IMPOSITIVA Y DE AUDITORIA",
           "docentes": [
+           "LUNA, ANDREA GISELLE",
            "KOLLRICH, FRANCISCO MARTIN"
           ],
           "plazas": [
@@ -9838,15 +9779,17 @@
          {
           "materia": "GESTION FINANCIERA Y DE CONTROL",
           "docentes": [
+           "VACANTE",
            "KOLLRICH, FRANCISCO MARTIN"
           ],
           "plazas": [
-           "N°15263"
+           "N°309467"
           ]
          },
          {
           "materia": "GESTION DE RRHH",
           "docentes": [
+           "LUNA, ANDREA GISELLE",
            "KOLLRICH, FRANCISCO MARTIN"
           ],
           "plazas": [
@@ -9859,15 +9802,17 @@
          {
           "materia": "GESTION FINANCIERA Y DE CONTROL",
           "docentes": [
+           "VACANTE",
            "KOLLRICH, FRANCISCO MARTIN"
           ],
           "plazas": [
-           "N°15263"
+           "N°309467"
           ]
          },
          {
           "materia": "GESTION DE RRHH",
           "docentes": [
+           "LUNA, ANDREA GISELLE",
            "KOLLRICH, FRANCISCO MARTIN"
           ],
           "plazas": [
@@ -9900,7 +9845,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "MALDONADO, MARIELA"
+           "MALDONADO, MABEL MARIELA"
           ],
           "plazas": [
            "N°234745"
@@ -9920,7 +9865,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "MALDONADO, MARIELA"
+           "MALDONADO, MABEL MARIELA"
           ],
           "plazas": [
            "N°234745"
@@ -9940,7 +9885,7 @@
          {
           "materia": "EDUCACION FISICA",
           "docentes": [
-           "MALDONADO, MARIELA"
+           "MALDONADO, MABEL MARIELA"
           ],
           "plazas": [
            "N°234745"
